@@ -27,14 +27,23 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: duchessfr
 github_username:  duchessFrance
 
-# Build settings
+# Permet d'afficher le résumé du post dans la liste (1er paragraphe)
+show_excerpts: true
+
+#Nombre de posts par page
+paginate: 5
+
+# Basé sur minima, cf https://github.com/jekyll/minima
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
+# Entrées du menu en haut à droite
 header_pages:
   - a-propos.md
   - core-team.md
+  - sponsors.md
   - contact.md
 
 # Exclude from processing.
