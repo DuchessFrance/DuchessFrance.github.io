@@ -4,7 +4,9 @@ layout: default
 
 <div class="home">
 
-<img src="assets/bandeau.jpeg"></img>
+  <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    <img src="/assets/bandeau.jpeg" alt="Bandeau d'illustration des Duchess France." />
+  </a>
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
