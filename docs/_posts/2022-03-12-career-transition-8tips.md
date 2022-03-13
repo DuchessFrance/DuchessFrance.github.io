@@ -123,7 +123,7 @@ I was lucky enough to have 3 of these people by my side during the months of job
 Don’t feel bad asking for help. Once you’re in a position to help too, you will give back. 🙂
 
 ## 7) Don’t freak out about technical tests
-![Image de chien avec regard bizarre](/assets/2022-03-12-career-transition-8tips/photo7.jpeg)
+![Image de chien avec regard bizarre](/assets/2022-03-12-career-transition-8tips/photo7.png)
 *technical tests, really ?*
 
 Sure, they’re stressful, but:
