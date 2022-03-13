@@ -140,6 +140,6 @@ Your profile may open doors, but not all of them. Don’t worry about it, you’
 ![Image des employés de Libeo jetant leur casquettes](/assets/2022-03-12-career-transition-8tips/photo8.jpeg)
 *Happy Libeons*
 
-At Libeo, our tech community is made out of various profiles in genders, origins, experiences, life and work paths… From our founders, who used to own and manage restaurants before launching a fintech to change the life of SMBs entrepreneurs, to our team, we value diversity and like hands-on people who aren’t afraid to take on new challenges. We believe in learning by doing, being impactful every day, and moving forward together in a joyful spirit. Wanna join us?
+At Libeo, our tech community is made out of various profiles in genders, origins, experiences, life and work paths… From our founders, who used to own and manage restaurants before launching a fintech to change the life of SMBs entrepreneurs, to our team, we value diversity and like hands-on people who aren’t afraid to take on new challenges. We believe in learning by doing, being impactful every day, and moving forward together in a joyful spirit. [Wanna join us](https://apply.workable.com/libeo-app/)?
 
 > Un grand MERCI a Celine R qui a proposé aux Duchess de republier sont post sur le site, le post original se trouve sur [medium](https://medium.com/tales-of-libeo/career-transition-8-tips-tricks-to-land-that-first-tech-job-in-a-start-up-fe124e16a730) 
