@@ -116,8 +116,8 @@ Ceinture noire de judo, elle aime tout ce qui est en rapport avec les arts marti
 Vous pouvez la croiser en tant que bénévole au [blendwebmix](https://www.blendwebmix.com/en/).
 Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
 
-# Florence Chabanois
-![Photo de Joanna LACANTE](/assets/core-team/fchabanois-corpo-xs.jpg){: width="150"}
+# Florence CHABANOIS
+![Photo de Florence CHABANOIS](/assets/core-team/fchabanois-corpo-xs.jpg){: width="150"}
 
 Florence Chabanois est Deputy CTO et Data Protection Officer chez Groupe La Centrale.
 Elle s’intéresse au management, à l’agilité et à la tech.
