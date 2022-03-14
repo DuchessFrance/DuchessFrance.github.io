@@ -9,7 +9,7 @@ permalink: /contact/
 * [Instagram](https://www.instagram.com/duchessfr/)
 * [Twitter](http://twitter.com/duchessfr)
 * [Facebook](https://www.facebook.com/duchessfr)
-* [LinkedIn](http://www.linkedin.com/groups?mostPopular=&gid=2750811)
+* [LinkedIn](https://www.linkedin.com/groups/2750811)
 
 ## Pour être au coeur de l’association, échanger, débattre et partager:
 
