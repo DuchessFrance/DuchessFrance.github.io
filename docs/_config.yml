@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -25,19 +25,22 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: duchessfr
-github_username:  duchessFrance
+github_username: duchessFrance
 
 # Permet d'afficher le résumé du post dans la liste (1er paragraphe)
 show_excerpts: true
 
 #Nombre de posts par page
-paginate: 5
+paginate: 2
 
 # Basé sur minima, cf https://github.com/jekyll/minima
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
 
 # Entrées du menu en haut à droite
 header_pages:
