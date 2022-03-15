@@ -45,6 +45,9 @@ header_pages:
   - core-team.md
   - sponsors.md
   - contact.md
+  
+minima:
+  date_format: "%d/%m/%Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
