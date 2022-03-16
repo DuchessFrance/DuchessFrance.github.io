@@ -28,6 +28,7 @@ Elle aide aussi à la mise en avant des femmes dans l’IT.
 Suivez-là sur [Twitter](https://twitter.com/MiraLak).
 
 # Aurélie VACHE
+![Photo d'Aurélie VACHE](/assets/core-team/aurelie_vache_400x400.jpg){: width="150"}
 
 Aurélie VACHE est DevRel chez [OVHcloud](https://www.ovhcloud.com/fr/) à Toulouse.
 Elle est GDE (Google Developer Expert) Cloud, Docker captain & CNCF Ambassador.
