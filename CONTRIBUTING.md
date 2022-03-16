@@ -62,12 +62,28 @@ author: Angélique Jard
 
 7. Une fois la Pull Request revue, une des membres de la Core Team mergera la Pull Request et le post sera publié.
 
+
 ## Modifier le site
 
 ### Pre-requis
 - Installer `git`
+- Ouvrir le dossier docs `cd docs`
+
+### Lancer le site
+#### Via Docker
+- Installer `docker`
+- Lancer le site en utilisant la commande `docker-compose up`
+
+
+#### En local
 - Installer jekyll en suivant la doc officielle https://jekyllrb.com/docs/pages/
 - Installer les gem avec la commande `bundle install` dans `docs`
+- Lancer le site en utilisant les commandes suivantes :
+```
+cd docs
+jekyll build
+jekyll serve
+```
 
 ### Pour proposer un changement
 - Faire un fork du repo (via le bouton "fork" en haut à droite)
@@ -77,13 +93,9 @@ author: Angélique Jard
 git checkout -b mabranche
 ```
 - Effectuer les modifications
-- Tester le rendu en local en lançant les commandes jekyll depuis le répertoire "docs":
-```
-cd docs
-jekyll build
-jekyll serve
-```
+- Tester le rendu en local
 - Proposer une Pull Request
+
 
 ### Références
 
