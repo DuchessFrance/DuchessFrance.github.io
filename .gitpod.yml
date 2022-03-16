@@ -6,5 +6,5 @@ ports:
     onOpen: open-browser
     
 tasks:
-  - init: bundle update && bundle install
+  - init: cd docs; bundle update && bundle install
     command: jekyll serve
