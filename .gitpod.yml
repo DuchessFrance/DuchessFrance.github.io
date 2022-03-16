@@ -1,5 +1,6 @@
 image:
   file: .gitpod.Dockerfile
 
-#tasks:
-#  - command: cd docs ; jekyll serve -l --host=0.0.0.0
+tasks:
+  - init: bundle update && bundle install
+    command: jekyll serve
