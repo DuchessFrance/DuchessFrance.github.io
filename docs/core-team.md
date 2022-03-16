@@ -29,12 +29,11 @@ Suivez-là sur [Twitter](https://twitter.com/MiraLak).
 
 # Aurélie VACHE
 
-Aurélie VACHE est Cloud Developer & DevRel chez Stack Labs à Toulouse.
-Elle est GDE (Google Developer Expert) Cloud.
-Elle travaille comme développeuse depuis plus de 15 ans.
-Ancienne dev Java / JEE, puis dev Web, Full-Stack et Lead, elle est maintenant Cloud developer et prône les bonnes pratiques du DevOps.
-Elle est organisatrice de conférences et du [meetup du Toulouse Data Science](https://www.meetup.com/fr-FR/Tlse-Data-Science/).
-Elle est également rédactrice d’articles & de sketchnotes techniques.
+Aurélie VACHE est DevRel chez [OVHcloud](https://www.ovhcloud.com/fr/) à Toulouse.
+Elle est GDE (Google Developer Expert) Cloud, Docker captain & CNCF Ambassador.
+Dans le Développement et l'Ops depuis plus de 15 ans.
+Elle est organisatrice de conférences et de meetups (Toulouse Data Science, [Le Camping des Speakers](https://camping-speakers.fr/)).
+Elle est également speakeuse, sketchnoteuse, rédactrice d’articles & relectrice de livres techniques
 Suivez-là sur [Twitter](https://twitter.com/aurelievache).
 
 # Ellène DIJOUX SIBER
