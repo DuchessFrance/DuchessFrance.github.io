@@ -1,5 +1,11 @@
 # Contribuer au blog Duchess
 
+## Trying the blog
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/DuchessFrance/DuchessFrance.github.io.git)
+
+Open in GitPod and then, on the terminal, follow the link by doing `ctrl + click` on `http://localhost:8080`
+
 ## Ecrire un post dans le blog
 
 ### Pre-requis
