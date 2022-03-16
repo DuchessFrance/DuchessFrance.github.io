@@ -1,7 +1,7 @@
 version: '3.9'
 services:
     wordpress:
-        image: wordpress:php8.1-apache
+        image: wordpress
         container_name: wordpress
         ports:
             - '8080:80'
@@ -22,6 +22,8 @@ services:
         - MYSQL_USER="exampleuser"
         - MYSQL_PASSWORD="examplepass"
         - MYSQL_RANDOM_ROOT_PASSWORD='1'
+      ports:
+            - '3306:3306'
       volumes:
         - db:/var/lib/mysql
       networks:
