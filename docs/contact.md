@@ -13,8 +13,6 @@ permalink: /contact/
 
 ## Pour être au coeur de l’association, échanger, débattre et partager:
 
-* Rejoignez notre [Slack](https://join.slack.com/t/duchess-france/shared_invite/zt-o1xcfgle-HFB76vYB9iwRfxRLfq2zIg)
-
     Pour suivre et PARTICIPER à tous nos événements en France, rejoignez [Meetup](http://www.meetup.com/Duchess-France-Meetup/about/).
 
     Les offres d’emploi qui sont régulièrement proposées à notre communauté sont regroupées dans le channel slack #emploi
