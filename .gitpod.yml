@@ -1,5 +1,5 @@
-#image:
-#  file: .gitpod.Dockerfile
+image:
+  file: .gitpod.Dockerfile
 
 #tasks:
 #  - command: cd docs ; jekyll serve -l --host=0.0.0.0
