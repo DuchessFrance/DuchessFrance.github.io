@@ -10,5 +10,5 @@ services:
       - 4000:4000
       - 35729:35729
     volumes:
-      - "$PWD:/srv/jekyll"
-      - "$PWD/vendor/bundle:/usr/local/bundle"
+      - "$PWD/docs:/srv/jekyll"
+      - "$PWD/docs/vendor/bundle:/usr/local/bundle"

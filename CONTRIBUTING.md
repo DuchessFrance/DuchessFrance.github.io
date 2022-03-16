@@ -69,20 +69,26 @@ author: Angélique Jard
 - Installer `git`
 - Ouvrir le dossier docs `cd docs`
 
-### Lancer le site
-#### Via Docker
-- Installer `docker`
+### Lancer le site en local
+
+#### Via docker-compose
+- Installer `docker` et `docker-compose`
 - Lancer le site en utilisant la commande `docker-compose up`
+- Attendre jusqu'à voir dans la console: 
 
+```bash
+Server address: http://0.0.0.0:4000/
+```
 
-#### En local
+- Consulter le site sur http://127.0.0.1:4000/
+
+#### En jekyll natif
 - Installer jekyll en suivant la doc officielle https://jekyllrb.com/docs/pages/
 - Installer les gem avec la commande `bundle install` dans `docs`
-- Lancer le site en utilisant les commandes suivantes :
+- Et lancer le site en utilisant les commandes suivantes :
 ```
 cd docs
-jekyll build
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ### Pour proposer un changement
