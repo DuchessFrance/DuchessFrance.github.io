@@ -14,7 +14,7 @@ tags:
 
 | C'est au tour de [Pauline Iogna](https://twitter.com/_p_a_u_l_i_n_e_), membre Duchess depuis plusieurs années, de se prêter au jeu de l'interview. |
 
-****[![pauline](/assets/2014/12/2014-12-16-rencontre-avec-pauline-iogna-developpeuse-java-et-enseignante-a-luniversite/pauline-300x199.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/12/pauline.jpg)****
+****[![pauline](/assets/2014/12/2014-12-16-rencontre-avec-pauline-iogna-developpeuse-java-et-enseignante-a-luniversite/pauline-300x199.jpg)](/assets/2014/12/2014-12-16-rencontre-avec-pauline-iogna-developpeuse-java-et-enseignante-a-luniversite/pauline.jpg)****
 
 Pauline, développeuse Java et enseignante à l'université,  s'est lancée cette année en tant que speakeuse à des événements techniques et conférences ([Human Talk Paris](http://humantalks.com/), [Devoxx France](http://www.devoxx.fr/), [JUG Summer Camp](http://www.jugsummercamp.org/edition/5) ou encore [Devoxx Anvers](http://cfp.devoxx.be/2014/talk/GHJ-9740/Mongodb_aggregation_pipeline)...). Elle partage avec nous son expérience, et revient sur ce qui l'a motivé à se lancer, ses appréhensions et quelques conseils pour ceux qui n'ont pas encore osé franchir le pas.
 

@@ -14,7 +14,7 @@ tags:
   - "speakeuse"
 ---
 
-| [![IMG_7273](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/IMG_7273-186x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/IMG_7273.jpg) |
+| [![IMG_7273](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/IMG_7273-186x300.jpg)](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/IMG_7273.jpg) |
 
 L'une des choses qui nous tient beaucoup à coeur est de voir **plus de femmes** intervenir lors de conférences techniques. Alors ces dernières années nous avons lancé des actions pour y remédier : [ateliers de préparation au Call For Papers](http://www.duchess-france.org/atelier-de-preparation-pour-les-call-for-papers/), répétitions, [atelier confiance en soi](http://www.meetup.com/fr/Duchess-France-Meetup/events/221393983/)...
 
@@ -30,7 +30,7 @@ Plusieurs conférences ont ouvert leur **Call For Papers**, comprendre "appel �
 
  
 
-[![Screen-Shot-2013-04-17-at-11.12.50](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/Screen-Shot-2013-04-17-at-11.12.501-300x199.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/Screen-Shot-2013-04-17-at-11.12.501.png)
+[![Screen-Shot-2013-04-17-at-11.12.50](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/Screen-Shot-2013-04-17-at-11.12.501-300x199.png)](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/Screen-Shot-2013-04-17-at-11.12.501.png)
 
  
 
@@ -48,7 +48,7 @@ Et quelques discussions sur notre forum interne se sont tenues sur le sujet, ave
 
  
 
-[![Syndrome de l'imposteur](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/Capture-d-----cran-2015-06-09----14.13.39.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/Capture-d-----cran-2015-06-09----14.13.39.png)
+[![Syndrome de l'imposteur](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/Capture-d-----cran-2015-06-09----14.13.39.png)](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/Capture-d-----cran-2015-06-09----14.13.39.png)
 
  
 
@@ -84,7 +84,7 @@ N'hésitez pas à nous y rejoindre !
 
  
 
-[![4044218-hg](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/4044218-hg-1024x576.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/4044218-hg.jpg)
+[![4044218-hg](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/4044218-hg-1024x576.jpg)](/assets/2015/06/2015-06-09-je-me-lance-je-soumets-un-talk-a-une-conference/4044218-hg.jpg)
 
  
 

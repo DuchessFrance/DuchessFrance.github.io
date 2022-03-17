@@ -15,7 +15,7 @@ coverImage: "Lorie_Pisicchio.jpg"
 
 | Nous vous proposons aujourd'hui le portrait de [Lorie Pisicchio](https://twitter.com/loriepisicchio) que j'avais rencontrée lors de [RivieraDev](http://rivieradev.fr/) 2015 où elle faisait ses premiers pas en tant que speakeuse. |
 
-[![Lorie Pisicchio](/assets/2016/01/2016-01-05-rencontre-avec-lorie-pisicchio/Lorie_Pisicchio-150x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/12/Lorie_Pisicchio.jpg)
+[![Lorie Pisicchio](/assets/2016/01/2016-01-05-rencontre-avec-lorie-pisicchio/Lorie_Pisicchio-150x150.jpg)](/assets/2016/01/2016-01-05-rencontre-avec-lorie-pisicchio/Lorie_Pisicchio.jpg)
 
 #### **Lorie, peux-tu te présenter et nous raconter ton parcours ?**
 

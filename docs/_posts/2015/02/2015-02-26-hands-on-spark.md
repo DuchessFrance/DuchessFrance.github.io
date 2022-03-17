@@ -17,7 +17,7 @@ tags:
 
 | Pour ce premier Hands-On Duchess de l’année vous proposons de venir découvrir Apache Spark le 10 mars dans les locaux de [Blablacar](http://www.covoiturage.fr/) lors d’une session de code en **Java et/ou Scala** (à vous de choisir ! les deux seront disponibles). Les inscriptions sur font sur [Meetup](http://www.meetup.com/Duchess-France-Meetup/events/220774444/). |
 
-****[![IMG_6940](/assets/2015/02/2015-02-26-hands-on-spark/IMG_6940-300x170.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/02/IMG_6940.jpg)****
+****[![IMG_6940](/assets/2015/02/2015-02-26-hands-on-spark/IMG_6940-300x170.jpg)](/assets/2015/02/2015-02-26-hands-on-spark/IMG_6940.jpg)****
 
 **Spark, c’est quoi ?**
 
@@ -53,13 +53,13 @@ Le pair-programming sera largement encouragée lors de cette soirée, donc pas d
 
 **Speakers**
 
-[![me](/assets/2015/02/2015-02-26-hands-on-spark/me-300x300.png)](http://www.duchess-france.org/wp-content/uploads/2013/12/me.png)
+[![me](/assets/2015/02/2015-02-26-hands-on-spark/me-300x300.png)](/assets/2015/02/2015-02-26-hands-on-spark/me.png)
 
 [Ludwine Probst](https://twitter.com/nivdul) est Data Engineer chez [Cityzen Data](http://blog.cityzendata.com/), où elle travaille sur du Machine Learning et du traitement de gros volumes de données temps réel notamment avec Spark.
 
  
 
-[![sam](/assets/2015/02/2015-02-26-hands-on-spark/sam-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/02/sam.jpg)
+[![sam](/assets/2015/02/2015-02-26-hands-on-spark/sam-300x300.jpg)](/assets/2015/02/2015-02-26-hands-on-spark/sam.jpg)
 
 [Sam Bessalah](https://twitter.com/samklr) est développeur freelance passionné de systèmes distribués, et de tout ce qui tourne autour de la data. Il co-organise le meetup du Paris Datageeks.
 
@@ -69,6 +69,6 @@ Le pair-programming sera largement encouragée lors de cette soirée, donc pas d
 
 **Rendez-vous le 10 mars chez Blablacar avec votre laptop à partir de 19h15. La soirée débutera à 19h30 précise !**
 
- ****[![BlaBlaCar](/assets/2015/02/2015-02-26-hands-on-spark/BlaBlaCar-300x82.png)](http://www.duchess-france.org/wp-content/uploads/2015/02/BlaBlaCar.png)**** 
+ ****[![BlaBlaCar](/assets/2015/02/2015-02-26-hands-on-spark/BlaBlaCar-300x82.png)](/assets/2015/02/2015-02-26-hands-on-spark/BlaBlaCar.png)**** 
 
 **Merci à notre hôte Blablacar de nous accueillir et nous offrir boissons et pizzas.**

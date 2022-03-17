@@ -16,7 +16,7 @@ coverImage: "Capture-d-----cran-2015-06-09----14.13.39.png"
 
 Non, le concept du syndrome de l’imposteur a fait son apparition au cours de l'automne 1978 grâce aux travaux, ["The Imposter Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention"](http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf), menés par [Pauline Rose Clance](http://paulineroseclance.com/) et [Suzanne Imes](https://therapists.psychologytoday.com/rms/name/Suzanne_Imes_PhD_Atlanta_Georgia_69147) auprès de cadres dirigeantes. Les deux chercheuses ont voulu comprendre pourquoi certaines d’entre elles se montraient incapables d’assumer leur réussite. Historiquement, donc, **le phénomène a d’abord été détecté chez les femmes**. Mais, depuis les premiers travaux, des études ont montré qu’il touche tout autant les hommes et près de 3% des dirigeants.
 
- [![Syndrome de l'imposteur](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/Capture-d-----cran-2015-06-09----14.13.39-300x163.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/Capture-d-----cran-2015-06-09----14.13.39.png)
+ [![Syndrome de l'imposteur](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/Capture-d-----cran-2015-06-09----14.13.39-300x163.png)](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/Capture-d-----cran-2015-06-09----14.13.39.png)
 
 ### Le syndrome de l'imposteur, qu'est-ce que c'est ?
 
@@ -46,7 +46,7 @@ Les personnes touchées par le syndrome de l'imposteur se sentent parfois oblig�
 
 Une autre conséquence peut être l'inverse, l'**underdoing**, la personne va se sentir nulle, donc va de moins en moins en faire et le burnout peut également se ressentir dans ce cas.
 
-[![Assertiveness-Time](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/Assertiveness-Time-300x237.png)](http://www.duchess-france.org/wp-content/uploads/2015/09/Assertiveness-Time.png)
+[![Assertiveness-Time](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/Assertiveness-Time-300x237.png)](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/Assertiveness-Time.png)
 
 ### Comment surmonter ce syndrome ?
 
@@ -56,7 +56,7 @@ Une autre étape est de coucher sur papier, par le biais d'une [mind map](https:
 
 Je me suis prêtée au jeu et voici ma mind map :
 
-[![Mindmap Dev Aurelie vache](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/mindmap_aurelie-300x211.png)](http://www.duchess-france.org/wp-content/uploads/2015/09/mindmap_aurelie.png)
+[![Mindmap Dev Aurelie vache](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/mindmap_aurelie-300x211.png)](/assets/2015/09/2015-09-25-jai-teste-syndrome-de-limposteur/mindmap_aurelie.png)
 
 Faire cette mindmap m’a permis d’y voir un peu plus clair sur les connaissances et compétences que j’utilisais au quotidien et je pense que cela va me permettre d’avancer et de prendre un peu plus de recul. Je vais me pencher sur les points que je dois améliorer et je me dit que finalement, même si je ne suis pas hyper spécialisée dans un domaine, cela peut être un atout car j’ai quelques cordes à mon arc.
 

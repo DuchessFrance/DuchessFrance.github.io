@@ -29,7 +29,7 @@ Cet événement est organisé par plusieurs associations toulousaines telles que
 
 Le [CFP](https://devfest-toulouse.cfp.io) est ouvert, vous avez encore jusqu'au 20 septembre pour soumettre votre talk mais en attendant 7 speakers sont déjà annoncés :
 
-[![devfesttoulouse_speakers](/assets/2016/09/2016-09-15-gdg-devfest-toulouse-2016/devfesttoulouse_speakers.png)](http://www.duchess-france.org/wp-content/uploads/2016/09/devfesttoulouse_speakers.png)
+[![devfesttoulouse_speakers](/assets/2016/09/2016-09-15-gdg-devfest-toulouse-2016/devfesttoulouse_speakers.png)](/assets/2016/09/2016-09-15-gdg-devfest-toulouse-2016/devfesttoulouse_speakers.png)
 
 ### Inscription
 

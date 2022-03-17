@@ -22,7 +22,7 @@ But when we look for the skills, the most appealing job is data scientist.
 
 What is a data science? How are data scientists?
 
-[![HilaryMason_AwesomeNerds_Graphic2](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/HilaryMason_AwesomeNerds_Graphic2.png)](http://www.duchess-france.org/wp-content/uploads/2015/07/HilaryMason_AwesomeNerds_Graphic2.png)
+[![HilaryMason_AwesomeNerds_Graphic2](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/HilaryMason_AwesomeNerds_Graphic2.png)](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/HilaryMason_AwesomeNerds_Graphic2.png)
 
  
 
@@ -30,7 +30,7 @@ We had the pleasure to meet [Hilary Mason](https://twitter.com/hmason) , the CEO
 
  
 
-[![hilary-mason](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/hilary-mason-1024x767.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/07/hilary-mason.jpg)
+[![hilary-mason](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/hilary-mason-1024x767.jpg)](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/hilary-mason.jpg)
 
  
 
@@ -38,6 +38,6 @@ Download the interview in mp3
 
 _Interview done at the [USI](http://www.usievents.com/fr), Thursday 2nd July 2015 by Amira Lakhal and Stéphanie Hertrich_
 
-[![USI_logo](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/USI_logo1.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/USI_logo1.png)
+[![USI_logo](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/USI_logo1.png)](/assets/2015/07/2015-07-20-usi-2015-meeting-hilary-mason-a-data-scientist-ceo-and-founder-of-fast-forwards-labs/USI_logo1.png)
 
 If you want to know more about data science, here is some interresting courses available on [Coursera](https://class.coursera.org/datasci-001/lecture/preview).

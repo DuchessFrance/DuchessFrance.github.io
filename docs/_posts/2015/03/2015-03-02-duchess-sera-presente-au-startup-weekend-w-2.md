@@ -38,7 +38,7 @@ Les questions "est-ce que j'ai vraiment les compétences ?", "est-ce que je sera
 
  
 
-[![wwydiywa](/assets/2015/03/2015-03-02-duchess-sera-presente-au-startup-weekend-w-2/wwydiywa.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/02/wwydiywa.jpg)
+[![wwydiywa](/assets/2015/03/2015-03-02-duchess-sera-presente-au-startup-weekend-w-2/wwydiywa.jpg)](/assets/2015/03/2015-03-02-duchess-sera-presente-au-startup-weekend-w-2/wwydiywa.jpg)
 
  
 

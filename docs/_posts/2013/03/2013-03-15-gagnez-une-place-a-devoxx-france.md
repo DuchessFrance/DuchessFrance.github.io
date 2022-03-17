@@ -11,7 +11,7 @@ tags:
   - "devoxx-france"
 ---
 
-| [![DevoxxFR-2012-banniere-400-155](/assets/2013/03/2013-03-15-gagnez-une-place-a-devoxx-france/DevoxxFR-2012-banniere-400-155.png)](http://www.duchess-france.org/wp-content/uploads/2012/12/DevoxxFR-2012-banniere-400-155.png) |
+| [![DevoxxFR-2012-banniere-400-155](/assets/2013/03/2013-03-15-gagnez-une-place-a-devoxx-france/DevoxxFR-2012-banniere-400-155.png)](/assets/2013/03/2013-03-15-gagnez-une-place-a-devoxx-france/DevoxxFR-2012-banniere-400-155.png) |
 
 Cette année encore Devoxx France a offert une place Combi aux Duchess.
 

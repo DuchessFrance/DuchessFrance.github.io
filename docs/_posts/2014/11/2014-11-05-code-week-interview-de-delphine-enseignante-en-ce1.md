@@ -17,7 +17,7 @@ tags:
 
  
 
-_**[![ClasseCE1](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-enseignante-en-ce1/ClasseCE1-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/10/ClasseCE1.jpg)**_
+_**[![ClasseCE1](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-enseignante-en-ce1/ClasseCE1-300x225.jpg)](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-enseignante-en-ce1/ClasseCE1.jpg)**_
 
 **Qui es-tu ?** Je suis Delphine COMES. Je suis professeur des écoles en CE1. J'enseigne depuis 8 ans en ZEP (Zone à éducation prioritaire) à Limoges à l'école Joliot Curie.
 
@@ -33,6 +33,6 @@ _**[![ClasseCE1](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-ense
 
 **Qu'est-ce que cet événement t'a apporté ?** Cet événement m'a permis d'avoir un vision plus claire de ce qu'est la programmation.  J'aurais désormais des activités supplémentaires à proposer en temps libre à mes élèves, que j'ai découvertes au travers de cet atelier via la plateforme [http://studio.code.org/](%20http://studio.code.org/)
 
-[![codeweek-badge](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-enseignante-en-ce1/codeweek-badge-300x105.png)](http://www.duchess-france.org/wp-content/uploads/2014/10/codeweek-badge.png)
+[![codeweek-badge](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-enseignante-en-ce1/codeweek-badge-300x105.png)](/assets/2014/11/2014-11-05-code-week-interview-de-delphine-enseignante-en-ce1/codeweek-badge.png)
 
 ##  Merci Delphine pour ces retours très positifs et on te souhaite plein d'activités de code avec les enfants !

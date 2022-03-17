@@ -31,13 +31,13 @@ La soirée s'est déroulée dans une ambiance conviviale mais le (bon) stress
 
  
 
-[![sale_agile_tribu](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/sale_agile_tribu.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/07/sale_agile_tribu.jpg)
+[![sale_agile_tribu](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/sale_agile_tribu.jpg)](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/sale_agile_tribu.jpg)
 
  
 
 Toutes les participantes (que des speakeuses cette fois-ci !) ont bien joué le jeu. Elles lâchent prise. Et dans ce moment de convivialité, nous avons aussi l'occasion de nous détendre autour d'un pot !
 
-[![prise de parole](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/Capture-d-----cran-2015-07-18----19.59.22.png)](http://www.duchess-france.org/wp-content/uploads/2015/07/Capture-d-----cran-2015-07-18----19.59.22.png)
+[![prise de parole](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/Capture-d-----cran-2015-07-18----19.59.22.png)](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/Capture-d-----cran-2015-07-18----19.59.22.png)
 
  
 
@@ -45,7 +45,7 @@ Tout se déroule dans la bienveillance et dans un cadre rassurant grâce aux co
 
 > J'ai aimé que ce soit que de la pratique. C'est bien mieux que de rester que sur de la théorie. Les conseils étaient justes et pertinents.
 
-[![Marie Lagrée - conseils](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/marie_conseils.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/07/marie_conseils.jpg)
+[![Marie Lagrée - conseils](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/marie_conseils.jpg)](/assets/2015/07/2015-07-22-atelier-prise-de-parole-en-public/marie_conseils.jpg)
 
  
 

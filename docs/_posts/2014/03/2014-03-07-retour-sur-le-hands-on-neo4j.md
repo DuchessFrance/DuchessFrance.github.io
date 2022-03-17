@@ -25,9 +25,9 @@ Il existe une différence entre une modélisation relationnelle et une modélisa
 
 Exemple d’une modélisation relationnelle
 
-[![relationnel](/assets/2014/03/2014-03-07-retour-sur-le-hands-on-neo4j/relationnel-300x107.png)](http://www.duchess-france.org/wp-content/uploads/2014/03/relationnel.png)
+[![relationnel](/assets/2014/03/2014-03-07-retour-sur-le-hands-on-neo4j/relationnel-300x107.png)](/assets/2014/03/2014-03-07-retour-sur-le-hands-on-neo4j/relationnel.png)
 
-Ce qui se traduit en graphe comme suit. [![graph](/assets/2014/03/2014-03-07-retour-sur-le-hands-on-neo4j/graph-300x107.png)](http://www.duchess-france.org/wp-content/uploads/2014/03/graph.png)
+Ce qui se traduit en graphe comme suit. [![graph](/assets/2014/03/2014-03-07-retour-sur-le-hands-on-neo4j/graph-300x107.png)](/assets/2014/03/2014-03-07-retour-sur-le-hands-on-neo4j/graph.png)
 
 Ainsi, la table person-group qui n’a aucune valeur fonctionnelle est remplacée par une simple relation entre le nœud personne et un nœud group.
 

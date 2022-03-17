@@ -19,7 +19,7 @@ A cette occasion, par l'intermédiaire d'[Agnès](http://www.duchess-france.org/
 
  
 
-[![laura_savino_headshot](/assets/2016/04/2016-04-18-interview-de-laura-savino/laura_savino_headshot-200x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/04/laura_savino_headshot.jpg)
+[![laura_savino_headshot](/assets/2016/04/2016-04-18-interview-de-laura-savino/laura_savino_headshot-200x300.jpg)](/assets/2016/04/2016-04-18-interview-de-laura-savino/laura_savino_headshot.jpg)
 
 **Anaïs: Hi Laura, can you tell me more about you and your background ?**
 

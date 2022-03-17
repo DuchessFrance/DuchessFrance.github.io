@@ -19,7 +19,7 @@ coverImage: "angularjs.png"
 
 L'atelier sera animé par [Virginie Bardales](https://twitter.com/giniebardales) :
 
-[![VirginieBardales](/assets/2016/02/2016-02-18-hands-on-angular-js/VirginieBardales-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/02/VirginieBardales.jpg)
+[![VirginieBardales](/assets/2016/02/2016-02-18-hands-on-angular-js/VirginieBardales-300x200.jpg)](/assets/2016/02/2016-02-18-hands-on-angular-js/VirginieBardales.jpg)
 
 "J'ai huit ans d'expérience et je suis une dev JS depuis trois ans et demi et c'est le grand amour. J'aime les jeux, la cuisine et la médecine. J'aime l'agilité, les équipes où efficacité rime avec flexibilité, où chacun peut donner son grain de sel et faire avancer n'importe quelle partie du projet, parce qu'on est tous différents, donc tout volontaire a quelque chose à apporter. J'adore travailler de chez moi pour ne pas avoir à choisir entre famille et travail et donner le meilleur de moi-même dans les deux domaines."
 
@@ -31,8 +31,8 @@ Le **jeudi** **25 Février** de 19h15 à 22h chez [Deezer](http://www.deezer.com
 
 Un grand merci à Deezer pour l'accueil !
 
-[![DeezerLogo](/assets/2016/02/2016-02-18-hands-on-angular-js/DeezerLogo.png)](http://www.duchess-france.org/wp-content/uploads/2016/02/DeezerLogo.png)
+[![DeezerLogo](/assets/2016/02/2016-02-18-hands-on-angular-js/DeezerLogo.png)](/assets/2016/02/2016-02-18-hands-on-angular-js/DeezerLogo.png)
 
 Merci à [Ninja Squad](http://ninja-squad.fr/) pour le sponsoring!
 
-[![ninjasquad_logo](/assets/2016/02/2016-02-18-hands-on-angular-js/ninjasquad_logo.png "http://ninja-squad.fr/")](http://www.duchess-france.org/wp-content/uploads/2016/02/ninjasquad_logo.png)
+[![ninjasquad_logo](/assets/2016/02/2016-02-18-hands-on-angular-js/ninjasquad_logo.png "http://ninja-squad.fr/")](/assets/2016/02/2016-02-18-hands-on-angular-js/ninjasquad_logo.png)

@@ -15,7 +15,7 @@ tags:
 
 | Pour continuer notre série d'interviews de femmes dans l'IT, voici un portrait de [Ly-Jia Goldstein](https://twitter.com/Ly_Jia "twitter"), développeuse chez [Arolla](http://www.arolla.fr/), et passionnée par le Software Craftsmanship. |
 
-[![Ly-jia Goldstein](/assets/2014/11/2014-11-19-rencontre-avec-ly-jia-goldstein-developpeuse-chez-arolla-et-craftsmanship-addict/Ly-jia-Goldstein-298x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/11/Ly-jia-Goldstein.jpg)
+[![Ly-jia Goldstein](/assets/2014/11/2014-11-19-rencontre-avec-ly-jia-goldstein-developpeuse-chez-arolla-et-craftsmanship-addict/Ly-jia-Goldstein-298x300.jpg)](/assets/2014/11/2014-11-19-rencontre-avec-ly-jia-goldstein-developpeuse-chez-arolla-et-craftsmanship-addict/Ly-jia-Goldstein.jpg)
 
  
 

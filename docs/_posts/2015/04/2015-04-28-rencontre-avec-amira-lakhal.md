@@ -16,7 +16,7 @@ tags:
   - "women"
 ---
 
-| [![amira_lakhal](/assets/2015/04/2015-04-28-rencontre-avec-amira-lakhal/amira_lakhal-150x150.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/amira_lakhal.png)Nous continuons notre série d’interview avec le portrait d'Amira LAKHAL, développeur Java chez Valtech et membre très active de la team Duchess France. |
+| [![amira_lakhal](/assets/2015/04/2015-04-28-rencontre-avec-amira-lakhal/amira_lakhal-150x150.png)](/assets/2015/04/2015-04-28-rencontre-avec-amira-lakhal/amira_lakhal.png)Nous continuons notre série d’interview avec le portrait d'Amira LAKHAL, développeur Java chez Valtech et membre très active de la team Duchess France. |
 
 **Agnès: Peux-tu te présenter, ton métier, ton parcours? As-tu des activités geeks extra-pro?**
 

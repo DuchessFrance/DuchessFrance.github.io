@@ -11,7 +11,7 @@ tags:
   - "la-marmite"
 ---
 
-| [![](/assets/2012/06/2012-06-01-hands-on-android/android.jpg)](http://www.duchess-france.org/wp-content/uploads/2012/05/android.jpg)Android, vous voyez à peu près ce que c'est. Peut-être même utilisez-vous un téléphone Android. Et vous comptez certainement vous mettre au développement Android. Un jour. Quand vous aurez le temps. Quand les 10 000 tâches dans le haut de votre TODO list seront terminées. Pourquoi ne pas y goûter le temps d'une soirée, et plus si affinité ? |
+| [![](/assets/2012/06/2012-06-01-hands-on-android/android.jpg)](/assets/2012/06/2012-06-01-hands-on-android/android.jpg)Android, vous voyez à peu près ce que c'est. Peut-être même utilisez-vous un téléphone Android. Et vous comptez certainement vous mettre au développement Android. Un jour. Quand vous aurez le temps. Quand les 10 000 tâches dans le haut de votre TODO list seront terminées. Pourquoi ne pas y goûter le temps d'une soirée, et plus si affinité ? |
 
 Ce Hands-On se veut une introduction accélérée au développement Android, très orientée pratique. L'objectif est de mettre les mains dans le cambouis en s'attaquant aux principes fondamentaux. Le format reste classique, vous pourrez trouver un binome pour pair-programmer sur place.
 

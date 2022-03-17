@@ -18,7 +18,7 @@ Pour cette nouvelle édition de Devoxx France, nous vous invitons à assister à
 
 ## [**Keynote: L'économie collaborative par Laure Némée**](https://cfp.devoxx.fr/2018/talk/MGG-1231/L%E2%80%99economie_collaborative_:_soutenez,_financez)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/laure_nemee.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/04/laure_nemee.jpg)
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/laure_nemee.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/laure_nemee.jpg)
 
 [Laure](https://twitter.com/zazoun?lang=fr) est la CTO de Leetchi Group depuis 2010. Elle se consacre depuis quelques années principalement à MANGOPAY, le service de paiement et de gestion de monnaie électronique à destination des acteurs de l'économie collaborative, créé par Leetchi.
 
@@ -30,7 +30,7 @@ Elle présentera une keynote sur [l'économie collaborative](https://cfp.devoxx.
 
 ## [**Université : Les microservices AWS par Tiffany Jernigan et Arun Gupta**](https://cfp.devoxx.fr/2018/talk/XZH-6845/Compute_options_for_Microservices_on_AWS)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/tiffany-jernigan-300x300.jpeg)](http://www.duchess-france.org/wp-content/uploads/2018/04/tiffany-jernigan.jpeg)[Tiffany](https://twitter.com/@tiffanyfayj) est développeuse chez Amazon et travaille sur les conteneurs AWS. _Diplômée en ingénieurat électrique de Georgia Tech, e_lle a auparavant travaillé chez Docker et Intel en tant que ingénieure logiciel et ingénieure _hardware._
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/tiffany-jernigan-300x300.jpeg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/tiffany-jernigan.jpeg)[Tiffany](https://twitter.com/@tiffanyfayj) est développeuse chez Amazon et travaille sur les conteneurs AWS. _Diplômée en ingénieurat électrique de Georgia Tech, e_lle a auparavant travaillé chez Docker et Intel en tant que ingénieure logiciel et ingénieure _hardware._
 
 Tiffany, en binôme avec [Arun](https://twitter.com/arungupta), animera **une université** en anglais autour  [des options offertes par les micro-services de AWS](https://cfp.devoxx.fr/2018/talk/XZH-6845/Compute_options_for_Microservices_on_AWS):
 
@@ -40,7 +40,7 @@ Tiffany, en binôme avec [Arun](https://twitter.com/arungupta), animera **une un
 
 ## **[Conférence : Je me lance et deviens CTO ! par Mathilde Lemée](https://cfp.devoxx.fr/2018/talk/DRW-1612/Je_me_lance_et_deviens_CTO_!)**
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/e8cb08a3141a0ebf6b80ad7d037ed034_400x400.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/e8cb08a3141a0ebf6b80ad7d037ed034_400x400.png)Après plusieurs années en tant qu'indépendante, [Mathilde](https://twitter.com/MathildeLemee) a rejoint Jolimoi, une beauty-tech spécialisée dans la recommandation autour de la beauté, en tant que CTO. Elle est très active au sein de Duchess France, groupement feminin de développeuses, qu’elle a co-fondé en 2010 et s’occupe en parallèle de deux entreprises qu’elle a fondé, Aetys, un studio de jeu ludo-éducatifs sur mobile et SoFizz, une application de rencontre sociale.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/e8cb08a3141a0ebf6b80ad7d037ed034_400x400.png)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/e8cb08a3141a0ebf6b80ad7d037ed034_400x400.png)Après plusieurs années en tant qu'indépendante, [Mathilde](https://twitter.com/MathildeLemee) a rejoint Jolimoi, une beauty-tech spécialisée dans la recommandation autour de la beauté, en tant que CTO. Elle est très active au sein de Duchess France, groupement feminin de développeuses, qu’elle a co-fondé en 2010 et s’occupe en parallèle de deux entreprises qu’elle a fondé, Aetys, un studio de jeu ludo-éducatifs sur mobile et SoFizz, une application de rencontre sociale.
 
 Mathilde fera un retour d'expérience sur [comment devenir CTO](https://cfp.devoxx.fr/2018/talk/DRW-1612/Je_me_lance_et_deviens_CTO_!) :
 
@@ -66,7 +66,7 @@ Une cuillère à soupe d’outils, une pincée de conception, 100g de monitoring
 
 ## **[Conférence : Donnez une âme à vos assistants vocaux par Alice Vasseur et Jean-Philippe Encausse](https://cfp.devoxx.fr/2018/talk/TYI-8559/Donnez_une_ame_a_vos_assistants_vocaux)**
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/alice-vasseur.png)](http://www.duchess-france.org/wp-content/uploads/2018/04/alice-vasseur.png)[Alice](https://twitter.com/@Alice_Vasseur) est consultante en innovation chez VISEO, elle réfléchit à des services innovants et utiles. En particulier j'accompagne des marques pour la construction de leur stratégie sur les chatbots & les assistants vocaux, la conception de l'UX conversationnelle et la réalisation de leurs agents conversationnels.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/alice-vasseur.png)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/alice-vasseur.png)[Alice](https://twitter.com/@Alice_Vasseur) est consultante en innovation chez VISEO, elle réfléchit à des services innovants et utiles. En particulier j'accompagne des marques pour la construction de leur stratégie sur les chatbots & les assistants vocaux, la conception de l'UX conversationnelle et la réalisation de leurs agents conversationnels.
 
 Alice animera une conférence avec Jean-Philippe [autour des assistants vocaux :](https://cfp.devoxx.fr/2018/talk/TYI-8559/Donnez_une_ame_a_vos_assistants_vocaux)
 
@@ -82,7 +82,7 @@ Voici comment designer une âme à vos assistants vocaux."
 
 ## [**Conférence : Compassion-First Design pour l’Intelligence Artificielle par Manon Gruaz et Samantha Bilodeau**](https://cfp.devoxx.fr/2018/talk/RCH-5734/Compassion-First_Design_pour_l%E2%80%99Intelligence_Artificielle_)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/Gruaz-Manon.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/Gruaz-Manon.jpg)[Manon](https://twitter.com/@manongruaz) est directrice de création et évangeliste de Marques Intelligentes chez Arcbees. Entourée au quotidien de développeurs de génie, c’est naturellement qu’elle a fusionné son obsession pour la Marque avec son envoûtement pour l’intelligence artificielle.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/Gruaz-Manon.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/Gruaz-Manon.jpg)[Manon](https://twitter.com/@manongruaz) est directrice de création et évangeliste de Marques Intelligentes chez Arcbees. Entourée au quotidien de développeurs de génie, c’est naturellement qu’elle a fusionné son obsession pour la Marque avec son envoûtement pour l’intelligence artificielle.
 
 Enthousiaste de défis impossibles, elle essaye d’évangéliser chaque développeur et tout autre être vivant à travers sa conférence. C’est avec un humour parfois douteux qu’elle l’a déjà présenté au WAQ de Québec, au devFest de Nantes, Au Mix-It de Lyon ainsi qu’au GWTcon de Florence et aux soirées UX à Québec. Son mot préféré est Authentique.
 
@@ -90,7 +90,7 @@ Née française, élevée en tant que citoyenne du monde, elle est maintenant sa
 
  
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/samantha-bilodeau.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/samantha-bilodeau.jpg)[Samantha](https://twitter.com/@SamB418) est développeuse et possède Flip Script Media qui est une agence de stratégie de contenu et de copywriting UX, et Undertone.io qui est un studio de conception de langage spécialisé dans la conception d'interfaces vocale et conversationnelle pour utilisateur.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/samantha-bilodeau.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/samantha-bilodeau.jpg)[Samantha](https://twitter.com/@SamB418) est développeuse et possède Flip Script Media qui est une agence de stratégie de contenu et de copywriting UX, et Undertone.io qui est un studio de conception de langage spécialisé dans la conception d'interfaces vocale et conversationnelle pour utilisateur.
 
 Passionné d'IA, elle aide les marques à communiquer d'une manière claire, cohérente et surtout avec compassion.
 
@@ -106,7 +106,7 @@ _"La croissance fulgurante de l’Intelligence artificielle nous offre un monde 
 
 ## **[Conférence : Comment le suivi du diabète m'a amené à la Dataviz ! par Stéphanie Moallic](https://cfp.devoxx.fr/2018/talk/HGK-5457/Comment_le_suivi_du_diabete_m'a_amene_a_la_Dataviz_!)**
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/Stephanie_Moallic.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/04/Stephanie_Moallic.jpg)[Stéphanie](https://twitter.com/@steffy_29) est développeuse informatique depuis plus de 15 ans, avec une prédilection pour le front-end, les trucs pour faire joli et les bonnes pratiques, dans les techno autour de Java et de la JVM et aussi du web. Passionnée d'informatique mais pas que...
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/Stephanie_Moallic.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/Stephanie_Moallic.jpg)[Stéphanie](https://twitter.com/@steffy_29) est développeuse informatique depuis plus de 15 ans, avec une prédilection pour le front-end, les trucs pour faire joli et les bonnes pratiques, dans les techno autour de Java et de la JVM et aussi du web. Passionnée d'informatique mais pas que...
 
 Stéphanie parlera d'[un cas d'utilisation réel de  Dataviz](https://cfp.devoxx.fr/2018/talk/HGK-5457/Comment_le_suivi_du_diabete_m'a_amene_a_la_Dataviz_!) :
 
@@ -122,7 +122,7 @@ _Venez découvrir durant ce talk comment mettre ce cas en pratique: de la récup
 
 ## [**Conférence : Et si Mario était UX designer... par Alexandra Nemery et Sarah Colmon**](https://cfp.devoxx.fr/2018/talk/CRN-6526/Et_si_Mario_etait_UX_designer...)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/alexandra-nemery.png)](http://www.duchess-france.org/wp-content/uploads/2018/04/alexandra-nemery.png)[Alexandra](https://twitter.com/@Nimuneale) est détentrice d'un doctorat en interactions homme-machine, elle a donné des cours à l'EPITA, écrit des articles sur le persuasive design et elle a déjà été speaker dans des conférences.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/alexandra-nemery.png)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/alexandra-nemery.png)[Alexandra](https://twitter.com/@Nimuneale) est détentrice d'un doctorat en interactions homme-machine, elle a donné des cours à l'EPITA, écrit des articles sur le persuasive design et elle a déjà été speaker dans des conférences.
 
 Après une expérience comme UX designer chez SAP et UX manager chez Sage, elle est actuellement UX consultant chez Murex ainsi que freelance pour le projet de banque mobile Hush.
 
@@ -132,7 +132,7 @@ Après une expérience comme UX designer chez SAP et UX manager chez Sage, elle 
 
  
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sarah-colmon.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/sarah-colmon.jpg)[Sarah](https://twitter.com/@SarahColmon) est ingénieure en cognitique, elle est issue d'un cursus qui mêle expérience utilisateur et informatique. Son expérience a porté sur différents domaines, de l'accessibilité dans le champ médical à la participation à la mise en place d'un user lab, en passant par la création d'un guide méthodologique UX.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sarah-colmon.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sarah-colmon.jpg)[Sarah](https://twitter.com/@SarahColmon) est ingénieure en cognitique, elle est issue d'un cursus qui mêle expérience utilisateur et informatique. Son expérience a porté sur différents domaines, de l'accessibilité dans le champ médical à la participation à la mise en place d'un user lab, en passant par la création d'un guide méthodologique UX.
 
 Elle travaille actuellement à Murex, en tant que consultante UX et product manager de la UI.
 
@@ -146,7 +146,7 @@ _"Avez-vous déjà ressenti de la frustration en jouant à un jeu vidéo à caus
 
 ## [**Conférence: Authentification, confidentialité, gestion des identités ... au-secours je confonds tout ! par Olfa Mabrouki**](https://cfp.devoxx.fr/2018/talk/CEF-8693/Authentification,_confidentialite,_gestion_des_identites_..._au-secours_je_confonds_tout_!)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/olfa-mabrouki.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/olfa-mabrouki.jpg) [Olfa](https://twitter.com/@somabrouki) est une développeuse backend (Java, Spring, REST ...) chez Arolla, passionnée de software craftsmanship. Au cours de ses 8 ans d'expérience comme développeuse, formatrice et enseignante, elle a aussi obtenu son doctorat dans la protection de la vie privée des utilisateurs.
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/olfa-mabrouki.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/olfa-mabrouki.jpg) [Olfa](https://twitter.com/@somabrouki) est une développeuse backend (Java, Spring, REST ...) chez Arolla, passionnée de software craftsmanship. Au cours de ses 8 ans d'expérience comme développeuse, formatrice et enseignante, elle a aussi obtenu son doctorat dans la protection de la vie privée des utilisateurs.
 
 Olfa animera une conférence sur [l'optimisation de l'authentification](https://cfp.devoxx.fr/2018/talk/CEF-8693/Authentification,_confidentialite,_gestion_des_identites_..._au-secours_je_confonds_tout_!) :
 
@@ -198,7 +198,7 @@ Actuellement elle travaille chez Lectra comme développeuse FrontEnd et elle est
 
  
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/amelie-benoit.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/amelie-benoit.jpg)
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/amelie-benoit.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/amelie-benoit.jpg)
 
 [Amélie](https://twitter.com/@AmelieBenoit33) est une développeuse passionnée par les nouvelles technologies, et plus particulièrement celles orientées web. Diplômée d’un IUT et d’une école d’ingénieur, elle travaille depuis 3 ans dans ce domaine.
 
@@ -228,7 +228,7 @@ _"La communication fait aujourd’hui partie intégrante de notre travail; il no
 
 ## [**Quickie : Mutation Testing: comment vous assurer de la qualité de vos tests par Sarah Buisson**](https://cfp.devoxx.fr/2018/talk/BOE-1922/Mutation_Testing:_comment_vous_assurer_de_la_qualite_de_vos_tests)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sarah-buisson.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/sarah-buisson.jpg)
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sarah-buisson.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sarah-buisson.jpg)
 
 Sarah est ingénieur FullStack chez Xebia, passionnée de Java et de Craftmanship.
 
@@ -272,7 +272,7 @@ _"Si aujourd’hui trouver du travail en tant que tech est plutôt facile, être
 
 ## [**Quickie : Web Components: It's all rainbows and unicorns! Is it? par Sara Harkousse**](https://cfp.devoxx.fr/2018/talk/YEU-2566/Web_Components:_It's_all_rainbows_and_unicorns!_Is_it%3F)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sara-harkousse.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/sara-harkousse.jpg)
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sara-harkousse.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/sara-harkousse.jpg)
 
 [Sara](https://twitter.com/@Sara_harkousse) est responsable technique, développeur web front-end chez Dassault Systèmes pour la marque ENOVIA, conférencier à Tech Conferences comme Devoxx Maroc, DevFest Nantes, BlendWebMix, Js Kongress, Dev Dev Conf, jFokus ..., 3DS Advocate à "Elles Bougent" et un des dirigeants de "Duchesse France". Elle a reçu un diplôme d'ingénieur en électronique et informatique de l'INSA Rennes en France. La diversité dans les domaines technologiques est l'une de ses batailles, c'est pourquoi elle n'hésite pas à organiser des meetups pour faire connaître les dernières technologies ou simplement partager son expérience de développeur.
 
@@ -306,7 +306,7 @@ _Avec ma fille, nous voyagerons à travers le temps, en partant de la tortue sur
 
 ## [**Le BoF Duchess France**](https://cfp.devoxx.fr/2018/talk/FII-6540/Duchess_France_)
 
-[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/filleule.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/10/filleule.jpg)Et bien sur, la soirée incontournable de Devoxx France est [le BoF de Duchess France](https://cfp.devoxx.fr/2018/talk/FII-6540/Duchess_France_) qui aura lieu **le jeudi soir à _21h35_** dans la salle _Neuilly 212-213M Lab._
+[![](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/filleule.jpg)](/assets/2018/04/2018-04-17-les-oratrices-de-devoxx-france-2018/filleule.jpg)Et bien sur, la soirée incontournable de Devoxx France est [le BoF de Duchess France](https://cfp.devoxx.fr/2018/talk/FII-6540/Duchess_France_) qui aura lieu **le jeudi soir à _21h35_** dans la salle _Neuilly 212-213M Lab._
 
 Si vous n'avez pas de place pour Devoxx, pas de panique ! Vous pouvez toujours vous inscrire et assister gratuitement à cette soirée _Meet And Greet_ via [ce lien.](https://www.eventbrite.com/e/inscription-venez-decouvrir-devoxx-france-2018-le-temps-dune-soiree-44757308314)
 

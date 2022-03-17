@@ -16,7 +16,7 @@ tags:
 
  
 
-[![AtelierCode](/assets/2014/11/2014-11-05-interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/AtelierCode-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/10/AtelierCode.jpg)
+[![AtelierCode](/assets/2014/11/2014-11-05-interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/AtelierCode-300x224.jpg)](/assets/2014/11/2014-11-05-interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/AtelierCode.jpg)
 
  
 
@@ -50,6 +50,6 @@ D’autres actions qui me tiennent à cœur, je ne sais pas mais je voudrais jus
 
  
 
-[![codeweek-badge](/assets/2014/11/2014-11-05-interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/codeweek-badge-300x105.png)](http://www.duchess-france.org/wp-content/uploads/2014/10/codeweek-badge.png)
+[![codeweek-badge](/assets/2014/11/2014-11-05-interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/codeweek-badge-300x105.png)](/assets/2014/11/2014-11-05-interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/codeweek-badge.png)
 
 ## **Merci Adeline ! Rendez-vous pour la prochaine édition de Code Week!**

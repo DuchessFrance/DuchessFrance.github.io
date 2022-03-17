@@ -16,7 +16,7 @@ coverImage: "20161211_131442.jpg"
 
 | Aujourd'hui nous vous présentons le témoignage de [Claire Fougerouse](https://www.linkedin.com/in/claire-fougerouse-494063130/), qui vient de rentrer du Japon. Elle a étudié là-bas la spintronique "une technique qui exploite la propriété quantique du spin des électrons dans le but de stocker des informations".\* En janvier dernier, quand elle était encore à [Sendai](https://fr.wikipedia.org/wiki/Sendai), au Japon donc, nous lui avions posé quelques questions sur son expérience. |
 
-[![Claire Fougerouse](/assets/2017/02/2017-02-24-jai-teste-qbits-spintronique-japon/20161211_131442.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/02/20161211_131442.jpg)
+[![Claire Fougerouse](/assets/2017/02/2017-02-24-jai-teste-qbits-spintronique-japon/20161211_131442.jpg)](/assets/2017/02/2017-02-24-jai-teste-qbits-spintronique-japon/20161211_131442.jpg)
 
 **Agnès : Peux-tu te présenter? Ton parcours, qu'est-ce que tu fais aujourd'hui ?**
 
@@ -26,7 +26,7 @@ coverImage: "20161211_131442.jpg"
 
 **Claire** : **Ah le code ! Dans le labo où je suis c’est ce qui a fait la différence**. En fait à la base je suis au mieux amatrice dans le domaine informatique. Et, partant sur une majeure « matériaux », je n’ai pas pris de cours de code au Japon. Mais, que ce soit en prépa ou à l’Ecole des Mines, **on apprend à apprendre** - pas de la même manière pour les deux évidemment, mais le principe y est. Ainsi quand je suis arrivée au Japon, et que je devais, pour commencer ma mission, passer un programme de simulation de phénomènes de spintronique depuis un langage vers un autre, tout en l‘optimisant, j’ai eu la réaction la plus naturelle pour une telle situation : l’envie de fuir très loin! Après une courte bibliographie pour acquérir un socle de connaissance sur les interactions spin-orbite, je me suis penchée, non sans appréhension au début, sur le code fourni. Quelle surprise de découvrir que je le comprenais et voyais déjà les étapes à changer ! Une semaine m’a alors suffit pour réaliser la « traduction ». J’ai constaté en fait la différence de formation : si les personnes de mon labo sont capables de discuter des heures sur les manières d’inverser un spin en fonction du matériau choisi, sortis de ce domaine ils sont assez « démunis ». Finalement, **coder c’est quelque chose qui me plait**, mais ça reste pour moi un outil où je n’ai pas beaucoup de maitrise (même si c’est bien plus que mes _lab’mates_)
 
-[![Claire Fougerouse](/assets/2017/02/2017-02-24-jai-teste-qbits-spintronique-japon/DSC_0272.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/02/DSC_0272.jpg)
+[![Claire Fougerouse](/assets/2017/02/2017-02-24-jai-teste-qbits-spintronique-japon/DSC_0272.jpg)](/assets/2017/02/2017-02-24-jai-teste-qbits-spintronique-japon/DSC_0272.jpg)
 
 **Agnès : Là tu es donc au Japon... et tu travailles dans un labo spintronique? Kesako?**
 

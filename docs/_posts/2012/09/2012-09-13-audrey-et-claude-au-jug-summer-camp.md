@@ -10,7 +10,7 @@ tags:
   - "jug-summer-camp"
 ---
 
-| [![duchess avec sa bouée](/assets/2012/09/2012-09-13-audrey-et-claude-au-jug-summer-camp/duchessjsc.jpg "duchessjsc")](http://www.duchess-france.org/wp-content/uploads/2012/09/duchessjsc.jpg) Agnès, Audrey, Ellène et moi seront au JUG Summer Camp le 14 Septembre. |
+| [![duchess avec sa bouée](/assets/2012/09/2012-09-13-audrey-et-claude-au-jug-summer-camp/duchessjsc.jpg "duchessjsc")](/assets/2012/09/2012-09-13-audrey-et-claude-au-jug-summer-camp/duchessjsc.jpg) Agnès, Audrey, Ellène et moi seront au JUG Summer Camp le 14 Septembre. |
 
 Audrey et moi présentons un sujet en fin d'après midi  ([l'agenda](https://sites.google.com/site/jugsummercamp/planning)).
 

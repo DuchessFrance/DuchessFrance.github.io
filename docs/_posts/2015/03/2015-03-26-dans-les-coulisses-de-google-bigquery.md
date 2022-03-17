@@ -12,7 +12,7 @@ tags:
   - "google"
 ---
 
-| ### [![Google BigQuery](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/bq.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/03/bq.jpeg) |
+| ### [![Google BigQuery](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/bq.jpeg)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/bq.jpeg) |
 
 ### 1 – "Big Data" != "Hadoop"
 
@@ -24,7 +24,7 @@ Pour ma part, comme beaucoup d'entreprises, nous avons besoin de faire parler la
 
 ### 2 – Histoire
 
-[![](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/history22.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/history22.png)
+[![](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/history22.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/history22.png)
 
 Comme beaucoup d'outils et de services, BigQuery a été conçu pour résoudre un problème.
 
@@ -75,7 +75,7 @@ Techniquement, le service BigQuery est juste un serveur qui accepte les requête
 - 1000 fichiers max par job de chargement.
 - Taille maximum par type de fichier :
 
-[![Quota chargement de données par type de fichier](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/quota_load_jobs.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/quota_load_jobs.png)\* Streaming : 100 000 lignes insérées par seconde par table maximum.
+[![Quota chargement de données par type de fichier](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/quota_load_jobs.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/quota_load_jobs.png)\* Streaming : 100 000 lignes insérées par seconde par table maximum.
 
 A noter que toutes les données qui sont en cache, ne sont pas comptées dans les quotas.
 
@@ -89,7 +89,7 @@ Importer des données via un fichier CSV ou JSON est gratuit.
 
 Voici le modèle des coûts décrit de manière détaillée :
 
-[![BigQuery_Couts](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/BigQuery_Couts2.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/BigQuery_Couts2.png)
+[![BigQuery_Couts](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/BigQuery_Couts2.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/BigQuery_Couts2.png)
 
 Les prix sont sujets à changement donc veuillez vous tenir informés sur le site officiel de BigQuery : [https://developers.google.com/bigquery/pricing](https://developers.google.com/bigquery/pricing "https://developers.google.com/bigquery/pricing").
 
@@ -101,7 +101,7 @@ Comme on l'a déjà vu ci-dessus, BigQuery est une implémentation externe de Dr
 
 **1\. Base de Données orientée colonne**
 
-[![dremel_col_storage](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/dremel_col_storage.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/dremel_col_storage.png)_Source : livre Google BigQuery Analytics_
+[![dremel_col_storage](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/dremel_col_storage.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/dremel_col_storage.png)_Source : livre Google BigQuery Analytics_
 
 Dremel utilise BigTable et ColumnIO (des bases de données orientées colonne) et stocke les données sous forme de colonne. Grâce à cela, on ne charge que les colonnes dont on a vraiment besoin.
 
@@ -111,13 +111,13 @@ Dremel stocke les enregistrements par colonne sur des volumes de stockage diffé
 
 **2\. Architecture en arbre**
 
-[![tree](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/tree.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/tree.png)
+[![tree](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/tree.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/tree.png)
 
 Ce type d'architecture est utilisé pour dispatcher les requêtes et agréger les résultats à travers des milliers de machines en quelques secondes.
 
 ### 9 – Composants
 
-[![components](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/components.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/components.png)
+[![components](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/components.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/components.png)
 
 _Source : livre Google BigQuery Analytics_
 
@@ -145,7 +145,7 @@ Exemple de schéma :
 
 word:STRING,wordcount:INTEGER,corpus:STRING,corpus\_date:INTEGER
 
-[![table_details](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/table_details.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/table_details.png)
+[![table_details](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/table_details.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/table_details.png)
 
 Type de données possible : string, integer, float, boolean, timestamp et record (nested / repeatable).
 
@@ -165,7 +165,7 @@ La console de Google est très pratique lorsque l'on veut exécuter/tester/fine-
 
 En quelques clics on crée sa requête, on l'exécute et on obtient les résultats en quelques secondes.
 
-[![console](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/console.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/console.png)_Source : livre Google BigQuery Analytics_
+[![console](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/console.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/console.png)_Source : livre Google BigQuery Analytics_
 
 Si vous n'avez aucun projet de créé avec Google BigQuery d'activé et que vous souhaitez accéder à la Google console, vous pouvez cliquer sur le bouton ["Essai gratuit"](https://cloud.google.com/bigquery/sign-up "Google BigQuery essai gratuit").
 
@@ -206,13 +206,13 @@ Il existe deux moyens pour charger des données dans une table :
 
 - Soit, via la Google console, lors de la création de la table on définit une source de donnée. Ce peut être un fichier au format CSV, JSON ou AppEngine Datastore, que vous uploadez ou que vous importez du [Google Cloud Storage](https://cloud.google.com/storage/ "Google Cloud Storage").
 
-[![source](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/source.png)
+[![source](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source.png)
 
 Puis il faut bien penser à définir le schéma de cette table :
 
-[![source2](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source2.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/source2.png)Le job qui a procédé au chargement des données et à la création de la table a bien fonctionné :
+[![source2](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source2.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source2.png)Le job qui a procédé au chargement des données et à la création de la table a bien fonctionné :
 
-[![source3](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source3.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/source3.png)
+[![source3](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source3.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/source3.png)
 
 \* Soit, via l'API, on peut charger un fichier CSV ou JSON également ou bien insérer des entrées dans une table :
 
@@ -276,17 +276,17 @@ Il existe plusieurs solutions pour visualiser les données qui sont stockées da
 
 Voici quelques exemples du rendu que l'on peut avoir :
 
-[![sensor](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/sensor.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/sensor.png)_Source : [http://bigquery-sensors.appspot.com/console](http://www.duchess-france.org/wp-content/uploads/2015/03/ncis.png)_
+[![sensor](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/sensor.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/sensor.png)_Source : [http://bigquery-sensors.appspot.com/console](http://www.duchess-france.org/wp-content/uploads/2015/03/ncis.png)_
 
-[![ncis](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/ncis-1024x335.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/ncis.png) [![ncis2](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/ncis2.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/ncis2.png)_Source : Un des outils de reporting et de BI d'[atchikservices](http://www.atchik-services.com "atchikservices")_.
+[![ncis](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/ncis-1024x335.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/ncis.png) [![ncis2](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/ncis2.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/ncis2.png)_Source : Un des outils de reporting et de BI d'[atchikservices](http://www.atchik-services.com "atchikservices")_.
 
-[![twitter 4 bigquery](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/twitter_4_bigquery-1024x730.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/twitter_4_bigquery.png)_Source : [Twitter for BigQuery](http://twitter-for-bigquery.appspot.com)_.
+[![twitter 4 bigquery](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/twitter_4_bigquery-1024x730.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/twitter_4_bigquery.png)_Source : [Twitter for BigQuery](http://twitter-for-bigquery.appspot.com)_.
 
  
 
 - Utiliser des [outils tiers](https://cloud.google.com/bigquery/third-party-tools "Google BigQuery third-party tools") qui s'interconnectent très bien avec BQ :
 
-[![bigquery_vizualisation_and_etl_tools](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/bigquery_vizualisation_and_etl_tools.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/bigquery_vizualisation_and_etl_tools.png)
+[![bigquery_vizualisation_and_etl_tools](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/bigquery_vizualisation_and_etl_tools.png)](/assets/2015/03/2015-03-26-dans-les-coulisses-de-google-bigquery/bigquery_vizualisation_and_etl_tools.png)
 
 ### 14 – Conclusion
 

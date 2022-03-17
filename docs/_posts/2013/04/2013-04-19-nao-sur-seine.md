@@ -14,7 +14,7 @@ tags:
 
 | # Nao qu'est-ce que c'est ? |
 
-[![DSC_2083](/assets/2013/04/2013-04-19-nao-sur-seine/DSC_2083-200x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/04/DSC_2083.jpg) C'est un robot humanoïde programmable, mesurant 58 cm et pesant 5 kg. Ses principales caractéristiques matérielles sont :
+[![DSC_2083](/assets/2013/04/2013-04-19-nao-sur-seine/DSC_2083-200x300.jpg)](/assets/2013/04/2013-04-19-nao-sur-seine/DSC_2083.jpg) C'est un robot humanoïde programmable, mesurant 58 cm et pesant 5 kg. Ses principales caractéristiques matérielles sont :
 
 - un corps avec 25 degrés de liberté,
 - quatre microphones utilisés pour la reconnaissance vocale et la localisation du son,

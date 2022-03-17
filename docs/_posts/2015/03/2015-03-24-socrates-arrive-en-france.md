@@ -15,7 +15,7 @@ tags:
   - "test"
 ---
 
-| Mercredi 11 mars le premier tweet du compte twitter [@SoCraTes\_FR](https://twitter.com/SoCraTes_FR) a suscité une grande surprise et beaucoup de questions dans la communauté Software Craftsmanship française. En effet, ce tweet annonçait la première conférence SoCraTes (**So**ftware **Cra**ftsmanship and **Tes**ting Conference) en France et visiblement le secret avait été bien gardé jusque là.[![SoCraTesFr_PremierTweet](/assets/2015/03/2015-03-24-socrates-arrive-en-france/SoCraTesFr_PremierTweet-300x90.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/SoCraTesFr_PremierTweet.png) |
+| Mercredi 11 mars le premier tweet du compte twitter [@SoCraTes\_FR](https://twitter.com/SoCraTes_FR) a suscité une grande surprise et beaucoup de questions dans la communauté Software Craftsmanship française. En effet, ce tweet annonçait la première conférence SoCraTes (**So**ftware **Cra**ftsmanship and **Tes**ting Conference) en France et visiblement le secret avait été bien gardé jusque là.[![SoCraTesFr_PremierTweet](/assets/2015/03/2015-03-24-socrates-arrive-en-france/SoCraTesFr_PremierTweet-300x90.png)](/assets/2015/03/2015-03-24-socrates-arrive-en-france/SoCraTesFr_PremierTweet.png) |
 
 [SoCraTes](http://www.socrates-conference.de/) est une Unconférence née en Allemagne en 2011.
 
@@ -33,7 +33,7 @@ Alors Où ? Quand ? Qui ? Comment …
 
 Ce n’est qu’une semaine plus tard que le suspens a été levé et que le [trailer](https://www.youtube.com/watch?v=tHltJbKScVY) tant attendu a enfin dévoilé le lieu et les dates : le [château de Rochegude](http://www.chateauderochegude.com/) dans le Sud de la France du 24 au 27 Septembre 2015.
 
-[![ChateauRochegude](/assets/2015/03/2015-03-24-socrates-arrive-en-france/ChateauRochegude-300x297.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/ChateauRochegude.png)
+[![ChateauRochegude](/assets/2015/03/2015-03-24-socrates-arrive-en-france/ChateauRochegude-300x297.png)](/assets/2015/03/2015-03-24-socrates-arrive-en-france/ChateauRochegude.png)
 
 Au cœur de la Drôme provençale, à la limite du Vaucluse, à 1h45 de Lyon, 1h20 de Marseille, 1h15 de Montpellier et 1h d'Aix en Provence, le chateau de Rochegude s'inscrit parfaitement dans l'esprit des lieux isolés choisis habituellement pour les conférences SoCraTes.
 
@@ -61,4 +61,4 @@ Sur notre blog, vous pouvez aussi retrouver quelques posts concernant les coding
 
  
 
-[![Socrates_Citation](/assets/2015/03/2015-03-24-socrates-arrive-en-france/Socrates_Citation-290x300.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/Socrates_Citation.png)
+[![Socrates_Citation](/assets/2015/03/2015-03-24-socrates-arrive-en-france/Socrates_Citation-290x300.png)](/assets/2015/03/2015-03-24-socrates-arrive-en-france/Socrates_Citation.png)

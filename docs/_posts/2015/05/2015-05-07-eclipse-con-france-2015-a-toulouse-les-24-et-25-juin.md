@@ -12,7 +12,7 @@ tags:
   - "eclipsecon"
 ---
 
-| [![Eclipse Con France 2015](/assets/2015/05/2015-05-07-eclipse-con-france-2015-a-toulouse-les-24-et-25-juin/logo.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/logo.png) |
+| [![Eclipse Con France 2015](/assets/2015/05/2015-05-07-eclipse-con-france-2015-a-toulouse-les-24-et-25-juin/logo.png)](/assets/2015/05/2015-05-07-eclipse-con-france-2015-a-toulouse-les-24-et-25-juin/logo.png) |
 
  
 

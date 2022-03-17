@@ -35,7 +35,7 @@ Comprendre les notions de langage verbal, para-verbal et non verbal et de leur i
 
 ## Le formateur
 
-[![jomeo-19](/assets/2015/08/2015-08-24-cycle-ameliorer-communication/jomeo-19-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/08/jomeo-19.jpg)Jonathan a la double casquette comédien formateur / ingénieur informaticien dans le jeu vidéo.
+[![jomeo-19](/assets/2015/08/2015-08-24-cycle-ameliorer-communication/jomeo-19-300x200.jpg)](/assets/2015/08/2015-08-24-cycle-ameliorer-communication/jomeo-19.jpg)Jonathan a la double casquette comédien formateur / ingénieur informaticien dans le jeu vidéo.
 
 Il a commencé à pratiquer le théâtre il y a une dizaine d'années et a évolué au sein de plusieurs troupes avec lesquelles il a participé à la création de nombreuses pièces de théâtre classique (_Dom Juan_, _le Mariage de Figaro_...) ou de théâtre improvisé (_long form, cabaret, matchs..._).
 

@@ -59,6 +59,6 @@ La soirée aura lieu  **mardi 18 décembre** à partir de **19h30** chez [Cap
 
  
 
-[![](/assets/2012/12/2012-12-09-les-mains-dans-le-code-avec-ceylon/capitainetrain-300x67.png "capitainetrain")](http://www.duchess-france.org/wp-content/uploads/2012/12/capitainetrain.png)
+[![](/assets/2012/12/2012-12-09-les-mains-dans-le-code-avec-ceylon/capitainetrain-300x67.png "capitainetrain")](/assets/2012/12/2012-12-09-les-mains-dans-le-code-avec-ceylon/capitainetrain.png)
 
 Les inscriptions ouvriront le  **lundi 11 décembre à midi** sur [EventBrite](http://ceylon.eventbrite.com "Eventbrite").

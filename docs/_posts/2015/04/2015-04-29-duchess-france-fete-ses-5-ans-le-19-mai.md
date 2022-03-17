@@ -13,7 +13,7 @@ tags:
   - "women"
 ---
 
-| ### **[![anniv](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/anniv.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/anniv.png)Et oui...** |
+| ### **[![anniv](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/anniv.png)](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/anniv.png)Et oui...** |
 
 ## **Duchess France a 5 ans déjà !**
 
@@ -39,7 +39,7 @@ Nous vous remercions pour nous avoir suivis et soutenues dans cette aventure et 
 
 ### Présentation des intervenantes
 
-[![duchess](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/duchess.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/duchess.png)
+[![duchess](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/duchess.png)](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/duchess.png)
 
 Emilie Graziana, 29 ans, est développeuse java chez Kyriba depuis 2015. Elle travaillait auparavant pour Lotsys, la filiale technologique de la Française des Jeux. Elle vit à Paris mais elle est originaire de la région Centre. Très passionnée par le dessin, c'est en entrant à l'IUT informatique de Montreuil option imagerie numérique qu'elle découvre l'algorithmie et choisit la programmation comme métier.
 
@@ -47,7 +47,7 @@ Emilie Graziana, 29 ans, est développeuse java chez Kyriba depuis 2015. Elle t
 
  
 
-[![katia_aresti](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/katia_aresti.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/katia_aresti.png)Katia Aresti, originaire de Bilbao, a suivi une formation d’Ingénieur en Informatique à l’université de Deusto. Elle est développeuse spécialisée sur des backend Java/scala depuis 10 ans et freelance depuis 3 ans. Très impliquée dans la communauté informatique, elle est membre du bureau Duchess France. Elle a également été contributrice sur des projets source Apache et co-organise le MongoDB User Group. Enfin elle intervient à des conférences et évènements techniques autour de Java, Scala, Agilité ou encore MongoDB. Et sur son temps libre (ce qu’il en reste), elle se passionne pour l’art dramatique et le théâtre en particulier.
+[![katia_aresti](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/katia_aresti.png)](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/katia_aresti.png)Katia Aresti, originaire de Bilbao, a suivi une formation d’Ingénieur en Informatique à l’université de Deusto. Elle est développeuse spécialisée sur des backend Java/scala depuis 10 ans et freelance depuis 3 ans. Très impliquée dans la communauté informatique, elle est membre du bureau Duchess France. Elle a également été contributrice sur des projets source Apache et co-organise le MongoDB User Group. Enfin elle intervient à des conférences et évènements techniques autour de Java, Scala, Agilité ou encore MongoDB. Et sur son temps libre (ce qu’il en reste), elle se passionne pour l’art dramatique et le théâtre en particulier.
 
  
 
@@ -63,6 +63,6 @@ Emilie Graziana, 29 ans, est développeuse java chez Kyriba depuis 2015. Elle t
 
  
 
-[![RSLN](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/RSLN.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/04/RSLN.jpeg) [![google](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/google.png)](http://www.duchess-france.org/wp-content/uploads/2013/02/google.png) [![NUMA-Paris](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/NUMA-Paris.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/NUMA-Paris.png)
+[![RSLN](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/RSLN.jpeg)](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/RSLN.jpeg) [![google](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/google.png)](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/google.png) [![NUMA-Paris](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/NUMA-Paris.png)](/assets/2015/04/2015-04-29-duchess-france-fete-ses-5-ans-le-19-mai/NUMA-Paris.png)
 
 [Conçu par Freepik](http://fr.freepik.com/vecteurs-libre/cartes-happy-birthday-avec-des-ballons_760747.htm)

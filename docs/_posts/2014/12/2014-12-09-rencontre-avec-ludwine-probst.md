@@ -18,7 +18,7 @@ tags:
 
 | Nous continuons notre série d'interview avec le portrait de Ludwine Probst, Data Engineer, speakeuse et membre très active de la team Duchess France. |
 
-\[caption id="attachment\_5002" align="aligncenter" width="300"\][![DSC_0368](/assets/2014/12/2014-12-09-rencontre-avec-ludwine-probst/DSC_0368-300x239.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/12/DSC_0368.jpg) Devoxx Anvers 2014 - Photo Amira Lakhal\[/caption\]
+\[caption id="attachment\_5002" align="aligncenter" width="300"\][![DSC_0368](/assets/2014/12/2014-12-09-rencontre-avec-ludwine-probst/DSC_0368-300x239.jpg)](/assets/2014/12/2014-12-09-rencontre-avec-ludwine-probst/DSC_0368.jpg) Devoxx Anvers 2014 - Photo Amira Lakhal\[/caption\]
 
 **Est-ce que tu peux te présenter ?**
 

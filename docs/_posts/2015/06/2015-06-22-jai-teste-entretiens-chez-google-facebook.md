@@ -29,7 +29,7 @@ Le contenu : **très dense**.  Des problèmes autour de la théorie des algorit
 
 Bref.
 
-[![omygod](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/omygod.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/omygod.png)
+[![omygod](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/omygod.png)](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/omygod.png)
 
  
 
@@ -116,7 +116,7 @@ La solution O(N) temps et O(N) espace serait celle qui stocke les numéros du ta
 
 Je me suis répété tout ça en boucle pendant des heures le lendemain et les jours qui ont suivi. Pourquoi je n’ai pas codé tout ça ? Pourquoi je n'ai pas dit ça ?
 
-[![23-bigrelease-poster-730685](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/23-bigrelease-poster-730685.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/23-bigrelease-poster-730685.jpg)
+[![23-bigrelease-poster-730685](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/23-bigrelease-poster-730685.jpg)](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/23-bigrelease-poster-730685.jpg)
 
  
 
@@ -130,7 +130,7 @@ Je savais que c’était mort.
 
 Je sentais que pour Google je n’avais pas été exceptionnelle, mais vu le stress du moment et les questions, honnêtement j’aurais pu être meilleure mais cela n’aurait pas fait une grosse différence. Je n'ai pas montré une grosse confiance en moi mais j'ai aucun regret, rien à me reprocher. Le résultat pourrait être positif ou négatif ; le dénouement allait dépendre de l'appréciation de la personne qui m’a fait passer l’entretien et de la performance d’autres candidats face aux mêmes questions. Concernant l’entretien Facebook, comme dans une rupture, je suis passée par plusieurs étapes.
 
-[![nullCoder](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/nullCoder.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/nullCoder.jpg)
+[![nullCoder](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/nullCoder.jpg)](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/nullCoder.jpg)
 
 1. **Le choc :** je n'ai pas répondu ça, si ? si ?
 2. **La négation :** Non, le gars de Facebook va comprendre que ce n'était pas normal, on va me donner une 2ème opportunité
@@ -161,7 +161,7 @@ L’inconnu nous fait ressentir une grosse pression. Etant débutant, sans avoir
 
  
 
-[![driving](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/driving.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/driving.jpg) Lors de l'examen de conduite, on est jugé par quelqu’un qu’on ne connaît pas du tout et qui va dire oui/non. C'est binaire. Et tu ne peux pas lui dire: "_Attend, je recommence là. J'ai été stressé ! Pendant les cours je conduis très bien !"_ L'examen dure 30 minutes, ils voient plein de candidats et n'ont pas de temps à perdre. Tu dois donner ton meilleur et tu dois montrer que tu maîtrises. Si tu te rates tu peux le repasser, oui, mais dans quelques mois après avoir conduit d’avantage. Plus on conduit, plus on est confrontés aux nouvelles situations de la route, on maîtrise mieux la voiture, on gagne de l'expérience et on gagne en confiance. Plus on est sûr, plus on a les bons réflexes et les automatismes pour faire face au stress et avoir les bonnes réactions au volant de façon plutôt tranquille. Et puis passer une première fois l'examen enlève une partie de l’inconnue. Remplacez _conduire_ par _coder_ et _examen_ par _entretien_ dans tout ce que je viens de dire.
+[![driving](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/driving.jpg)](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/driving.jpg) Lors de l'examen de conduite, on est jugé par quelqu’un qu’on ne connaît pas du tout et qui va dire oui/non. C'est binaire. Et tu ne peux pas lui dire: "_Attend, je recommence là. J'ai été stressé ! Pendant les cours je conduis très bien !"_ L'examen dure 30 minutes, ils voient plein de candidats et n'ont pas de temps à perdre. Tu dois donner ton meilleur et tu dois montrer que tu maîtrises. Si tu te rates tu peux le repasser, oui, mais dans quelques mois après avoir conduit d’avantage. Plus on conduit, plus on est confrontés aux nouvelles situations de la route, on maîtrise mieux la voiture, on gagne de l'expérience et on gagne en confiance. Plus on est sûr, plus on a les bons réflexes et les automatismes pour faire face au stress et avoir les bonnes réactions au volant de façon plutôt tranquille. Et puis passer une première fois l'examen enlève une partie de l’inconnue. Remplacez _conduire_ par _coder_ et _examen_ par _entretien_ dans tout ce que je viens de dire.
 
 Je n’ai aucun regret d’avoir participé à ce process, au contraire. **J’ai E N O R M E M E N T  appris**. Après des années à coder en entreprise avec des frameworks, j'ai redécouvert les bases et l'algorithme. **Et c'est P A S S I O N A N T**. J'ai envie de continuer à apprendre, à résoudre des problèmes et à m'entraîner, mais plutôt en tâche de fond pour éventuellement repasser dans 1 an.
 
@@ -173,7 +173,7 @@ Des personnes avec qui m'entraîner à passer des entretiens avant l'entretien f
 
 Tenter la chance en **binôme** pour réaliser et discuter des exercices,  passer à tour de rôle des entretiens hang-out avec du timing, réaliser du code en white-board dans une salle pendant les pauses déjeuner, par exemple, et des entretiens de test sous ce format là. Si vous avez l’occasion d’y passer, je profite cet article pour vous dire de ne pas hésiter à me contacter  à ce sujet.
 
-[![Goten-Trunks-Fusion-dragon-ball-all-fusion-33379377-855-482](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/Goten-Trunks-Fusion-dragon-ball-all-fusion-33379377-855-482.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/Goten-Trunks-Fusion-dragon-ball-all-fusion-33379377-855-482.png)
+[![Goten-Trunks-Fusion-dragon-ball-all-fusion-33379377-855-482](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/Goten-Trunks-Fusion-dragon-ball-all-fusion-33379377-855-482.png)](/assets/2015/06/2015-06-22-jai-teste-entretiens-chez-google-facebook/Goten-Trunks-Fusion-dragon-ball-all-fusion-33379377-855-482.png)
 
  
 

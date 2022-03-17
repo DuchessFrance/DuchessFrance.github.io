@@ -20,7 +20,7 @@ J’ai eu la grande chance d’y participer grâce à Duchess France que je reme
 
 Du coup, j’ai pu voir et échanger avec plusieurs membres de Duchess France en vraie, c’était cool !
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9417-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/25A9417.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9417-300x200.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9417.jpg)
 
 Pour la petite histoire perso, je suis Product Owner dans la Business Unit Intelligent Transportation Systems (ITS) de Continental situé à Toulouse depuis moins d’un an. J’ai un passé de 11 ans de développement, puis j’ai eu des opportunités de direction et responsable d’équipe. Mais je reste très intéressée sur tout ce qui gravite autour du dev et ops.
 
@@ -48,7 +48,7 @@ Voici dans les grandes lignes comment s’est déroulé ma journée au devfest d
 
 ## Début du DevFest dès 8h00
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_080703-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_080703.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_085038-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_085038.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170927_195836-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170927_195836.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_080703-300x225.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_080703.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_085038-300x225.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_085038.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170927_195836-300x225.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170927_195836.jpg)
 
 L’accueil était top et pro : remise des badges, des goodies avec une équipe bien organisée. Malgré le monde, il n’y avait pas d’attente et on avait les infos bien en vue et claires pour choisir les conférences.
 
@@ -64,7 +64,7 @@ Elle a été présentée par Thomas Gx et le thème choisi était : **le dévelo
 
 J’ai beaucoup aimé ses remarques et son humour sur l’attendu du développeur dans le monde industriel actuel et ses conseils d’émancipation.
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/PANO_20170928_091901-1024x281.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/PANO_20170928_091901.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/PANO_20170928_091901-1024x281.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/PANO_20170928_091901.jpg)
 
  
 
@@ -84,13 +84,13 @@ Les thématiques proposées : web, langages, methods&tools, cloud, mobile, data,
 
 Speaker : [Alain Regnier](https://2017.devfesttoulouse.fr/speakers/236/)
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/alain-regnier.jpg-150x150.png)](http://www.duchess-france.org/wp-content/uploads/2018/02/alain-regnier.jpg.png)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/alain-regnier.jpg-150x150.png)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/alain-regnier.jpg.png)
 
  
 
 L'objectif de cette présentation est de montrer un cas concret d'utilisation de Kubernetes et des containers pour le déploiement d'une application Web écrite en Java.
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9265-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/25A9265.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9265-300x200.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9265.jpg)
 
  
 
@@ -102,19 +102,19 @@ Honnêtement, j’ai suivi dans les grandes lignes les avantages et inconvénien
 
 Speaker: [Tugdual Grall](https://2017.devfesttoulouse.fr/speakers/286/)
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/tugdual-grall-150x150.jpeg)](http://www.duchess-france.org/wp-content/uploads/2018/02/tugdual-grall.jpeg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/tugdual-grall-150x150.jpeg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/tugdual-grall.jpeg)
 
 Cette présentation nous fait découvrir Flink, son coeur, ses APIs et l'approche "streaming first" pour vos applications.
 
 Le speaker nous sensibilise sur l'architecture orientée flux (Streaming Architecture), le fait que cela permet de réduire la latence entre l'émission d'un évènement et les décisions à prendre en fonction des évènements passés et en cours, tout en gardant une architecture globale simple et efficace.
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9302-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/25A9302.jpg) [](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_123002.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_123002-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_123002.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9302-300x200.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9302.jpg)[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_123002-300x224.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_123002.jpg)
 
  
 
 J’ai été impressionnée par la présentation de Tugdual. Bien évidemment, on peut avoir des problèmes techniques lors des conférences, et là il y avait un bel écran noir pour débuter.
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_120557-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_120557.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_120557-300x224.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_120557.jpg)
 
 Hé bien, cela ne l’a pas perturbé pour autant :) ! Bravo ! Il a pu démarré sa présentation sans aucun soucis, les slides sont apparues vers la fin. En définitive, je trouvais que j’étais plus focalisé par son discours sans.
 
@@ -128,11 +128,11 @@ Ce que j’en retiens, c’est qu’il s’agit d’une approche à tester avec 
 
 Speaker: [Pauline Iogna](https://2017.devfesttoulouse.fr/speakers/333/)
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/pauline-iogna-150x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/pauline-iogna.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/pauline-iogna-150x150.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/pauline-iogna.jpg)
 
 La présentation était de démontrer comment créer de manière simple un chatbot.
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_131738-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_131738.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_131738-300x224.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_131738.jpg)
 
 Facile à première vue mais non ;) !
 
@@ -152,7 +152,7 @@ Sinon, ce que je peux ajouter c’est que le cinéma a été aménagé en diffé
 
 On était plusieurs à pouvoir représenter Continental sur leur big stand car, attention, on était le partenaire Platinium du DevFest !! On a apprécié de pouvoir montrer aux participants du DevFest, que Continental ne fait pas que des pneus :-D, que l’éventail des domaines de compétences recherché était important, l’ADN de cette nouvelle entité au sein d’un groupe comme Continental, la manière de travailler ...
 
- [](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_073609.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_073609-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_073609.jpg) [](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_130801.jpg) [![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_130801-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/IMG_20170928_130801.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_073609-300x224.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_073609.jpg)[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_130801-300x224.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/IMG_20170928_130801.jpg)
 
 [une p’tite video aussi](https://photos.google.com/share/AF1QipMfHtkuct_pxSUzSXFR-352fXTkE7A7w0nCT8-D3t-IUOtQzpEqmXc4vW13Id5fGg/photo/AF1QipNM6aD0eSYOC3cYKEAx5VYJ_4x-uHpDufn3ifJ0?key=UnZ2elUyTkYxa3o4bWw5TURFVzgzUTNhZFVvalJn)
 
@@ -185,4 +185,4 @@ Un très grand BRAVO à toute l’équipe organisatrice !!!
 
  
 
-[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9605-1024x683.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/02/25A9605.jpg)
+[![](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9605-1024x683.jpg)](/assets/2018/03/2018-03-12-retour-devfest-toulouse-2017/25A9605.jpg)

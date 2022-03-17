@@ -43,7 +43,7 @@ Evénements organisés tout au long de cette année 2014, avec volonté de mettr
 - 10/2014 : [Code Week](http://www.duchess-france.org/retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/) : organisation et co-organisation d’événements sur Paris, [Lyon](http://www.meetup.com/Duchess-France-Meetup/events/207546922/), [Marseille](http://www.meetup.com/Duchess-France-Meetup/events/206457582/) et Limoges lors de la code week (semaine européenne de découverte de la programmation).
 - 12/2014 : [Hands-On Cassandra](http://www.duchess-france.org/hands-on-cassandra/) avec Amira Lakhal, DuyHai Doan et Meriem El Aaboudi
 
-[![DuchessFr2015](/assets/2015/01/2015-01-13-retour-sur-une-annee-2014-forte-en-changements-et-en-rencontres/DuchessFr2015-1024x825.png)](http://www.duchess-france.org/wp-content/uploads/2015/01/DuchessFr2015.png)
+[![DuchessFr2015](/assets/2015/01/2015-01-13-retour-sur-une-annee-2014-forte-en-changements-et-en-rencontres/DuchessFr2015-1024x825.png)](/assets/2015/01/2015-01-13-retour-sur-une-annee-2014-forte-en-changements-et-en-rencontres/DuchessFr2015.png)
 
  
 
@@ -78,7 +78,7 @@ Voici quelques chiffres sur nos réalisations  2014 dont nous sommes assez fiè
 - organisation événements dans 4 villes : Paris, Lyon, Aix-en-Provence et Limoges,
 - ****et une communauté plus active, plus diversifiée et plus ouverte.****
 
-\[caption id="attachment\_5158" align="aligncenter" width="388"\][![IMG_7225](/assets/2015/01/2015-01-13-retour-sur-une-annee-2014-forte-en-changements-et-en-rencontres/IMG_7225-300x180.jpg "Les Duchess (France, Belgique, Pays-Bas) - Devoxx Anvers 2014")](http://www.duchess-france.org/wp-content/uploads/2015/01/IMG_7225.jpg) Les Duchess (France, Belgique, Pays-Bas) - Devoxx Anvers 2014\[/caption\]
+\[caption id="attachment\_5158" align="aligncenter" width="388"\][![IMG_7225](/assets/2015/01/2015-01-13-retour-sur-une-annee-2014-forte-en-changements-et-en-rencontres/IMG_7225-300x180.jpg "Les Duchess (France, Belgique, Pays-Bas) - Devoxx Anvers 2014")](/assets/2015/01/2015-01-13-retour-sur-une-annee-2014-forte-en-changements-et-en-rencontres/IMG_7225.jpg) Les Duchess (France, Belgique, Pays-Bas) - Devoxx Anvers 2014\[/caption\]
 
 **PS : vous trouverez toutes les infos pour nous suivre et nous rejoindre dans le widget “Suivez-nous !” sur la droite !**
 

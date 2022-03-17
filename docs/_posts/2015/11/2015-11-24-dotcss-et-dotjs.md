@@ -17,25 +17,25 @@ Ces 2 conférences font partie des [dotConférences,](http://www.dotconferences.
 
 ## dotCSS
 
-[![dotCSS](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotcss-300x145.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/dotcss.png)
+[![dotCSS](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotcss-300x145.png)](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotcss.png)
 
 Elle aura lieu au **Théâtre des Variétés** dans le 2ème arrondissement à Paris.
 
 Quelques speakers :
 
-[![dotCSS speakers](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotcss_speakers-1024x537.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/dotcss_speakers.png)
+[![dotCSS speakers](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotcss_speakers-1024x537.png)](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotcss_speakers.png)
 
  
 
 ## dotJS
 
-[![dotJS](/assets/2015/11/2015-11-24-dotcss-et-dotjs/CT7-Sl5WIAANulk-300x145.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/CT7-Sl5WIAANulk.png)
+[![dotJS](/assets/2015/11/2015-11-24-dotcss-et-dotjs/CT7-Sl5WIAANulk-300x145.png)](/assets/2015/11/2015-11-24-dotcss-et-dotjs/CT7-Sl5WIAANulk.png)
 
 Elle aura lieu au **Théâtre de Paris** dans le 9ème à Paris.
 
 Quelques speakers :
 
-[![dotJS speakers](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotjs_speakers.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/dotjs_speakers.png)
+[![dotJS speakers](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotjs_speakers.png)](/assets/2015/11/2015-11-24-dotcss-et-dotjs/dotjs_speakers.png)
 
  
 

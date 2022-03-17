@@ -49,7 +49,7 @@ Ce hands-on est fait pour vous :
 
  **La soirée aura lieu le mardi **24 septembre à partir de 19h30** dans les locaux de [Zenexity](http://zenexity.com/ "zenexity"), que nous remercions pour son accueil et pour le buffet.**
 
-[![logo-zenexity](/assets/2013/09/2013-09-17-hands-on-neo4j/logo-zenexity-300x150.png)](http://www.duchess-france.org/wp-content/uploads/2013/09/logo-zenexity.png)
+[![logo-zenexity](/assets/2013/09/2013-09-17-hands-on-neo4j/logo-zenexity-300x150.png)](/assets/2013/09/2013-09-17-hands-on-neo4j/logo-zenexity.png)
 
  
 

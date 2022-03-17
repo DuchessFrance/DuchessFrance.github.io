@@ -20,7 +20,7 @@ coverImage: "jcd2017.png"
 
 | Pour la première fois en France, le Jenkins Community Day aura lieu à la Grande Crypte à Paris, le 11 juillet prochain. |
 
-[![](/assets/2017/07/2017-07-10-jenkins-community-day-2017-plus-grand-rassemblement-autour-de-jenkins-france-11-juillet/1.png)](http://www.duchess-france.org/wp-content/uploads/2017/07/1.png)
+[![](/assets/2017/07/2017-07-10-jenkins-community-day-2017-plus-grand-rassemblement-autour-de-jenkins-france-11-juillet/1.png)](/assets/2017/07/2017-07-10-jenkins-community-day-2017-plus-grand-rassemblement-autour-de-jenkins-france-11-juillet/1.png)
 
 La conférence sera articulé sous la forme d’une journée entière avec une seule « track ». Vous aurez l’occasion de rencontrer les meilleurs experts Jenkins, des leaders de la communauté CI/CD et des éditeurs à la pointe proposant des technologies complémentaires à Jenkins afin d’en apprendre plus sur les dernières nouveautés et leur poser vos questions surtout qu’une session dédiée questions et réponses sera organisée en fin de journée avec les différents speakers.
 

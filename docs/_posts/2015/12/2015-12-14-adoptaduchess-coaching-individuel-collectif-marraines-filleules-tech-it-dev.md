@@ -13,7 +13,7 @@ coverImage: "AdoptADuchess_Marrainage.jpg"
 
 | C'est bientôt Noël et pour cette nouvelle année qui arrive à grands pas, nous sommes pleines de bonnes résolutions ! En effet, cela fait quelques temps que nous préparons un nouveau programme : **#AdoptADuchess** |
 
-[![Badge2](/assets/2015/12/2015-12-14-adoptaduchess-coaching-individuel-collectif-marraines-filleules-tech-it-dev/Badge2.png)](http://www.duchess-france.org/wp-content/uploads/2015/12/Badge2.png)
+[![Badge2](/assets/2015/12/2015-12-14-adoptaduchess-coaching-individuel-collectif-marraines-filleules-tech-it-dev/Badge2.png)](/assets/2015/12/2015-12-14-adoptaduchess-coaching-individuel-collectif-marraines-filleules-tech-it-dev/Badge2.png)
 
 **C'est une initiative de marrainage qui permet d'encourager, soutenir, conseiller, valoriser et élargir le réseau de femmes qui débutent dans les métiers techniques de l'informatique.**
 

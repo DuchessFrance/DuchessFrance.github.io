@@ -15,7 +15,7 @@ coverImage: "sunnyTech.png"
 
 | La première édition de [Sunny Tech](https://sunny-tech.io/) aura lieu à Montpellier les 28 et 29 juin. C'est une “Conférence de qualité pour des techs passionnés”. |
 
-[![](/assets/2018/06/2018-06-18-venez-a-sunny-tech-les-28-et-29-juin-a-montpellier/sunnyTech-300x267.png)](http://www.duchess-france.org/wp-content/uploads/2018/05/sunnyTech.png)
+[![](/assets/2018/06/2018-06-18-venez-a-sunny-tech-les-28-et-29-juin-a-montpellier/sunnyTech-300x267.png)](/assets/2018/06/2018-06-18-venez-a-sunny-tech-les-28-et-29-juin-a-montpellier/sunnyTech.png)
 
 Au [programme](https://sunny-tech.io/schedule/day1), 4 tracks en parallèle, 26 conférences (50 min), 11 ateliers (1h40) et des 12 quickies (20 min) sur les thèmes :
 

@@ -21,15 +21,15 @@ Si vous êtes un développeur front-end, il est fortement recommandé de limiter
 
 Les 2 captures suivantes présentent la même page web sans puis avec les optimisations des requêtes serveurs grâce à la compression et la concaténation des fichiers. Il y a un gain de quelques centaines de millisecondes, ce qui est non négligeable.
 
-[![Sélection_122](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_122-300x145.png)](http://www.duchess-france.org/wp-content/uploads/2016/05/Sélection_122.png)
+[![Sélection_122](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_122-300x145.png)](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_122.png)
 
-[![Sélection_128](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_128-300x95.png)](http://www.duchess-france.org/wp-content/uploads/2016/05/Sélection_128.png)
+[![Sélection_128](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_128-300x95.png)](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_128.png)
 
  
 
 **Qu'est que Grunt ?**
 
-[![gruntjs](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/gruntjs-300x109.png)](http://www.duchess-france.org/wp-content/uploads/2016/04/gruntjs.png)
+[![gruntjs](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/gruntjs-300x109.png)](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/gruntjs.png)
 
  
 
@@ -111,7 +111,7 @@ Pour tout développeur/euse, compiler à chaque fois que vous faites des modific
 
 Pour lancer le watch :
 
-`grunt watch` Votre console va ressembler à cela : [![Sélection_129](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_129-300x171.png)](http://www.duchess-france.org/wp-content/uploads/2016/05/Sélection_129.png)
+`grunt watch` Votre console va ressembler à cela : [![Sélection_129](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_129-300x171.png)](/assets/2016/06/2016-06-03-bonnes-pratiques-automatiser-tache-grunt/Sélection_129.png)
 
 **Conclusion** Grunt est un outil très puissant qui facilite la vie des développeurs, son eco-système est très riche grâce à ses différents modules. Je me suis focalisée sur quelques uns dans cet article, mais il en reste plusieurs tels que :
 

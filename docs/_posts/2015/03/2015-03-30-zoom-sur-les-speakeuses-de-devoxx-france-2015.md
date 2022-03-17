@@ -16,7 +16,7 @@ tags:
 
 | Du 8 au 10 avril 2015 se tiendra au [Palais des Congrès](http://www.devoxx.fr/dvxfr15-lieu/ "Lieu 2015") à Paris la 4ème édition de [Devoxx France](http://www.devoxx.fr/), la conférence pour les Développeurs Passionnés. Plus de 1800 personnes sont attendues pour ces 3 jours de conférences, de rencontres et d’ateliers pratiques. Le programme complet de Devoxx France 2015 est disponible [ici](http://cfp.devoxx.fr/2015/index.html). |
 
-[![banniere_carre_devoxx_fr_2015_256_256](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/banniere_carre_devoxx_fr_2015_256_256.png)](http://www.duchess-france.org/wp-content/uploads/2015/01/banniere_carre_devoxx_fr_2015_256_256.png)
+[![banniere_carre_devoxx_fr_2015_256_256](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/banniere_carre_devoxx_fr_2015_256_256.png)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/banniere_carre_devoxx_fr_2015_256_256.png)
 
 Avec plus de 88 conférences, 35 TIA (Tools-in-Action), 10 universités, 34 Quickies, 26 Labs de type hands-on et 23 BOF, le CFP de Devoxx France a sélectionné cette année 220 sujets sur 670 propositions.
 
@@ -41,7 +41,7 @@ Enfin les Duchesses se retrouverons lors du **[BOF Duchess France](http://cfp
 
 Agilité, Méthodologie & Tests - Jeudi 9 Avril : 17:40 - 18:30 - Salle Paris 241
 
-**_[![profil](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/profil.png)](http://www.duchess-france.org/wp-content/uploads/2013/12/profil.png)A propos du Sujet :_** Que faire quand malgré une bonne couverture de tests unitaires et autres, de trop nombreux bugs sont découverts par les utilisateurs ? Comment faire pour bien tester les interactions entre les multiples fonctionnalités d'un logiciel ?Les tests exploratoires sont un de outils pour répondre à ce genre de questions. Vous verrez dans cette session les différents outils qui peuvent vous aider à atteindre ce but, vous apprendrez également à observer et identifier les variations utiles à explorer. Cette méthodologie est applicable dans tous les domaines, quelque soit le type d’application (batch, mobile, web …).
+**_[![profil](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/profil.png)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/profil.png)A propos du Sujet :_** Que faire quand malgré une bonne couverture de tests unitaires et autres, de trop nombreux bugs sont découverts par les utilisateurs ? Comment faire pour bien tester les interactions entre les multiples fonctionnalités d'un logiciel ?Les tests exploratoires sont un de outils pour répondre à ce genre de questions. Vous verrez dans cette session les différents outils qui peuvent vous aider à atteindre ce but, vous apprendrez également à observer et identifier les variations utiles à explorer. Cette méthodologie est applicable dans tous les domaines, quelque soit le type d’application (batch, mobile, web …).
 
 _**A propos de Mathilde :**_  Retrouvez son portait sur notre blog : [Rencontre avec Mathilde Lemée, développeuse freelance et fondatrice de Aetys](http://www.duchess-france.org/rencontre-avec-mathilde-lemee-developpeuse-freelance-et-fondatrice-de-aetys/) et suivez-la sur twitter [@MathildeLemee](https://twitter.com/MathildeLemee)
 
@@ -51,7 +51,7 @@ _**A propos de Mathilde :**_  Retrouvez son portait sur notre blog : [Rencontre
 
 Agilité, Méthodologie & Tests - Mercredi 8 Avril : 18:40 - 19:10 -  Amphi Bleu
 
-**_[![cecilia](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/cecilia.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/03/cecilia.jpeg)A propos du Sujet :_** Vous cherchez un modèle de gestion des branches pour Git facile et pratique à utiliser ? Vous souhaitez avoir un workflow simple et agile pour gérer vos versions ? Venez jeter un oeil à GitFlow ! Je vous présenterai ce workflow qui nous a permis de mieux organiser nos versions et de remplacer SVN par Git sans regret.
+**_[![cecilia](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/cecilia.jpeg)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/cecilia.jpeg)A propos du Sujet :_** Vous cherchez un modèle de gestion des branches pour Git facile et pratique à utiliser ? Vous souhaitez avoir un workflow simple et agile pour gérer vos versions ? Venez jeter un oeil à GitFlow ! Je vous présenterai ce workflow qui nous a permis de mieux organiser nos versions et de remplacer SVN par Git sans regret.
 
 _**A propos de Cécilia:**_  Retrouvez son portait sur notre blog : [Rencontre avec Cécilia Bossard, développeuse et fan d’agilité!](http://www.duchess-france.org/rencontre-avec-cecilia-bossard-developpeuse-et-fan-dagilite/) et suivez-la sur twitter [@CeciliaBossard](https://twitter.com/CeciliaBossard)
 
@@ -61,7 +61,7 @@ _**A propos de Cécilia:**_  Retrouvez son portait sur notre blog : [Rencontre
 
 Web, Mobile & Tests - Mercredi 8 Avril : 17:55- 18:25 -  Salle Neuilly 251
 
-**_[![AuroreZheLi](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/AuroreZheLi.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/AuroreZheLi.jpg)A propos du Sujet :_** Vous avez envie de gérer et créer des objets en 3D dans un navigateur Web ? La programmation de graphiques WebGL en mode natif, avec des "shaders" et les opérations mathématiques nécessaires (matrices, quaternions,, etc.), peut vous apparaître complexe, mais Three.js est là pour facilité la tâche ! Je vais partager mon expérience sur Three.js suite à une réalisation d'un projet de suivi des trajectoires des satellites en temps réel.
+**_[![AuroreZheLi](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/AuroreZheLi.jpg)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/AuroreZheLi.jpg)A propos du Sujet :_** Vous avez envie de gérer et créer des objets en 3D dans un navigateur Web ? La programmation de graphiques WebGL en mode natif, avec des "shaders" et les opérations mathématiques nécessaires (matrices, quaternions,, etc.), peut vous apparaître complexe, mais Three.js est là pour facilité la tâche ! Je vais partager mon expérience sur Three.js suite à une réalisation d'un projet de suivi des trajectoires des satellites en temps réel.
 
 _**A propos de Zhe:**_  Retrouvez-là sur [@AuroreZheLI](http://www.twitter.com/@AuroreZheLI "Twitter Aurore Zhe Li")
 
@@ -71,7 +71,7 @@ _**A propos de Zhe:**_  Retrouvez-là sur [@AuroreZheLI](http://www.twitter.co
 
 Web, Mobile & Tests - Mercredi 8 Avril : 17:55- 18:25 -  Salle Maillot
 
-**_[![Stephanie_Moallic](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/Stephanie_Moallic.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/Stephanie_Moallic.jpg)A propos du Sujet :_** Créer une application c’est chouette mais créer pour plusieurs plateformes (Android, iOs, ChromeOS…) deviens vite fastidieux. Et si on essayait de créer une seule application que l'on pourrait générer pour ces plateformes? Et pourquoi on n'essaierait pas de la faire à l'aide des outils de génération multiplateforme comme Cordova et PhoneGap, de Ionic Framework (s’appuyant sur ces outils de génération) et des technologies web (HTML, CSS, AngularJS...)? Lors de ce TIA, je vous propose de créer une application en live à l’aide de Ionic Framework.
+**_[![Stephanie_Moallic](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/Stephanie_Moallic.jpg)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/Stephanie_Moallic.jpg)A propos du Sujet :_** Créer une application c’est chouette mais créer pour plusieurs plateformes (Android, iOs, ChromeOS…) deviens vite fastidieux. Et si on essayait de créer une seule application que l'on pourrait générer pour ces plateformes? Et pourquoi on n'essaierait pas de la faire à l'aide des outils de génération multiplateforme comme Cordova et PhoneGap, de Ionic Framework (s’appuyant sur ces outils de génération) et des technologies web (HTML, CSS, AngularJS...)? Lors de ce TIA, je vous propose de créer une application en live à l’aide de Ionic Framework.
 
 _**A propos de Stéphanie:**_  Retrouvez son article notre blog : [Présentation de Ionic Framework](http://www.duchess-france.org/presentation-de-ionic-framework/) et suivez-la sur twitter [@steffy\_29](https://twitter.com/steffy_29)
 
@@ -81,7 +81,7 @@ _**A propos de Stéphanie:**_  Retrouvez son article notre blog : [Présentatio
 
 Java, JVM, Java SE/EE - Jeudi 9 Avril : 12:35- 12:55 -  Salle Paris 242-AB
 
-**_[![Pauline](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/Pauline.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/Pauline.png)A propos du Sujet :_** C'est en travaillant sur un backend restful que j'ai découvert Guice. C'est un framwork leger d'injection de dépendances, distribué par google. Au cour de ce quickie je partagerai mon experience sur ce framework, nous verrons comment grace à l'injection nous allons nous débarrasser des "new" et des factory et rendre le code plus rapide à développer et facile à tester.
+**_[![Pauline](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/Pauline.png)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/Pauline.png)A propos du Sujet :_** C'est en travaillant sur un backend restful que j'ai découvert Guice. C'est un framwork leger d'injection de dépendances, distribué par google. Au cour de ce quickie je partagerai mon experience sur ce framework, nous verrons comment grace à l'injection nous allons nous débarrasser des "new" et des factory et rendre le code plus rapide à développer et facile à tester.
 
 **_A propos de Pauline :_**  Retrouvez son portrait sur notre blog : [Rencontre avec Pauline Iogna, développeuse Java et enseignante à l’université](http://www.duchess-france.org/rencontre-avec-pauline-iogna-developpeuse-java-et-enseignante-a-luniversite/ "Pauline Iogna") et suivez-la sur twitter [@pauline\_io](https://twitter.com/pauline_io)
 
@@ -91,7 +91,7 @@ Java, JVM, Java SE/EE - Jeudi 9 Avril : 12:35- 12:55 -  Salle Paris 242-AB
 
 Agilité, Méthodologie & Tests - Vendredi 10 Avril : 12:35 - 12:55 - Salle Paris 242-AB
 
-**_[![ellene](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/ellene.png)](http://www.duchess-france.org/wp-content/uploads/2013/12/ellene.png)A propos du Sujet :_** Mal coder n’est pas une maladie ! Tout développeur passe par cette phase et cela peut provoquer un choc traumatique qui peut ressurgir des semaines, des mois voire des années après l’évènement. Les plus fragiles n’arrivent pas à faire face à cette souffrance et commettent des actes irréparables comme l’abandon du développement ou pire, s’entourent de logiciels aguicheurs promettant de créer des applications sans code ! Pour s’en sortir, il est important de comprendre ce que l’on vit et de se faire aider. Ce quickie est là pour aider les développeurs en souffrance. Vous pouvez vous en sortir !
+**_[![ellene](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/ellene.png)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/ellene.png)A propos du Sujet :_** Mal coder n’est pas une maladie ! Tout développeur passe par cette phase et cela peut provoquer un choc traumatique qui peut ressurgir des semaines, des mois voire des années après l’évènement. Les plus fragiles n’arrivent pas à faire face à cette souffrance et commettent des actes irréparables comme l’abandon du développement ou pire, s’entourent de logiciels aguicheurs promettant de créer des applications sans code ! Pour s’en sortir, il est important de comprendre ce que l’on vit et de se faire aider. Ce quickie est là pour aider les développeurs en souffrance. Vous pouvez vous en sortir !
 
 **_A propos de Ellène :_**  Retrouvez-là sur [Une vie de dev](http://uneviededev.com/ "Une vie de dev") et suivez-la sur twitter [@ElleneSiber](https://twitter.com/ElleneSiber)
 
@@ -103,7 +103,7 @@ Future<Devoxx> Jeudi 9 Avril : 20:30 - 21:30 - Salle Paris 241
 
 Cette année, vous aurez l'occasion de voir un quicky sur tree.js de [Zhe Li](https://twitter.com/AuroreZheLI "Zhe Li on twitter").  Puis [Sameh Ben Fredj](https://twitter.com/samehbenf "Sameh on twitter") viendra ensuite nous parler de l'Internet des Objets (IoT), des technologies en place et des cas d'usages actuels. Enfin, [Aurea Muñoz Hernandez](https://twitter.com/auritamh "Auri on twitter") nous expliquera comment faire une bonne API Fluent.
 
-[![bof](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/bof.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/03/bof.jpeg)
+[![bof](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/bof.jpeg)](/assets/2015/03/2015-03-30-zoom-sur-les-speakeuses-de-devoxx-france-2015/bof.jpeg)
 
 ## Elles sont aussi présentes
 

@@ -26,7 +26,7 @@ tags:
 
 ## Agile France
 
-[![logo-agile-france-2013](/assets/2013/02/2013-02-08-un-coup-de-pouce-pour-agile-france-et-mix-it/logo-agile-france-2013.png)](http://www.duchess-france.org/wp-content/uploads/2013/02/logo-agile-france-2013.png) [Agile France](conf.agile-france.org) en est à sa 8ème édition cette année ! Cette année les organisateurs souhaitent cibler les praticiens avancés et permettre aux participants d'apprendre en dehors des sentiers battus. Mais qu'est-ce qu'un praticien avancé ? Un praticien avancé agile, c'est par exemple :
+[![logo-agile-france-2013](/assets/2013/02/2013-02-08-un-coup-de-pouce-pour-agile-france-et-mix-it/logo-agile-france-2013.png)](/assets/2013/02/2013-02-08-un-coup-de-pouce-pour-agile-france-et-mix-it/logo-agile-france-2013.png) [Agile France](conf.agile-france.org) en est à sa 8ème édition cette année ! Cette année les organisateurs souhaitent cibler les praticiens avancés et permettre aux participants d'apprendre en dehors des sentiers battus. Mais qu'est-ce qu'un praticien avancé ? Un praticien avancé agile, c'est par exemple :
 
 - le développeur agile familier des pratiques agiles comme le TDD, le Pair Programming ... qui souhaite toujours s'améliorer et partager/apprendre de nouvelles pratiques,
 - le product owner qui souhaite partager/apprendre la façon de maximiser la valeur de son produit,

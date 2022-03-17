@@ -10,7 +10,7 @@ tags:
   - "usi"
 ---
 
-| [![USI_logo](/assets/2015/06/2015-06-19-ledition-usi-2015-revient-les-23-juillet/USI_logo1.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/USI_logo1.png) |
+| [![USI_logo](/assets/2015/06/2015-06-19-ledition-usi-2015-revient-les-23-juillet/USI_logo1.png)](/assets/2015/06/2015-06-19-ledition-usi-2015-revient-les-23-juillet/USI_logo1.png) |
 
 Les 2 & 3 Juillet, se tiendra l'édition de l'[USI 2015](http://www.usievents.com/fr) au Carrousel du Louvre à Paris.
 
@@ -24,7 +24,7 @@ Plusieurs membres de Duchess France seront présentes pour suivre les sessions 
 
 Cette année encore, l'USI semble prometteuse avec un riche éventail d'intervenants dont notamment:
 
-[![](/assets/2015/06/2015-06-19-ledition-usi-2015-revient-les-23-juillet/Capture-d-----cran-2015-06-16----17.45.31.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/Capture-d-----cran-2015-06-16----17.45.31.png)
+[![](/assets/2015/06/2015-06-19-ledition-usi-2015-revient-les-23-juillet/Capture-d-----cran-2015-06-16----17.45.31.png)](/assets/2015/06/2015-06-19-ledition-usi-2015-revient-les-23-juillet/Capture-d-----cran-2015-06-16----17.45.31.png)
 
 [Hilary Mason](https://twitter.com/hmason?lang=en), PDG de Fast Forward Labs, nous expliquera comment devenir une vraie "Data Driven Company".
 

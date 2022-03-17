@@ -73,4 +73,4 @@ Faut-il rester toujours jeune dans sa tête pour garder cette créativité et 
 
  
 
-[![marie-curies-quotes-4](/assets/2015/02/2015-02-11-science-factor-retour-de-la-journee/marie-curies-quotes-4.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/02/marie-curies-quotes-4.jpg)
+[![marie-curies-quotes-4](/assets/2015/02/2015-02-11-science-factor-retour-de-la-journee/marie-curies-quotes-4.jpg)](/assets/2015/02/2015-02-11-science-factor-retour-de-la-journee/marie-curies-quotes-4.jpg)

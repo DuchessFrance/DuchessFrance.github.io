@@ -63,7 +63,7 @@ You can chain operations together, but keep in mind that the computation only ru
 
 Here is a general diagram to understand the data flow.
 
-[![spark workshop streaming dataframe](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/global_view-1024x535.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/global_view.png)
+[![spark workshop streaming dataframe](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/global_view-1024x535.png)](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/global_view.png)
 
 1. To the left, the input data comes from an external storage. The data are loaded into Spark and an RDD is created.
 2. The big orange box represents an RDD with its partitions (small orange boxes). You can chain transformations on RDDs. As the transformations are lazy, the partitions will be sent across the nodes of the cluster when you will call an action on the RDD.
@@ -144,7 +144,7 @@ Assuming #spark is a hashtag that appears in tweet1, tweet3, tweet39, the invert
 
 [Spark Streaming](https://spark.apache.org/docs/1.4.0/streaming-programming-guide.html) is a component of Spark to process live data streams in a scalable, high-throughput and fault-tolerant way.
 
-#  [![spark workshop streaming dataframe](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/streaming-1024x322.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/streaming.png)
+#  [![spark workshop streaming dataframe](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/streaming-1024x322.png)](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/streaming.png)
 
 In fact Spark Streaming receives live input data streams and divides the data into batches, which are then processed by the Spark engine to generate the final stream of results in batches.
 
@@ -167,7 +167,7 @@ A DataFrame is a distributed collection of data organized into named columns. It
 
 DataFrames can be constructed from different sources such as: structured data files, tables in Hive, external databases, or existing RDDs.
 
-[![spark workshop streaming dataframe](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/dataframe-1024x279.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/dataframe.png)
+[![spark workshop streaming dataframe](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/dataframe-1024x279.png)](/assets/2015/06/2015-06-30-starting-with-spark-in-practice/dataframe.png)
 
 > In the exercise you will:
 > 

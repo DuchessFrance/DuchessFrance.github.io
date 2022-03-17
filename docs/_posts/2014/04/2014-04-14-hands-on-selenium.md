@@ -27,7 +27,7 @@ Les prérequis seront envoyés par mail quelques jours avant le Hands-On. Ce Han
 
 Le Hands-On sera animé par Myrtille Vandemeulebrouck, Aurea Muñoz et Mathilde Lemée.
 
-_[![Photo_myrtille](/assets/2014/04/2014-04-14-hands-on-selenium/Photo_myrtille.png)](http://www.duchess-france.org/wp-content/uploads/2014/04/Photo_myrtille.png)__Myrtille Vandemeulebrouck, est développeuse Java /JEE en finance depuis 8 ans._
+_[![Photo_myrtille](/assets/2014/04/2014-04-14-hands-on-selenium/Photo_myrtille.png)](/assets/2014/04/2014-04-14-hands-on-selenium/Photo_myrtille.png)__Myrtille Vandemeulebrouck, est développeuse Java /JEE en finance depuis 8 ans._
 
  
 
@@ -37,7 +37,7 @@ _[![Photo_myrtille](/assets/2014/04/2014-04-14-hands-on-selenium/Photo_myrtille.
 
  
 
-_[![AuriCv](/assets/2014/04/2014-04-14-hands-on-selenium/AuriCv-249x300.png)](http://www.duchess-france.org/wp-content/uploads/2014/04/AuriCv.png)_
+_[![AuriCv](/assets/2014/04/2014-04-14-hands-on-selenium/AuriCv-249x300.png)](/assets/2014/04/2014-04-14-hands-on-selenium/AuriCv.png)_
 
 _Aurea Muñoz développ__e principalement autour de la plateforme Java depuis 2005. Actuellement en mission chez Orange, elle est passionnée par les pratiques agiles notamment l'amélioration continue de la qualité du code et intervient sur les sujets autour de Java et l'agilité sous la forme de workshops_.
 

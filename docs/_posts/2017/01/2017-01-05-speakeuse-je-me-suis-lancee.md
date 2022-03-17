@@ -15,7 +15,7 @@ coverImage: "CwWOLwwWQAAxIxb.jpg"
 
  
 
-[![Elisabel Genereux - DevFest Toulouse 2016](/assets/2017/01/2017-01-05-speakeuse-je-me-suis-lancee/CwWOLwwWQAAxIxb-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/01/CwWOLwwWQAAxIxb.jpg)
+[![Elisabel Genereux - DevFest Toulouse 2016](/assets/2017/01/2017-01-05-speakeuse-je-me-suis-lancee/CwWOLwwWQAAxIxb-300x169.jpg)](/assets/2017/01/2017-01-05-speakeuse-je-me-suis-lancee/CwWOLwwWQAAxIxb.jpg)
 
 Voici son témoignage :
 

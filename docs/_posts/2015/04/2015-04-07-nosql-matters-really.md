@@ -14,7 +14,7 @@ tags:
 
 | #  **Of course it does !** |
 
-[![klecks-orange](/assets/2015/04/2015-04-07-nosql-matters-really/klecks-orange.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/klecks-orange.png)
+[![klecks-orange](/assets/2015/04/2015-04-07-nosql-matters-really/klecks-orange.png)](/assets/2015/04/2015-04-07-nosql-matters-really/klecks-orange.png)
 
 I was last friday at NoSQL Matters 2015, 27th march, in Paris, and it was great. The first day March, 26 th was a training day I could not assist to. So, go there next year if you want to know !
 

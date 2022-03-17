@@ -40,7 +40,7 @@ Au départ j’y suis allée pour découvrir, sans d’attentes particulières. 
 
  
 
-[![IMG_7666](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/IMG_7666.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/09/IMG_7666.jpg)
+[![IMG_7666](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/IMG_7666.jpg)](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/IMG_7666.jpg)
 
  
 
@@ -50,7 +50,7 @@ J’ai eu la chance de pouvoir en profiter et de suivre en dehors de ma formatio
 
 Au final, j'ai acquis et développé de nouvelles compétences techniques mais pas seulement : par le biais de WI-Filles j'ai rencontré beaucoup de personnes dans le milieu du numérique et informatique, exerçant des métiers variés et tous passionnés par ce qu’ils faisaient. Du coup ça a boosté ma motivation de savoir que je pourrai en choisissant l’informatique faire un métier qui «s'adapte» à ce que j'aime faire.
 
-[![wi-filles](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/wi-filles-1024x256.png)](http://www.duchess-france.org/wp-content/uploads/2015/09/wi-filles.png)
+[![wi-filles](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/wi-filles-1024x256.png)](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/wi-filles.png)
 
  
 
@@ -70,7 +70,7 @@ Je trouve que les profs de mon IUT sont vraiment très compréhensifs et encoura
 
  
 
-[![cute](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/cute.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/10/cute.jpeg)
+[![cute](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/cute.jpeg)](/assets/2015/10/2015-10-01-kaouthar-azzoune-le-code-pourquoi-pas-un-truc-de-filles/cute.jpeg)
 
  
 

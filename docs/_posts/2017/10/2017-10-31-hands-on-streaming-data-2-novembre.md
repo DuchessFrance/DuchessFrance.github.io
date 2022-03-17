@@ -68,7 +68,7 @@ Openshift est la plateforme d'orchestration des conteneurs qui est développée 
 
 ### A propos des animateurs
 
-[![galder zamarreño](/assets/2017/10/2017-10-31-hands-on-streaming-data-2-novembre/galder-150x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/10/galder-150x150.jpg)
+[![galder zamarreño](/assets/2017/10/2017-10-31-hands-on-streaming-data-2-novembre/galder-150x150.jpg)](/assets/2017/10/2017-10-31-hands-on-streaming-data-2-novembre/galder-150x150.jpg)
 
 Galder est un des co-créateurs d'[Infinispan](http://infinispan.org/Infinispan) (Caché Distribué et In-Memory Datagrid de RedHat). Au sein de l'équipe, il est responsable de l'architecture client/serveur et il a développé le client Node.js pour Infinispan. Galder est un orateur réputé et invité à des nombreuses conférences dans les 4 coins du monde depuis quelques années. Passionné des nouvelles technologies, il est particulièrement intéressé à la programmation fonctionnelle, et il code aussi en Scala et Haskell. Suivez-le sur [GitHub](https://github.com/galderz) et [@galderz](https://twitter.com/galderz).
 

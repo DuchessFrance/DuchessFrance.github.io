@@ -13,7 +13,7 @@ tags:
   - "devoxx"
 ---
 
-| > [![banniere_carre_devoxx_fr_2015_128_128](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/banniere_carre_devoxx_fr_2015_128_128.png)](http://www.duchess-france.org/wp-content/uploads/2015/01/banniere_carre_devoxx_fr_2015_128_128.png)Devoxx France c’est un peu le Woodstock des développeurs. (entendu lors de la 1ère édition) Organisé par des développeurs pour les développeurs, ce grand rassemblement de passionnés offre bien plus que 3 jours de conférences : des moments intenses faits de rencontres, d’échanges, de discussions vives - ce qui se passe quand un développeur rencontre un autre développeur passionné - des partages de savoirs et des tas d'idées. |
+| > [![banniere_carre_devoxx_fr_2015_128_128](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/banniere_carre_devoxx_fr_2015_128_128.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/banniere_carre_devoxx_fr_2015_128_128.png)Devoxx France c’est un peu le Woodstock des développeurs. (entendu lors de la 1ère édition) Organisé par des développeurs pour les développeurs, ce grand rassemblement de passionnés offre bien plus que 3 jours de conférences : des moments intenses faits de rencontres, d’échanges, de discussions vives - ce qui se passe quand un développeur rencontre un autre développeur passionné - des partages de savoirs et des tas d'idées. |
 
  
 
@@ -41,7 +41,7 @@ Oui, il arrive que les salles soient déjà pleines en avance. Donc quand on ne 
 
  
 
-[![equipe](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/equipe.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/equipe.jpg)
+[![equipe](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/equipe.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/equipe.jpg)
 
  
 
@@ -53,7 +53,7 @@ Oui, il arrive que les salles soient déjà pleines en avance. Donc quand on ne 
 
 [Rodolphe Gelin](http://www.franceinter.fr/emission-les-savanturiers-rodolphe-gelin-roboticien) a présenté la dimension sociale de la robotique à laquelle nous ne sommes pas très habitués. Des robots très mignons dont l’aspect suscite de la tendresse, conçus pour accompagner des personnes âgées dans leurs maisons pour assurer un suivi de prise de médicaments par exemple, aider a la lecture des journaux ou prévenir quelqu’un en cas de besoin. Il nous a rappelé que derrière la technologie et les programmes il y a toujours des personnes, les développeurs entre autres. On ne peut donc pas considérer la technologie comme un ennemi : elle ne se fabrique pas toute seule ; ce sont bien les humains qui la créent.
 
-[![07929141-photo-nao-aldebaran](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/07929141-photo-nao-aldebaran.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/07929141-photo-nao-aldebaran.jpg)
+[![07929141-photo-nao-aldebaran](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/07929141-photo-nao-aldebaran.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/07929141-photo-nao-aldebaran.jpg)
 
  
 
@@ -61,7 +61,7 @@ Oui, il arrive que les salles soient déjà pleines en avance. Donc quand on ne 
 
 [Quentin Adam](https://twitter.com/waxzce) veut bousculer le monde de la Production et du DevOps. Il compare l'hébergement des applications avec le réseau électrique. Lorsque nous branchons nos appareils au réseau électrique, nous ne nous demandons pas si cela va fonctionner ou pas : cela marche toujours. Le réseau est maintenu par des techniciens dont c’est le métier et qui ne s’occupent pas des appareils qui viennent s’y brancher dessus après. Quentin propose d’arriver a quelque chose du même genre au niveau de la production.
 
-[![keynote](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/keynote.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/keynote.png)
+[![keynote](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/keynote.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/keynote.png)
 
  
 
@@ -75,9 +75,9 @@ Peut-être un peu too much, mais sympa. Si vous voulez voir les slides, elles so
 
 Nous voulons être Brian Goetz quand nous serons grandes. Architecte et leader, participant aux spécifications de java, il profite des 20 ans que java fête cette année pour annoncer ce qui nous attend, les nouveaux concepts. Et des sages conseils.
 
-[![brian](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/brian.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/brian.jpg)
+[![brian](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/brian.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/brian.jpg)
 
-[![tweet_brian](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/tweet_brian.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/tweet_brian.png)
+[![tweet_brian](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/tweet_brian.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/tweet_brian.png)
 
  
 
@@ -89,7 +89,7 @@ Le vendredi midi, on attrape le sandwich et on l'avale sur le pouce pour aller
 
 > **Savoir faire le deuil de son code,** [Ellène Siber Dijoux](https://twitter.com/ellenesiber)
 
-[![une_vide_de-dev](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/une_vide_de-dev.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/une_vide_de-dev.png) En plus d'être une développeuse professionnelle et engagée pour les Duchesses, Ellène est une artiste ! Elle manie la plume et le crayon avec talent pour nous restituer en dessin des moments de la vie de développeur. Voir [le portrait d'Ellène](http://www.duchess-france.org/rolemodel/ellene-dijoux/). C'est simple, son quickie était poilant ! Derrière son pupitre, ses dessins projetés à l'écran, Ellène nous racontait l'histoire d'un développeur qui doit faire face à la séparation d'avec...son code. Fin de projet ou changement d'équipe, nouveau départ, nous avons tous eu à faire à cette situation pas forcément facile à gérer. Et c'est bien là l'art d'Ellène : savoir retranscrire en quelques dessins et quelques bulles de texte, des situations qui nous parlent avec humour et finesse. De quoi prendre un peu de recul sur nous-même et sur le milieu de l'entreprise. Drôle et pertinent, quelle chance d'avoir assisté à ce quickie ! Pour voir ses slides c'est par [ici](http://fr.slideshare.net/ElleneDijoux/savoir-faire-le-deuil-de-son-code) .
+[![une_vide_de-dev](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/une_vide_de-dev.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/une_vide_de-dev.png) En plus d'être une développeuse professionnelle et engagée pour les Duchesses, Ellène est une artiste ! Elle manie la plume et le crayon avec talent pour nous restituer en dessin des moments de la vie de développeur. Voir [le portrait d'Ellène](http://www.duchess-france.org/rolemodel/ellene-dijoux/). C'est simple, son quickie était poilant ! Derrière son pupitre, ses dessins projetés à l'écran, Ellène nous racontait l'histoire d'un développeur qui doit faire face à la séparation d'avec...son code. Fin de projet ou changement d'équipe, nouveau départ, nous avons tous eu à faire à cette situation pas forcément facile à gérer. Et c'est bien là l'art d'Ellène : savoir retranscrire en quelques dessins et quelques bulles de texte, des situations qui nous parlent avec humour et finesse. De quoi prendre un peu de recul sur nous-même et sur le milieu de l'entreprise. Drôle et pertinent, quelle chance d'avoir assisté à ce quickie ! Pour voir ses slides c'est par [ici](http://fr.slideshare.net/ElleneDijoux/savoir-faire-le-deuil-de-son-code) .
 
 Dahlia regrette de n'avoir pu assister aussi au quickie d'[Alexis Kinsella](https://twitter.com/alexiskinsella) sur [GTFS ce qui marche, ce qui marche pas](http://fr.slideshare.net/alexiskinsella/devoxx-france-2015-gtfs) (format auquel nous nous étions confrontées lors du dev de notre appli MoovSimply et l'intégration de 700M0 de données). Mais son quickie tombait en plein à l'heure des sandwich...et le pratique panier repas n’est pas autorisé dans les salles !
 
@@ -101,15 +101,15 @@ Dahlia regrette de n'avoir pu assister aussi au quickie d'[Alexis Kinsella](htt
 
 Voilà LA conférence pour comprendre que 3 verres emboités (sans la bière) forment un monoïde. (Ben oui, quoi...On a bien notre ensemble fermé sur son opération - l'emboîtement, qui est associatif - qui possède un élément neutre, vous savez, le verre qui peut pas contenir de bière). C'est avec plein d'énergie (comme à son habitude) que Cyrille nous montre, d'une que nous connaissons déjà les monoïdes, et de deux, tel M. Jourdain et sa prose, que nous les pratiquons sans le savoir . Par exemple : les entiers et l'addition, les listes avec la concaténation, les String, ….
 
-[![daliah_monoides](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/daliah_monoides.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/daliah_monoides.png) Et bien évidemment, le plus important, il nous explique leur intérêt et ce que cela peut apporter concrètement dans notre quotidien de développeur : simplifier au maximum le code, "gagner la bataille de la complexité du code" ! Effectivement, il est courant de gérer 3 cas particuliers en informatique : le 0, le 1 et le beaucoup (c'est-à-dire l'absence, le singulier et le pluriel). Ces 3 cas peuvent être regroupés dans une structure unique, un monoïde : l'élément neutre est l'absence, le singulier est une implémentation et enfin le pluriel est géré grâce à l'opération. Ainsi 3 cas sont ramenés à 1 seul cas, encapsulés dans notre monoïde, et la complexité est simplifiée. En java par exemple, munis d'une implémentation de référence, d'un pattern NullObject et du Composite nous aurons notre monoïde.
+[![daliah_monoides](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/daliah_monoides.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/daliah_monoides.png) Et bien évidemment, le plus important, il nous explique leur intérêt et ce que cela peut apporter concrètement dans notre quotidien de développeur : simplifier au maximum le code, "gagner la bataille de la complexité du code" ! Effectivement, il est courant de gérer 3 cas particuliers en informatique : le 0, le 1 et le beaucoup (c'est-à-dire l'absence, le singulier et le pluriel). Ces 3 cas peuvent être regroupés dans une structure unique, un monoïde : l'élément neutre est l'absence, le singulier est une implémentation et enfin le pluriel est géré grâce à l'opération. Ainsi 3 cas sont ramenés à 1 seul cas, encapsulés dans notre monoïde, et la complexité est simplifiée. En java par exemple, munis d'une implémentation de référence, d'un pattern NullObject et du Composite nous aurons notre monoïde.
 
-[![Monoids](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/DSC_0139_crop-.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/DSC_0139_crop-.jpg) A force de pratique, on arrive à reconnaître des monoïdes partout dans le code...déjà que Cyrille voit des \*DD partout. En tout cas là, clairement le vocabulaire DDD étant très proche des monoïdes, autant apprendre aussi le DDD et faire d'une pierre 2 coups nous dit-il. C'est vraiment très utile aussi en terme de scalabilité et de performance. Si nous avons énormément de volume de données, il faudra décomposer en morceaux d'abord, attention à être être associatif pour pouvoir paralléliser, puis rassembler les morceaux (le reduce). Objectif réussi : on sort de là en ayant quelques idées d'amélioration de son code et en ayant très envie d'une bière fraîche ! Vous pouvez voir les slides [ici](http://fr.slideshare.net/cyriux/ur-domain-haz-monoids-dddx-nyc-2014)
+[![Monoids](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/DSC_0139_crop-.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/DSC_0139_crop-.jpg) A force de pratique, on arrive à reconnaître des monoïdes partout dans le code...déjà que Cyrille voit des \*DD partout. En tout cas là, clairement le vocabulaire DDD étant très proche des monoïdes, autant apprendre aussi le DDD et faire d'une pierre 2 coups nous dit-il. C'est vraiment très utile aussi en terme de scalabilité et de performance. Si nous avons énormément de volume de données, il faudra décomposer en morceaux d'abord, attention à être être associatif pour pouvoir paralléliser, puis rassembler les morceaux (le reduce). Objectif réussi : on sort de là en ayant quelques idées d'amélioration de son code et en ayant très envie d'une bière fraîche ! Vous pouvez voir les slides [ici](http://fr.slideshare.net/cyriux/ur-domain-haz-monoids-dddx-nyc-2014)
 
 ## Java 8 in Anger, Trisha Gee
 
 Salle comble pour une super conférence avec du live coding ! Trisha réalise une application pour publier des tweets avec des websockets; et tout fonctionne du premier coup, même pas d’effet démo !
 
-[![trisha_coding](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/trisha_coding.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/trisha_coding.png)
+[![trisha_coding](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/trisha_coding.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/trisha_coding.png)
 
  
 
@@ -146,7 +146,7 @@ Place à une conférence qui explore l'humain et la société au travers de l'é
 
  
 
-[![ecritures](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/dsc_2542.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/dsc_2542.jpg) Aujourd'hui nous écrivons de plus en plus à l'aide d'un outil numérique sur un clavier. C'est plus rapide et demande moins de précision (sans compter l'aide du correcteur orthographique). Or le cerveau se conditionne, se lasse. Les conférencières s'interrogent :
+[![ecritures](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/dsc_2542.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/dsc_2542.jpg) Aujourd'hui nous écrivons de plus en plus à l'aide d'un outil numérique sur un clavier. C'est plus rapide et demande moins de précision (sans compter l'aide du correcteur orthographique). Or le cerveau se conditionne, se lasse. Les conférencières s'interrogent :
 
 - Quelles sont les parties du cerveau sollicitées pour l'écriture ?
 - Y a-t-il une différence selon que nous écrivons en cursif ou en script ?
@@ -179,15 +179,15 @@ Pour être dans la continuité de Devoxx, le BOF des Duchess a proposé des ligh
 > 
 >  
 
-[![auri_bof](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/auri_bof.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/auri_bof.png) Prendre du temps pour écrire une bonne api fluent est important. Le but : avoir des façades sémantiques pour exprimer le plus clairement possible l'api. Bien évidemment, les méthodes trop longues qui font trop de choses (vous savez : CheckValidityForProductAndAddProductOrder ) sont à proscrire. Alors comment faire ? Il faut séparer les responsabilités. Une méthode égale une action. Bien sûr, avoir une connaissance fonctionnelle est nécessaire pour réussir à simplifier. Quelques exemples : le Building Pattern, Fluentlenium, la librairie d'assertions de tests AssertJ, fluent de codeStory.
+[![auri_bof](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/auri_bof.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/auri_bof.png) Prendre du temps pour écrire une bonne api fluent est important. Le but : avoir des façades sémantiques pour exprimer le plus clairement possible l'api. Bien évidemment, les méthodes trop longues qui font trop de choses (vous savez : CheckValidityForProductAndAddProductOrder ) sont à proscrire. Alors comment faire ? Il faut séparer les responsabilités. Une méthode égale une action. Bien sûr, avoir une connaissance fonctionnelle est nécessaire pour réussir à simplifier. Quelques exemples : le Building Pattern, Fluentlenium, la librairie d'assertions de tests AssertJ, fluent de codeStory.
 
 > Puis nous avons une superbe [Introduction à l’IoT](http://fr.slideshare.net/SamehBENFREDJ/living-in-a-connected-worlddevoxx2015duchess-france) avec [Sameh Ben Fredj](https://twitter.com/SamehBenF)
 
-[![sameh_bof](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/sameh_bof.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/sameh_bof.png) Sameh nous fait une présentation des objets connectés : ceux d'aujourd'hui de plus en plus présents, les enjeux, ce qui nous attend très bientôt, enfin tout de suite. Aujourd'hui, chaque objet sert à une chose précise et est traité unitairement : donner des infos pour la santé, pour le sport....Mais l'objectif c'est de faire communiquer tous ces objets ; on verra même apparaître des groupes d'objets connectés entre eux, des actions pourront être prises en fonction d'informations provenant de plusieurs sources, de groupes d'objets. Son enthousiasme est très communicatif, et on visualise très bien le monde de demain. Nul doute que l'assemblée présente ne regardera plus jamais l'Internet des objets de la même manière à la fin de ce talk.
+[![sameh_bof](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/sameh_bof.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/sameh_bof.png) Sameh nous fait une présentation des objets connectés : ceux d'aujourd'hui de plus en plus présents, les enjeux, ce qui nous attend très bientôt, enfin tout de suite. Aujourd'hui, chaque objet sert à une chose précise et est traité unitairement : donner des infos pour la santé, pour le sport....Mais l'objectif c'est de faire communiquer tous ces objets ; on verra même apparaître des groupes d'objets connectés entre eux, des actions pourront être prises en fonction d'informations provenant de plusieurs sources, de groupes d'objets. Son enthousiasme est très communicatif, et on visualise très bien le monde de demain. Nul doute que l'assemblée présente ne regardera plus jamais l'Internet des objets de la même manière à la fin de ce talk.
 
 > Heureusement pour ceux qui ne l'avait pas vue, Aurore Zhe Li a refait son talk sur Three.js
 
-[![aurore_bof](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/aurore_bof.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/aurore_bof.png) Aurore nous montre comment utiliser la librairie pour créer des scènes 3D dans le navigateur. Cela a l'air vraiment simple : créer une sphère, lui donner comme texture un planisphère, puis rajouter les reliefs, mettre les nuages : et voilà notre planète Terre. C'est en travaillant pour un laboratoire de recherche qu'elle l'a utilisé pour représenter la trajectoire de satellites autour de la terre. Elle nous montre le résultat : c'est vraiment bluffant !
+[![aurore_bof](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/aurore_bof.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/aurore_bof.png) Aurore nous montre comment utiliser la librairie pour créer des scènes 3D dans le navigateur. Cela a l'air vraiment simple : créer une sphère, lui donner comme texture un planisphère, puis rajouter les reliefs, mettre les nuages : et voilà notre planète Terre. C'est en travaillant pour un laboratoire de recherche qu'elle l'a utilisé pour représenter la trajectoire de satellites autour de la terre. Elle nous montre le résultat : c'est vraiment bluffant !
 
 ## le BOF Craftsmanship
 
@@ -213,7 +213,7 @@ Parce qu'il faut bien une fin. Mais quelle fin ;) Le vendredi à 17h40 [Les Cast
 
  
 
-[![cast_codeurs](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/cast_codeurs.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/cast_codeurs.png) La salle est comble, bien évidemment. Chacun sirote sa bière fraîche en écoutant ces CastCodeurs fous faire leur show. On rigole beaucoup dans la salle. Attention, le moment doit être compréhensible pour les auditeurs. D'abord une séquence Souvenirs : c'était il y a 20 ans. Les débuts de java, Matrix le film, le minitel, le Pentium, l'Internet avec un modem 56 kbit/s, le Bi-Bop, etc,... Ah là là, on était un petit nombre dans la salle à avoir connu tout ça ! Puis un bilan de Devoxx, les chiffres, les kilomètres parcourus, les thématiques, le café philoxx - les Castcodeurs ont été rejoins par Clarisse Herrenschmidt ainsi que Jean Lassègue philosophe. Ils sont fascinés par notre décontraction - inconnu pour le milieu universitaire - c'est une chance selon eux. Antonio nous confiera que le Devoxx' blues sévit bien pour les organisateurs....
+[![cast_codeurs](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/cast_codeurs.png)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/cast_codeurs.png) La salle est comble, bien évidemment. Chacun sirote sa bière fraîche en écoutant ces CastCodeurs fous faire leur show. On rigole beaucoup dans la salle. Attention, le moment doit être compréhensible pour les auditeurs. D'abord une séquence Souvenirs : c'était il y a 20 ans. Les débuts de java, Matrix le film, le minitel, le Pentium, l'Internet avec un modem 56 kbit/s, le Bi-Bop, etc,... Ah là là, on était un petit nombre dans la salle à avoir connu tout ça ! Puis un bilan de Devoxx, les chiffres, les kilomètres parcourus, les thématiques, le café philoxx - les Castcodeurs ont été rejoins par Clarisse Herrenschmidt ainsi que Jean Lassègue philosophe. Ils sont fascinés par notre décontraction - inconnu pour le milieu universitaire - c'est une chance selon eux. Antonio nous confiera que le Devoxx' blues sévit bien pour les organisateurs....
 
 > Nous aussi Antonio !
 
@@ -235,31 +235,31 @@ Une édition éclectique, bien organisée, pleins de goodies dont un superbe T-
 
 A Devoxx, on apprend. Vous allez découvrir des choses que vous n'utilisez pas au quotidien, ou même en discutant au couloir. Et puis, quelques présentation sympas pourront inspirer vos prochaines présentations !
 
-[![aprendre](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/aprendre.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/aprendre.jpg)
+[![aprendre](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/aprendre.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/aprendre.jpg)
 
 ## 2) Networking
 
 Devoxx est l'occasion de retrouver et discuter avec des anciens collègues, voir ou rencontrer de nouvelles personnes. C'est toujours intéressant !
 
-[![Devoxx Networking](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/DSC_1491.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/DSC_1491.jpg)
+[![Devoxx Networking](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/DSC_1491.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/DSC_1491.jpg)
 
 ## 3) Rencontrer des entreprises intéressantes
 
 Si vous pensez à changer de travail, plein d'exposants intéressants pourront vous séduire, l’occasion de parler avec des consultants qui travaillent dans des SSII ou éditeurs sympas.
 
-[![boites](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/boites.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/boites.jpg)
+[![boites](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/boites.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/boites.jpg)
 
 ## 4) Casser les statistiques
 
 5% de femmes. Donc si vous êtes une femme, l'année prochaine M U S T GO ! Nous devons remonter la barre des participantes !!
 
-[![filles_devoxx](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/filles_devoxx.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/filles_devoxx.jpg)
+[![filles_devoxx](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/filles_devoxx.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/filles_devoxx.jpg)
 
 ## 5) S'inspirer pour présenter un sujet l'année prochaine !
 
 C'est toujours géniale de s'inspirer des autres pour se lancer pour l'année suivante. Vous pouvez y constater que parmi les présentations on y trouve de tous les niveaux (débutant, intermédiaire, avancée) et les sujets sont vastes. Cela laisse beaucoup d’espace pour penser à un sujet, et puis dans tous les cas c’est au comité de sélection de décider si le sujet a sa place ou pas !
 
-[![risque_presenter](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/risque_presenter.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/risque_presenter.jpg)
+[![risque_presenter](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/risque_presenter.jpg)](/assets/2015/05/2015-05-03-un-devoxx-et-ca-repart-2/risque_presenter.jpg)
 
  
 

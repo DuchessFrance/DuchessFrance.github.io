@@ -17,7 +17,7 @@ Les Duchesses seront présentes à la conférence [Dot Scale](http://www.dotscal
 
  
 
-[![Capture d’écran 2014-04-21 à 18.15.14](/assets/2014/04/2014-04-22-conference-dot-scale-le-19-mai/Capture-d’écran-2014-04-21-à-18.15.14.png)](http://www.duchess-france.org/wp-content/uploads/2014/04/Capture-d’écran-2014-04-21-à-18.15.14.png)
+[![Capture d’écran 2014-04-21 à 18.15.14](/assets/2014/04/2014-04-22-conference-dot-scale-le-19-mai/Capture-d’écran-2014-04-21-à-18.15.14.png)](/assets/2014/04/2014-04-22-conference-dot-scale-le-19-mai/Capture-d’écran-2014-04-21-à-18.15.14.png)
 
  
 

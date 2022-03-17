@@ -14,7 +14,7 @@ tags:
 
 | Nous continuons cette série d'interviews avec [Claude Falguière](https://twitter.com/cfalguiere). Membre de la team Duchess France depuis le début, elle participe aussi à de nombreux autres projets : [ParisJUG](http://www.parisjug.org/), [Devoxx4Kids](http://www.devoxx4kids.org/), [Devoxx France](http://www.devoxx.fr/)... Dans cette interview, elle vous les présentera ainsi que ces motivations. Vous pourrez aussi en apprendre plus sur le comité de sélection de Devoxx France et avoir ses conseils. Enfin, développeuse touche-à-tout, elle nous parlera aussi des hackathons, bidouilleurs, makers, robots et objets connectés qu'elle met à l'honneur dans le track Future<Devoxx> dont elle est leader à Devoxx France. |
 
-[![claude_photographe_square](/assets/2014/04/2014-04-09-interview-de-claude-falguiere-devoxx-france-2014/claude_photographe_square-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/12/claude_photographe_square.jpg)
+[![claude_photographe_square](/assets/2014/04/2014-04-09-interview-de-claude-falguiere-devoxx-france-2014/claude_photographe_square-300x300.jpg)](/assets/2014/04/2014-04-09-interview-de-claude-falguiere-devoxx-france-2014/claude_photographe_square.jpg)
 
 **Blandine : Pour ceux qui ne te connaissent pas encore, peux-tu te présenter rapidement ?**
 
@@ -48,7 +48,7 @@ A Devoxx Anvers 2013, j’ai craqué sur un certain nombre de talks Future<Devox
 
 J’ai fait ma liste au Père Nöel au comité de programme de Devoxx France avec tous les talks intéressants et là ils m’ont dit “écoute, t’as qu’à venir et t’en occuper, on a besoin d’un track Future”. C’est ça le monde associatif. Si on veut que les idées se réalisent, il faut remonter les manches et se mettre au boulot.
 
-[![devoxx](/assets/2014/04/2014-04-09-interview-de-claude-falguiere-devoxx-france-2014/devoxx-300x115.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/03/devoxx.jpg)
+[![devoxx](/assets/2014/04/2014-04-09-interview-de-claude-falguiere-devoxx-france-2014/devoxx-300x115.jpg)](/assets/2014/04/2014-04-09-interview-de-claude-falguiere-devoxx-france-2014/devoxx.jpg)
 
 **Blandine : Alors comment ça se passe le comité de programme ?**
 

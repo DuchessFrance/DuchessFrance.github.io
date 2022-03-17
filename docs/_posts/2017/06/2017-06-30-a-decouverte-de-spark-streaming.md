@@ -34,7 +34,7 @@ Spark excelle dans l’analyse en temps réel grâce au module Spark Streaming.
 
 Spark Streaming permet ainsi d’analyser des flux de données en temps réel. Inversement à Apache Storm qui gère le flux de données d’un coup (_one at a time_), Spark Streaming découpe le flux de données en plusieurs petits batches à intervalle de temps régulier avant de les traiter. Il faut noter que avec Storm Trident, il possible aujourd’hui de faire du micro-batch sur un flux de données (_stream_) en s’assurant d’avoir une source fiable alors que Spark Streaming gère très bien le cas d’une source de données avec des échecs.
 
-[![](/assets/2017/06/2017-06-30-a-decouverte-de-spark-streaming/image2.png)](http://www.duchess-france.org/wp-content/uploads/2017/05/image2.png)
+[![](/assets/2017/06/2017-06-30-a-decouverte-de-spark-streaming/image2.png)](/assets/2017/06/2017-06-30-a-decouverte-de-spark-streaming/image2.png)
 
 ### DStream
 
@@ -125,7 +125,7 @@ ssc.awaitTermination()
 
 Après avoir décrit les actions à faire pour le flux, on démarre le streaming en appelant l’action _ssc.start()._ Ensuite, le traitement est lancé sur des threads différents. On peut arrêter le thread principal soit en précisant un événement particulier ou en attendant la fin de l’exécution _ssc.awaitTermination()_.
 
-##### Kafka [![](/assets/2017/06/2017-06-30-a-decouverte-de-spark-streaming/image1-300x174.png)](http://www.duchess-france.org/wp-content/uploads/2017/05/image1.png)stream
+##### Kafka [![](/assets/2017/06/2017-06-30-a-decouverte-de-spark-streaming/image1-300x174.png)](/assets/2017/06/2017-06-30-a-decouverte-de-spark-streaming/image1.png)stream
 
 Kafka est système de messagerie distribué. Il a pour but de conserver les messages de façon temporaire (comme pour un système de Queuing) permettant de garantir, lors de forts pics de charge, l’intégrité du message. Je vous conseille de lire l’article dessus qui est inclus dans ce numéro pour avoir plus d’informations.
 

@@ -28,13 +28,13 @@ Par ailleurs, elle fait partie de l'association [http://objectif-pour-emploi.fr/
 
 Nous voici donc toutes les 5  avec de gauche à droite et de haut en bas : Angélique, Soukaïna, Marion et moi-même!
 
- _[![](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/angelique-260x300.png)](http://www.duchess-france.org/wp-content/uploads/2014/09/angelique.png) [![10x15 3](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/10x15-3-199x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/09/10x15-3-199x300.jpg)_ 
+ _[![](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/angelique-260x300.png)](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/angelique.png) [![10x15 3](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/10x15-3-199x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/09/10x15-3-199x300.jpg)_ 
 
- _[![marion](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/marion.jpeg)](http://www.duchess-france.org/wp-content/uploads/2014/09/marion.jpeg) [![Agnès Crepet (15)](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/Agnès-Crepet-15-300x199.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/09/Agnès-Crepet-15-300x199.jpg)_ 
+ _[![marion](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/marion.jpeg)](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/marion.jpeg) [![Agnès Crepet (15)](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/Agnès-Crepet-15-300x199.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/09/Agnès-Crepet-15-300x199.jpg)_ 
 
 _A noter que les photos de Marion et Agnès sont d'Olivier Ezratty prises pour l’exposition ["Quelques femmes du numérique"](http://www.qfdn.net/)_
 
-Nous serons donc heureuse de vous proposer le **13 octobre** notre premier événement Duchess Lyon : un atelier “Découverte d'Android par la pratique”![![IlluAndroid](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/IlluAndroid-300x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/09/IlluAndroid.jpg)
+Nous serons donc heureuse de vous proposer le **13 octobre** notre premier événement Duchess Lyon : un atelier “Découverte d'Android par la pratique”![![IlluAndroid](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/IlluAndroid-300x150.jpg)](/assets/2014/09/2014-09-30-duchess-lyon-sagrandit-et-propose-son-premier-evenement/IlluAndroid.jpg)
 
 Retrouvez les informations sur le site de [CodeWeek](http://codeweek.eu/) et les inscriptions à l'atelier (24 places max!) sur notre groupe meetup : [http://www.meetup.com/Duchess-France-Meetup/events/207546922/](http://www.meetup.com/Duchess-France-Meetup/events/207546922/)
 

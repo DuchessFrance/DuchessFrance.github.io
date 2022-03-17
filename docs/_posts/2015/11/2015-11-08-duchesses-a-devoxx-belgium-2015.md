@@ -15,7 +15,7 @@ coverImage: "devoxxbe2015.jpeg"
 
 | Pour se consoler de l’hiver arrivant, la conférence [Devoxx Belgium](http://www.devoxx.be/) aura lieu du 9 au 13 novembre à Anvers o/. |
 
-[![devoxxbe2015](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxbe2015.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/11/devoxxbe2015.jpeg)
+[![devoxxbe2015](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxbe2015.jpeg)](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxbe2015.jpeg)
 
 Cette année encore les duchesses seront présentes !
 
@@ -33,15 +33,15 @@ Devoxx c’est une semaine de présentations en tout genre avec:
 
 - Des universités (cours magistral de 3h) et des conférences (présentation de 1 heure). Il y aura beaucoup de sujets sur java à l’occasion de ses 20 ans, mais également sur les thèmes du mobile, des microservices, du web (gulp, web components), docker, springboot, machine learning....
 
-[![devoxxbe2011-conference](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxbe2011-conference-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/11/devoxxbe2011-conference.jpg)
+[![devoxxbe2011-conference](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxbe2011-conference-300x200.jpg)](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxbe2011-conference.jpg)
 
 - Des hands-on labs pour coder en java, des timeseries avec spark, du TDD/BDD, du rxjava, du ratpack, du docker...
 
-[![devoxx-handsonlabs2-twitter](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxx-handsonlabs2-twitter-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/11/devoxx-handsonlabs2-twitter.jpg)
+[![devoxx-handsonlabs2-twitter](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxx-handsonlabs2-twitter-300x225.jpg)](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxx-handsonlabs2-twitter.jpg)
 
 - Le [hackergarten](http://blog.arungupta.me/java-ee-7-hackergarten-devoxx-2013/) pour débuguer des projets open sources.
 
-[![devoxxhackergarten-arunguablog](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxhackergarten-arunguablog.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/11/devoxxhackergarten-arunguablog.jpg)
+[![devoxxhackergarten-arunguablog](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxhackergarten-arunguablog.jpg)](/assets/2015/11/2015-11-08-duchesses-a-devoxx-belgium-2015/devoxxhackergarten-arunguablog.jpg)
 
 - Des tools-in-action (démos techniques) pour découvrir des cas d’usage d’outils comme docker, grails 3, firebase, les microservices, et beaucoup d’autres...
 - Des quickies (format court de 15 min) pendant les pauses déjeuner.

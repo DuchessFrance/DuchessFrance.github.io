@@ -20,7 +20,7 @@ tags:
 
 J’ai eu accès tôt à un ordinateur et j’ai commencé à vraiment m’intéresser à l’informatique adolescente, particulièrement à la sécurité. Je me suis cultivée sur le fonctionnement des OS, des réseaux, et j’étais fascinée par l’intelligence et l’ingéniosité dont faisaient preuve certains pour exploiter des failles techniques ou humaines, tordre l’usage de certains softs et s’infiltrer là ou ils ne devraient pas. J’avais 10 ans de retard sur la plupart des ezines que je lisais mais c’était une chouette période : la communauté française était active, j’ai rencontré beaucoup de gens talentueux et énormément appris. J’ai rejoint Epitech après mon bac, attirée par le programme très technique. J’y ai appris les bases du code et j’ai vite su que je ne serai pas développeur, pas passionnée par l’exercice. Il était clair que j’aurais du mal à faire une carrière intéressante dans la sécurité sans cette corde à mon arc, alors je suis passée de l’autre coté du miroir, celui où on construit et maintient des plateformes solides.
 
-[![Clémence Saussez](/assets/2015/03/2015-03-18-interview-de-clemence-saussez/clem.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/clem.jpg)
+[![Clémence Saussez](/assets/2015/03/2015-03-18-interview-de-clemence-saussez/clem.jpg)](/assets/2015/03/2015-03-18-interview-de-clemence-saussez/clem.jpg)
 
  
 

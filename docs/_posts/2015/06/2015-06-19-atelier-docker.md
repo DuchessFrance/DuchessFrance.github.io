@@ -11,7 +11,7 @@ tags:
   - "hands-on"
 ---
 
-| [![docker](/assets/2015/06/2015-06-19-atelier-docker/docker-300x268.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/docker.png) |
+| [![docker](/assets/2015/06/2015-06-19-atelier-docker/docker-300x268.png)](/assets/2015/06/2015-06-19-atelier-docker/docker.png) |
 
 [Docker](https://www.docker.com/) est devenu populaire depuis quelques années et facilite la vie des dévs et des ops en ce qui concerne le déploiement.
 

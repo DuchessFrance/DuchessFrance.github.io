@@ -23,7 +23,7 @@ Direction la Côte d’Ivoire à la rencontre de l'une d'entre elles : [Eléono
 
  
 
-[![DSC00513](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/DSC00513.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/10/DSC00513.jpg)
+[![DSC00513](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/DSC00513.jpg)](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/DSC00513.jpg)
 
  
 
@@ -57,7 +57,7 @@ Notre mission c’est de faire la promotion des Technologies de l’Information 
 
 Les ambitions des AmazoOn du web sont de mettre en place des cellules AmazoOn dans les écoles de filles, les écoles mixtes et les grandes écoles en vue de la sensibilisation aux TIC, puis de créer une génération d’enfants dit «numérique». Les AmazoOn du Web sont aussi là pour permettre l’épanouissement des femmes. Pour nous le développement et la formation de notre nation passe par la formation des femmes : « former une femme, c’est former toute une nation ».
 
-\[caption id="attachment\_7836" align="aligncenter" width="537"\][![bureau](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/bureau.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/10/bureau.jpg) La team AmazoOn du Web\[/caption\]
+\[caption id="attachment\_7836" align="aligncenter" width="537"\][![bureau](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/bureau.jpg)](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/bureau.jpg) La team AmazoOn du Web\[/caption\]
 
  
 
@@ -79,7 +79,7 @@ La suite pour nous c’est d’avoir toujours notre équipe forte, soudée et in
 
  
 
-[![Capture d’écran 2015-10-12 à 14.40.41](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/Capture-d-----cran-2015-10-12----14.40.41.png)](http://www.duchess-france.org/wp-content/uploads/2015/10/Capture-d-----cran-2015-10-12----14.40.41.png)
+[![Capture d’écran 2015-10-12 à 14.40.41](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/Capture-d-----cran-2015-10-12----14.40.41.png)](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/Capture-d-----cran-2015-10-12----14.40.41.png)
 
  
 
@@ -113,7 +113,7 @@ Depuis la visite d’Axelle Lemaire, les communautés s’activent pour fédére
 
  
 
-[![quote-we-cannot-change-what-we-are-not-aware-of-and-once-we-are-aware-we-cannot-help-but-change-sheryl-sandberg-50-69-02](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/quote-we-cannot-change-what-we-are-not-aware-of-and-once-we-are-aware-we-cannot-help-but-change-sheryl-sandberg-50-69-02.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/10/quote-we-cannot-change-what-we-are-not-aware-of-and-once-we-are-aware-we-cannot-help-but-change-sheryl-sandberg-50-69-02.jpg)
+[![quote-we-cannot-change-what-we-are-not-aware-of-and-once-we-are-aware-we-cannot-help-but-change-sheryl-sandberg-50-69-02](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/quote-we-cannot-change-what-we-are-not-aware-of-and-once-we-are-aware-we-cannot-help-but-change-sheryl-sandberg-50-69-02.jpg)](/assets/2015/10/2015-10-12-eleonore-koffi-amazoon-web/quote-we-cannot-change-what-we-are-not-aware-of-and-once-we-are-aware-we-cannot-help-but-change-sheryl-sandberg-50-69-02.jpg)
 
  
 

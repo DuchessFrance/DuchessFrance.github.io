@@ -17,7 +17,7 @@ coverImage: "IMG_6051_montage-copy.jpg"
 
 | [Simplon.co](http://simplon.co/) revient avec une toute nouvelle formation ! Elle s'appelle [CQP Développeur·se Nouvelles Technologies](http://simplon.co/developpeur-nouvelles-technologies-cqp-inscrit-au-rncp/), et elle est spécialisée sur le vaste écosystème ... Java !!! |
 
-[![java_logo](/assets/2015/10/2015-10-13-simplon-co-ouvre-nouvelle-formation-gratuite/java_logo.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/java_logo.png)
+[![java_logo](/assets/2015/10/2015-10-13-simplon-co-ouvre-nouvelle-formation-gratuite/java_logo.png)](/assets/2015/10/2015-10-13-simplon-co-ouvre-nouvelle-formation-gratuite/java_logo.png)
 
 ## Je ne connais pas Simplon.co ...
 

@@ -11,7 +11,7 @@ coverImage: "meetup_duchess_gcp.jpg"
 
 | Vous avez assisté (ou pas !) à nos [sessions consacrées au Cloud](http://www.duchess-france.org/meetup-le-29-mars-concevoir-une-application-scalable-dans-le-cloud/) ? Ne ratez pas notre 3ème meetup de la série qui aura lieu le 2 Mai sur GCP : Google Cloud Platform. |
 
-[![](/assets/2017/04/2017-04-27-meetup-02-mai-construire-futur-google-cloud-platform/meetup_duchess_gcp.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/04/meetup_duchess_gcp.jpg)
+[![](/assets/2017/04/2017-04-27-meetup-02-mai-construire-futur-google-cloud-platform/meetup_duchess_gcp.jpg)](/assets/2017/04/2017-04-27-meetup-02-mai-construire-futur-google-cloud-platform/meetup_duchess_gcp.jpg)
 
 Cette soirée s’adresse à **tous les profils de développeurs, toutes technos et langages confondus,** qu’ils soient débutants ou familiers avec le développement Cloud et sera l'occasion de voir, d'entendre et de rencontrer trois personnes de chez Google :
 

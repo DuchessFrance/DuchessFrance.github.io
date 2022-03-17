@@ -23,11 +23,11 @@ tags:
 
 Proper acceleration or physical acceleration is the acceleration it experiences relative to freefall and is the acceleration felt by people and objects. It is measured by an accelerometer. The accelerometer data consist of successive measurements made over a time interval. that's what we call a time series.
 
-[![timeseries](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/img_7973_1024.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/img_7973_1024.png)
+[![timeseries](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/img_7973_1024.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/img_7973_1024.png)
 
 ## How can I get an accelerometer?
 
-Luckily, most of smartphones contain an accelerometer sensor. The sensor measures 3 values related to 3 different axes as shown in the picture bellow: [![accelerometerSchema](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/photo1.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/photo1.png)
+Luckily, most of smartphones contain an accelerometer sensor. The sensor measures 3 values related to 3 different axes as shown in the picture bellow: [![accelerometerSchema](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/photo1.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/photo1.png)
 
 As an Android fan, I implemented an Android App: **Basic Accelerometer** which shows different axes values and the current date as timestamp.
 
@@ -52,7 +52,7 @@ Now we're able to launch our app!
 
 The application will start automatically on your phone and you will see the screen below:
 
-[![BasicAccelerometerScreen1](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/Screenshot_2015-05-31-17-10-06.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/Screenshot_2015-05-31-17-10-06.png)
+[![BasicAccelerometerScreen1](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/Screenshot_2015-05-31-17-10-06.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/Screenshot_2015-05-31-17-10-06.png)
 
 Now as the application is started, we will focus on the REST Service.
 
@@ -101,15 +101,15 @@ We have already our Andoid. We run now the REST app. Then you have to add REST a
 
 As soon as you click on start button, Basic Accelerometer app begins to send acceleration data to the REST service:
 
-[![basicAccelerometerScreen2](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/Screenshot_2015-05-31-17-57-43.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/Screenshot_2015-05-31-17-57-43.png)
+[![basicAccelerometerScreen2](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/Screenshot_2015-05-31-17-57-43.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/Screenshot_2015-05-31-17-57-43.png)
 
 And then we start see insertion logs on REST app:
 
-[![insertIntoCassandraLogs](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/logs.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/logs.png)
+[![insertIntoCassandraLogs](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/logs.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/logs.png)
 
 And if we check Cassandra DB, we launch a [CQL](https://cassandra.apache.org/doc/cql3/CQL.html) terminal to do some queries: `sh apache-cassandra-2.1.4/bin/cqlsh`
 
-Here's how data looks like in Cassandra: [![cassandraCqlTerminal](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/cassandraCqlTerminal.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/cassandraCqlTerminal.png)
+Here's how data looks like in Cassandra: [![cassandraCqlTerminal](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/cassandraCqlTerminal.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/cassandraCqlTerminal.png)
 
 At this level, we collect data from the accelerometer and we store it in Cassandra Data Base.
 
@@ -153,7 +153,7 @@ https://gist.github.com/MiraLak/b213be868d61f29d227d
 
 Then you will see the predicted activity as a result:
 
-[![predictActivity](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/predictActivity.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/predictActivity.png)
+[![predictActivity](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/predictActivity.png)](/assets/2015/06/2015-06-01-accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/predictActivity.png)
 
 ### Conclusion
 

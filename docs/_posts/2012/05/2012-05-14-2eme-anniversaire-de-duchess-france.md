@@ -39,4 +39,4 @@ La soirée se déroulera à [**l'ECE**](http://www.ece.fr/) que nous remercions 
 
 **_Duchess France remercie ses partenaires hébergement et cadeaux_**
 
-[![sponsors](/assets/2012/05/2012-05-14-2eme-anniversaire-de-duchess-france/sponsors.png "sponsors")](http://www.duchess-france.org/wp-content/uploads/2012/05/sponsors.png)
+[![sponsors](/assets/2012/05/2012-05-14-2eme-anniversaire-de-duchess-france/sponsors.png "sponsors")](/assets/2012/05/2012-05-14-2eme-anniversaire-de-duchess-france/sponsors.png)

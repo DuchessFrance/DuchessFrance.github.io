@@ -53,7 +53,7 @@ Sur votre poste de travail, il faut avoir :
 
 Lors de la soirée, vous pourrez récupérer un package prêt à l'emploi pour Elasticsearch, mais vous pouvez déjà le télécharger [ici](https://github.com/downloads/elasticsearchfr/hands-on/elasticsearch-0.19.9-handson.zip "elasticsearch-0.19.9-handson.zip").
 
-[![David Pilato et Malloum Laya](/assets/2012/09/2012-09-12-les-mains-dans-le-code-avec-elastic-search/team-300x251.png "David Pilato et Malloum Laya")](http://www.duchess-france.org/wp-content/uploads/2012/09/team.png)
+[![David Pilato et Malloum Laya](/assets/2012/09/2012-09-12-les-mains-dans-le-code-avec-elastic-search/team-300x251.png "David Pilato et Malloum Laya")](/assets/2012/09/2012-09-12-les-mains-dans-le-code-avec-elastic-search/team.png)
 
 ## Les intervenants
 

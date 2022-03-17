@@ -15,7 +15,7 @@ coverImage: "duchess_terraform.jpg"
 
 | Vous ne voulez plus créer manuellement vos machines physiques, vos VMs, vos VPC, vos conteneurs, vos lambda … ? Nous allons voir dans cet article qu’il existe un outil permettant de faire de l’Infrastructure as Code et qui vous permettra de passer du ClickOps au DevOps. |
 
-[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/duchess_terraform-300x240.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/04/duchess_terraform.jpg)
+[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/duchess_terraform-300x240.jpg)](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/duchess_terraform.jpg)
 
 Nous commencerons par voir ce qu’est [Terraform](https://www.terraform.io/), les concepts, sa CLI (Command-Line Interface) , nous ferons une mise en pratique de l’outil, puis nous verrons quelques tips et outils sympa et nous ferons une comparaison avec [CloudFormation](https://aws.amazon.com/fr/cloudformation/).
 
@@ -48,7 +48,7 @@ Les ressources peuvent être écrites en JSON également mais il est recommandé
 
 Lire un fichier de configuration HCL est plutôt simple et intuitif.
 
-[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/tf_file-1024x452.png)](http://www.duchess-france.org/wp-content/uploads/2018/04/tf_file.png)
+[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/tf_file-1024x452.png)](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/tf_file.png)
 
 C’est un langage dit “human readable”. Ce qu’il faut savoir c’est que Terraform scan tous les fichiers se terminant par .tf dans le répertoire courant, il ne va pas scanner les répertoires enfants par contre.
 
@@ -226,7 +226,7 @@ programmez\_api\_url = https://1234c67g9cs.execute-api.eu-central-1.amazonaws.co
 
 Un state est un snapshot de votre infrastructure depuis la dernière fois que vous avez exécuté la commande **terraform apply.**
 
-[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/tf_state.png)](http://www.duchess-france.org/wp-content/uploads/2018/04/tf_state.png)
+[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/tf_state.png)](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/tf_state.png)
 
 Terraform utilise un local storage pour créer les plans et effectuer les changements sur votre infra. Mais il est possible de stocker ce state, dans le cloud.
 
@@ -364,7 +364,7 @@ $ terraform graph | dot -Tpng > graph.png
 
 La CLI graph permet de dessiner un graphique de dépendances visuelle des ressources terraform en fonction des fichiers de configuration.
 
-[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/graph-300x195.png)](http://www.duchess-france.org/wp-content/uploads/2018/04/graph.png)
+[![](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/graph-300x195.png)](/assets/2018/04/2018-04-16-infrastructure-as-code-avec-terraform/graph.png)
 
 Au bout d’un certains nombre de ressources dans un répertoire, terraform n’arrive plus à générer ce graphique. J’espère que ce problème sera corrigé dans les futures versions ;-).
 

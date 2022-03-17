@@ -16,7 +16,7 @@ tags:
 
 [Rust](http://www.rust-lang.org/ "Rust") est un nouveau langage développé par Mozilla Research. Il est conçu pour être un langage compilé sécurisé, concurrent et pratique, dont la syntaxe est proche de celle du C. Il est actuellement utilisé pour développer le moteur de rendu [Servo](https://github.com/rust-lang/rust/wiki/Projects-using-Rust "Servo").
 
-[![mozilla-rust-logo-300x300](/assets/2014/10/2014-10-03-hands-on-rust/mozilla-rust-logo-300x300.png)](http://www.duchess-france.org/wp-content/uploads/2014/10/mozilla-rust-logo-300x300.png)
+[![mozilla-rust-logo-300x300](/assets/2014/10/2014-10-03-hands-on-rust/mozilla-rust-logo-300x300.png)](/assets/2014/10/2014-10-03-hands-on-rust/mozilla-rust-logo-300x300.png)
 
  
 

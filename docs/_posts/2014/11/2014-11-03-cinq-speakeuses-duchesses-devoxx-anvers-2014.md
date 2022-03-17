@@ -12,7 +12,7 @@ tags:
   - "oratrice"
 ---
 
-| [![Devoxx2014InfinitePossibilities5](/assets/2014/11/2014-11-03-cinq-speakeuses-duchesses-devoxx-anvers-2014/Devoxx2014InfinitePossibilities5-300x203.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/11/Devoxx2014InfinitePossibilities5.jpg) |
+| [![Devoxx2014InfinitePossibilities5](/assets/2014/11/2014-11-03-cinq-speakeuses-duchesses-devoxx-anvers-2014/Devoxx2014InfinitePossibilities5-300x203.jpg)](/assets/2014/11/2014-11-03-cinq-speakeuses-duchesses-devoxx-anvers-2014/Devoxx2014InfinitePossibilities5.jpg) |
 
 La semaine du 10-14 Novembre aura lieu [Devoxx](http://www.devoxx.be/ "Devoxx") à Anvers en Belgique, conférence autour de la plateforme Java.
 

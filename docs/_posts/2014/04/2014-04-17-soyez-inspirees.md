@@ -21,9 +21,9 @@ Après ce court bilan, nous continuerons la soirée sur le thème "Soyez inspir�
 
  
 
-Il y aura : [![Amira Lakhal](/assets/2014/04/2014-04-17-soyez-inspirees/049d377466738d7fff90a23581e0f85d.jpeg)](http://www.duchess-france.org/wp-content/uploads/2012/11/049d377466738d7fff90a23581e0f85d.jpeg)Amira Lakhal : Développeur Agile Java à Valtech et membre active des Duchess France.
+Il y aura : [![Amira Lakhal](/assets/2014/04/2014-04-17-soyez-inspirees/049d377466738d7fff90a23581e0f85d.jpeg)](/assets/2014/04/2014-04-17-soyez-inspirees/049d377466738d7fff90a23581e0f85d.jpeg)Amira Lakhal : Développeur Agile Java à Valtech et membre active des Duchess France.
 
-[![profil](/assets/2014/04/2014-04-17-soyez-inspirees/profil.png)](http://www.duchess-france.org/wp-content/uploads/2013/12/profil.png)
+[![profil](/assets/2014/04/2014-04-17-soyez-inspirees/profil.png)](/assets/2014/04/2014-04-17-soyez-inspirees/profil.png)
 
  
 
@@ -35,13 +35,13 @@ Elle est à l’origine de www.java-freelance.fr , où elle poste sur les sujets
 
  
 
-[![kathryn](/assets/2014/04/2014-04-17-soyez-inspirees/kathryn.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/03/kathryn.jpg)
+[![kathryn](/assets/2014/04/2014-04-17-soyez-inspirees/kathryn.jpg)](/assets/2014/04/2014-04-17-soyez-inspirees/kathryn.jpg)
 
 Kathryn Rotondo : Kathryn Rotondo is an interactive developer for web and mobile. She honed her craft both working on sites for Vogue and Target at a large digital agency; and crafting third party APIs at a small startup. She has taught at RISD Continuing Education, co-wrote Adobe AIR in Action, and speaks internationally (O'Reilly Fluent, ConFoo, TakeOff, Mobile Central Europe). Her numerous awards include recognition as an Adobe Community Professional, and most recently, first place in the inaugural Berlin Geekettes Hackathon.
 
 Kathryn is passionate about encouraging women developers. She hosts the Motherboard Podcast (http://motherboardpodcast.com) and curates Equalitism (http://equalitism.tumblr.com). Her website is at http://kathrynrotondo.com.
 
-[![Agnes Crepet-17](/assets/2014/04/2014-04-17-soyez-inspirees/Agnes-Crepet-17-199x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/12/Agnes-Crepet-17.jpg)
+[![Agnes Crepet-17](/assets/2014/04/2014-04-17-soyez-inspirees/Agnes-Crepet-17-199x300.jpg)](/assets/2014/04/2014-04-17-soyez-inspirees/Agnes-Crepet-17.jpg)
 
  
 

@@ -17,7 +17,7 @@ Comme les autres dotConférences, vous assisterez à une journée de conférence
 
 ## dotCSS
 
-[![](/assets/2018/10/2018-10-24-dotcss-dotjs-et-si-vous-assistiez-a-une-dotconference/dotcss2018-300x107.png)](http://www.duchess-france.org/wp-content/uploads/2018/10/dotcss2018.png)
+[![](/assets/2018/10/2018-10-24-dotcss-dotjs-et-si-vous-assistiez-a-une-dotconference/dotcss2018-300x107.png)](/assets/2018/10/2018-10-24-dotcss-dotjs-et-si-vous-assistiez-a-une-dotconference/dotcss2018.png)
 
 La [dotCSS](https://www.dotcss.io/), conférence sur nos chères feuilles de styles CSS, aura lieu **le jeudi 8 Novembre au Dock Pullman**, à Paris. Le CSS n’a plus de secret pour vous ou bien vous souhaitez plonger dans les media queries et les selector ?
 
@@ -29,7 +29,7 @@ Quelques speakers déjà annoncés :
 
 ## dotJS
 
-[![](/assets/2018/10/2018-10-24-dotcss-dotjs-et-si-vous-assistiez-a-une-dotconference/dotjs2018-300x109.png)](http://www.duchess-france.org/wp-content/uploads/2018/10/dotjs2018.png)
+[![](/assets/2018/10/2018-10-24-dotcss-dotjs-et-si-vous-assistiez-a-une-dotconference/dotjs2018-300x109.png)](/assets/2018/10/2018-10-24-dotcss-dotjs-et-si-vous-assistiez-a-une-dotconference/dotjs2018.png)
 
 C’est au tour de la [dotJS](https://www.dotjs.io/), la conférence sur le JavaScript, qui aura lieu **le vendredi 9 Novembre, au Dock Pullman** également.
 

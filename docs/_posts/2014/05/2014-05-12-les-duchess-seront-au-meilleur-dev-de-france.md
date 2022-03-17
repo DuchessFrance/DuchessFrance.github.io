@@ -21,7 +21,7 @@ Cette année, aux côtés de [NextRadioTV](http://fr.wikipedia.org/wiki/Alain_W
 
  
 
-**[![Amira Lakhal](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/049d377466738d7fff90a23581e0f85d.jpeg)](http://www.duchess-france.org/wp-content/uploads/2012/11/049d377466738d7fff90a23581e0f85d.jpeg)**[Amira Lakhal](https://twitter.com/miralak), développeuse chez Valtech, vous présentera Cassandra, le système de gestion de base de données non relationnelles développé par Facebook et utilisé par Twitter.
+**[![Amira Lakhal](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/049d377466738d7fff90a23581e0f85d.jpeg)](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/049d377466738d7fff90a23581e0f85d.jpeg)**[Amira Lakhal](https://twitter.com/miralak), développeuse chez Valtech, vous présentera Cassandra, le système de gestion de base de données non relationnelles développé par Facebook et utilisé par Twitter.
 
  
 
@@ -31,7 +31,7 @@ Cette année, aux côtés de [NextRadioTV](http://fr.wikipedia.org/wiki/Alain_W
 
  
 
-**[![profil](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/profil.png)](http://www.duchess-france.org/wp-content/uploads/2013/12/profil.png)**
+**[![profil](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/profil.png)](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/profil.png)**
 
  
 
@@ -43,7 +43,7 @@ Cette année, aux côtés de [NextRadioTV](http://fr.wikipedia.org/wiki/Alain_W
 
  
 
-**[![Ludwine Probst (SimpleIT) (3)](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/Ludwine-Probst-SimpleIT-3-150x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/12/Ludwine-Probst-SimpleIT-3.jpg)[Ludwine Probst](https://twitter.com/nivdul)**, developpeuse et membre active des associations Duchess France et GDG Paris (google developer group) vous donnera les clés du _Machine Learning_, et vous présentera quelques outils.
+**[![Ludwine Probst (SimpleIT) (3)](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/Ludwine-Probst-SimpleIT-3-150x150.jpg)](/assets/2014/05/2014-05-12-les-duchess-seront-au-meilleur-dev-de-france/Ludwine-Probst-SimpleIT-3.jpg)[Ludwine Probst](https://twitter.com/nivdul)**, developpeuse et membre active des associations Duchess France et GDG Paris (google developer group) vous donnera les clés du _Machine Learning_, et vous présentera quelques outils.
 
  
 

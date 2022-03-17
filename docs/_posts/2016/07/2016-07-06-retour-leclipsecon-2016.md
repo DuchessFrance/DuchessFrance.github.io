@@ -13,7 +13,7 @@ coverImage: "IMG_20160609_202758.jpg"
 
 Cette année, petite nouveauté, les workshops avaient lieu lors d'une journée complète. Je les ai trouvé de qualité, le format de 3h était top et du coup j'ai passé une excellente première journée. Je vous propose de me suivre dans les conférences que j'ai sélectionnée.
 
-[![eclipsecon france 2016](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_202758-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_202758.jpg)
+[![eclipsecon france 2016](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_202758-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_202758.jpg)
 
 ## 1ère journée :
 
@@ -39,13 +39,13 @@ Puis on passe aux choses sérieuses, on prend un petit kit prêté par Johan, on
 
 Le workshop m'a plu, le seul bémol a été de ne pas garder le petit kit qui aurait pu permettre aux participants de s’approprier les technologies et de se familiariser correctement avec le monde de l'IoT via le réseau Lora et The Thnigs Network.
 
-[![eclipsecon france 2016 lora iot](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_094801-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160607_094801.jpg) [![eclipsecon france 2016 lora iot](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_100515-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160607_100515.jpg)[![eclipsecon france 2016 iot the things network arduino](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_112022_2-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160607_112022_2.jpg) [![IMG_20160607_122435](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_122435-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160607_122435.jpg)
+[![eclipsecon france 2016 lora iot](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_094801-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_094801.jpg) [![eclipsecon france 2016 lora iot](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_100515-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_100515.jpg)[![eclipsecon france 2016 iot the things network arduino](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_112022_2-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_112022_2.jpg) [![IMG_20160607_122435](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_122435-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160607_122435.jpg)
 
  
 
 Après une matinée bien remplie, on prend quelques forces et on discute.
 
-[![27467145071_27833c35b7_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27467145071_27833c35b7_z-300x151.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/27467145071_27833c35b7_z.jpg)
+[![27467145071_27833c35b7_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27467145071_27833c35b7_z-300x151.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27467145071_27833c35b7_z.jpg)
 
 ### [What every Java developer should know about AngularJS](https://www.eclipsecon.org/france2016/session/what-every-java-developer-should-know-about-angularjs)
 
@@ -83,7 +83,7 @@ Slides : [https://www.eclipsecon.org/france2016/sites/default/files/slides/Contr
 
 ### [What's new in Eclipse IDE and the ecosystem around it](https://www.eclipsecon.org/france2016/session/whats-new-eclipse-ide-and-ecosystem-around-it)
 
-[![CkaiLx2WsAAcYd-](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/CkaiLx2WsAAcYd--300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/CkaiLx2WsAAcYd-.jpg)
+[![CkaiLx2WsAAcYd-](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/CkaiLx2WsAAcYd--300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/CkaiLx2WsAAcYd-.jpg)
 
 [Mickael Istria](https://www.eclipsecon.org/france2016/user/546) et [Sopot Cela](https://www.eclipsecon.org/france2016/user/3380) nous ont présenté les nouveautés d'Eclipse IDE et de sa nouvelle version, neon : une nouvelle welcome page, un dark theme amélioré, une facilité d'accès aux raccourcis, word-wrap, la sauvegarde automatique configurable, le zoom, le nouvel assistant de création et quelques petites nouveautés pour le Java, le C/C++, le PHP et le JS.
 
@@ -95,7 +95,7 @@ Slides : [https://www.eclipsecon.org/france2016/sites/default/files/slides/Contr
 
 ### [Eclipse Kura & MODBUS - Monitor industrial automation equipment](https://www.eclipsecon.org/france2016/session/eclipse-kura-modbus-monitor-industrial-automation-equipment)
 
-[![IMG_20160608_120339](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_120339-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/IMG_20160608_120339.jpg) [![IMG_20160608_121706](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_121706-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/IMG_20160608_121706.jpg)
+[![IMG_20160608_120339](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_120339-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_120339.jpg) [![IMG_20160608_121706](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_121706-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_121706.jpg)
 
  
 
@@ -127,7 +127,7 @@ L'organisme hébergeant cet IDE, Codenvy, permet la sauvegarde de ce workspace c
 
 ### [Java 9 support in Eclipse](https://www.eclipsecon.org/france2016/session/java-9-support-eclipse)
 
-[![IMG_20160608_160045](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_160045-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160608_160045.jpg) [![IMG_20160608_160715](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_160715-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160608_160715.jpg) 
+[![IMG_20160608_160045](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_160045-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_160045.jpg) [![IMG_20160608_160715](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160608_160715-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160608_160715.jpg) 
 
 [Sasikanth Bharadwaj](https://www.eclipsecon.org/france2016/user/3785) nous a présenté le support de Java 9 dans Eclipse. Java 9 est prévu dans quelques mois et promet de nouvelles fonctionnalités très sympa telles que, le très (trop ?) attendu Jigsaw, les modular runtime images et les modules. Les modules, justement Sasikanth a passé la majeure partie de sa présentation à en parler, à nous en faire une démo, mais j'avoue n'avoir pas trop bien compris le réel intérêt de ces derniers et comment je pourrai m'en servir dans le futur concrètement.
 
@@ -139,15 +139,15 @@ L'organisme hébergeant cet IDE, Codenvy, permet la sauvegarde de ce workspace c
 
 ### [Explaining Code to My Mom (Cassiopée)](https://www.eclipsecon.org/france2016/session/explaining-code-my-mom-cassiop%C3%A9e)
 
-[![27508692041_a88d7558ed_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508692041_a88d7558ed_z-300x199.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/27508692041_a88d7558ed_z.jpg) [](http://www.duchess-france.org/wp-content/uploads/2016/07/27304476960_0af8c5ddd8_z.jpg) [![27304476960_0af8c5ddd8_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27304476960_0af8c5ddd8_z-300x210.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/27304476960_0af8c5ddd8_z.jpg)
+[![27508692041_a88d7558ed_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508692041_a88d7558ed_z-300x199.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508692041_a88d7558ed_z.jpg)[![27304476960_0af8c5ddd8_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27304476960_0af8c5ddd8_z-300x210.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27304476960_0af8c5ddd8_z.jpg)
 
 Pour bien commencer la 3ème journée, nous assistons à la keynote de [Thomas Guenoux](https://www.linkedin.com/in/thomasguenoux?authType=NAME_SEARCH&authToken=KdHT&locale=fr_FR&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A6401489%2CauthType%3ANAME_SEARCH%2Cidx%3A1-3-3%2CtarId%3A1467574689786%2Ctas%3Athomas%20) ([Commitstrip](https://twitter.com/CommitStrip_fr)). En attendant que cette dernière commence, [Etienne Issartial](https://www.linkedin.com/in/etienne-issartial-3b2b2735) dessine un strip en live puis c'est parti, Thomas nous parle d'un sujet "Code explaining to my mum". J'ai trouvé cette keynote rafraîchissante et sympathique, excepté un strip qui parle de "l'unique fille" que l'on croise lors de ses études. A l'époque je n'avais pas aimé le strip, cette fois ci non plus, et lorsqu'une grande majorité des hommes de la salle rigole, tu te dis qu'il est vraiment temps que les choses évoluent.
 
-[![CommitStrip EclipseCon](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/CommitStripFin900-300x228.png)](http://www.duchess-france.org/wp-content/uploads/2016/06/CommitStripFin900.png)
+[![CommitStrip EclipseCon](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/CommitStripFin900-300x228.png)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/CommitStripFin900.png)
 
 ### [IoT Security in action!](https://www.eclipsecon.org/france2016/session/iot-security-action)
 
-[![IMG_20160609_102856](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_102856-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_102856.jpg) [![IMG_20160609_105750](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_105750-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_105750.jpg)
+[![IMG_20160609_102856](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_102856-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_102856.jpg) [![IMG_20160609_105750](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_105750-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_105750.jpg)
 
 [Julien Vermillard](https://www.eclipsecon.org/france2016/user/2683), de [Sierra Wireles](https://www.sierrawireless.com/)s, nous a présenté lors d'un tools in action les principaux problèmes de sécurité dans l'IoT et nous a donné quelques pistes pour être plus prudent. J'ai pu, notamment découvrir l'outil [Ettercap](https://ettercap.github.io/ettercap/) qui permet d'accomplir des attaques sur le protocole ARP pour se positionner en tant que "man in the middle". Présentation concrète et intéressante.
 
@@ -155,7 +155,7 @@ Pour bien commencer la 3ème journée, nous assistons à la keynote de [Thomas G
 
 ### [TypeScript: Feedback from a real life project within TypeScript and the future of JavaScript (sponsored by Microsoft)](https://www.eclipsecon.org/france2016/session/typescript-feedback-real-life-project-within-typescript-and-future-javascript-sponsored)
 
-[![IMG_20160609_111101](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_111101-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_111101.jpg) [![IMG_20160609_113050](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_113050-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_113050.jpg)
+[![IMG_20160609_111101](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_111101-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_111101.jpg) [![IMG_20160609_113050](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_113050-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_113050.jpg)
 
 Première présentation en anglais par [Sébastien Pertus](https://twitter.com/sebastienpertus), sous Mac ^^, qui s'est très bien déroulée. Il est temps de se mettre à Typescript, qui est scalable, open-source, fortement typé et utilisé par plusieurs frameworks tel qu'Angular 2, ionic, nativescript, aurelia et Dojo 2. Sous Eclipse il est recommandé d'utiliser le plugin d'angelozerr : [https://github.com/angelozerr/typescript.java.](https://github.com/angelozerr/typescript.java)
 
@@ -163,7 +163,7 @@ Première présentation en anglais par [Sébastien Pertus](https://twitter.com/s
 
 ### [Your Agile project at Eclipse with Tuleap](https://www.eclipsecon.org/france2016/session/your-agile-project-eclipse-tuleap)
 
-[![tuleap](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_122134-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_122134.jpg)
+[![tuleap](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_122134-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_122134.jpg)
 
 [Manuel Vacelet](https://twitter.com/vaceletm), d'[enalean](https://www.enalean.com/), a présenté [Tuleap](https://github.com/Enalean/tuleap), un outil open-source de gestion de projet agiles et relié aux outils de tracking de bugs et de versions. Voici quelques fonctionnalités intéressantes : backlog, release et sprint planning, sprint progress et Kanban board.
 
@@ -177,7 +177,7 @@ Le dernier talk de la matinée s'est fini un peu en retard et du coup en arrivan
 
 ### [One Cloud API To Rule Them All](https://www.eclipsecon.org/france2016/session/one-cloud-api-rule-them-all)
 
-[![Ckgkre2XEAUeLoE.jpg large](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/Ckgkre2XEAUeLoE.jpg-large-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/Ckgkre2XEAUeLoE.jpg-large.jpg) [![Ckgm5x4WUAE4SLR](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/Ckgm5x4WUAE4SLR-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/07/Ckgm5x4WUAE4SLR.jpg)
+[![Ckgkre2XEAUeLoE.jpg large](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/Ckgkre2XEAUeLoE.jpg-large-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/Ckgkre2XEAUeLoE.jpg-large.jpg) [![Ckgm5x4WUAE4SLR](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/Ckgm5x4WUAE4SLR-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/Ckgm5x4WUAE4SLR.jpg)
 
 [Marc Dutoo](https://www.eclipsecon.org/france2016/user/473) nous a présenté OCCI, sous forme de conte à la Tolkien. J'ai trouvé que ce type de présentation changeait de l'ordinaire mais ce qui était fort dommage était que le moindre mot qu'il prononçait se trouvait sur les slides. L'idée d'une interface, d'un endroit, d'une API Rest unifiée, pour gérer tous nos comptes Cloud je trouve l'idée très sympa et cela m'intéressait mais je n'ai malheureusement pas accroché en OCCI, trop complexe, pas super user-friendly.
 
@@ -185,7 +185,7 @@ Le dernier talk de la matinée s'est fini un peu en retard et du coup en arrivan
 
 ### [Introduction to the Arduino eclipse plugin](https://www.eclipsecon.org/france2016/session/introduction-arduino-eclipse-plugin)
 
-[![IMG_20160609_145330_2](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_145330_2-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_145330_2.jpg) [![IMG_20160609_145424](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_145424-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_145424.jpg)
+[![IMG_20160609_145330_2](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_145330_2-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_145330_2.jpg) [![IMG_20160609_145424](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_145424-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_145424.jpg)
 
 C'est maintenant l'heure de voir la présentation, de [Jan Baeyens](https://twitter.com/Arduino_jantje), sur le plugin Arduino pour Eclipse : [Sloeber](https://github.com/jantje/arduino-eclipse-plugin). La version 3.0 est sortie cette année. Programmez sous l'IDE d'Arduino c'est cool, mais c'est assez sommaire, ayant testé la veille je confirme. Il n'y a pas de support pour le refactoring, pour le versioning, il faut charger ses librairies ... Bref, ce n'est pas évident à part pour du one shot. Le plugin pour Eclipse permet de gagner du temps, d'être dans un vrai environnement de développement, de créer plus facilement des projets, d'avoir l'auto-complétion, de faire du debuging ... Je vous laisse regarder la vidéo pour en savoir plus.
 
@@ -195,7 +195,7 @@ Slides : [https://www.eclipsecon.org/france2016/sites/default/files/slides/Eclip
 
 ### [Continuous Delivery: Pipeline As Code With Jenkins](https://www.eclipsecon.org/france2016/session/continuous-delivery-pipeline-code-jenkins)
 
-[![IMG_20160609_154944_2](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_154944_2-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_154944_2.jpg) [![IMG_20160609_155946_2](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_155946_2-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_155946_2.jpg)
+[![IMG_20160609_154944_2](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_154944_2-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_154944_2.jpg) [![IMG_20160609_155946_2](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_155946_2-300x225.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_155946_2.jpg)
 
 Cette fois-ci il y avait deux sessions intéressante, "[Boosting the performance of your Eclipse IDE](http://www.slideshare.net/kthoms/boosting-the-performance-of-your-eclipse-ide-eclipsecon-france-2016)" et la session sur Jenkins. J'ai choisi d'aller voir la session de [Baptiste Mathus](https://twitter.com/bmathus) et je verrai en "replay" celle sur les performances. Baptiste a rappelé l'historique de Jenkins : anciennement Hudson, créé en 2005, un framework d'Intégration continue développé en Java par [Koshuke Kawaguchi](https://www.linkedin.com/in/kohsukekawaguchi) chez Sun Microsystems, puis cédé par Oracle en 2011 au profit de la fondation Eclipse. Jenkins est un fork de la version de la fondation Eclipse. Il nous a ensuite présenté la notion de "pipeline as code" avec Jenkins.
 
@@ -211,7 +211,7 @@ L'année dernière c'était super donc il me tardait cette closing session. Lors
 
 Et pour bien finir, il n'y a rien de tel qu'un jeu. On se munie de nos cartes de couleur verte et rouge, on se met debout et c'est parti. J'avoue, les questions et les réponses étaient super étrange, à la question "si Eclipse était une couleur, ce serait le violet ou l'orange ?", à la vu du logo je me suis dit que la réponse était simple ... et ben non, la réponse a été l'orange. En une question les 3/4 de la salle ont perdu ! (moi y compris) :-).
 
-![27508720341_d2035915c6_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508720341_d2035915c6_z-249x300.jpg) ![27508716501_b8bd6b1b92_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508716501_b8bd6b1b92_z-300x201.jpg) [![27547249706_ae13d4ab48_k](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27547249706_ae13d4ab48_k-199x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/IMG_20160609_164237.jpg) 
+![27508720341_d2035915c6_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508720341_d2035915c6_z-249x300.jpg) ![27508716501_b8bd6b1b92_z](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27508716501_b8bd6b1b92_z-300x201.jpg) [![27547249706_ae13d4ab48_k](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/27547249706_ae13d4ab48_k-199x300.jpg)](/assets/2016/07/2016-07-06-retour-leclipsecon-2016/IMG_20160609_164237.jpg) 
 
 ## Conclusion
 

@@ -54,6 +54,6 @@ Pants Build system at Twitter is a state-of-the-art build tool designed to suppo
 
  
 
-Merci à Numa de nous accueillir et à Hopwork de nous offrir le buffet  ![![unnamed](/assets/2014/04/2014-04-24-soiree-speciale-bigdata-pour-notre-4eme-anniversaire/unnamed-300x110.png)](http://www.duchess-france.org/wp-content/uploads/2014/04/unnamed.png)
+Merci à Numa de nous accueillir et à Hopwork de nous offrir le buffet  ![![unnamed](/assets/2014/04/2014-04-24-soiree-speciale-bigdata-pour-notre-4eme-anniversaire/unnamed-300x110.png)](/assets/2014/04/2014-04-24-soiree-speciale-bigdata-pour-notre-4eme-anniversaire/unnamed.png)
 
 [![](/assets/2014/04/2014-04-24-soiree-speciale-bigdata-pour-notre-4eme-anniversaire/logo-Hopwork1.png)](http://www.hopwork.com)

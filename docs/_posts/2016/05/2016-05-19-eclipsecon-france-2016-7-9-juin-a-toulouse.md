@@ -25,7 +25,7 @@ L’[EclipseCon France 2016](https://www.eclipsecon.org/france2016/) est axée s
 - Eclipse Technologies & Community
 - “Other Cool Stuff”
 
-[![Strip-Retour-de-conf EclipseCon-version650](/assets/2016/05/2016-05-19-eclipsecon-france-2016-7-9-juin-a-toulouse/Strip-Retour-de-conf-EclipseCon-version650.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/05/Strip-Retour-de-conf-EclipseCon-version650.jpg)
+[![Strip-Retour-de-conf EclipseCon-version650](/assets/2016/05/2016-05-19-eclipsecon-france-2016-7-9-juin-a-toulouse/Strip-Retour-de-conf-EclipseCon-version650.jpg)](/assets/2016/05/2016-05-19-eclipsecon-france-2016-7-9-juin-a-toulouse/Strip-Retour-de-conf-EclipseCon-version650.jpg)
 
 Petite nouveauté, cette année la conférence se déroule sur 3 jours : - Le 7 Juin aura lieu les [workshops](https://www.eclipsecon.org/france2016/workshops)
 

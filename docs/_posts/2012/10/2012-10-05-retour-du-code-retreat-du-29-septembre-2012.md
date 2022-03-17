@@ -27,7 +27,7 @@ En général entre 5 et 7 itérations sont faites dans la journée, avant de ter
 
 Les organisateurs, [Jean-Laurent De Morlhon](https://twitter.com/morlhon) et [Laurent Bossavit](https://twitter.com/Morendil), nous ont accueilli dès 8h30 puis convié à un petit déjeuner très équilibré composé de croissants, pains au chocolats et autres viennoiseries bien nécessaires pour affronter cette matinée.
 
-[![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Arrive.jpg "Arrive")](http://www.duchess-france.org/wp-content/uploads/2012/09/Arrive.jpg)
+[![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Arrive.jpg "Arrive")](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Arrive.jpg)
 
 Après nous avoir expliqué les règles du jeu, [Jean-Laurent](https://twitter.com/morlhon) et [Laurent](https://twitter.com/Morendil), nous ont invité à  **"ouvrir notre esprit"**, autrement dit :
 
@@ -44,13 +44,13 @@ Voici les quelques règles de **Simple Design** que nous avons essayer de mettre
 - Reveal Intent : montrer ses intentions (nommage, 1 méthode = 1 fonctionnalité,...),
 - Faire des méthodes et classes de petite taille.
 
-[![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Binomes1.jpg "Binômes")](http://www.duchess-france.org/wp-content/uploads/2012/09/Binomes1.jpg)
+[![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Binomes1.jpg "Binômes")](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Binomes1.jpg)
 
 **Pause déjeuner**
 
 La pause déjeuner a été l'occasion de nous connaître un peu plus, de partager nos expériences dans nos missions, de revenir sur les algorithmes/solutions trouvés pour implémenter "Le Jeu de la Vie", ou encore de regarder des vidéos geek.
 
-\[caption id="attachment\_2104" align="aligncenter" width="700"\][![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/MANGERRETREAT.jpg "Pizzas et Pause Déjeuner Code Retreat 09/12")](http://www.duchess-france.org/wp-content/uploads/2012/09/MANGERRETREAT.jpg) Pizzas et Pause Déjeuner\[/caption\]
+\[caption id="attachment\_2104" align="aligncenter" width="700"\][![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/MANGERRETREAT.jpg "Pizzas et Pause Déjeuner Code Retreat 09/12")](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/MANGERRETREAT.jpg) Pizzas et Pause Déjeuner\[/caption\]
 
 ## **L'après-midi**
 
@@ -65,7 +65,7 @@ Quelques exemples de la programmation par contrainte :
 - pas de _while/for,_
 - pas de _return._
 
-[![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Binomes2.jpg "Pair Programming People")](http://www.duchess-france.org/wp-content/uploads/2012/09/Binomes2.jpg)
+[![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Binomes2.jpg "Pair Programming People")](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/Binomes2.jpg)
 
 Pour anecdote, un binôme a décidé s'imposer la contrainte de ne pas se parler durant la dernière itération. Le début a bien fonctionné, mais au bout d'un moment les désaccords sont apparus sur la marche à suivre sur un des algorithmes à coder ! Le silence a été brièvement brisé afin de repartir sur de bonnes bases. Au final, le binôme a presque fini l'exercice ! L'expérience s'est avérée être très drôle pour le binôme et surtout pour celui d'en face assistant à ce spectacle où aucun sourire ne transparaissait !!
 
@@ -79,7 +79,7 @@ Pour conclure cette journée, chaque participant a répondu aux questions suivan
 - Qu'est-ce qui vous a surpris aujourd'hui ?
 - Qu'allez-vous appliquer dès lundi au travail ?
 
-\[caption id="attachment\_2120" align="aligncenter" width="600"\][![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/DayRetro.jpg "Rétrospective de la journée 29/09/12")](http://www.duchess-france.org/wp-content/uploads/2012/09/DayRetro.jpg) Rétrospective de la journée\[/caption\]
+\[caption id="attachment\_2120" align="aligncenter" width="600"\][![](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/DayRetro.jpg "Rétrospective de la journée 29/09/12")](/assets/2012/10/2012-10-05-retour-du-code-retreat-du-29-septembre-2012/DayRetro.jpg) Rétrospective de la journée\[/caption\]
 
 **Conclusions**
 

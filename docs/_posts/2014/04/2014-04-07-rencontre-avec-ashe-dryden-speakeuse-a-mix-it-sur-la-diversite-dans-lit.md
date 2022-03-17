@@ -14,7 +14,7 @@ tags:
 
 | Pour continuer cette série d'interview de développeuses, je vous propose d'en apprendre un peu plus sur [Ashe Dryden](http://www.ashedryden.com/ "Ashe Dryden").  Ashe est connue dans la communauté des rubystes. Mais elle ne donnera pas de talk sur Ruby lors de la conférence [Mix-it](http://www.mix-it.fr/ "Mix-it") (Lyon, le 29-30 avril), elle animera plutôt la session [Programming Diversity](http://www.mix-it.fr/session/509/programming-diversity- "Programming diversity - Mix-it"). Elle est l'auteur du livre ["The Diverse Team"](https://leanpub.com/the-diverse-team). |
 
-[![Ashe Dryden](/assets/2014/04/2014-04-07-rencontre-avec-ashe-dryden-speakeuse-a-mix-it-sur-la-diversite-dans-lit/pink_Feb2014-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/04/pink_Feb2014.jpg)
+[![Ashe Dryden](/assets/2014/04/2014-04-07-rencontre-avec-ashe-dryden-speakeuse-a-mix-it-sur-la-diversite-dans-lit/pink_Feb2014-300x300.jpg)](/assets/2014/04/2014-04-07-rencontre-avec-ashe-dryden-speakeuse-a-mix-it-sur-la-diversite-dans-lit/pink_Feb2014.jpg)
 
 **Ludwine : Who are you ?**
 
@@ -36,4 +36,4 @@ tags:
 
 **Retrouvez-là à Mix-it !**
 
-[![logo-mixit-black](/assets/2014/04/2014-04-07-rencontre-avec-ashe-dryden-speakeuse-a-mix-it-sur-la-diversite-dans-lit/logo-mixit-black-300x76.png)](http://www.duchess-france.org/wp-content/uploads/2014/04/logo-mixit-black.png)
+[![logo-mixit-black](/assets/2014/04/2014-04-07-rencontre-avec-ashe-dryden-speakeuse-a-mix-it-sur-la-diversite-dans-lit/logo-mixit-black-300x76.png)](/assets/2014/04/2014-04-07-rencontre-avec-ashe-dryden-speakeuse-a-mix-it-sur-la-diversite-dans-lit/logo-mixit-black.png)

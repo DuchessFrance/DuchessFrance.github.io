@@ -12,7 +12,7 @@ coverImage: "GBO_Gaelle_Bourven.jpg"
 
 | [**Gaëlle Bourven**](https://www.linkedin.com/in/gaelle-bourven-a877811) est une femme de l'IT dont l'analyse et les mots sont très inspirants. Le 15 octobre 2015, j'ai eu la chance d'assister à sa présentation "**Si les** **petites filles naissent dans les roses, l'IT est dans les choux**" lors d'une journée en immersion chez [Criteo](http://www.criteo.com/fr/) (organisée avec [Adaweek](http://www.adaweek.fr/)).  Ressortie de cette intervention avec de nombreuses clés, j'ai voulu aller à la rencontre de Gaëlle Bourven et partager ainsi avec vous... |
 
-[![GBO_Gaelle_Bourven](/assets/2016/02/2016-02-05-rencontre-gaelle-bourven-product-director-favorisant-meilleurs-talents/GBO_Gaelle_Bourven-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/01/GBO_Gaelle_Bourven.jpg)
+[![GBO_Gaelle_Bourven](/assets/2016/02/2016-02-05-rencontre-gaelle-bourven-product-director-favorisant-meilleurs-talents/GBO_Gaelle_Bourven-300x300.jpg)](/assets/2016/02/2016-02-05-rencontre-gaelle-bourven-product-director-favorisant-meilleurs-talents/GBO_Gaelle_Bourven.jpg)
 
 **Néno : En quelques mots, qui êtes-vous ?**
 
@@ -32,7 +32,7 @@ J’ai aujourd’hui 42 ans et ça fait bien longtemps que je n’ai pas écrit 
 
 **Néno : Vous avez été speaker lors d'une journée en immersion chez Criteo dans le cadre de l'[Adaweek](http://www.adaweek.fr/) au mois d'octobre dernier. Vous avez ainsi contribué à la valorisation des femmes dans les métiers scientifiques et techniques. Quel(s) message(s) souhaitiez-vous essentiellement faire passer ?**
 
-[![Gaelle_Bourven_Si_les_filles_naissent_dans_les roses_l_it_est_dans_les_choux](/assets/2016/02/2016-02-05-rencontre-gaelle-bourven-product-director-favorisant-meilleurs-talents/Gaelle_Bourven_Si_les_filles_naissent_dans_les-roses_l_it_est_dans_les_choux.png)](http://www.duchess-france.org/wp-content/uploads/2016/01/Gaelle_Bourven_Si_les_filles_naissent_dans_les-roses_l_it_est_dans_les_choux.png)
+[![Gaelle_Bourven_Si_les_filles_naissent_dans_les roses_l_it_est_dans_les_choux](/assets/2016/02/2016-02-05-rencontre-gaelle-bourven-product-director-favorisant-meilleurs-talents/Gaelle_Bourven_Si_les_filles_naissent_dans_les-roses_l_it_est_dans_les_choux.png)](/assets/2016/02/2016-02-05-rencontre-gaelle-bourven-product-director-favorisant-meilleurs-talents/Gaelle_Bourven_Si_les_filles_naissent_dans_les-roses_l_it_est_dans_les_choux.png)
 
 > Les femmes doivent (re)prendre confiance en leur potentiel : c’est le premier message que je souhaitais faire passer.
 

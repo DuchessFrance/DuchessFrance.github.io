@@ -36,7 +36,7 @@ Mais vous pouvez trouver la version française traduite par ["En avant toutes ! 
 
 ### 4) Vous allez booster votre confiance !
 
-[![chat-lion](/assets/2015/03/2015-03-16-inspirez-vous-avec-lean-in-de-sheryl-sandberg/chat-lion.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/chat-lion.jpg) [](http://www.duchess-france.org/wp-content/uploads/2015/03/powerful_1-truthinsideofyou.jpg) 
+[![chat-lion](/assets/2015/03/2015-03-16-inspirez-vous-avec-lean-in-de-sheryl-sandberg/chat-lion.jpg)](/assets/2015/03/2015-03-16-inspirez-vous-avec-lean-in-de-sheryl-sandberg/chat-lion.jpg) [](http://www.duchess-france.org/wp-content/uploads/2015/03/powerful_1-truthinsideofyou.jpg) 
 
 ### 5) Sheryl Sandberg entrera dans l'histoire
 
@@ -64,7 +64,7 @@ Pour finir mon argumentaire, petit rappel, c'est un homme qui m'a conseillé de
 
 L'égalité est aussi votre bataille. Dessin [@uneviededev](https://twitter.com/uneviededev "Une vie de Dev")
 
-[![egalite-homme-femme](/assets/2015/03/2015-03-16-inspirez-vous-avec-lean-in-de-sheryl-sandberg/egalite-homme-femme.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/egalite-homme-femme.jpg)
+[![egalite-homme-femme](/assets/2015/03/2015-03-16-inspirez-vous-avec-lean-in-de-sheryl-sandberg/egalite-homme-femme.jpg)](/assets/2015/03/2015-03-16-inspirez-vous-avec-lean-in-de-sheryl-sandberg/egalite-homme-femme.jpg)
 
 ## Pas encore convaincu(e) ?
 

@@ -15,7 +15,7 @@ coverImage: "image10.png"
 
 | Cette année, [Suzanne](https://twitter.com/sdecreme) et [Corinne](https://twitter.com/corinnekrych) ont animé une session sketchnote pendant la conférence [Riviera Dev](http://rivieradev.fr/) 2018. Voici un retour sur leur atelier et aussi des sketchnotes de Riviera Dev 2018. |
 
-[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image10-1024x573.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image10.png)
+[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image10-1024x573.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image10.png)
 
 **_Comment avez-vous présenté l’atelier sur l’estrade ?_**
 
@@ -23,7 +23,7 @@ Cela a commencé par le marché au poisson où nous avons joué un sketch afin d
 
  
 
-[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image4-1024x768.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image4.png)
+[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image4-1024x768.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image4.png)
 
 > Nous voulions montrer à l’auditoire que le langage visuel est très puissant. Pour cela, nous avons déroulé une fresque gigantesque sur l’estrade ! Un dessin vaut mille mots. 
 
@@ -59,7 +59,7 @@ Une fois votre sketchnote dans votre carnet ou pochette, vous pourrez plus facil
 
 **_Parlez-nous du déroulé de l’atelier, comment cela s’est passé ?_**
 
-[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image11-150x150.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image11.png)Pour débuter, Suzanne a fait une petite intro pour mettre en parallèle l’UX (User Experience) avec nos structures cognitives. Loin d'être un cours magistral, il s’agissait plutôt d’une comparaison en image (bien sûr!) avec pleins d’exemples concrets: le sens naturel de lecture, l'homogénéité dans son ensemble, la signification des icônes et sur l'expérience finale. D’ailleurs les slides sont disponibles [ici](https://docs.google.com/presentation/d/1MhsAzBr-UBCyPODtzPbNiAo9u2L8EjEvuIH1KUzQfSM/edit#slide=id.g398407907e_0_24).
+[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image11-150x150.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image11.png)Pour débuter, Suzanne a fait une petite intro pour mettre en parallèle l’UX (User Experience) avec nos structures cognitives. Loin d'être un cours magistral, il s’agissait plutôt d’une comparaison en image (bien sûr!) avec pleins d’exemples concrets: le sens naturel de lecture, l'homogénéité dans son ensemble, la signification des icônes et sur l'expérience finale. D’ailleurs les slides sont disponibles [ici](https://docs.google.com/presentation/d/1MhsAzBr-UBCyPODtzPbNiAo9u2L8EjEvuIH1KUzQfSM/edit#slide=id.g398407907e_0_24).
 
  
 
@@ -73,7 +73,7 @@ Le coeur de l’atelier était de faire travailler les participants. Avec des pa
 - **les layouts:** comment organiser sa page
 - **et les liaisons:** comment homogénéiser et structurer l'ensemble des notes.
 
-[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image1-300x200.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image1.png) [![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image2-300x200.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image2.png) [![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image7-300x183.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image7.png) [![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image9-300x225.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image9.png)
+[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image1-300x200.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image1.png) [![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image2-300x200.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image2.png) [![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image7-300x183.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image7.png) [![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image9-300x225.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image9.png)
 
  
 
@@ -109,7 +109,7 @@ D’un côté de la salle, [Corinne](https://twitter.com/corinnekrych) a démarr
 
 Pour finir, une fresque géante collaborative sur le thème de Riviera DEV.
 
-[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image3-1024x683.png)](http://www.duchess-france.org/wp-content/uploads/2018/09/image3.png)
+[![](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image3-1024x683.png)](/assets/2018/09/2018-09-19-une-tornade-de-sketchnotes-pour-ledition-riviera-dev-2018/image3.png)
 
  
 

@@ -23,7 +23,7 @@ Certes, on est développeur mais comment devenir également entrepreneur ?
 > 
 > L'un de nos clients avait pour objectif de lever des fonds pour son futur produit. Pour convaincre des investisseurs, plutôt que de faire une présentation PowerPoint, il a présenté un prototype que nous avons développé en seulement 5 jours. Je vais vous donner la recette de ce succès.
 
-[![estelle_giuly](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/estelle_giuly-150x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/estelle_giuly.jpg)
+[![estelle_giuly](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/estelle_giuly-150x150.jpg)](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/estelle_giuly.jpg)
 
  
 
@@ -35,7 +35,7 @@ Ce qui me passionne dans mon métier, c'est de donner vie à des idées !"
 
 Ensuite, [**Mathilde Lemée**](http://@MathildeLemee) animera un débat sur le métier du CTO/CEO.
 
-[![Mathilde Rigabert Lemée](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/e8cb08a3141a0ebf6b80ad7d037ed034_400x400-150x150.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/e8cb08a3141a0ebf6b80ad7d037ed034_400x400.png)
+[![Mathilde Rigabert Lemée](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/e8cb08a3141a0ebf6b80ad7d037ed034_400x400-150x150.png)](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/e8cb08a3141a0ebf6b80ad7d037ed034_400x400.png)
 
  
 
@@ -51,7 +51,7 @@ La soirée à lieu le **29 Juin** dès 19h00, les inscriptions se déroulent via
 
 Merci à notre sponsor [**Palo-IT**](http://fr.palo-it.com/) pour l'accueil!
 
-[![PALO IT Logotype_Web](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/PALO-IT-Logotype_Web.png)](http://www.duchess-france.org/wp-content/uploads/2016/06/PALO-IT-Logotype_Web.png)
+[![PALO IT Logotype_Web](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/PALO-IT-Logotype_Web.png)](/assets/2016/06/2016-06-23-soiree-etre-developpeur-entrepreuneur/PALO-IT-Logotype_Web.png)
 
 Created in 2009, PALO IT is an experience design & agile consultancy and a software development company. Located in France, Hong Kong, Singapore and Mexico, we stand proud of strong project delivery culture and our awesome team of 200+ people coming from 20+ countries.
 

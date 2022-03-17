@@ -15,7 +15,7 @@ tags:
 
 | Nous poursuivons notre série d'interviews avec une autre membre de la team Duchess France [Katia](https://twitter.com/@karesti). Convaincue par MongoDB, elle est MongoDB master et organisatrice du [Paris MongoDB User Group](http://www.meetup.com/Paris-MongoDB-User-Group/). Elle animera le wokshop [développeur: "viens découvrir mongoDB"](http://cfp.devoxx.fr/devoxxfr2014/talk/XWC-772/%7B%20d%C3%A9veloppeur:%20%22viens%20d%C3%A9couvrir%20mongoDB%22%7D) à Devoxx France. |
 
-[![AgileFrance](/assets/2014/04/2014-04-11-interview-de-katia-aresti-developpeuse-mongodb-master-et-coorganisatrice-du-workshop-sur-mongodb-a-devoxx-france/AgileFrance-265x300.png)](http://www.duchess-france.org/wp-content/uploads/2013/02/AgileFrance.png)
+[![AgileFrance](/assets/2014/04/2014-04-11-interview-de-katia-aresti-developpeuse-mongodb-master-et-coorganisatrice-du-workshop-sur-mongodb-a-devoxx-france/AgileFrance-265x300.png)](/assets/2014/04/2014-04-11-interview-de-katia-aresti-developpeuse-mongodb-master-et-coorganisatrice-du-workshop-sur-mongodb-a-devoxx-france/AgileFrance.png)
 
 **Blandine : Peux-tu te présenter ? Quel est ton travail actuel ? Tu es MongoDB master depuis 2012, qu’est-ce que c’est ?**
 
@@ -35,7 +35,7 @@ tags:
 
 **Katia :** MongoDB est déjà très présent au sein des entreprises, dans tous les secteurs. C’est la base de données NoSQL qui a connu le plus grand succès et une référence dans le domaine. Après il faut toujours être vigilant et ne pas vouloir utiliser Mongo juste pour le plaisir ou l'effet de mode en essayant de le faire rentrer dans des uses cases pour lesquels une autre solution (relationnelle ou pas) pourrait être plus appropriée. Dans tous les cas, c’est un produit à connaître (avec ses points forts et ses faiblesses) et à tenir en compte.
 
-[![devoxx](/assets/2014/04/2014-04-11-interview-de-katia-aresti-developpeuse-mongodb-master-et-coorganisatrice-du-workshop-sur-mongodb-a-devoxx-france/devoxx-300x115.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/03/devoxx.jpg)
+[![devoxx](/assets/2014/04/2014-04-11-interview-de-katia-aresti-developpeuse-mongodb-master-et-coorganisatrice-du-workshop-sur-mongodb-a-devoxx-france/devoxx-300x115.jpg)](/assets/2014/04/2014-04-11-interview-de-katia-aresti-developpeuse-mongodb-master-et-coorganisatrice-du-workshop-sur-mongodb-a-devoxx-france/devoxx.jpg)
 
 **Blandine : Tu vas animer un Hands-on sur MongoDB avec [David Wursteisen](http://cfp.devoxx.fr/devoxxfr2014/speaker/99fc5db7273c9bd4d43cd54db7f54d2d36da41f7/David%20Wursteisen) et [Tugdual Grall](http://cfp.devoxx.fr/devoxxfr2014/speaker/08cb871e113de90665a8b134986af5ad031f4475/Tugdual%20Grall) lors de Devoxx France. Peux-tu nous dire comment ça va se passer ? Est-ce pour les débutants ? Faut-il avoir des notions de SQL pour venir ? Y-a-t-il des prés requis à installer sur mon pc ?**
 

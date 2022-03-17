@@ -20,7 +20,7 @@ tags:
 
  
 
-[![yannLeCun](/assets/2015/07/2015-07-06-rencontre-usi-deep-learning-avec-yann-le-cun-chercheur-et-directeur-de-recherche-ia-de-facebook/yannLeCun1-1024x680.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/07/yannLeCun1.jpeg)
+[![yannLeCun](/assets/2015/07/2015-07-06-rencontre-usi-deep-learning-avec-yann-le-cun-chercheur-et-directeur-de-recherche-ia-de-facebook/yannLeCun1-1024x680.jpeg)](/assets/2015/07/2015-07-06-rencontre-usi-deep-learning-avec-yann-le-cun-chercheur-et-directeur-de-recherche-ia-de-facebook/yannLeCun1.jpeg)
 
  
 

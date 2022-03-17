@@ -22,7 +22,7 @@ Merci à Adeline, Clément et Fabien !
 
 Pour vous faire découvrir cette intervention, nous vous proposons deux interviews l'une de [Delphine](http://www.duchess-france.org/code-week-interview-de-delphine-enseignante-en-ce1/ "Code Week, interview de Delphine, enseignante en CE1") l'enseignante qui nous a accueilli dans sa classe, et l'autre d['Adeline](http://www.duchess-france.org/interview-dadeline-animatrice-dateliers-pour-enfants-pendant-la-code-week/ "Interview d’Adeline, animatrice d’ateliers pour enfants pendant la Code Week") qui a co-animé cette après-midi.
 
-\[caption id="attachment\_4718" align="aligncenter" width="300"\][![ClasseCE1](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/ClasseCE1-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/10/ClasseCE1.jpg) Code Week : Classe de CE1 à Limoges\[/caption\]
+\[caption id="attachment\_4718" align="aligncenter" width="300"\][![ClasseCE1](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/ClasseCE1-300x225.jpg)](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/ClasseCE1.jpg) Code Week : Classe de CE1 à Limoges\[/caption\]
 
  
 
@@ -38,7 +38,7 @@ Des photos de ces ateliers sont disponibles sur le [meetup Duchess France](http:
 
  
 
-\[caption id="attachment\_4736" align="aligncenter" width="300"\][![CodeWeekAix](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/CodeWeekAix-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/10/CodeWeekAix.jpg) Code Week : Atelier enfants et adultes à la maison du numérique à Aix\[/caption\]
+\[caption id="attachment\_4736" align="aligncenter" width="300"\][![CodeWeekAix](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/CodeWeekAix-300x225.jpg)](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/CodeWeekAix.jpg) Code Week : Atelier enfants et adultes à la maison du numérique à Aix\[/caption\]
 
  
 
@@ -52,7 +52,7 @@ Et si vous voulez vous mettre à Android et que vous n'avez pas pu participer à
 
 Et enfin sur **Paris,** le 16 octobre, un hands on a été organisé sur [Rust](http://www.rust-lang.org/), le nouveau langage développé par Mozilla Research conçu pour être un langage compilé sécurisé, concurrent et pratique, dont la syntaxe est proche de celle du C. Vous retrouverez les détails sur le [meetup](http://www.meetup.com/Duchess-France-Meetup/events/211181082/ "meetup rust").
 
-[![codeweek-badge](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/codeweek-badge-300x105.png)](http://www.duchess-france.org/wp-content/uploads/2014/10/codeweek-badge.png)
+[![codeweek-badge](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/codeweek-badge-300x105.png)](/assets/2014/11/2014-11-05-retour-sur-les-ateliers-de-code-animes-par-duchess-france-pendant-la-code-week/codeweek-badge.png)
 
 **Voici quelques liens pour en savoir plus sur Code Week :** Code week : [http://codeweek.eu/](http://codeweek.eu/) Code week france : [http://www.codeweekfrance.org/](http://www.codeweekfrance.org/) Ressources EU Code Week  (auxquelles vous pouvez également contribuer) : [http://codeweek.eu/resources/france/](http://codeweek.eu/resources/france/) Espace de réflexion et de dialogue sur ces enjeux et perspectives du code sur la plateforme jecode.org via l'[espace Code Week 2014](http://forums.jecode.org/category/codeweek/codeweek2014) et l'[espace Code Week 2015.](http://forums.jecode.org/category/codeweek/codeweek2015)
 

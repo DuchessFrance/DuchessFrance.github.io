@@ -22,11 +22,11 @@ Je l'ai rencontré dans une école d'ingénieurs où j'enseignais. Elle était n
 
 J’ai 55 ans, je suis mariée et ai 3 grands garçons de 29, 26 et 25 ans. J’ai fait, sans grand intérêt, des études de Pharmacie à l’université René Descartes (Paris V), ai obtenu mon doctorat et un DEA de Pharmacie Industrielle, mais au moment de démarrer ma carrière j’ai vite réalisé que les fonctions auxquelles je pouvais accéder ne m’intéressaient pas. Par contre, les cours d’informatique que j’avais suivis lors de ma dernière année m’avaient beaucoup intéressée, et je les avais même mis en pratique lors de mon stage final en entreprise, en programmant (en Basic, sur un Apple 2E) une petite d’application de calculs statistiques et représentations graphiques. Cette application, d’ailleurs, avait fait l’objet de ma thèse…la 1ère thèse de nature informatique jamais présentée au jury de l’université de pharmacie.
 
-[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/apple2.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/11/apple2.jpg)
+[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/apple2.jpg)](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/apple2.jpg)
 
 Après 6 mois passés chez BSN Gervais Danone, à réaliser des études bibliographiques terriblement ennuyeuses, j’ai pu entrer aux AGF dans le GIE Informatique, où j’ai reçu une formation interne de 5 mois à la programmation sur gros systèmes IBM : Assembleur, debugging en hexadécimal, Cobol, méthodes, etc …J’y ai ensuite occupé des fonctions de programmeur et d’analyste pendant 3 ans, ce qui m’a passionné, et j’y ai appris beaucoup en termes de méthodologie de travail. Puis j’ai trouvé un poste équivalent chez Ciba-Geigy (maintenant Novartis), où je pouvais apporter – en plus de mes compétences d’analyse et de programmation- ma connaissance des métiers des « utilisateurs ». J’y suis restée 17 ans ! J’y ai progressé, devenant chez de projet, puis responsable des études, puis responsable de la sécurité des SI, puis enfin DSI.
 
-[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/helene-199x300.png)](http://www.duchess-france.org/wp-content/uploads/2018/11/helene.png)
+[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/helene-199x300.png)](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/helene.png)
 
 Un plan social, en 2008, m’a propulsée brusquement vers la sortie, je me suis remise en question et ai décidé de changer d’air. Plus de hiérarchie pesante et matricielle, plus de collègues intrigants et retords, plus de routine pesante ! Je suis devenue consultante indépendante, et ai créé une [SARL](http://www.lisis-conseil.com/), en prenant comme sujet unique la sécurité des SI. C’est un sujet stratégique pour les entreprises, très complexe mais en perpétuelle évolution, donc toujours nouveau et captivant.
 
@@ -38,7 +38,7 @@ Je fais donc du conseil et de l’assistance aux entreprises afin de les aider �
 
 Être freelance m’apporte une liberté quasi-totale : liberté de choisir les missions qui m’intéressent, liberté de choisir mes clients (je mets beaucoup d’effort à conserver longtemps les clients les plus sympathiques).
 
-[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/freedom-812503_960_720-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/11/freedom-812503_960_720.jpg)
+[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/freedom-812503_960_720-300x300.jpg)](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/freedom-812503_960_720.jpg)
 
 La relation client-fournisseur est beaucoup plus saine et gratifiante que celle que j’ai pu avoir avec mes responsables et collègues dans le passé : le client exprime immédiatement sa satisfaction ou son insatisfaction, alors que dans les grosses entreprises les relations entre collègues sont polluées et compliquées par des jeux politiques ou de pouvoir, des jalousies, des inimitiés.
 
@@ -70,7 +70,7 @@ Il faut beaucoup de méthode, il y a beaucoup de réflexion. Il faut également 
 
 Et le facteur humain est bien plus important qu’on ne le pense. Il faut comprendre les personnes qu’on audite, s’adapter au contexte et à la culture de l’entreprise.
 
-[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/cyber-300x200.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/11/cyber.jpg)
+[![](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/cyber-300x200.jpg)](/assets/2018/11/2018-11-21-rencontre-avec-helene-courtecuisse-experte-en-securite/cyber.jpg)
 
  
 

@@ -65,7 +65,7 @@ La base c’est qu’il faut décrire les actions à exécuter, Jenkins propose 
 
 Il reste ensuite à créer un job de type pipeline et indiquer le SCM dans lequel se trouve le Jenkinsfile. C’est très bien détaillé (en anglais) sur la page de [_Getting started_](https://jenkins.io/doc/book/pipeline/getting-started/) :
 
-[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/creation-pipeline-300x114.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/10/creation-pipeline.jpg)
+[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/creation-pipeline-300x114.jpg)](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/creation-pipeline.jpg)
 
 Voici un Jenkinsfile basique en syntaxe « Declarative » :
 
@@ -138,7 +138,7 @@ A noter que la variable JOB\_NAME est directement celle mise à disposition par 
 
 L’avantage de mattermost par rapport aux e-mails, c’est que les personnes choisissent de souscrire au channel, et peuvent s’y désinscrire à tout moment ou régler les notifications. Ça peut donner des messages sympathiques comme :
 
-[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/mattermost.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/10/mattermost.jpg)Je ne sais pas si je préfère les petits cœurs ou les liens directement cliquables…
+[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/mattermost.jpg)](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/mattermost.jpg)Je ne sais pas si je préfère les petits cœurs ou les liens directement cliquables…
 
 ## **Etape 2 : lancer l’application**
 
@@ -250,11 +250,11 @@ La partie **gatlingArchive()** permet de chercher dans le workspace des résulta
 
 C’est là la faiblesse des scripts « Declarative » de Jenkins, il est très difficile de trouver s’il y a possibilité ou pas de faire appel à un plugin et comment. En cherchant sur qwant (google c’est pareil) on tombe sur une pauvre page, sans exemple ni rien (j’ai fait un screenshot au cas où ils auraient la bonne idée de faire un peu plus de documentation) :
 
-[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/jenkins-gatling-doc.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/10/jenkins-gatling-doc.jpg)
+[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/jenkins-gatling-doc.jpg)](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/jenkins-gatling-doc.jpg)
 
 Le plugin Gatling permet en plus de l’archivage des résultats classiques de Gatling, d’avoir l’agrégation de 3 métriques, à condition de conserver quelques builds d’historique. Voici par exemple l’historique des temps de réponse moyen par scénario:
 
-[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/gatling-agregé.png)](http://www.duchess-france.org/wp-content/uploads/2017/10/gatling-agregé.png)
+[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/gatling-agregé.png)](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/gatling-agregé.png)
 
 ## **C’est la fin**
 
@@ -285,11 +285,11 @@ Maintenant l’équipe est prévenue si quelque chose se passe mal sur la platef
 
 Voici la représentation des pipelines sous Jenkins. J’ai été très surprise au début, j’avais vu passer des tweet beaucoup plus vendeur que ça :
 
-[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/pipeline-moche.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/10/pipeline-moche.jpg)
+[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/pipeline-moche.jpg)](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/pipeline-moche.jpg)
 
 En fait il existe un plugin « Blue ocean » qui permet de changer complètement l’interface graphique de Jenkins. Je l’ai testé et c’est beaucoup plus esthétique
 
-[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/pipeline-joli.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/10/pipeline-joli.jpg)
+[![](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/pipeline-joli.jpg)](/assets/2017/11/2017-11-08-premier-pipelines-de-jenkins-2/pipeline-joli.jpg)
 
 Par contre je n’ai pas trouvé de fonctionnalités supplémentaires, du coup c’est très rare que je l’utilise pour l'instant.
 

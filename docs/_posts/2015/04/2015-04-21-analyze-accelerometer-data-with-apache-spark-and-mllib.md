@@ -58,11 +58,11 @@ The accelerometer measures acceleration in all three spatial dimensions as follo
 
 The plots below show characteristics for each activity. Because of the periodicity of such activities, a few seconds windows is sufficient to find specific characteristics for each activity.
 
-[![walking_jogging_view](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/walking_jogging_view.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/walking_jogging_view.png)
+[![walking_jogging_view](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/walking_jogging_view.png)](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/walking_jogging_view.png)
 
-[![stairs_view](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/stairs_view.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/stairs_view.png)
+[![stairs_view](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/stairs_view.png)](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/stairs_view.png)
 
-[![standing_sitting_view](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/standing_sitting_view.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/standing_sitting_view.png)
+[![standing_sitting_view](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/standing_sitting_view.png)](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/standing_sitting_view.png)
 
 We observe repeating waves and peaks for the following repetitive activities walking, jogging, ascending stairs and descending stairs. The activities Upstairs and Downstairs are very similar, and there is no periodic behavior for more static activities like standing or sitting, but different amplitudes.
 
@@ -78,7 +78,7 @@ Because I need to group my data by (user\_id, activity) and then to sort them by
 
 Just below, an example of what my data looks like.
 
-[![Capture d’écran 2015-04-15 à 20.25.19](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/Capture-d-----cran-2015-04-15----20.25.19.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/Capture-d-----cran-2015-04-15----20.25.19.png)
+[![Capture d’écran 2015-04-15 à 20.25.19](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/Capture-d-----cran-2015-04-15----20.25.19.png)](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/Capture-d-----cran-2015-04-15----20.25.19.png)
 
 And now how to retrive the data from Cassandra with the Spark-Cassandra connector:
 
@@ -98,7 +98,7 @@ Here is a diagram to explain what I did and the code.
 
  
 
-[![IMG_7954](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/IMG_7954.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/04/IMG_7954.jpg)
+[![IMG_7954](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/IMG_7954.jpg)](/assets/2015/04/2015-04-21-analyze-accelerometer-data-with-apache-spark-and-mllib/IMG_7954.jpg)
 
  
 

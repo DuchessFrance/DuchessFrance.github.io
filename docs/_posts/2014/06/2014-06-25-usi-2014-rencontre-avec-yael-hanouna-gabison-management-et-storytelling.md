@@ -13,13 +13,13 @@ tags:
   - "usi"
 ---
 
-| [![usi](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/usi-300x211.png)](http://www.duchess-france.org/wp-content/uploads/2014/06/usi.png) |
+| [![usi](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/usi-300x211.png)](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/usi.png) |
 
 Notre série d'interview audio se poursuit avec [Yaël Hanouna-Gabison](https://twitter.com/YGabison "Yaël Gabison"), qui a animé la session [Management et Storytelling](http://www.usievents.com/fr/speakers#it-manager "Management et Storytelling") lors de la conférence [USI 2014](http://www.usievents.com/fr "USI").
 
  
 
-[![yaelHannouna](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/yaelHannouna-300x238.png)](http://www.duchess-france.org/wp-content/uploads/2014/06/yaelHannouna.png)
+[![yaelHannouna](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/yaelHannouna-300x238.png)](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/yaelHannouna.png)
 
  
 
@@ -37,7 +37,7 @@ Yaël évoque **12 typologies de héros** : le créateur, le rebelle, le magicie
 
 La bonne équation pour une histoire qui marche : **Méchant + Quête = Désir de se battre** ?
 
-[![2014-06-17 11.22.21](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/2014-06-17-11.22.21-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/06/2014-06-17-11.22.21.jpg)
+[![2014-06-17 11.22.21](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/2014-06-17-11.22.21-300x225.jpg)](/assets/2014/06/2014-06-25-usi-2014-rencontre-avec-yael-hanouna-gabison-management-et-storytelling/2014-06-17-11.22.21.jpg)
 
  
 

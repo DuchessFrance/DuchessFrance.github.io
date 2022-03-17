@@ -13,7 +13,7 @@ coverImage: "clustereurope.jpg"
 
 Le but de ces workshops est d'apprendre par la pratique les nouvelles technos de clustering Docker Swarm et Kubernetes ainsi que le développement et intégration continue avec des experts. Les workshops commencent à 14h mais la durée de chaque workshop est de 6 heures (jusque 20h) donc l’équivalent d’une journée.
 
-[![](/assets/2017/04/2017-04-19-clustereurope-workshops-docker-swarm-kubernetes-15-mai/clustereuropeagenda-300x110.png)](http://www.duchess-france.org/wp-content/uploads/2017/04/clustereuropeagenda.png)
+[![](/assets/2017/04/2017-04-19-clustereurope-workshops-docker-swarm-kubernetes-15-mai/clustereuropeagenda-300x110.png)](/assets/2017/04/2017-04-19-clustereurope-workshops-docker-swarm-kubernetes-15-mai/clustereuropeagenda.png)
 
   
 

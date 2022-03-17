@@ -38,7 +38,7 @@ Je suis revenue en France pour intégrer l'[Ecole des Mines de Saint-Étienne](h
 
 Outre la finalité, le code permet beaucoup de créativité et de personnalisation. On choisit la nature et la représentation des choses et invente leur manipulation. Coder demande beaucoup de rigueur, sans quoi on peut vite se faire berner par ce que l'on crée. Je pense que je n'ai pas assez d'expérience en programmation pour avoir des langages fétiches, hahaha.
 
-[![](/assets/2017/09/2017-09-11-interview-de-charlotte-passionnee-transports-intelligents/unspecified-300x169.jpeg)](http://www.duchess-france.org/wp-content/uploads/2017/08/unspecified.jpeg)
+[![](/assets/2017/09/2017-09-11-interview-de-charlotte-passionnee-transports-intelligents/unspecified-300x169.jpeg)](/assets/2017/09/2017-09-11-interview-de-charlotte-passionnee-transports-intelligents/unspecified.jpeg)
 
 > "Savoir coder me donne de l'indépendance"
 > 

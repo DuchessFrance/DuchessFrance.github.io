@@ -22,7 +22,7 @@ Après AWS, c'est au tour de Microsoft de nous présenter sa solution Cloud : [
 
  
 
-[![](/assets/2017/03/2017-03-20-meetup-le-29-mars-concevoir-une-application-scalable-dans-le-cloud/azure-300x158.png)](http://www.duchess-france.org/wp-content/uploads/2017/03/azure.png)Cette soirée est une excellente occasion de découvrir les architectures modernes et les grands principes du développement Cloud.
+[![](/assets/2017/03/2017-03-20-meetup-le-29-mars-concevoir-une-application-scalable-dans-le-cloud/azure-300x158.png)](/assets/2017/03/2017-03-20-meetup-le-29-mars-concevoir-une-application-scalable-dans-le-cloud/azure.png)Cette soirée est une excellente occasion de découvrir les architectures modernes et les grands principes du développement Cloud.
 
 Notre speaker [Stéphanie Hertrich](https://twitter.com/stepheUp) aura une double casquette puisqu'elle est Architecte Cloud chez Microsoft et également membre du board Duchess France.
 

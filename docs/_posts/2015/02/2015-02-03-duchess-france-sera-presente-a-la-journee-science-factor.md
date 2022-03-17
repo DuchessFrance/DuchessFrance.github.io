@@ -11,7 +11,7 @@ categories:
 
 | Duchess France participera **ce mercredi 4 février** à la journée de rencontres organisées par [Science Factor](http://www.sciencefactor.fr/#1). |
 
-[![Logo-Science-Factor_245204](/assets/2015/02/2015-02-03-duchess-france-sera-presente-a-la-journee-science-factor/Logo-Science-Factor_245204.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/02/Logo-Science-Factor_245204.jpg)
+[![Logo-Science-Factor_245204](/assets/2015/02/2015-02-03-duchess-france-sera-presente-a-la-journee-science-factor/Logo-Science-Factor_245204.jpg)](/assets/2015/02/2015-02-03-duchess-france-sera-presente-a-la-journee-science-factor/Logo-Science-Factor_245204.jpg)
 
 [Science Factor](https://www.facebook.com/sciencefactor) 2014 est une initiative parrainée par le Ministère de l’Enseignement Supérieur et de la Recherche, le Ministère de l’Education Nationale et Universcience afin de susciter des vocations dans les filières scientifiques chez les collégiens et lycéens, et plus spécifiquement chez les collégiennes et lycéennes. Science Factor comprend deux volets. D’une part un concours qui met en lumière des projets d’innovation ou d’invention déposés par des collégien-ne-s et lycéen-ne-s de la France entière. D’autre part une journée de rencontres nationales entre élèves et professionnels des secteurs scientifiques et techniques privé et public.
 

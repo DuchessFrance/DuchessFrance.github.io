@@ -21,7 +21,7 @@ Vous êtes un fonctional hipster ?
 
 **CoffeeScript peut vous intéresser !**
 
-[![logo Coffe Script](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/logoCoffeScript.png)](http://www.duchess-france.org/wp-content/uploads/2013/05/logoCoffeScript.png)
+[![logo Coffe Script](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/logoCoffeScript.png)](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/logoCoffeScript.png)
 
 Le but de ce Hands-On est de vous apprendre [CoffeeScript](http://coffeescript.org/ "Coffe Script"), un langage compilant vers JavaScript, dont la syntaxe s’inspire de Ruby et Python.
 
@@ -35,17 +35,17 @@ Ce Hands-On est ouvert à toutes personnes ayant au moins des notions de program
 
 ## Mathieu Breton [@MatBreton](https://twitter.com/MatBreton "Mathieu on twitter")
 
-[![Mathieu Breton](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/MathieuBreton.png)](http://www.duchess-france.org/wp-content/uploads/2013/05/MathieuBreton.png)
+[![Mathieu Breton](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/MathieuBreton.png)](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/MathieuBreton.png)
 
 Mathieu est consultant Xebia et membre actif de la communauté web à Paris. Il est chevalier de l’ordre du mérite des Single Page Applications. Il est aussi évangéliste [Dart](http://www.dartlang.org/ "Dart")_, formateur_ [Neo4J](http://www.neo4j.org/ "Neo4J")_, docteur ès_ [Grails](http://www.grails.org/ "Grails") _et contributeur_ [Ember.JS](http://emberjs.com/ "Ember JS")
 
 ## Benoît Lemoine [@benoit\_lemoine](https://twitter.com/benoit_lemoine "Benoit on twitter")
 
-[![BenoitLemoine](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/BenoitLemoine.png)](http://www.duchess-france.org/wp-content/uploads/2013/05/BenoitLemoine.png)Développeur et fier de l'être, Benoit s'intéresse de près à tout ce qui peut permettre de créer une application web, du HTML aux sources de données, en passant par le javascript et les framework haute productivité.
+[![BenoitLemoine](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/BenoitLemoine.png)](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/BenoitLemoine.png)Développeur et fier de l'être, Benoit s'intéresse de près à tout ce qui peut permettre de créer une application web, du HTML aux sources de données, en passant par le javascript et les framework haute productivité.
 
 ## Jean-Laurent de Morlhon [@morlhon](https://twitter.com/morlhon "Jean-Laurent on twitter")
 
-[![Jean-Laurent de Morlhon](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/Jean-Laurent-De-Morlhon.png)](http://www.duchess-france.org/wp-content/uploads/2013/05/Jean-Laurent-De-Morlhon.png)
+[![Jean-Laurent de Morlhon](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/Jean-Laurent-De-Morlhon.png)](/assets/2013/05/2013-05-20-cafe-seul-noisette-au-lait-non-merci-je-veux-du-cafe-script/Jean-Laurent-De-Morlhon.png)
 
 Jean-Laurent est CTO de Xebia Studio, Mr FooBarQix, et c'est une des personnes derrière [CodeStory](https://twitter.com/CodeStory "CodeStory on twitter"). Il adore développer simplement et intelligement avec des développeurs passionnés.
 

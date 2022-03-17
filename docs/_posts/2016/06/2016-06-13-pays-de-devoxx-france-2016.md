@@ -12,7 +12,7 @@ coverImage: "Web_O4A7702.jpg"
 
 | **Au moins une fois par an, les développeurs sont gâtés avec trois jours de vacances payés à Devoxx France. Entre le 20 et le 22 avril 2016, au Palais des Congrès de Paris, les presque 2800 participants à la 5ème édition de Devoxx France ont pu profiter de 10 jours cumulés de conférences, avec un choix fourni allant de thématiques à la mode à des sujets toujours d'intérêt.** |
 
-## [![activites](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/activites-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/activites.jpg)
+## [![activites](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/activites-300x300.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/activites.jpg)
 
 # **Économie du pays**
 
@@ -40,7 +40,7 @@ Samedi 24 avril a été la journée dédiée à [Devoxx4kids](http://www.devoxx4
 
 Avec une bonne organisation générale, on peut profiter des conférences dans les meilleures conditions : le timing était parfaitement respecté (ce qui est plutôt l'exception à Paris), le son sans reproche, des grands écrans permettaient de bien visualiser presque dans toutes les salles, les snacks et le café étaient omniprésents. Les petits bémols n'ont pas été significatifs et n'ont pas gâché l'expérience. Responsables de cette organisation: les polos rouges, 38 bénévoles de l'Ecole 42 et de l'ESIEA. On les remercie.
 
-[![Devoxx team](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Devoxx-team-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/Devoxx-team.jpg)
+[![Devoxx team](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Devoxx-team-300x169.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Devoxx-team.jpg)
 
 Une application mobile, disponible sur iPhone, Android et (même) Windows, a permis de suivre le programme, sélectionner les conférences pour y assister, noter les conférences et laisser des avis. A la fin des 3 jours, les conférences les mieux notées ont été dévoilées (voir dans l'article qui a été le favori). A noter que l'application Devoxx a été réalisée par une équipe internationale, dans le cadre d'un projet open source. Il existe aussi, il semblerait, la version iWatch, mais on y cherche toujours l'utilité. La partie sécurité semblerait avoir encore besoin de travail, nous pouvons qu'espérer que les problèmes soient résolus pour [Devoxx UK](http://www.devoxx.co.uk/).
 
@@ -64,9 +64,9 @@ A travers cette université, José Paumard nous porte dans le fonctionnement int
 
 ### [Spring Boot 1.3 pour le web,](https://cfp.devoxx.fr/2016/talk/XFE-1586/Spring_Boot_1.3_pour_le_web.html) [Brian Clozel](http://cfp.devoxx.fr/2016/speaker/brian_clozel) & [Stéphane Nicoll](http://cfp.devoxx.fr/2016/speaker/stephane_nicoll)
 
-[![Spring Boot](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Spring-Boot2-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/Spring-Boot2.jpg)Dans cette session de live coding, Brian Clozel et Stéphane Nicoll construisent devant nous une application web avec Spring Boot pour nous montrer les nouveautés apportées par la version 1.3, la gestion des clés de propriétés par configuration externalisée, la mise en place des DevTools et leur utilisation pour prendre en charge tout le cycle de développement : rafraîchir la page automatiquement, live reload dans le browser, la fonctionnalité remote avec possibilité de faire du debugging remote.
+[![Spring Boot](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Spring-Boot2-300x169.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Spring-Boot2.jpg)Dans cette session de live coding, Brian Clozel et Stéphane Nicoll construisent devant nous une application web avec Spring Boot pour nous montrer les nouveautés apportées par la version 1.3, la gestion des clés de propriétés par configuration externalisée, la mise en place des DevTools et leur utilisation pour prendre en charge tout le cycle de développement : rafraîchir la page automatiquement, live reload dans le browser, la fonctionnalité remote avec possibilité de faire du debugging remote.
 
-### **[![postgresql json](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/postgresql-json-300x174.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/postgresql-json.jpg)**[Postgresql : la nouvelle base orientée document,](https://cfp.devoxx.fr/2016/talk/DRS-9311/Postgresql_:_la_nouvelle_base_orientee_document.html) [Yan Bonnel](http://cfp.devoxx.fr/2016/speaker/yan_bonnel)
+### **[![postgresql json](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/postgresql-json-300x174.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/postgresql-json.jpg)**[Postgresql : la nouvelle base orientée document,](https://cfp.devoxx.fr/2016/talk/DRS-9311/Postgresql_:_la_nouvelle_base_orientee_document.html) [Yan Bonnel](http://cfp.devoxx.fr/2016/speaker/yan_bonnel)
 
 Sur le sujet des tweets liés à Devoxx, Yan Bonnel nous a montré en live coding l'utilisation de JSON dans PostgreSql et quelques commandes intéressantes et moins connues. On oublie presque qu'on joue sur une base relationnelle.
 
@@ -86,7 +86,7 @@ Pour la partie frontend : utiliser add to workspace dans Chrome developer pour g
 
 ## **2ème Journée**
 
-[![intro keynotes](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/intro-keynotes-300x137.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/intro-keynotes.jpg)
+[![intro keynotes](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/intro-keynotes-300x137.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/intro-keynotes.jpg)
 
 Après l'introduction [**de l'équipe Devoxx France**](http://cfp.devoxx.fr/2016/talk/GNM-4990/Keynote_de_l'equipe_Devoxx_France), les trois keynote de la journée ont tourné autour du thème technologie et société. 
 
@@ -122,7 +122,7 @@ Un sujet complexe qui mérite d'être exploré au delà d'une quickie. Dans les 
 
 En conclusion, il faut utiliser une thread pour éviter les problèmes de synchronisation, ou bien utiliser plusieurs, mais en limitant leur nombre aux nombres de coeurs de la machine plus un.
 
-### **[![web application servers](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/web-application-servers-300x168.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/web-application-servers.jpg)**[Just enough app server,](https://cfp.devoxx.fr/2016/talk/EQA-4730/Just_enough_app_server.html) [Antonio Goncalves](http://cfp.devoxx.fr/2016/speaker/antonio_goncalves)
+### **[![web application servers](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/web-application-servers-300x168.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/web-application-servers.jpg)**[Just enough app server,](https://cfp.devoxx.fr/2016/talk/EQA-4730/Just_enough_app_server.html) [Antonio Goncalves](http://cfp.devoxx.fr/2016/speaker/antonio_goncalves)
 
 Il existe beaucoup de préconceptions sur les applications serveurs et ce talk montre les métriques et essaie de mettre les choses en perspective pour donner une meilleure compréhension de la réalité. Par exemple, on dit que les app servers sont lents, consomment beaucoup de ressources, ou utilisent des vieux paquets. Il y a de la vérité dans ces affirmations, mais à l'usage, ce n'est pas forcément le cas.
 
@@ -130,7 +130,7 @@ Une attention est portée sur les différentes méthodes de packaging et leur im
 
 ### [Retours sur Java 8,](https://cfp.devoxx.fr/2016/talk/XBY-0882/Retours_sur_Java_8.html) [Jean-Michel Doudoux](http://cfp.devoxx.fr/2016/speaker/jean-michel_doudoux)
 
-[![java 8 doudoux](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/java-8-doudoux-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/java-8-doudoux.jpg)Le talk à ne pas rater, surtout quand on n'a jamais vu l'auteur de milliers de pages de tutoriaux sur Java et connu dans tout le milieu francophone. Le speaker fait un partage d'expérience sur l'utilisation des fonctionnalités Java 8 tel Optional, Parallel Arrays, Date et Time, Lambda, checked expresssions, Stream, Stream parallèles. Il conclut avec la réflexion que Java 8 a changé la façon de coder des développeurs (enfin, des développeurs purs Java).
+[![java 8 doudoux](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/java-8-doudoux-300x169.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/java-8-doudoux.jpg)Le talk à ne pas rater, surtout quand on n'a jamais vu l'auteur de milliers de pages de tutoriaux sur Java et connu dans tout le milieu francophone. Le speaker fait un partage d'expérience sur l'utilisation des fonctionnalités Java 8 tel Optional, Parallel Arrays, Date et Time, Lambda, checked expresssions, Stream, Stream parallèles. Il conclut avec la réflexion que Java 8 a changé la façon de coder des développeurs (enfin, des développeurs purs Java).
 
 ### [High-Performance Hibernate,](https://cfp.devoxx.fr/2016/talk/MJC-3944/High-Performance_Hibernate.html) [Vlad Mihalcea](http://cfp.devoxx.fr/2016/speaker/vlad_mihalcea)
 
@@ -142,9 +142,9 @@ Pour bien comprendre le fonctionnement des Strings en Java, on regarde les trans
 
 ### [Let's React,](https://cfp.devoxx.fr/2016/talk/DFT-7867/Let's_React.html) [Mathieu ANCELIN](http://cfp.devoxx.fr/2016/speaker/mathieu_ancelin)
 
-[![react](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/react-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/react.jpg)Session de découverte de React qui permet de bien saisir son fonctionnement. Crée en 2011 et open sourcé en mai 2013, à ce stade React a 20 000 composants en production. React permet d'écrire du Javascript dans du HTML et fonctionne sur base de composants et non pas de templates. A noter la facilité à valider des données et faire des tests. React natif permet de rendre les composants en natif pour les mobiles, que ce soit Android, iOS ou Windows, et réutiliser la majorité du code. Le live coding a couvert la création d'un mini subreddit.
+[![react](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/react-300x169.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/react.jpg)Session de découverte de React qui permet de bien saisir son fonctionnement. Crée en 2011 et open sourcé en mai 2013, à ce stade React a 20 000 composants en production. React permet d'écrire du Javascript dans du HTML et fonctionne sur base de composants et non pas de templates. A noter la facilité à valider des données et faire des tests. React natif permet de rendre les composants en natif pour les mobiles, que ce soit Android, iOS ou Windows, et réutiliser la majorité du code. Le live coding a couvert la création d'un mini subreddit.
 
-### [Mon appli est secure ! Enfin je crois...](https://cfp.devoxx.fr/2016/talk/VTL-8528/Mon_appli_est_secure_!_Enfin_je_crois....html), [Jean-Louis Boudart](http://cfp.devoxx.fr/2016/speaker/jean-louis_boudart) & [Nicolas Poirier](https://cfp.devoxx.fr/2016/speaker/nicolas_poirier.html)**[![Securite](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Securite-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/Securite.jpg)**
+### [Mon appli est secure ! Enfin je crois...](https://cfp.devoxx.fr/2016/talk/VTL-8528/Mon_appli_est_secure_!_Enfin_je_crois....html), [Jean-Louis Boudart](http://cfp.devoxx.fr/2016/speaker/jean-louis_boudart) & [Nicolas Poirier](https://cfp.devoxx.fr/2016/speaker/nicolas_poirier.html)**[![Securite](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Securite-300x300.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/Securite.jpg)**
 
 Un retour d'expérience sur la sécurité pour rappeler aux développeurs les bonnes pratiques indispensables pour se garder des méchants pen-testeurs. Les mots d'ordre sont contrôler et valider. Une simple démo permet de détecter tous les points d'entrée dans un site et comprendre pourquoi il est important de faire une double vérification front et backend chaque fois, éviter les URL type deleteAll, ne pas exposer des logs ou toute autre fonctionnalité utile aux développeurs pendant la création (“on le supprimera pour la prod”). En résumé, faire de la sécurité applicative c'est : lister toutes les ressources, contrôler toutes les actions, valider toutes les données. Lecture obligatoire des règles de l'OWASP sur la sécurité. Les speakers ont également développé un outil disponible ici : [highway-to-URhell](https://github.com/highway-to-urhell/highway-to-urhell) **|** **[Slides](https://goo.gl/uW0As0)**
 
@@ -156,7 +156,7 @@ Let's Encrypt représente plusieurs choses : une autorité de certification, des
 
 ### Jeudi soir c'est soirée **Meet and** greets, **Networking** et **BOFs,** et Devoxx s'ouvre à des participants de l'extérieur.
 
-[![BOF Duchess](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/BOF-Duchess-all-300x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/BOF-Duchess-all.jpg)
+[![BOF Duchess](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/BOF-Duchess-all-300x300.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/BOF-Duchess-all.jpg)
 
 Les entrepreneurs ont la possibilité de connaître des développeurs lors du **Speed Networking**.
 
@@ -196,7 +196,7 @@ Les agents Java peuvent être utilisés pour autre chose que le profiling. L'age
 
 Une revue rapide des possibilités offertes par Spring Cloud et les différentes configurations disponibles (le service registry, la configuration distribuée ou les propriétés de l'environnement), suivie d'une comparaison entre Eureka (Netflix), Consul (HashiCorp), Zookeeper (Apache).
 
-### [HTTPS n’aura plus de secret pour vous,](http://cfp.devoxx.fr/2016/talk/ALG-8892/HTTPS_n%D5aura_plus_de_secret_pour_vous) [Grégory Paul](http://cfp.devoxx.fr/2016/speaker/gregory_paul)**[![https](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/https-300x166.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/https.jpg)**
+### [HTTPS n’aura plus de secret pour vous,](http://cfp.devoxx.fr/2016/talk/ALG-8892/HTTPS_n%D5aura_plus_de_secret_pour_vous) [Grégory Paul](http://cfp.devoxx.fr/2016/speaker/gregory_paul)**[![https](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/https-300x166.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/https.jpg)**
 
 Une très bonne présentation de l'état de HTTPS et comment l'utiliser de nos jours. Attention, car les moteurs de recherche préfèrent le HTTPS et certains navigateurs bloquent certaines fonctionnalités JavaScript en dehors de HTTPS. Une bonne utilisation de HTTPS inclut TLS en 1.2 minimum, le chiffrement symétrique avec AES 128 ou 256 ou asymétrique avec RSA ou courbes elliptiques, la fonction de hashage SHA-2 ou 3, ou le HMAC avec les mêmes algorithmes. [Slides](https://paulgreg.me/https-slides/?devoxx)
 
@@ -212,7 +212,7 @@ Pour trouver des nouvelles bonnes pratiques, il ne faut pas hésiter à expérim
 
 La présentation à voir pour comprendre l’état de l’art d’Angular, tant au niveau de la progression de la technologie qu’au niveau de la demande sur le marché de l’emploi. L’analyse a été suivie d’une démo en Angular 2 pour utiliser les nouvelles fonctionnalités. La philosophie de Matt Raible pour apprendre une technologie ? _Just do it_. [Slides](http://www.slideshare.net/mraible/the-art-of-angular-in-2016-devoxx-france-2016)
 
-### [Les Cast Codeurs font la fermeture](http://cfp.devoxx.fr/2016/talk/XKB-0496/Les_Cast_Codeurs_font_la_fermeture)**[![cast codeurs](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/cast-codeurs-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/cast-codeurs.jpg)**
+### [Les Cast Codeurs font la fermeture](http://cfp.devoxx.fr/2016/talk/XKB-0496/Les_Cast_Codeurs_font_la_fermeture)**[![cast codeurs](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/cast-codeurs-300x169.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/cast-codeurs.jpg)**
 
 Quel meilleur moyen de finir Devoxx qu'avec un épisode spécial des Cast Codeurs enregistré en présence des participants. C'est maintenant que la session la meilleure notée a été annoncée et c'était Spring Boot 1.3 pour le web.
 
@@ -241,7 +241,7 @@ Guide de survie au Devoxx :
 
 - Se mobiliser assez tôt pour bénéficier du droit à la formation pour participer à la conférence ;
 - Choisir les conférences à voir en avance. Je veux dire une semaine à l'avance et non pas le matin même. Il n'y a pas le temps pendant la conférence et le niveau de fatigue accroît de manière exponentielle ;
-- Il faut chercher son lunch bag tôt, après 12:30 c'est déjà trop tard ! ;[![Lunch bag Devoxx](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/lunch-bags-300x258.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/06/lunch-bags.jpg)
+- Il faut chercher son lunch bag tôt, après 12:30 c'est déjà trop tard ! ;[![Lunch bag Devoxx](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/lunch-bags-300x258.jpg)](/assets/2016/06/2016-06-13-pays-de-devoxx-france-2016/lunch-bags.jpg)
 - Le premier jour il faut arriver assez tôt pour faire le passage obligatoire récupération badge (il y a la possibilité de le récupérer le soir d'avant) et vestiaire ;
 - Récupérer son sac à dos Devoxx avec goodies dès le premier jour ;
 - Le premier jour est dédié aux universités et c'est le plus tranquille de la période car il y a moins de monde. Dès jeudi, les salles se remplissent et il faut être en avance pour avoir une bonne place ou tout simplement une place. Surtout pour les keynote du matin ;

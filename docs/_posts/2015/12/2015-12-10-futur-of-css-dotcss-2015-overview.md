@@ -11,7 +11,7 @@ coverImage: "23523984071_53eaf529d7_b.jpg"
 
 | Attending conferences is so much fun. And this time was no exception. dotCSS is held in the beautiful **Théâtre des Variétés**, which makes the perfect stage for the amazing speakers invited this year. |
 
-[![](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/12339463_10156192922300411_8426632350468312926_o-1024x768.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/12/12339463_10156192922300411_8426632350468312926_o.jpg)
+[![](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/12339463_10156192922300411_8426632350468312926_o-1024x768.jpg)](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/12339463_10156192922300411_8426632350468312926_o.jpg)
 
 dotCSS Stage Photo by Claudia Hernández
 
@@ -26,7 +26,7 @@ Rachel also introduced the **fr** unit which is used to represent proportions, s
 
 Sadly, the CSS Grid Layout doesn't have much browser support yet, except IE and Edge mostly because 3 of 5 authors of the Grid spec are from Microsoft. Either way, pretty interesting talk about the tools that will be available pretty soon to help us structure our websites.
 
-[![Andrey Sitnik](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/22974541493_de0c8fa172_b-1024x554.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/12/22974541493_de0c8fa172_b.jpg)
+[![Andrey Sitnik](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/22974541493_de0c8fa172_b-1024x554.jpg)](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/22974541493_de0c8fa172_b.jpg)
 
 Andrey Sitnik Photo by Nicolas Ravelli
 
@@ -40,7 +40,7 @@ The next talk was one of my favorites by [Daniel Eden](https://twitter.com/_dte)
 
 After the first break and the opportunity to meet up other developers while eating really tasty macarons, [Una Kravets](https://twitter.com/una) came into stage. She's a developer on the IBM Design team and explained how CSS blend modes, filters, and gradients can be used to implement custom photo effects right in the browser.
 
-[![Una Kravets](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23307536080_bf99a241b5_c.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/12/23307536080_bf99a241b5_c.jpg)
+[![Una Kravets](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23307536080_bf99a241b5_c.jpg)](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23307536080_bf99a241b5_c.jpg)
 
 Una Kravets Photo by Nicolas Ravelli
 
@@ -50,7 +50,7 @@ She's author of [CSSGram](http://una.im/CSSgram/) a library that recreates Insta
 
 Next speaker, [Alan Stears](https://twitter.com/alanstearns) new co-chairman of the CSS Working Group talked about the importance of developers getting involved, asking for new features to browsers and helping file bugs. Stears talked about the fact that browsers prioritize which features to implement based on what developers ask for. He basically encouraged developers to speak up and make noise even if we think that it won't make a difference because at the end of the day it will.
 
-[![23522955561_709766be62_c](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23522955561_709766be62_c.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/12/23522955561_709766be62_c.jpg)
+[![23522955561_709766be62_c](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23522955561_709766be62_c.jpg)](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23522955561_709766be62_c.jpg)
 
 Tom Giannattasio Photo by Nicolas Ravelli
 
@@ -60,7 +60,7 @@ The Co-creator of Sass, [Chris Eppstein](https://twitter.com/chriseppstein) talk
 
 The last speaker, [Daniel Glazman](https://twitter.com/glazou) talked about the future of CSS. One of the cool things to hear is that finally Custom Properties ([CSS Variables](http://www.w3.org/TR/css-variables/)) turned into W3C Candidate Recommendation on December 3rd. There was also a lot of buzz for the [Houdini](https://wiki.css-houdini.org/) project, which target is to develop features that explain the “magic” of Styling and Layout on the web. This way CSS can stop being a black box for most developers and help us reach it more easily.
 
-[![23523984071_53eaf529d7_b](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23523984071_53eaf529d7_b-1024x590.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/12/23523984071_53eaf529d7_b.jpg)
+[![23523984071_53eaf529d7_b](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23523984071_53eaf529d7_b-1024x590.jpg)](/assets/2015/12/2015-12-10-futur-of-css-dotcss-2015-overview/23523984071_53eaf529d7_b.jpg)
 
 Speakers Photo by Nicolas Ravelli
 

@@ -50,7 +50,7 @@ J. Langley de CohesionForce nous a présenté l'architecture logicielle utilisé
 
 Philip Wenig (Lablicate GmbH) a présenté différents outils de visualisation de données scientifiques et fait la promotion de Eclipse ChemClipse qu'il utilise et auquel il contribue.
 
-[![Charts Eclipse](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/chem-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/07/chem.jpg)
+[![Charts Eclipse](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/chem-300x224.jpg)](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/chem.jpg)
 
 Ce projet s'inscrit plus largement dans les travaux d'un nouveau workgroup Eclipse dédié à la science. Le groupe est jeune et attend impatiemment que d'autres membres les rejoignent. Le but est de dégager les besoins communs aux travaux scientifiques et valider la pertinence des chantiers à engager. Informaticiens ou scientifiques, ils vous attendent :
 
@@ -72,7 +72,7 @@ Oubliées les galères d'install à l'arrivée de chaque nouveau développeur su
 
 Le niveau était trop élevé pour moi, j'ai compris combien le résultat était efficace mais eu du mal à suivre toutes les étapes de la démonstration. Le speaker Jeff Maury (Red Hat) lui, maîtrise à fond son sujet.
 
-[![ Eclipse Jeff Maury](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/jeffmaury-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/07/jeffmaury.jpg) OpenShift est un outil qui fait partie de la suite Jboss Tools de RedHat. C'est une surcouche à Kubernetes, lui même surcouche de Docker, qui permet de gérer le déploiement d'applications sur un ou plusieurs containers Dockers. Eclipse est intégré dans le Jboss developer studio et Docker dans les Jboss Tools, ce qui permet de tout gérer dans un seul espace : la programmation, le déploiement instantané et le remote debugging.
+[![ Eclipse Jeff Maury](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/jeffmaury-300x224.jpg)](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/jeffmaury.jpg) OpenShift est un outil qui fait partie de la suite Jboss Tools de RedHat. C'est une surcouche à Kubernetes, lui même surcouche de Docker, qui permet de gérer le déploiement d'applications sur un ou plusieurs containers Dockers. Eclipse est intégré dans le Jboss developer studio et Docker dans les Jboss Tools, ce qui permet de tout gérer dans un seul espace : la programmation, le déploiement instantané et le remote debugging.
 
 ##### _Visual Studio Team Services can help Eclipse developers ? You're kidding me!_
 
@@ -84,7 +84,7 @@ Dommage que la conférence ait contenu un peu trop de démo à mon goût, mais b
 
 ##### _Eclipse and Java 9_
 
-[![Eclipse java9](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/java9-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/07/java9.jpg)
+[![Eclipse java9](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/java9-300x224.jpg)](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/java9.jpg)
 
 Jay Arthanareeswaran d'IBM nous a présenté les nouveautés de Java 9 et comment elles sont supportées dans l'IDE d'Eclipse. La grosse nouveauté de Java 9 ce sont les modules. D'une part, il n'y a plus de JAR mais des JMOD ou des JImage(pour les runtime images) et d'autre part le JDK lui-même est éclaté en modules de façon à pouvoir choisir exactement les modules nécessaires à un projet.
 
@@ -121,7 +121,7 @@ En plus des outils en eux-même, Evgeny nous a fourni des bonnes pratiques et de
 
 ##### _Debug Java code like a pro_
 
-Ah !!! Ma conférence préférée ! Parce qu'elle est celle qui est la plus concrè[![Eclipse Mickael Barbero](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/mickaelbarbero-300x224.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/07/mickaelbarbero.jpg)te et liée à ce que je fait quotidiennement et parce que j'ai appris des choses incroyables !!!! Vous avez déjà fait F8 jusqu'à ce que la boucle passe dans la valeur de test qui vous intéresse ? Moi oui, en fait il suffisait d'ajouter une condition à mon point d'arrêt pour que le débugger ne s'arrête que sur la valeur qui m'intéressait, magique. Des fonctionnalités de ce type Mikaël Barbero  en connaît des tas et Eclipse Oxygen en a de nouvelles. Vous pouvez aller les chercher sur internet à partir des chapitres de ses slides, je vous conseille quand même la vidéo(n°1 de mon classement !).
+Ah !!! Ma conférence préférée ! Parce qu'elle est celle qui est la plus concrè[![Eclipse Mickael Barbero](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/mickaelbarbero-300x224.jpg)](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/mickaelbarbero.jpg)te et liée à ce que je fait quotidiennement et parce que j'ai appris des choses incroyables !!!! Vous avez déjà fait F8 jusqu'à ce que la boucle passe dans la valeur de test qui vous intéresse ? Moi oui, en fait il suffisait d'ajouter une condition à mon point d'arrêt pour que le débugger ne s'arrête que sur la valeur qui m'intéressait, magique. Des fonctionnalités de ce type Mikaël Barbero  en connaît des tas et Eclipse Oxygen en a de nouvelles. Vous pouvez aller les chercher sur internet à partir des chapitres de ses slides, je vous conseille quand même la vidéo(n°1 de mon classement !).
 
 [https://www.eclipsecon.org/france2017/sites/default/files/slides/2017ecf.pdf](https://www.eclipsecon.org/france2017/sites/default/files/slides/2017ecf.pdf)
 
@@ -157,7 +157,7 @@ Les ignite talks c'est un exercice impressionnant auquel j'assistais pour la pre
 
  
 
-[![Eclipse Charlotte Cavalier](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/charlottecavalier-1024x766.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/07/charlottecavalier.jpg)
+[![Eclipse Charlotte Cavalier](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/charlottecavalier-1024x766.jpg)](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/charlottecavalier.jpg)
 
 La Duchess Charlotte en action.
 
@@ -165,7 +165,7 @@ La Duchess Charlotte en action.
 
 En conclusion des deux journées, la closing session avec le jeu habituel carton rouge/carton vert (j'ai perdu à la première question) et encore une Duchess à l'honneur avec les remerciements au program committee dont fait partie Aurélie :
 
-[![Eclipse Aurelie Vache](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/committee-program-1024x766.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/07/committee-program.jpg)
+[![Eclipse Aurelie Vache](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/committee-program-1024x766.jpg)](/assets/2017/08/2017-08-30-retour-eclipsecon-france-2017/committee-program.jpg)
 
  
 

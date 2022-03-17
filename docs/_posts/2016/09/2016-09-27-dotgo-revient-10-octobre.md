@@ -14,7 +14,7 @@ coverImage: "dotgo2016.png"
 
  
 
-[![dotgo_speakers](/assets/2016/09/2016-09-27-dotgo-revient-10-octobre/dotGo_speakers-300x170.jpg)](http://www.duchess-france.org/wp-content/uploads/2016/09/dotGo_speakers.jpg)
+[![dotgo_speakers](/assets/2016/09/2016-09-27-dotgo-revient-10-octobre/dotGo_speakers-300x170.jpg)](/assets/2016/09/2016-09-27-dotgo-revient-10-octobre/dotGo_speakers.jpg)
 
 Quelques speakers sont d'or et déjà annoncés :
 

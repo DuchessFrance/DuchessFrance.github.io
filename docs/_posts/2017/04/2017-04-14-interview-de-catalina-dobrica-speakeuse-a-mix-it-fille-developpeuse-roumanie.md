@@ -47,7 +47,7 @@ Hello Catalina,
 
  
 
-[![](/assets/2017/04/2017-04-14-interview-de-catalina-dobrica-speakeuse-a-mix-it-fille-developpeuse-roumanie/mixitcatalina-300x215.png)](http://www.duchess-france.org/wp-content/uploads/2017/04/mixitcatalina.png)
+[![](/assets/2017/04/2017-04-14-interview-de-catalina-dobrica-speakeuse-a-mix-it-fille-developpeuse-roumanie/mixitcatalina-300x215.png)](/assets/2017/04/2017-04-14-interview-de-catalina-dobrica-speakeuse-a-mix-it-fille-developpeuse-roumanie/mixitcatalina.png)
 
 **Véro : You will talk about Being a girl who codes in Roumania at Mix-IT. Could you tell us more ?** 
 

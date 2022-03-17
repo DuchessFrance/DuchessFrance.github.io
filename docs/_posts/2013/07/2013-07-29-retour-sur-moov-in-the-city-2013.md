@@ -14,9 +14,9 @@ tags:
   - "open-data"
 ---
 
-| **L’équipe Duchess a été finaliste du concours [MoovInTheCity](http://moovinthecity.com/)** qui s'est terminé mercredi 10 Juillet. Après un passage devant un jury à huis clos pour la demi-finale, notre équipe a été sélectionnée parmi les finalistes mais ne fut malheureusement pas présente sur le podium.[![_external_images_media_22011$IMAG0297](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/external_images_media_22011IMAG0297.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/07/external_images_media_22011IMAG0297.jpg) |
+| **L’équipe Duchess a été finaliste du concours [MoovInTheCity](http://moovinthecity.com/)** qui s'est terminé mercredi 10 Juillet. Après un passage devant un jury à huis clos pour la demi-finale, notre équipe a été sélectionnée parmi les finalistes mais ne fut malheureusement pas présente sur le podium.[![_external_images_media_22011$IMAG0297](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/external_images_media_22011IMAG0297.jpg)](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/external_images_media_22011IMAG0297.jpg) |
 
-[![MOOVSIMPLY_Splash](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/MOOVSIMPLY_Splash.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/06/MOOVSIMPLY_Splash.jpg)
+[![MOOVSIMPLY_Splash](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/MOOVSIMPLY_Splash.jpg)](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/MOOVSIMPLY_Splash.jpg)
 
 MoovInTheCity c'était :
 
@@ -35,7 +35,7 @@ Quelque peu déçues de ne pas être sur le podium, nous sommes toutefois fière
 
 Nous avons participé à ce concours sur notre temps libre et c'est assez soutenu. Toutes les semaines, nous devions fournir un livrable comme des slides de notre produit ou encore une vidéo promotionnelle. Avec majoritairement des développeuses dans l’équipe, cela nous a semblé difficile au départ mais nous y sommes arrivées au point d’aller en finale ! Ce concours est aussi l’occasion de faire des rencontres comme Annabel (Chef de projet Web et conceptrice d’interface Web) et Aya (Directrice Artistique, Webdesigner) qui ont rejoint notre équipe. Elles nous ont beaucoup aidé sur la partie marketing et graphique.
 
-[![MoovTeam](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/MoovTeam.jpg)](http://www.duchess-france.org/wp-content/uploads/2013/07/MoovTeam.jpg)
+[![MoovTeam](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/MoovTeam.jpg)](/assets/2013/07/2013-07-29-retour-sur-moov-in-the-city-2013/MoovTeam.jpg)
 
 ## Un nouveau challenge pour les Duchess
 

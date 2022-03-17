@@ -17,7 +17,7 @@ coverImage: "DoGO2015.png"
 
 | Petit annonce pour les retardataires : Les Duchesses seront présentes à la conférence [Dot GO](http://www.dotgo.eu/) qui aura lieu à Paris le lundi **9 Novembre** prochain ! |
 
-[![DoGO2015](/assets/2015/11/2015-11-04-les-duchesses-seront-presentes-a-la-conference-dot-go/DoGO2015.png)](http://www.duchess-france.org/wp-content/uploads/2015/11/DoGO2015.png)
+[![DoGO2015](/assets/2015/11/2015-11-04-les-duchesses-seront-presentes-a-la-conference-dot-go/DoGO2015.png)](/assets/2015/11/2015-11-04-les-duchesses-seront-presentes-a-la-conference-dot-go/DoGO2015.png)
 
 Cette conférence est consacré au langage [Go](https://golang.org/), le langage informatif et concurrent développé par Google. Parmi les speakers, on y retrouve entre autres [Rob Pike](https://twitter.com/rob_pike) le co-créateur de Go, [Jessica Frazelle](https://blog.jessfraz.com/) de la Core Team de [Docker](https://www.docker.com/), ou [Blake Mizerany](http://twitter.com/bmizerany) créateur de [Sinatra](http://www.sinatrarb.com/) et co-créateur de [Doozer](https://github.com/ha/doozerd).
 

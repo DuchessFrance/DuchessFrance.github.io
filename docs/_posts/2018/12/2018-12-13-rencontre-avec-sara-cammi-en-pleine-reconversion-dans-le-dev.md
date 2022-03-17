@@ -14,7 +14,7 @@ coverImage: "image1.jpeg"
 
 | Aujourd'hui nous rencontrons Sara Cammi qui est en train de reconvertir pour devenir dev web. Elle vient de finir sa formation et nous fait partager son retour d'expérience. Merci Sara ! |
 
-[![](/assets/2018/12/2018-12-13-rencontre-avec-sara-cammi-en-pleine-reconversion-dans-le-dev/sara_cammi-225x300.jpeg)](http://www.duchess-france.org/wp-content/uploads/2018/12/sara_cammi.jpeg)
+[![](/assets/2018/12/2018-12-13-rencontre-avec-sara-cammi-en-pleine-reconversion-dans-le-dev/sara_cammi-225x300.jpeg)](/assets/2018/12/2018-12-13-rencontre-avec-sara-cammi-en-pleine-reconversion-dans-le-dev/sara_cammi.jpeg)
 
 ### **Très heureuse que tu répondes à notre interview. Les retours d'expérience comme le tien sont précieux. Ton parcours atypique est vraiment très inspirant. Est ce que tu peux nous dire qui tu es en quelques mots ?**
 

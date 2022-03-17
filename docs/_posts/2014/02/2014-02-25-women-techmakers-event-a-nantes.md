@@ -15,7 +15,7 @@ tags:
 
 | Le 6 mars prochain aura lieu à Nantes le premier Women Techmakers Event nantais (anciennement DevFestW). |
 
-[![2014_03_06_WTM_banniere](/assets/2014/02/2014-02-25-women-techmakers-event-a-nantes/2014_03_06_WTM_banniere-300x75.png)](http://www.duchess-france.org/wp-content/uploads/2014/02/2014_03_06_WTM_banniere.png)Organisé en partenariat avec le Google Developpers Group local, ce sera l'occasion, le temps d'une soirée, de mettre en lumière la présence des femmes dans le domaine de l'IT (plus d'informations sur les Women Techmakers Events par [ici](http://womentechmakers.com/)).
+[![2014_03_06_WTM_banniere](/assets/2014/02/2014-02-25-women-techmakers-event-a-nantes/2014_03_06_WTM_banniere-300x75.png)](/assets/2014/02/2014-02-25-women-techmakers-event-a-nantes/2014_03_06_WTM_banniere.png)Organisé en partenariat avec le Google Developpers Group local, ce sera l'occasion, le temps d'une soirée, de mettre en lumière la présence des femmes dans le domaine de l'IT (plus d'informations sur les Women Techmakers Events par [ici](http://womentechmakers.com/)).
 
 Plusieurs interventions sont au programme de la soirée :
 

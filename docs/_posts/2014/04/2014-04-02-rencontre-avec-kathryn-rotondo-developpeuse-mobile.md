@@ -18,7 +18,7 @@ Pour ces événements, nous avons décidé d'aller à la rencontre des différen
 
 J'ai eu le plaisir d'interviewer [Kathryn Rotondo](https://twitter.com/@krotondo "Twitter"), développeuse mobile à Tübingen (Allemagne), qui animera la session [So Easy a Child Could Do It: Designing Mobile Apps for Children](http://cfp.devoxx.fr/devoxxfr2014/speaker/425efd7b4389697d8e8d3f2739b4cc710a25ca99/Kathryn%20Rotondo "Talk Devoxx") à Devoxx.
 
-[![kathryn](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/kathryn.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/03/kathryn.jpg)
+[![kathryn](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/kathryn.jpg)](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/kathryn.jpg)
 
 **Ludwine : Who are you ?**
 
@@ -38,7 +38,7 @@ J'ai eu le plaisir d'interviewer [Kathryn Rotondo](https://twitter.com/@krotondo
 
 For mobile, I haven't yet but would love to play around with [Estimote](http://estimote.com/ "Estimote") Beacons. These are little sensors that can broadcast their location and communicate with an app to know when you're nearby. I have an idea for an app to help kids and families, so I'm really looking forward to trying those out soon.
 
-[![motherpostcast](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/motherpostcast-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/03/motherpostcast.jpg)
+[![motherpostcast](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/motherpostcast-300x225.jpg)](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/motherpostcast.jpg)
 
 **Ludwine : Encouraging women developers is important to you. You founded in particular the [Motherboard Podcast](http://motherboardpodcast.com "Mother Board Postcast"). Could you explain this initiative ?**
 
@@ -65,4 +65,4 @@ Podcasts:
 
 **Merci Kathryn pour cette interview et à Devoxx France !**
 
-[![devoxx](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/devoxx-300x115.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/03/devoxx.jpg)
+[![devoxx](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/devoxx-300x115.jpg)](/assets/2014/04/2014-04-02-rencontre-avec-kathryn-rotondo-developpeuse-mobile/devoxx.jpg)

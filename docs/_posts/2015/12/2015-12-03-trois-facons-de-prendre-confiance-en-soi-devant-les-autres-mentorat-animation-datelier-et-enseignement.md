@@ -19,7 +19,7 @@ coverImage: "Mentorat.jpg"
 
 **Le syndrome de l’imposteur**
 
- **[![zebre_imposteur](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/zebre_imposteur.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/11/zebre_imposteur.jpg)** Il nous touche, nous les filles, plus souvent que nos homologues masculins. Enfin bref, je ne vais pas m’étaler plus que cela sur le sujet, ce n’est pas le but ici, mais si vous ne l’avez pas encore fait, je vous invite à aller lire l’[article de Aurélie Vaché](http://www.duchess-france.org/jai-teste-syndrome-de-limposteur/) qui traite très bien le sujet.
+ **[![zebre_imposteur](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/zebre_imposteur.jpg)](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/zebre_imposteur.jpg)** Il nous touche, nous les filles, plus souvent que nos homologues masculins. Enfin bref, je ne vais pas m’étaler plus que cela sur le sujet, ce n’est pas le but ici, mais si vous ne l’avez pas encore fait, je vous invite à aller lire l’[article de Aurélie Vaché](http://www.duchess-france.org/jai-teste-syndrome-de-limposteur/) qui traite très bien le sujet.
 
 Ayant conscience qu’il fallait que je prenne le taureau par les cornes pour ne pas me gâcher des opportunités qui pouvaient s’offrir à moi dans le futur j’ai choisi de me fixer comme objectif de combattre ce ressenti **non pas en attendant que des initiatives viennent à moi mais en les provoquant**.
 
@@ -31,7 +31,7 @@ Voici donc **trois initiatives** qui vont vous permettre de mettre en avant votr
 
 ## **1ère initiative : Le Mentorat** 
 
-[![Businessman's outstretched arm passing a flaming torch to another businessman's open hand](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/Mentorat.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/11/Mentorat.jpg)
+[![Businessman's outstretched arm passing a flaming torch to another businessman's open hand](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/Mentorat.jpg)](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/Mentorat.jpg)
 
 Parler de soi, de son parcours c’est ce qu’il y a de plus naturel. En effet qui peut être mieux placé que soi-même quand il s’agit de parler de son expérience. Chaque parcours est différent, unique et mérite d’être raconté.
 
@@ -55,7 +55,7 @@ Renseignez-vous dans les écoles pour participer à ce genre de programme cela s
 
 ## **2nd initiative : Animer un atelier de programmation**
 
-[![marion](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/CRSbkZ4XAAA2i7U.jpg-large-2.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/12/CRSbkZ4XAAA2i7U.jpg-large-2.jpeg)
+[![marion](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/CRSbkZ4XAAA2i7U.jpg-large-2.jpeg)](/assets/2015/12/2015-12-03-trois-facons-de-prendre-confiance-en-soi-devant-les-autres-mentorat-animation-datelier-et-enseignement/CRSbkZ4XAAA2i7U.jpg-large-2.jpeg)
 
 Organisés le plus souvent lors d’événements et principalement le weekend, les ateliers de programmation s’adressent à des personnes de tout niveau de tout âge et permettent notamment de s’initier à un nouveau langage tout en étant accompagné. C’est souvent l’occasion d’élargir ses horizons le temps d’une après-midi ou d’une soirée, de prendre le temps qu’on aurait pas osé prendre seul.
 

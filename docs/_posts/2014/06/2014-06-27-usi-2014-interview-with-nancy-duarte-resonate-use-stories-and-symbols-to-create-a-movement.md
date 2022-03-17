@@ -12,9 +12,9 @@ tags:
   - "usi"
 ---
 
-| [![usi](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/usi-300x211.png)](http://www.duchess-france.org/wp-content/uploads/2014/06/usi.png)At the [USI](http://www.usievents.com/fr "USI") conference, we met [Nancy Duarte](http://www.duarte.com/ "Nancy Duarte") who talked about **Resonate: Use Stories and Symbols to create a Movement**. |
+| [![usi](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/usi-300x211.png)](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/usi.png)At the [USI](http://www.usievents.com/fr "USI") conference, we met [Nancy Duarte](http://www.duarte.com/ "Nancy Duarte") who talked about **Resonate: Use Stories and Symbols to create a Movement**. |
 
-[![nancy](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/nancy-300x208.png)](http://www.duchess-france.org/wp-content/uploads/2014/06/nancy.png)
+[![nancy](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/nancy-300x208.png)](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/nancy.png)
 
 She wrote a book on this topic : Resonate: Present Visual Stories that Transform Audiences.
 
@@ -26,7 +26,7 @@ It is with this advice that she ends her talk at the conference :  "You have t
 
  
 
-[![IMG_20140616_155750](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/IMG_20140616_155750-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/06/IMG_20140616_155750.jpg)
+[![IMG_20140616_155750](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/IMG_20140616_155750-300x225.jpg)](/assets/2014/06/2014-06-27-usi-2014-interview-with-nancy-duarte-resonate-use-stories-and-symbols-to-create-a-movement/IMG_20140616_155750.jpg)
 
 You can download the interview in [ogg](http://sd-g1.archive-host.com/membres/up/fcbded4ffab958d955cd76f9f0a8f6deaf605fff/Duchess_France/USI2014/NancyDuartInterview.ogg) or [mp3](http://sd-g1.archive-host.com/membres/up/fcbded4ffab958d955cd76f9f0a8f6deaf605fff/Duchess_France/USI2014/NancyDuartInterview.mp3)
 

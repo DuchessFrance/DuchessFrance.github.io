@@ -13,7 +13,7 @@ coverImage: "dotSecurity_and_dotScale_2016.png"
 
 ### dotSecurity
 
-[![dotSecurity](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotSecurity-300x144.png)](http://www.duchess-france.org/wp-content/uploads/2016/03/dotSecurity.png)
+[![dotSecurity](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotSecurity-300x144.png)](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotSecurity.png)
 
 dotSecurity aura lieu au le 22 avril au **Théâtre des Variétés** dans le 2ème arrondissement à Paris.
 
@@ -23,11 +23,11 @@ Si vous n'êtes pas déjà à [Devoxx](http://devoxx.fr/) ou [Mix-IT](https://w
 
 Quelques speakers :
 
-[![dotSecurityspeakers](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotSecurityspeakers-1024x462.png)](http://www.duchess-france.org/wp-content/uploads/2016/03/dotSecurityspeakers.png)
+[![dotSecurityspeakers](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotSecurityspeakers-1024x462.png)](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotSecurityspeakers.png)
 
 ### dotScale
 
-[![dotScale](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotScale-300x135.png)](http://www.duchess-france.org/wp-content/uploads/2016/03/dotScale.png)
+[![dotScale](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotScale-300x135.png)](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotScale.png)
 
 [dotScale](http://www.dotscale.io/) aura lieu le lundi 25 Avril 2016 au **Théâtre de Paris** dans le 9ème à Paris.
 
@@ -39,7 +39,7 @@ L'année dernière une membre des Duchess avait pu assisster à la conférence [
 
 Quelques speakers :
 
-[![dotScaleSpeakers](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotScaleSpeakers-1024x498.png)](http://www.duchess-france.org/wp-content/uploads/2016/03/dotScaleSpeakers.png)
+[![dotScaleSpeakers](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotScaleSpeakers-1024x498.png)](/assets/2016/03/2016-03-22-conferences-dotscale-dotsecurity/dotScaleSpeakers.png)
 
  
 

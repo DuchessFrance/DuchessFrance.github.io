@@ -12,7 +12,7 @@ coverImage: "Katie-Printer-Project.jpg"
 
 | Il y à quelques mois, pour le magazine [Programmez](http://www.programmez.com/)!, j'ai eu le plaisir d'interviewer Katie Denton, une jeune makeuse bourrée de talent et j'ai souhaité vous partager la version anglaise/originale de cette interview. |
 
-##### _[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-Printer-Project-300x269.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/05/Katie-Printer-Project.jpg)_
+##### _[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-Printer-Project-300x269.jpg)](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-Printer-Project.jpg)_
 
 ##### _Hi Katie, can you first of all, present yourself? (name, age, class …)_
 
@@ -22,13 +22,13 @@ My name is [Katie Denton](https://www.facebook.com/MakerKatie/), I am 12 years o
 
 I got my first Raspberry Pi for my 10th birthday and began writing code in Python, using it to light up LEDs. My first big project was a custom Kossel Mini 3-D printer, which I completed about a year ago. I’d wanted a 3D printer for a long time, and I had to do a ‘Passion Project’ for school, and my dad asked why not build the 3D Printer you want for the project? It took me several months to complete and was a lot of work, but I learnt a lot too.
 
-[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-Lathe-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/05/Katie-Lathe.jpg)
+[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-Lathe-300x225.jpg)](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-Lathe.jpg)
 
 ##### _You met the creator of the Raspberry Pi? It what for what occasion?_
 
 I met the creator of Raspberry Pi ([Eben Upton](https://twitter.com/ebenupton)) pretty much by accident. I had been emailing him with questions about using a Raspberry Pi in my 3D Printer project. He was coming to Texas for SXCreate at South by South West and he was running a display, and he invited me to come meet him. I talked to him for about an hour and he gave me lots of ideas.
 
-[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-and-Eben-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/05/Katie-and-Eben.jpg)
+[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-and-Eben-300x225.jpg)](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/Katie-and-Eben.jpg)
 
 ##### _You have been in Women@NASA Girls and Boys Summer Mentoring program? Can you  tell us about?_
 
@@ -46,7 +46,7 @@ If you want to try and do programming or electronics, then try and don’t give 
 
 For this year Passion Project I am building a super computer out of 16 Raspberry Pi 3’s and possibly a few other boards. This is a long term project and is going to be the brain for my army of robots, starting with my Rapiro Robot and GoPiGo2. To start with I’m going to install several nodes with OpenCV so my robots can do facial recognition and character recognition. I’m going to install a couple of nodes with JASPER, so I can work on voice control for the Robots. Then several nodes will run a Hadoop cluster – this will give me a big data store, and maybe let me start doing some Machine Learning projects. Eventually I’d like to get it to 64 nodes and see how fast I can make it.
 
-[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/SuperComputer-Parts-for-Rapiro-Brain-300x220.jpg)](http://www.duchess-france.org/wp-content/uploads/2017/05/SuperComputer-Parts-for-Rapiro-Brain.jpg)
+[![](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/SuperComputer-Parts-for-Rapiro-Brain-300x220.jpg)](/assets/2017/06/2017-06-06-katie-denton-12-ans-makeuse/SuperComputer-Parts-for-Rapiro-Brain.jpg)
 
 My all-girls Robotics team is going to continue next year, we already have our team together. Next year’s VEX challenge is announced at the end of April, and we are planning to start designing our robot over the summer.
 

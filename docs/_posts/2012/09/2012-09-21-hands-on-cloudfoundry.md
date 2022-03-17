@@ -16,7 +16,7 @@ tags:
 
 Nous vous proposons de découvrir CloudFoundry avec [Éric Bottard](https://twitter.com/ebottard "Twitter") et [Florent Biville](https://twitter.com/fbiville "Twitter") lors d'un Hands On le jeudi 11 octobre. Venez découvrir la plateforme ainsi que tout l’écosystème **CloudFoundry** et apprenez à héberger vos webapps utilisant des bases de données relationnelles, des stores Mongo ou Redis ou bien encore RabbitMQ.
 
-[![](/assets/2012/09/2012-09-21-hands-on-cloudfoundry/VMW-LGO-CloudFoundry2-300x55.png "VMW-LGO-CloudFoundry")](http://www.duchess-france.org/wp-content/uploads/2012/09/VMW-LGO-CloudFoundry2.png)
+[![](/assets/2012/09/2012-09-21-hands-on-cloudfoundry/VMW-LGO-CloudFoundry2-300x55.png "VMW-LGO-CloudFoundry")](/assets/2012/09/2012-09-21-hands-on-cloudfoundry/VMW-LGO-CloudFoundry2.png)
 
 Lors de la soirée, nous commencerons avec une application Spring simple que nous enrichirons au fur et à mesure. Nous apprendrons ainsi à utiliser les outils mis à disposition pour intéragir avec un Cloud compatible CloudFoundry et nous nous intéresserons particulièrement à la connexion aux bases de données. Après cette soirée, vous serez capables de déployer n’importe quelle application dans le Cloud, de la plus simple à la plus complexe!
 
@@ -39,6 +39,6 @@ Ils se sont tous les deux croisés chez [Metaboli](http://www.metaboli.fr/ "Meta
 
 La soirée aura lieu **jeudi 11 octobre** à partir de **19h30** chez [Xebia](http://www.xebia.fr/ "Xebia"), que nous remercions pour son accueil et pour le buffet.
 
-[![Xebia](/assets/2012/09/2012-09-21-hands-on-cloudfoundry/xebia.png "Xebia")](http://www.duchess-france.org/wp-content/uploads/2012/09/xebia.png)
+[![Xebia](/assets/2012/09/2012-09-21-hands-on-cloudfoundry/xebia.png "Xebia")](/assets/2012/09/2012-09-21-hands-on-cloudfoundry/xebia.png)
 
 Vous pouvez dès à présent vous inscrire sur [**Eventbrite**](http://cloudfoundry-duchessfr.eventbrite.com/ "http://cloudfoundry-duchessfr.eventbrite.com/").

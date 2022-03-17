@@ -10,7 +10,7 @@ tags:
   - "anniversaire"
 ---
 
-| \[caption id="attachment\_990" align="alignright" width="300" caption="Cliquez pour voir l'image en grand"\][![](/assets/2012/05/2012-05-28-itineraire-pour-lece/Plan-ECE-300x257.png "Plan ECE")](http://www.duchess-france.org/wp-content/uploads/2012/05/Plan-ECE.png)\[/caption\] |
+| \[caption id="attachment\_990" align="alignright" width="300" caption="Cliquez pour voir l'image en grand"\][![](/assets/2012/05/2012-05-28-itineraire-pour-lece/Plan-ECE-300x257.png "Plan ECE")](/assets/2012/05/2012-05-28-itineraire-pour-lece/Plan-ECE.png)\[/caption\] |
 
 L'anniversaire aura lieu à l'[ECE](http://www.ece.fr/) le 30 Mai.
 

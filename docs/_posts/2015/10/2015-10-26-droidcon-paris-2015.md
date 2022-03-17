@@ -21,7 +21,7 @@ L’an passé, Facebook, Microsoft, Google, Intel, Evernote et beaucoup d’autr
 
 Cette année aussi, la droidcon aura le plaisir d'accueillir des intervenants renommés.
 
-[![SpreakersDroidcon2015](/assets/2015/10/2015-10-26-droidcon-paris-2015/SpreakersDroidcon2015.png)](http://www.duchess-france.org/wp-content/uploads/2015/10/SpreakersDroidcon2015.png)
+[![SpreakersDroidcon2015](/assets/2015/10/2015-10-26-droidcon-paris-2015/SpreakersDroidcon2015.png)](/assets/2015/10/2015-10-26-droidcon-paris-2015/SpreakersDroidcon2015.png)
 
  
 
@@ -31,4 +31,4 @@ Duchess France a le plaisir de vous faire gagner **3 places**.
 
 Pour cela, il suffit de participer à notre tirage au sort via ce [formulaire](https://docs.google.com/forms/d/1D--BZ53gql9yRSpW7CG2l-xHa36wKsUbBNU3OJ8W4RQ/viewform).
 
-[![droidcon2015](/assets/2015/10/2015-10-26-droidcon-paris-2015/droidcon2015.png)](http://www.duchess-france.org/wp-content/uploads/2015/10/droidcon2015.png)
+[![droidcon2015](/assets/2015/10/2015-10-26-droidcon-paris-2015/droidcon2015.png)](/assets/2015/10/2015-10-26-droidcon-paris-2015/droidcon2015.png)

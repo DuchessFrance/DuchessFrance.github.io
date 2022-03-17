@@ -14,15 +14,15 @@ tags:
   - "usi"
 ---
 
-| [![usi](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/usi-300x211.png)](http://www.duchess-france.org/wp-content/uploads/2014/06/usi.png) |
+| [![usi](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/usi-300x211.png)](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/usi.png) |
 
 Les Duchess étaient présentes à l'édition 2014 de l'[USI](http://www.usievents.com/fr "USI") qui s'est tenu les 16 et 17 juin au Palais Brongniart à Paris.
 
  
 
-[![IMG_20140617_150607](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150607-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/06/IMG_20140617_150607.jpg)
+[![IMG_20140617_150607](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150607-300x225.jpg)](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150607.jpg)
 
-[![IMG_20140616_143523](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140616_143523-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/06/IMG_20140616_143523.jpg)
+[![IMG_20140616_143523](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140616_143523-300x225.jpg)](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140616_143523.jpg)
 
  
 
@@ -48,7 +48,7 @@ Au programme cette année : du **Big Data**, des **Objets Connectés**, du **Dig
 
  
 
-[![IMG_20140617_150539](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150539-300x225.jpg)![IMG_20140617_150637](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150637-300x225.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/06/IMG_20140617_150539.jpg)
+[![IMG_20140617_150539](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150539-300x225.jpg)![IMG_20140617_150637](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150637-300x225.jpg)](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/IMG_20140617_150539.jpg)
 
  
 
@@ -74,7 +74,7 @@ Nous avons eu la chance lors de cette conférence d'interviewer plusieurs speak
 
 Première rencontre avec [Olivier Grisel](http://ogrisel.com/ "Olivier Grisel"), ingénieur logiciel à l'INRIA Saclay, qui a présenté la session [Predictive Analytics](http://www.usievents.com/fr/speakers#it-specialist "IT session").
 
-[![olivier grisel](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/ogrisel.png)](http://www.duchess-france.org/wp-content/uploads/2014/06/ogrisel.png)
+[![olivier grisel](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/ogrisel.png)](/assets/2014/06/2014-06-23-usi-2014-rencontre-avec-olivier-grisel-predictive-analytics/ogrisel.png)
 
 Olivier revient sur la définition du **Big Data**, utilisé trop souvent abusivement, puis nous parle de **Machine Learning**.
 

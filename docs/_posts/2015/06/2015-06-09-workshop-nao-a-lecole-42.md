@@ -40,8 +40,8 @@ Ces pré-installations sont importantes et indispensables pour réaliser le work
 
 Merci à [Aldebaran](https://www.aldebaran.com/en) pour les robots!
 
-[![aldebaran](/assets/2015/06/2015-06-09-workshop-nao-a-lecole-42/aldebaran.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/06/aldebaran.jpeg)
+[![aldebaran](/assets/2015/06/2015-06-09-workshop-nao-a-lecole-42/aldebaran.jpeg)](/assets/2015/06/2015-06-09-workshop-nao-a-lecole-42/aldebaran.jpeg)
 
 Merci à [l'école 42](http://www.42.fr/) pour l'accueil!
 
-[![42](/assets/2015/06/2015-06-09-workshop-nao-a-lecole-42/42.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/06/42.jpeg)
+[![42](/assets/2015/06/2015-06-09-workshop-nao-a-lecole-42/42.jpeg)](/assets/2015/06/2015-06-09-workshop-nao-a-lecole-42/42.jpeg)

@@ -14,13 +14,13 @@ coverImage: "IMG_8068-TW.jpg"
 
 Un parcours qui fait vraiment rêver et que je suis ravie de partager avec vous dans cet interview.
 
-[![IMG_8068](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/IMG_8068-1024x683.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/09/IMG_8068.jpg)
+[![IMG_8068](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/IMG_8068-1024x683.jpg)](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/IMG_8068.jpg)
 
 #### Stéph. : Sarah, peux-tu nous parler de toi ainsi que de ton parcours ?
 
 **Sarah :** J'ai une formation d'ingénieur en informatique, spécialité biométrie et monétique. À la sortie d'école je pars travailler à l'étranger pour une jeune start-up norvégienne [Zwipe](http://www.zwipe.no/). On démarre avec un modeste prototype, une petite équipe de cinq personnes et une envie folle de révolutionner les moyens de paiement.
 
-Je suis alors responsable technique mais je participe également, durant ces trois années, au développement de l'entreprise : stratégie, communication, démarchage, partenariat. L'expérience est passionnante. [![859368_10200573586970815_1238069102_o](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/859368_10200573586970815_1238069102_o-199x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/09/859368_10200573586970815_1238069102_o.jpg)
+Je suis alors responsable technique mais je participe également, durant ces trois années, au développement de l'entreprise : stratégie, communication, démarchage, partenariat. L'expérience est passionnante. [![859368_10200573586970815_1238069102_o](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/859368_10200573586970815_1238069102_o-199x300.jpg)](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/859368_10200573586970815_1238069102_o.jpg)
 
 #### Stéph. : Tu travailles pour une startup norvégienne : comment as-tu décroché un poste à l’étranger ?
 
@@ -36,7 +36,7 @@ Le chef de département a toujours été soucieux d'impliquer le pôle de recher
 
 **Sarah :** J'ai une expérience assez limitée du monde du travail en France, mes propos sont sûrement à pondérer.
 
-Je constate tout de même que j'évol[![e158bf82-7d8b-40a7-8715-340deb68361a-large](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/e158bf82-7d8b-40a7-8715-340deb68361a-large-300x200.jpeg)](http://www.duchess-france.org/wp-content/uploads/2015/09/e158bf82-7d8b-40a7-8715-340deb68361a-large.jpeg)ue dans un univers assez peu hiérarchique et moins formel qu'en France : les réunions et les discussions sont directes, sans fioritures, ni enrobages. Par contre ils ont tendance à éviter la confrontation et ne parlent pas ouvertement d'argent.
+Je constate tout de même que j'évol[![e158bf82-7d8b-40a7-8715-340deb68361a-large](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/e158bf82-7d8b-40a7-8715-340deb68361a-large-300x200.jpeg)](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/e158bf82-7d8b-40a7-8715-340deb68361a-large.jpeg)ue dans un univers assez peu hiérarchique et moins formel qu'en France : les réunions et les discussions sont directes, sans fioritures, ni enrobages. Par contre ils ont tendance à éviter la confrontation et ne parlent pas ouvertement d'argent.
 
 L'égalité homme femme n'est pas parfaite mais ils ont le souci certain d'y tendre, en témoignent les congés maternité homme et femme, les salaires presque égaux. De façon général, pas seulement dans le milieu du travail, c'est une valeur importante dans les sociétés nordiques et très souvent mise en avant.
 
@@ -50,7 +50,7 @@ C'est aussi une société tournée vers l'étranger, ce qui se ressent aux nivea
 
  
 
-[![IMG_0622](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/IMG_0622-200x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/09/IMG_0622.jpg)
+[![IMG_0622](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/IMG_0622-200x300.jpg)](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/IMG_0622.jpg)
 
 #### Stéph. : Au quotidien, comment vis-tu cette expérience de télétravail ? Quelle organisation idéale si tu avais le choix ?
 
@@ -68,7 +68,7 @@ Je reste convaincue que cette configuration n'est possible que parce que je suis
 
 Alors bien sûr, on manque parfois d'expérience, c'est un environnement qui demande à avoir une courbe d'apprentissage très rapide et à faire preuve de débrouillardise, mais la dynamique ressemble à celle d'un champ de bataille. Tout est neuf, tout reste à conquérir ou révolutionner.
 
-[![2495020159_f2e25e7e81_z](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/2495020159_f2e25e7e81_z-300x169.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/09/2495020159_f2e25e7e81_z.jpg)   [![image03](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/image03-300x169.png)](http://www.duchess-france.org/wp-content/uploads/2015/09/image03.png)
+[![2495020159_f2e25e7e81_z](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/2495020159_f2e25e7e81_z-300x169.jpg)](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/2495020159_f2e25e7e81_z.jpg)   [![image03](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/image03-300x169.png)](/assets/2015/10/2015-10-19-rencontre-avec-sarah-lead-technique-dune-startup-norvegienne/image03.png)
 
 #### Stéph. : Parlons de tes technologies et thèmes préférés : quels sont tes domaines de prédilection et pourquoi ?
 

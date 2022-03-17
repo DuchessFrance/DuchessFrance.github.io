@@ -23,7 +23,7 @@ This conference is part of a series of tech events lead by the [DotConferences]
 
  
 
-[![dotScale](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18081245643_34c9bc0d8d_z.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18081245643_34c9bc0d8d_z.jpg)
+[![dotScale](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18081245643_34c9bc0d8d_z.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18081245643_34c9bc0d8d_z.jpg)
 
 # Why this conference?
 
@@ -41,7 +41,7 @@ Lastly the announced speakers were interesting: the creator of [Redis](http://re
 
  
 
-[![dotScale2015_2](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18080184884_dc1e47ba6a_z.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18080184884_dc1e47ba6a_z.jpg)
+[![dotScale2015_2](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18080184884_dc1e47ba6a_z.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18080184884_dc1e47ba6a_z.jpg)
 
 # So how fun was it?
 
@@ -59,7 +59,7 @@ In terms of gender attendants, women were rare, but personally I did not feel to
 
  
 
-[![dotScale2015_3](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18516433619_a6371d0045_z.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18516433619_a6371d0045_z.jpg)
+[![dotScale2015_3](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18516433619_a6371d0045_z.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18516433619_a6371d0045_z.jpg)
 
 # How about the content?
 
@@ -69,7 +69,7 @@ It is destabilizing that the website of dotScale does not list the speaker order
 
 ## Automatic updates and reboot in production :
 
-[![18082282563_caf160f72b_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18082282563_caf160f72b_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18082282563_caf160f72b_m.jpg)
+[![18082282563_caf160f72b_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18082282563_caf160f72b_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18082282563_caf160f72b_m.jpg)
 
 Matt Bostock is an engineer working at the [gov.uk](https://www.gov.uk/) website. He explains how they set up non-attended auto-reboot procedures. It is scary to allow a linux machine to update its packages and reboot without attendance, but that’s what they did and they tell you how.
 
@@ -81,7 +81,7 @@ Matt Bostock is an engineer working at the [gov.uk](https://www.gov.uk/) web
 
 ## ServerDensity’s views about how handle server oncalls
 
-[![18703539995_3263411ffa_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18703539995_3263411ffa_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18703539995_3263411ffa_m.jpg)
+[![18703539995_3263411ffa_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18703539995_3263411ffa_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18703539995_3263411ffa_m.jpg)
 
 Hosting a 24/24h 7/7 service with highly available servers require a dedicated management of the team and clear procedures. [ServerDensity](https://www.serverdensity.com/) presents some very good best practices: how to ease stressful mandatory duty calls, how to build outstanding incident reports… etc.
 
@@ -91,7 +91,7 @@ Hosting a 24/24h 7/7 service with highly available servers require a dedicated m
 
 ## Time series in distributed databases
 
-[![18082889603_c0d4931799_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18082889603_c0d4931799_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18082889603_c0d4931799_m.jpg)
+[![18082889603_c0d4931799_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18082889603_c0d4931799_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18082889603_c0d4931799_m.jpg)
 
 Data today is often represented by event logs, also named "time series data". A naive storage would be in a database. But big volumes will lead to migration to a distributed database on which time-series data do not fit well. Paul Dix founded [InfluxDb](https://influxdb.com/) based on this factual issue.
 
@@ -103,7 +103,7 @@ Data today is often represented by event logs, also named "time series data". A
 
 ## The Borg or Kubernetes cluster management
 
-[![18706059141_9c28af36f8_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18706059141_9c28af36f8_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18706059141_9c28af36f8_m.jpg)
+[![18706059141_9c28af36f8_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18706059141_9c28af36f8_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18706059141_9c28af36f8_m.jpg)
 
 Google extended the art of large scale computing to the next level: [John Wilkes](http://research.google.com/pubs/JohnWilkes.html) explains how Google built over the years an infrastructure where R&D engineers are consumers of a giant cluster of computing machines, with jobs managed remotely, asynchronously and transparently. They also ported their in-house architecture named "[Borg](http://research.google.com/pubs/pub43438.html)" to the open source community with the [kubernetes](http://kubernetes.io/) project, with replacement of their home-made proprietary parts by open source tools that emerged in the meantime (such as [Docker](https://www.docker.com/) and others).
 
@@ -115,7 +115,7 @@ Before the afternoon session, there were 4-5 lightning talks for 5 min each. I w
 
 ## What is consistency in the world of distributed databases ?
 
-[![18518302278_7dfb51bfea_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18518302278_7dfb51bfea_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18518302278_7dfb51bfea_m.jpg)
+[![18518302278_7dfb51bfea_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18518302278_7dfb51bfea_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18518302278_7dfb51bfea_m.jpg)
 
 Delivered by [Neha Nerula](http://transientneha.blogspot.fr/), graduating from [MIT](http://pdos.csail.mit.edu/) with a PhD on Distributed Databases: an advanced yet very clear explanation of what means « consistency » of the data in distributed systems. Amongst other facts, the audience got a neat explanation of the [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem).
 
@@ -131,7 +131,7 @@ Quite not clear. Unfortunately, the talk was not clear enough for those who don�
 
 ## Simon Riggs, the roadmap of PostgreSQL
 
-[![18086457113_3ac01ebb5c_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18086457113_3ac01ebb5c_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18086457113_3ac01ebb5c_m.jpg)
+[![18086457113_3ac01ebb5c_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18086457113_3ac01ebb5c_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18086457113_3ac01ebb5c_m.jpg)
 
 That speech really did me think I should have a look at [PostgreSQL](http://www.postgresql.org/) again. [Simon Riggs](https://wiki.postgresql.org/wiki/Simon_Riggs'_Development_Projects) has a general mature vision of data storage and query. PostgreSQL does a lot of things that are « noSQL » oriented. And it plans to release even more interesting features on its roadmap.
 
@@ -143,7 +143,7 @@ That speech really did me think I should have a look at [PostgreSQL](http://www.
 
 ## The Jepsen series
 
-[![18521840419_0abc7dbf7b_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18521840419_0abc7dbf7b_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18521840419_0abc7dbf7b_m.jpg)
+[![18521840419_0abc7dbf7b_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18521840419_0abc7dbf7b_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18521840419_0abc7dbf7b_m.jpg)
 
 The slides were peculiar. You need to know beforehand this guy's series of articles ( [Jepsen](https://aphyr.com/tags/jepsen) ). Kyle Kingsbury is popular for posting full-length articles where he trims down popular data storages and exposes their weakest link. We unfortunately tend to believe what the « readme » says, while his articles can prevent that a server on-duty call wakes you up in the middle of the night.
 
@@ -151,7 +151,7 @@ The slides were peculiar. You need to know beforehand this guy's series of art
 
 ## John Graham-Cumming from CloudFlare
 
-[![18087809203_e85e6541bc_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18087809203_e85e6541bc_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18087809203_e85e6541bc_m.jpg)
+[![18087809203_e85e6541bc_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18087809203_e85e6541bc_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18087809203_e85e6541bc_m.jpg)
 
 [Cloudflare](https://www.cloudflare.com/)'s is a CDN service that also filters on-the-fly large amount of internet traffic to detect malicious attacks. They treat an incredible amount of data per sec. J. Graham-Cumming explains their stack ([NGinx](http://nginx.com/), [Cap'n'proto](https://capnproto.org/), [Kafka](http://kafka.apache.org/), [LuaJIT](http://luajit.org/), [Go](https://golang.org/) ...). Unfortunately, he said little about their streaming algorithms. They advocate for a « no logs stored » principle, which raised quite some debate on the break afterwards.
 
@@ -159,7 +159,7 @@ The slides were peculiar. You need to know beforehand this guy's series of art
 
 ## Disque - a distributed message queue based on Redis
 
-[![18682718206_c486812858_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18682718206_c486812858_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18682718206_c486812858_m.jpg)
+[![18682718206_c486812858_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18682718206_c486812858_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18682718206_c486812858_m.jpg)
 
 If you’re not familiar with [Redis](http://redis.io/), have a look at [this highly performant key-value store](https://en.wikipedia.org/wiki/Redis). It is famous and popular: despite it does little compared to fully featured databases, it works very well with very large data in production situation. Also, the versatile format meets most usual needs. Lastly, it is open source. [The creator of Redis](https://github.com/antirez) speaks about his latest work on a message queue system, named [Disque](http://antirez.com/news/88).
 
@@ -167,7 +167,7 @@ If you’re not familiar with [Redis](http://redis.io/), have a look at [this hi
 
 ## Jeremy Edberg who worked for Netflix and Reddit
 
-[![18523156039_15b80328a1_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18523156039_15b80328a1_m.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18523156039_15b80328a1_m.jpg)
+[![18523156039_15b80328a1_m](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18523156039_15b80328a1_m.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18523156039_15b80328a1_m.jpg)
 
 From a homemade small internet startup to a large scale business, [Jeremy Edberg](https://www.linkedin.com/in/jedberg) explains how you should organize your engineering as the company grows. Also, there's a practical book to test your servers' reliability and teams by simulating random runtime failures ([the Simian Army](https://github.com/Netflix/SimianArmy) from Netflix).
 
@@ -183,7 +183,7 @@ People come to those conferences in groups and they tend to stick to themselves 
 
  
 
-[![dotScale2015_4](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18084206893_95174404df_z.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/06/18084206893_95174404df_z.jpg)
+[![dotScale2015_4](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18084206893_95174404df_z.jpg)](/assets/2015/06/2015-06-25-feedback-on-dotscale-conference-2015/18084206893_95174404df_z.jpg)
 
 ## Special acknowledgements
 

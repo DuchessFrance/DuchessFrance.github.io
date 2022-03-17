@@ -10,7 +10,7 @@ categories:
   - "tutoriel"
 ---
 
-| [![logo](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/logo.png)](http://www.duchess-france.org/wp-content/uploads/2015/06/logo.png) |
+| [![logo](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/logo.png)](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/logo.png) |
 
  
 
@@ -32,7 +32,7 @@ Tout conteneur est basé sur une **image** Docker. Elle contient toute la partie
 
 ## **Architecture**
 
-[![](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/javadev.png)](http://www.duchess-france.org/wp-content/uploads/2015/07/javadev.png)
+[![](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/javadev.png)](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/javadev.png)
 
  
 
@@ -67,19 +67,19 @@ Le but de ce découpage est de proposer 2 fonctionnalités:
 
 ### Changer de version
 
-[![2000px-Tomcat-logo.svg](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/2000px-Tomcat-logo.svg_-300x200.png)](http://www.duchess-france.org/wp-content/uploads/2015/07/2000px-Tomcat-logo.svg_.png)
+[![2000px-Tomcat-logo.svg](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/2000px-Tomcat-logo.svg_-300x200.png)](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/2000px-Tomcat-logo.svg_.png)
 
 Les **conteneurs binaires** contiennent un ou plusieurs répertoires de binaires, dans lesquels Eclipse va piocher pour faire tourner Tomcat ou Maven par exemple. Trois conteneurs binaires sont créés. Multiplier ainsi les conteneurs permet de **changer très facilement de version** : il suffit de modifier le conteneur pour y télécharger la version appropriée. Les autres conteneurs ne seront pas impactés et vous pourrez retrouver vos données.
 
 ### Persistance des données
 
-[![mysql-logo-png](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/mysql-logo-png-300x225.png)](http://www.duchess-france.org/wp-content/uploads/2015/07/mysql-logo-png.png) De même, les **conteneurs data** servent à enregistrer et restituer des données. Ces conteneurs -binaires et data- s'arrêtent dès leur lancement avec le `Status Exit(0)`. Pourtant, certains répertoires de leur file system restent accessibles aux autres conteneurs, grâce à la notion de [volumes](https://docs.docker.com/userguide/dockervolumes/#creating-and-mounting-a-data-volume-container).
+[![mysql-logo-png](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/mysql-logo-png-300x225.png)](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/mysql-logo-png.png) De même, les **conteneurs data** servent à enregistrer et restituer des données. Ces conteneurs -binaires et data- s'arrêtent dès leur lancement avec le `Status Exit(0)`. Pourtant, certains répertoires de leur file system restent accessibles aux autres conteneurs, grâce à la notion de [volumes](https://docs.docker.com/userguide/dockervolumes/#creating-and-mounting-a-data-volume-container).
 
 Lorsqu'un conteneur est exclusivement destiné à exposer des volumes destinés aux autres conteneurs, on parle de conteneur data. L'intérêt est de **persister les données dans ces conteneurs data**, alors que les autres conteneurs peuvent être modifiés ou supprimés.
 
 ## En pratique
 
-# [![eclipse-800x188](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/eclipse-800x188-300x71.png)](http://www.duchess-france.org/wp-content/uploads/2015/07/eclipse-800x188.png)
+# [![eclipse-800x188](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/eclipse-800x188-300x71.png)](/assets/2015/07/2015-07-21-votre-environnement-de-dev-avec-docker/eclipse-800x188.png)
 
 Pour déployer vos projets Maven, il ne vous reste plus qu'à les copier dans le répertoire `eclipse-data/maven-projects`. Le conteneur Eclipse y aura alors accès et il ne restera plus qu'à ajouter le projet à votre servlet. À tout moment, la base de données est accessible depuis le conteneur Eclipse via l'alias mysql généré par le lien entre les conteneurs mysql et eclipse.
 

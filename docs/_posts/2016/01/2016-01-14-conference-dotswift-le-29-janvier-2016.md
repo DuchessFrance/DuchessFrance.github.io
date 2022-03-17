@@ -20,7 +20,7 @@ La deuxième édition de la conférence [dotSwift](http://www.dotswift.io/) aura
 
 Au programme cette année, [Daniel Steinberg](https://twitter.com/dimsumthinking) sera le maître de cérémonie et il y aura plusieurs intervenants d'exception :
 
-[![dotSwift speakers](/assets/2016/01/2016-01-14-conference-dotswift-le-29-janvier-2016/dotSwift_speakers-1024x470.png)](http://www.duchess-france.org/wp-content/uploads/2016/01/dotSwift_speakers.png)
+[![dotSwift speakers](/assets/2016/01/2016-01-14-conference-dotswift-le-29-janvier-2016/dotSwift_speakers-1024x470.png)](/assets/2016/01/2016-01-14-conference-dotswift-le-29-janvier-2016/dotSwift_speakers.png)
 
  
 

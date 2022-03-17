@@ -16,7 +16,7 @@ tags:
 
 | Notre série d'interview de femmes développeuses se poursuit avec [Mathilde Lemée](https://twitter.com/MathildeLemee), co-fondatrice de Duchess France, dév freelance et fondatrice de Aetys, des jeux éducatifs sur mobiles et tablettes. |
 
-[![profil](/assets/2015/01/2015-01-12-rencontre-avec-mathilde-lemee-developpeuse-freelance-et-fondatrice-de-aetys/profil.png)](http://www.duchess-france.org/wp-content/uploads/2013/12/profil.png)
+[![profil](/assets/2015/01/2015-01-12-rencontre-avec-mathilde-lemee-developpeuse-freelance-et-fondatrice-de-aetys/profil.png)](/assets/2015/01/2015-01-12-rencontre-avec-mathilde-lemee-developpeuse-freelance-et-fondatrice-de-aetys/profil.png)
 
 **Ludwine :  Peux-tu te présenter ?**
 

@@ -11,7 +11,7 @@ coverImage: "anniv.png"
 
 | ## **Duchess France fête ses 6 ans ce mois-ci, et oui 6 ans déjà !** |
 
-[![anniv](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/anniv.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/anniv.png)
+[![anniv](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/anniv.png)](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/anniv.png)
 
 Pour fêter cet anniversaire comme il se doit, nous vous invitons à une soirée **le 11 mai à partir de 19h00** chez **Criteo** (32 Rue Blanche, 75009 Paris).
 
@@ -37,4 +37,4 @@ Merci de vous inscrire sur notre page [Meetup](http://www.meetup.com/fr-FR/Duche
 
 **Nous remercions nos sponsors [ Criteo](http://labs.criteo.com/), [Valtech](https://www.valtech.fr/) et [Viseo](http://www.viseo.com/fr)** **et nous vous attendons Mercredi 11 Mai ! :-)**
 
-[![logoCriteo](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/logoCriteo.jpeg)](http://www.duchess-france.org/wp-content/uploads/2016/05/logoCriteo.jpeg) [![Valtech](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/Valtech-logo-e1337915421508-300x86.png)](http://www.duchess-france.org/wp-content/uploads/2016/05/viseo-logo-square.png) ![viseo-logo-square](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/viseo-logo-square-300x300.png)
+[![logoCriteo](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/logoCriteo.jpeg)](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/logoCriteo.jpeg) [![Valtech](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/Valtech-logo-e1337915421508-300x86.png)](http://www.duchess-france.org/wp-content/uploads/2016/05/viseo-logo-square.png) ![viseo-logo-square](/assets/2016/05/2016-05-03-soiree-anniveraire-de-duchess-france-11-mai/viseo-logo-square-300x300.png)

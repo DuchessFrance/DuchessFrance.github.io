@@ -14,7 +14,7 @@ tags:
 
 | La soirée de ce soir se déroulera à partir de 19h à l'[ECE](http://www.ece.fr/). Si vous n'êtes jamais venu à l'ECE, vous pouvez utiliser ce [plan d'accès détaillé](/la-marmite/lacces-a-lece/) pour venir depuis le métro Bir Hakeim. |
 
-\[caption id="attachment\_2524" align="alignright" width="258"\][![plan ateliers à l'ECE](/assets/2012/11/2012-11-08-soiree-nighthacking-avec-stephen-chin-derniere-ligne-droite/ECE-Etage3-258x300.png "ECE-Etage3")](http://www.duchess-france.org/wp-content/uploads/2012/11/ECE-Etage3.png) Cliquez ici pour agrandir l'image\[/caption\]
+\[caption id="attachment\_2524" align="alignright" width="258"\][![plan ateliers à l'ECE](/assets/2012/11/2012-11-08-soiree-nighthacking-avec-stephen-chin-derniere-ligne-droite/ECE-Etage3-258x300.png "ECE-Etage3")](/assets/2012/11/2012-11-08-soiree-nighthacking-avec-stephen-chin-derniere-ligne-droite/ECE-Etage3.png) Cliquez ici pour agrandir l'image\[/caption\]
 
 La soirée se déroulera en parallèle dans 4 salles **au 3 ième étage** :
 

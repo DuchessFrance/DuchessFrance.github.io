@@ -33,17 +33,17 @@ Pour être prêts à coder en arrivant, vous aurez besoin d’installer :
 
  **Les speakers**
 
-#### [**Julien Dubois**](https://twitter.com/juliendubois "Julien Dubois") est directeur du pôle conseil chez Ippon Technologies. Il est connu dans le [![](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/thumbnail.gif)](http://www.duchess-france.org/wp-content/uploads/2012/11/thumbnail.gif)monde Java pour avoir co-écrit le livre "Spring par la pratique", avoir dirigé la filiale française de SpringSource, et pour parler régulièrement à des conférences.
+#### [**Julien Dubois**](https://twitter.com/juliendubois "Julien Dubois") est directeur du pôle conseil chez Ippon Technologies. Il est connu dans le [![](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/thumbnail.gif)](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/thumbnail.gif)monde Java pour avoir co-écrit le livre "Spring par la pratique", avoir dirigé la filiale française de SpringSource, et pour parler régulièrement à des conférences.
 
-#### **[Amira Lakhal](https://twitter.com/MiraLak "Amira Lakhal")** (oui oui moi même) est une développeuse Java Agile chez Valtech. Elle est [![](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/049d377466738d7fff90a23581e0f85d.jpeg)](http://www.duchess-france.org/wp-content/uploads/2012/11/049d377466738d7fff90a23581e0f85d.jpeg)membre des JDuchess et des Code Sorceress.
-
- 
+#### **[Amira Lakhal](https://twitter.com/MiraLak "Amira Lakhal")** (oui oui moi même) est une développeuse Java Agile chez Valtech. Elle est [![](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/049d377466738d7fff90a23581e0f85d.jpeg)](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/049d377466738d7fff90a23581e0f85d.jpeg)membre des JDuchess et des Code Sorceress.
 
  
 
  
 
-**[Sylvain Lebresne](https://twitter.com/pcmanus "Sylvain Lebresne")** est 'committer' et membre du comité de [![](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/mapomme-226x300.png)](http://www.duchess-france.org/wp-content/uploads/2012/11/mapomme.png)projet (PMC) de la base de données distribuée Apache Cassandra. Il travaille actuellement chez DataStax pour lequel il participe au développement de Cassandra.
+ 
+
+**[Sylvain Lebresne](https://twitter.com/pcmanus "Sylvain Lebresne")** est 'committer' et membre du comité de [![](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/mapomme-226x300.png)](/assets/2012/11/2012-11-29-les-mains-dans-le-code-avec-cassandra/mapomme.png)projet (PMC) de la base de données distribuée Apache Cassandra. Il travaille actuellement chez DataStax pour lequel il participe au développement de Cassandra.
 
  
 

@@ -17,7 +17,7 @@ tags:
 
 | At the [Devoxx Anvers](http://www.devoxx.be/) conference, I met [Shanee Nishry](http://cfp.devoxx.be/2014/speaker/shanee_nishry) who talked about [Sense override (Cardboard)](http://cfp.devoxx.be/2014/talk/WRR-6225/Senses_Override_(Cardboard)). |
 
-[![Shanee headshot 1](/assets/2015/01/2015-01-05-interview-of-shanee-nishry-game-developer-at-google/Shanee-headshot-1-300x205.jpg)](http://www.duchess-france.org/wp-content/uploads/2014/12/Shanee-headshot-1.jpg)
+[![Shanee headshot 1](/assets/2015/01/2015-01-05-interview-of-shanee-nishry-game-developer-at-google/Shanee-headshot-1-300x205.jpg)](/assets/2015/01/2015-01-05-interview-of-shanee-nishry-game-developer-at-google/Shanee-headshot-1.jpg)
 
 **Ludwine : Can you introduce yourself in a few words?**
 
@@ -31,7 +31,7 @@ Simpler implementations would include games and complete 3D movies where you are
 
 This technology is evolving so fast now, but not many people know of it. It still has quite a way to go, but people can already create their own virtual reality applications and help us evolve this field.
 
-[![Capture d’écran 2014-12-23 à 12.10.06](/assets/2015/01/2015-01-05-interview-of-shanee-nishry-game-developer-at-google/Capture-d’écran-2014-12-23-à-12.10.06-300x203.png)](http://www.duchess-france.org/wp-content/uploads/2014/12/Capture-d’écran-2014-12-23-à-12.10.06.png)
+[![Capture d’écran 2014-12-23 à 12.10.06](/assets/2015/01/2015-01-05-interview-of-shanee-nishry-game-developer-at-google/Capture-d’écran-2014-12-23-à-12.10.06-300x203.png)](/assets/2015/01/2015-01-05-interview-of-shanee-nishry-game-developer-at-google/Capture-d’écran-2014-12-23-à-12.10.06.png)
 
  
 

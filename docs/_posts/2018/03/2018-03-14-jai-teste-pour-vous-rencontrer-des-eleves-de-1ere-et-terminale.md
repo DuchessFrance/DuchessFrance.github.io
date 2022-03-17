@@ -40,13 +40,13 @@ Quand on remonte un peu dans l'histoire, des femmes ont toujours été représen
 
  
 
-[![Pourcentage des femmes diplômées d'école d'ingénieurs](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/b_1_q_0_p_0.jpg-1.png)](http://www.duchess-france.org/wp-content/uploads/2018/03/b_1_q_0_p_0.jpg-1.png)
+[![Pourcentage des femmes diplômées d'école d'ingénieurs](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/b_1_q_0_p_0.jpg-1.png)](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/b_1_q_0_p_0.jpg-1.png)
 
 Or, les années 80 ont aussi marqué l'avènement du micro-ordinateur dans les foyers. A cette époque, une énorme campagne marketing pour vendre ces machines qui allaient révolutionner le quotidien des familles, mais surtout, des hommes qui allaient pouvoir mieux gérer leurs comptes, des garçons qui allaient pouvoir jouer à des jeux vidéos, et enfin à destination des papas à qui ont disaient : "si vous voulez que vos garçons aient un métier d'avenir, faites leur faire de l'informatique" !!
 
  
 
-[![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/pub80-1.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/03/pub80-1.jpg)
+[![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/pub80-1.jpg)](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/pub80-1.jpg)
 
  
 
@@ -82,7 +82,7 @@ Et puis, dernier cliché largement répandu : pour faire de l'informatique, il f
 
 ## L'importance de la diversité
 
-Une fois ces quelques clichés démontés, j'ai tenté de répondre à la question que l'on m'avait posée : "Quel est le rôle des femmes dans ce milieu ?". En fait, je pense que ce n'est pas du rôle des femmes dont il est question, mais plutôt de l'importance de la diversité. [![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/diversity-300x185.jpg)](http://www.duchess-france.org/wp-content/uploads/2018/03/diversity.jpg)
+Une fois ces quelques clichés démontés, j'ai tenté de répondre à la question que l'on m'avait posée : "Quel est le rôle des femmes dans ce milieu ?". En fait, je pense que ce n'est pas du rôle des femmes dont il est question, mais plutôt de l'importance de la diversité. [![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/diversity-300x185.jpg)](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/diversity.jpg)
 
 Il est crucial d'avoir de la diversité dans les équipes pour avoir différents éclairages sur les projets ou sur les méthodes de travail. Tous les spécialistes s'accordent à dire que les équipes hétérogènes travaillent dans une meilleurs ambiance. Pour illustrer l'importance de la diversité j'ai pris 2 exemples :
 
@@ -93,7 +93,7 @@ Il est crucial d'avoir de la diversité dans les équipes pour avoir différents
 
  
 
-[![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/soap2.gif)](http://www.duchess-france.org/wp-content/uploads/2018/03/soap2.gif)[![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/soap1.gif)](http://www.duchess-france.org/wp-content/uploads/2018/03/soap1.gif)
+[![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/soap2.gif)](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/soap2.gif)[![](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/soap1.gif)](/assets/2018/03/2018-03-14-jai-teste-pour-vous-rencontrer-des-eleves-de-1ere-et-terminale/soap1.gif)
 
 ## Les avantages des métiers informatiques
 

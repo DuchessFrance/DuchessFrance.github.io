@@ -15,7 +15,7 @@ tags:
 
 | Dans la nuit du 5 au 6 décembre 2013 aura lieu la 7ème édition de la [Nuit de l’info](http://www.nuitdelinfo.com/) : le concours national d’informatique ouvert à tous les étudiants (de Bac+0 à Bac+8). |
 
-[![BanniereRectangle_NuitInfo2013](/assets/2013/11/2013-11-25-duchess-france-participera-les-5-et-6-decembre-2013-a-la-7eme-nuit-de-linfo/BanniereRectangle_NuitInfo2013-300x111.png)](http://www.duchess-france.org/wp-content/uploads/2013/11/BanniereRectangle_NuitInfo2013.png)
+[![BanniereRectangle_NuitInfo2013](/assets/2013/11/2013-11-25-duchess-france-participera-les-5-et-6-decembre-2013-a-la-7eme-nuit-de-linfo/BanniereRectangle_NuitInfo2013-300x111.png)](/assets/2013/11/2013-11-25-duchess-france-participera-les-5-et-6-decembre-2013-a-la-7eme-nuit-de-linfo/BanniereRectangle_NuitInfo2013.png)
 
 En 2012 la [Nuit de l’info](http://www.nuitdelinfo.com/) a regroupé pas moins de 2113 participants répartis en 230 équipes disséminées dans 30 villes participantes.
 

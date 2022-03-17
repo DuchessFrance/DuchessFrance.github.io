@@ -6,7 +6,7 @@ title: "Duchess prend la route"
 date: "2012-12-06"
 ---
 
-| [![](/assets/2012/12/2012-12-06-duchess-prend-la-route/DuchessVoyage.png "DuchessVoyage")](http://www.duchess-france.org/wp-content/uploads/2012/12/DuchessVoyage.png) |
+| [![](/assets/2012/12/2012-12-06-duchess-prend-la-route/DuchessVoyage.png "DuchessVoyage")](/assets/2012/12/2012-12-06-duchess-prend-la-route/DuchessVoyage.png) |
 
 Duchess a décidé d'aller voir ce qui se passe en dehors de Paris. La moto c'est déjà fait ailleurs, alors elle a choisi le tapis volant, beaucoup plus simple à garer.
 

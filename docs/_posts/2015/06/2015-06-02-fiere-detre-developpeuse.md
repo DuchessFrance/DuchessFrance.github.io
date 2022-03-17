@@ -15,7 +15,7 @@ tags:
   - "video"
 ---
 
-| [![17849134836_2a7660365d_k](/assets/2015/06/2015-06-02-fiere-detre-developpeuse/17849134836_2a7660365d_k-1024x447.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/05/17849134836_2a7660365d_k.jpg) |
+| [![17849134836_2a7660365d_k](/assets/2015/06/2015-06-02-fiere-detre-developpeuse/17849134836_2a7660365d_k-1024x447.jpg)](/assets/2015/06/2015-06-02-fiere-detre-developpeuse/17849134836_2a7660365d_k.jpg) |
 
 **Le 19 mai dernier, [Duchess France a célébré ses 5 ans](http://www.duchess-france.org/duchess-france-fete-ses-5-ans-le-19-mai/) lors d’une [soirée spéciale](http://rslnmag.fr/post/2015/05/19/Duchess-France-fete-ses-5-ans.aspx) sur le thème “Fière d’être développeuse”. Ce fût l’occasion de revenir sur le chemin accompli et de booster les femmes présentes avec deux présentations inspirantes : “J’ai testé pour vous: être une fille et développeuse” et “Boost ton karma professionnel”.**
 
@@ -35,7 +35,7 @@ _Avec l'aide du mécénat financier de l’entreprise_ [_Econocom_](https://www.
 
 # Trois portraits de femmes qui ont une passion pour le code !
 
-[![Capture d’écran 2015-05-21 à 11.23.32](/assets/2015/06/2015-06-02-fiere-detre-developpeuse/Capture-d-----cran-2015-05-21----11.23.32-300x172.png)](http://www.duchess-france.org/wp-content/uploads/2015/05/Capture-d-----cran-2015-05-21----11.23.32.png)
+[![Capture d’écran 2015-05-21 à 11.23.32](/assets/2015/06/2015-06-02-fiere-detre-developpeuse/Capture-d-----cran-2015-05-21----11.23.32-300x172.png)](/assets/2015/06/2015-06-02-fiere-detre-developpeuse/Capture-d-----cran-2015-05-21----11.23.32.png)
 
 Lors de nos différentes participations à des forums et rencontres avec des collégiens/lycéens, nous nous sommes rendues compte à quel point le métier de développeur était peu et mal connu. Beaucoup de **clichés** et **préjugés** restent bien présents, et les femmes ont toujours beaucoup de mal à se projeter dans ce secteur. Trop peu sont celles qui font carrière dans les métiers techniques de l’informatique !
 

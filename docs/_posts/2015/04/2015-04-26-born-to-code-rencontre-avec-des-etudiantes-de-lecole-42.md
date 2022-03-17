@@ -14,7 +14,7 @@ tags:
   - "inspiration"
 ---
 
-| > [![42](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/42-150x150.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/04/42.jpg) Si la France, 5e puissance économique mondiale, tenait sa place dans le numérique, au lieu d’être 20e, elle aurait réglé le problème de l’emploi ». Le manque de développeurs ralentit dangereusement les projets de **transformation de nos entreprises** et freine **la création de milliers d’emplois** induits_._ |
+| > [![42](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/42-150x150.jpg)](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/42.jpg) Si la France, 5e puissance économique mondiale, tenait sa place dans le numérique, au lieu d’être 20e, elle aurait réglé le problème de l’emploi ». Le manque de développeurs ralentit dangereusement les projets de **transformation de nos entreprises** et freine **la création de milliers d’emplois** induits_._ |
 
  
 
@@ -68,7 +68,7 @@ Pour moi, être geek, ça veut avant tout dire être passionné, donc oui, je pe
 
 # [Eléonore](https://www.linkedin.com/in/eleonorev "Eléonore Linked In"), jeune étudiante passionnée
 
-[![Eleonore](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/Eleonore.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/Eleonore.png)J’ai eu mon bac l’année de mon entrée à 42. Je n’ai jamais vraiment été passionnée par le lycée. Le programme ne m'intéressait pas vraiment, je n'écoutais pas vraiment, et je crois que mes cahiers de cours de terminale ont plus de dessins que de phrases écrites, mais je n'étais pas spécialement une "mauvaise élève".
+[![Eleonore](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/Eleonore.png)](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/Eleonore.png)J’ai eu mon bac l’année de mon entrée à 42. Je n’ai jamais vraiment été passionnée par le lycée. Le programme ne m'intéressait pas vraiment, je n'écoutais pas vraiment, et je crois que mes cahiers de cours de terminale ont plus de dessins que de phrases écrites, mais je n'étais pas spécialement une "mauvaise élève".
 
 J’ai toujours préféré _comprendre_ à _apprendre_. C’est mon père qui m’avait donné la passion de l’informatique, il m’a mis devant un ordinateur quand j’avais 7 ou 8 ans, surement pour être tranquille, mais j’y suis restée.
 
@@ -110,7 +110,7 @@ Après un bac S que j'avais préparé seule à distance, je suis entrée - un pe
 
 >  Les études trop théoriques et dans une ambiance élitiste ne me plaisait pas du tout
 
-[![Cecile](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/Cecile.png)](http://www.duchess-france.org/wp-content/uploads/2015/04/Cecile.png) Ayant depuis quelques années l'envie d'être indépendante et d'avoir ma propre entreprise, j'ai choisi des études courtes et qui pourraient m'aider à réaliser cela. J'ai donc recommencé à zéro et je suis retournée aux études à distance avec un BTS d'assistante de gestion de PME-PMI. Lors de ma première année, je fais un stage dans une entreprise de logiciel libre d'investigation numérique (ArxSys). Un produit très pointu, avec une petite équipe de très bons techniciens qui me plonge dans une bonne ambiance de passionnés (ils sortent tous d'Epitech et en ont gardé l'esprit).
+[![Cecile](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/Cecile.png)](/assets/2015/04/2015-04-26-born-to-code-rencontre-avec-des-etudiantes-de-lecole-42/Cecile.png) Ayant depuis quelques années l'envie d'être indépendante et d'avoir ma propre entreprise, j'ai choisi des études courtes et qui pourraient m'aider à réaliser cela. J'ai donc recommencé à zéro et je suis retournée aux études à distance avec un BTS d'assistante de gestion de PME-PMI. Lors de ma première année, je fais un stage dans une entreprise de logiciel libre d'investigation numérique (ArxSys). Un produit très pointu, avec une petite équipe de très bons techniciens qui me plonge dans une bonne ambiance de passionnés (ils sortent tous d'Epitech et en ont gardé l'esprit).
 
 Puis, lors de ma deuxième et dernière année de BTS, je rentre en stage dans une entreprise de eCommerce dirigée par une pionière du web, Isabelle Bordry, ancienne dirigeante chez Yahoo France. Un super stage, mais une mauvaise année niveau étude. Je ne suis pas prête pour les examens et je décide de ne pas les passer et d'abandonner mon BTS. Pas de problème pour ma patronne qui me fait confiance et m'embauche quand même en tant qu'Office manager ! L'entreprise étant à taille humaine, je collabore avec tous les métiers du eCommerce et peux observer/apprendre tout à la fois. Ce fut donc une excellente expérience de presque deux ans qui s'est terminée fin 2013, suite à un licenciement économique. Puis, pendant un an, j'ai cherché ce que je voulais faire. Beaucoup de choses m'attirent mais rien ne retient vraiment mon attention. Je n'ose pas me lancer dans certains projets, je me rends compte également que je n'ai pas forcément envie de monter des projets mais plutôt de les accompagner. On finit par me parler de 42 et j'ai tenté ma chance !
 

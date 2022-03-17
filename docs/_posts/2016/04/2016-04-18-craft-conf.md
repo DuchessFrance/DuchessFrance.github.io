@@ -13,7 +13,7 @@ coverImage: "loc4.png"
 
 | Du 26 au 29 avril aura lieu la conférence [Craft Conf](https://craft-conf.com/2016) à Budapest au Magyar Vasúttörténeti Park, le parc historique du rail hongrois. |
 
-[![craft-conf-train](/assets/2016/04/2016-04-18-craft-conf/craft-conf-train-300x124.png "craf conf location")](http://www.duchess-france.org/wp-content/uploads/2016/04/craft-conf-train.png)
+[![craft-conf-train](/assets/2016/04/2016-04-18-craft-conf/craft-conf-train-300x124.png "craf conf location")](/assets/2016/04/2016-04-18-craft-conf/craft-conf-train.png)
 
 Dans ce décors dépaysant, nous pourrons écouter des speakers comme Trisha Gee, Venkat Subramaniam, Sam Newman, Jérême Petazzoni et bien [d’autres](https://craft-conf.com/2016#speakers).
 

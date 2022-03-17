@@ -10,7 +10,7 @@ tags:
   - "kotlin"
 ---
 
-| [![gz_k](/assets/2015/11/2015-11-17-rencontre-gaetan-zoritchak-kotlin-addict/gz_k-200x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/11/gz_k.jpg)Cette semaine, le [LyonJUG](http://www.lyonjug.org/evenements/kotlin-code-with-fun) accueille Gaetan Zoritchak, alias [@gz\_k](https://twitter.com/gz_k), pour parler de Kotlin. C'était une belle occasion pour une petite interview... L'équipe du Lyon JUG lui a donc posé quelques questions pour vous donner envie de ne pas rater sa session mardi 17 novembre. |
+| [![gz_k](/assets/2015/11/2015-11-17-rencontre-gaetan-zoritchak-kotlin-addict/gz_k-200x300.jpg)](/assets/2015/11/2015-11-17-rencontre-gaetan-zoritchak-kotlin-addict/gz_k.jpg)Cette semaine, le [LyonJUG](http://www.lyonjug.org/evenements/kotlin-code-with-fun) accueille Gaetan Zoritchak, alias [@gz\_k](https://twitter.com/gz_k), pour parler de Kotlin. C'était une belle occasion pour une petite interview... L'équipe du Lyon JUG lui a donc posé quelques questions pour vous donner envie de ne pas rater sa session mardi 17 novembre. |
 
 _**LyonJUG : Pourrais-tu te présenter?**_
 

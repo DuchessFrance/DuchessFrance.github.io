@@ -10,7 +10,7 @@ tags:
   - "usi"
 ---
 
-| [![USI](/assets/2012/07/2012-07-13-retour-sur-lusi-une-conference-definitivement-differente-suite/USI-229x300.jpg)](http://www.duchess-france.org/wp-content/uploads/2012/06/USI.jpg) |
+| [![USI](/assets/2012/07/2012-07-13-retour-sur-lusi-une-conference-definitivement-differente-suite/USI-229x300.jpg)](/assets/2012/07/2012-07-13-retour-sur-lusi-une-conference-definitivement-differente-suite/USI.jpg) |
 
 Loin de nos habituelles conférences, l'USI est une conférence où se côtoient technique, management, philosophie et design. Celle-ci s'adresse ainsi aussi bien aux développeurs, qu'aux managers. Certaines sessions sont l'occasion de s'interroger sur les impacts de nouvelles technologies, et de partager des retours d'expériences.
 

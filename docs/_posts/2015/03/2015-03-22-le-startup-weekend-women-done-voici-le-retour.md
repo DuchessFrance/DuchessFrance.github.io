@@ -22,7 +22,7 @@ En bref tous ceux qui avaient envie de se lancer dans l’entrepreneuriat éta
 
  
 
-[![sw_thumb](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/sw_thumb.png)](http://www.duchess-france.org/wp-content/uploads/2015/02/sw_thumb.png)
+[![sw_thumb](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/sw_thumb.png)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/sw_thumb.png)
 
  
 
@@ -49,7 +49,7 @@ Après un petit discours d’introduction où les organisateurs se sont présent
 
  
 
-[![arrive](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/arrive.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/arrive.jpg)
+[![arrive](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/arrive.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/arrive.jpg)
 
  
 
@@ -61,7 +61,7 @@ Un par un, tous les porteurs d'idée pour la création de startup sont passés p
 
  
 
-[![voting](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/voting.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/voting.jpg)
+[![voting](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/voting.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/voting.jpg)
 
  
 
@@ -75,7 +75,7 @@ Finalement j’ai rejoint l’équipe **“Kiss My Art”** qui a pour objectif 
 
  
 
-[![kissmyart](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/kissmyart.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/kissmyart.jpg)
+[![kissmyart](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/kissmyart.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/kissmyart.jpg)
 
  
 
@@ -89,7 +89,7 @@ Dès 9h, la journée du samedi c’était boulot, boulot, boulot ! Toutes les é
 
  
 
-[![travailkissmyart](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/travailkissmyart.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/travailkissmyart.jpg)
+[![travailkissmyart](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/travailkissmyart.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/travailkissmyart.jpg)
 
  
 
@@ -119,7 +119,7 @@ Le dimanche matin l’activité continue dans les salles, tout le monde fignole�
 
  
 
-\[caption id="attachment\_5702" align="aligncenter" width="461"\][![travail](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/travail.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/travail.jpg) Parc'in\[/caption\]
+\[caption id="attachment\_5702" align="aligncenter" width="461"\][![travail](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/travail.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/travail.jpg) Parc'in\[/caption\]
 
  
 
@@ -127,7 +127,7 @@ Le dimanche matin l’activité continue dans les salles, tout le monde fignole�
 
 Une fois les prez’ finies, le jury est parti délibérer et après un peu plus d'une demie heure ils sont revenus avec leur verdict. Ils ont eu la gentillesse de faire un retour à chaque équipe ce qui a été très apprécié des participants car c’est grâce à ce type de critiques qu’on peut s’améliorer et mieux faire une prochaine fois.
 
-[](http://www.duchess-france.org/wp-content/uploads/2015/03/jury.jpg)[](http://www.duchess-france.org/wp-content/uploads/2015/03/salleavecjury.jpg)[![collage](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/collage.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/collage.png)
+[](http://www.duchess-france.org/wp-content/uploads/2015/03/jury.jpg)[](http://www.duchess-france.org/wp-content/uploads/2015/03/salleavecjury.jpg)[![collage](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/collage.png)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/collage.png)
 
 **Le mot des coach :**
 
@@ -147,7 +147,7 @@ Au début leur projet semblait du "déjà vu", un site d'emploi. Ils ont su pivo
 
 ### La génération Y mérite votre existence ! Good luck !
 
-[![work_up](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/work_up.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/work_up.jpg)
+[![work_up](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/work_up.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/work_up.jpg)
 
 ### Médaille d'argent
 
@@ -157,7 +157,7 @@ En partant de l'idée "la phobie de factures", il faut avouer que le projet ét
 
 ### On leur souhaite toute la chance pour ce projet ambitieux !!
 
-[![savemybills](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/savemybills.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/savemybills.jpg)
+[![savemybills](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/savemybills.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/savemybills.jpg)
 
 ### Médaille d'or
 
@@ -167,7 +167,7 @@ Le projet le plus original a été le gagnant. L'application mobile prototypé a
 
 ### Bravo et longue vie à Swap-Up !!
 
-[![swap-up](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/swap-up.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/swap-up.jpg)
+[![swap-up](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/swap-up.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/swap-up.jpg)
 
 ## 5 bonnes raisons de participer !
 
@@ -175,7 +175,7 @@ Le projet le plus original a été le gagnant. L'application mobile prototypé a
 
 Tous les participants sont très ouverts d'esprit, des personnes motivées par l’entrepreneuriat qui souhaitent apprendre des autres et partager leurs idées et motivations. Tu ne seras pas déçu(e).
 
-[![equipeOnSharingBox](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/equipeOnSharingBox.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/equipeOnSharingBox.jpg)
+[![equipeOnSharingBox](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/equipeOnSharingBox.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/equipeOnSharingBox.jpg)
 
 ### 2\. Monter en compétence sur d’autres domaines.
 
@@ -187,7 +187,7 @@ Un des objectifs des personnes qui participent au SW est d’apprendre les éta
 
 Tout le monde en a une. Bien souvent nous n’osons pas assister à ce genre d’événement car nous pensons que nous n’avons pas grande chose à apporter. Bien que la créativité ne soit pas un de mes atouts, elle s'est réveillée au cours du weekend lorsque j'étais sur le terrain en train de faire un brain storming. Dans le cadre approprié, les idées ressortent petit à petit et on peut apporter plus que ce que l'on peut imaginer au départ.
 
-[![amateur](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/amateur.png)](http://www.duchess-france.org/wp-content/uploads/2015/03/amateur.png)
+[![amateur](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/amateur.png)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/amateur.png)
 
 ### 4\. Pitcher une idée.
 
@@ -213,4 +213,4 @@ Même si tu n’as jamais envisagé la création d’une startup, cet événemen
 
  
 
-[![photofinale](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/photofinale.jpg)](http://www.duchess-france.org/wp-content/uploads/2015/03/photofinale.jpg)
+[![photofinale](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/photofinale.jpg)](/assets/2015/03/2015-03-22-le-startup-weekend-women-done-voici-le-retour/photofinale.jpg)
