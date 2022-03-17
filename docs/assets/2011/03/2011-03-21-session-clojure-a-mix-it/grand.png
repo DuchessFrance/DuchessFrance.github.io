@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Language" content="fr" />
+    <title>l&#8217;Autre Net, hébergeur associatif autogéré</title>
+    <meta name="revisit-after" content="1 week" />
+    <meta name="robots" content="index,follow" />
+    <meta name="DC.Language" content="fr" />
+    <meta name="DC.Publisher" content="Lautre Net" />
+    <meta name="DC.Rights" content="(C) Lautre Net 1998 - 2007" />
+    <link rel="stylesheet" type="text/css" href="style.css" title="Sable" media="screen"/> 
+    <link rel="alternate" type="application/rss+xml" title="Les derni&egrave;res interventions sur L'Autre Net" href="/rss_interventions" />
+ 
+<script type="text/javascript">/* <![CDATA[ */
+var mediabox_settings={"auto_detect":true,"ns":"box","tt_img":true,"sel_g":"#documents_portfolio a[type='image\/jpeg'],#documents_portfolio a[type='image\/png'],#documents_portfolio a[type='image\/gif']","sel_c":".mediabox","str_ssStart":"Diaporama","str_ssStop":"Arr\u00eater","str_cur":"{current}\/{total}","str_prev":"Pr\u00e9c\u00e9dent","str_next":"Suivant","str_close":"Fermer","str_loading":"Chargement\u2026","str_petc":"Taper \u2019Echap\u2019 pour fermer","str_dialTitDef":"Boite de dialogue","str_dialTitMed":"Affichage d\u2019un media","splash_url":"","lity":{"skin":"_simple-dark","maxWidth":"90%","maxHeight":"90%","minWidth":"400px","minHeight":"","slideshow_speed":"2500","opacite":"0.9"}};
+/* ]]> */</script>
+<!-- insert_head_css -->
+<link rel="stylesheet" href="plugins-dist/mediabox/lib/lity/lity.css?1640196376" type="text/css" media="all" />
+<link rel="stylesheet" href="plugins-dist/mediabox/lity/css/lity.mediabox.css?1640196377" type="text/css" media="all" />
+<link rel="stylesheet" href="plugins-dist/mediabox/lity/skins/_simple-dark/lity.css?1640196377" type="text/css" media="all" /><link rel='stylesheet' type='text/css' media='all' href='plugins-dist/porte_plume/css/barre_outils.css?1640196372' />
+<link rel='stylesheet' type='text/css' media='all' href='local/cache-css/cssdyn-css_barre_outils_icones_css-8307da63.css?1640196434' />
+<script src="prive/javascript/jquery.js?1640196366" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js?1640196366" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.autosave.js?1640196366" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.placeholder-label.js?1640196366" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js?1640196366" type="text/javascript"></script>
+
+<script src="prive/javascript/js.cookie.js?1640196366" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.cookie.js?1640196366" type="text/javascript"></script>
+<!-- insert_head -->
+<script src="plugins-dist/mediabox/lib/lity/lity.js?1640196376" type="text/javascript"></script>
+<script src="plugins-dist/mediabox/lity/js/lity.mediabox.js?1640196377" type="text/javascript"></script>
+<script src="plugins-dist/mediabox/javascript/spip.mediabox.js?1640196377" type="text/javascript"></script><script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.markitup_pour_spip.js?1640196373'></script>
+<script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.previsu_spip.js?1640196373'></script>
+<script type='text/javascript' src='local/cache-js/jsdyn-javascript_porte_plume_start_js-818593a8.js?1640196434'></script>
+
+<meta name="google-site-verification" content="TZwx5TN5HWdYqZfBipDQPQxNQon_BBlgEpBCZ30KO6s" />
+</head>
+<body>
+
+<div id="bandeaulautre">
+  <span class="home">
+    <a href="https://lautre.net">L'Autre Net</a>
+  </span>
+  <span class="links">  
+    <a href="https://panel.lautre.net">Bureau</a> ·
+    <a href="https://rc.lautre.net/">Webmail</a> ·
+    <a href="https://aide.lautre.net">Aide</a> ·    
+    <a href="https://blog.lautre.net">Interventions</a> ·
+  </span>
+</div>
+
+<div id="main" >
+
+<div class="bloc1">
+<a href="/Fonctionnement">
+
+<div class='spip_document_97 spip_document spip_documents spip_document_image spip_documents_center spip_document_center'>
+<figure class="spip_doc_inner">
+
+
+		<img src='IMG/png/pjl_rens_banner-pt.png' width="325" height="42" alt='' />
+</figure>
+</div>
+<div class='spip_document_50 spip_document spip_documents spip_document_image spip_documents_center spip_document_center'>
+<figure class="spip_doc_inner">
+
+
+		<img src='IMG/jpg/dc4.jpg' width="326" height="182" alt='' />
+</figure>
+</div>
+<p><strong>Lautre.net&nbsp;: un opérateur Internet indépendant&nbsp;!</strong></p>
+<p>Chaque membre de l&#8217;Autre Net dispose de&nbsp;:</p>
+<p><span class="spip-puce ltr"><b>–</b></span>&nbsp;5 Go d&#8217;espace disque Web,
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;+ 5 Go d&#8217;espace disque Mail,
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;L&#8217;accès à son site par http(s)&nbsp;://login.lautre.net/,
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;et/ou avec nom de domaine (à acheter séparément)
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;certificats SSL Let&#8217;s Encrypt 
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;PHP 7.4
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;10 bases MySQL, PhpMyAdmin
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;100 comptes/redirections e-mail
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;avec accès pop/imap/webmail (roundcube),
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;20 listes de diffusion (Mailman)
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;Un panneau de contrôle web complet,
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;Statistiques Web (awstats)
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;La gestion de son site par ftp/sftp/ssh,
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;L&#8217;accès aux forums d&#8217;entraide via mail, web ou newsgroup,
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;Sauvegarde des données.</p>
+<div style="text-align: right; padding: 10px;">
+<i>L&#8217;adhésion à l&#8217;association ne coûte que 23 €/an.<br />
+Ces services sont offerts aux membres.</i>
+</div>
+
+</a>
+<div class="menu">
+<ul>
+<li><a href="/Fonctionnement">Je veux plus d'information</a></li>
+<li><a href="/Inscription">Je souhaite m'inscrire</a></li>
+</ul>
+</div>
+</div>
+
+<div id="menu">
+<a href="/Accueil"><img src="lautre.png" alt="Lautre Net, hébergeur associatif autogéré" title="Lautre Net, hébergeur associatif autogéré" id="logo" /></a>
+
+<ul>
+
+
+  <li><a href="spip.php?article1" title="l&#8217;Autre Net, hébergeur associatif autogéré" class="active">Accueil</a></li>
+
+
+
+  <li><a href="spip.php?article15" title="" >L&#8217;association</a></li>
+
+
+
+  <li><a href="spip.php?article4" title="La technique&nbsp;: Le libre au service de notre hébergement" >La technique</a></li>
+
+
+
+  <li><a href="spip.php?article12" title="Les groupes de travail de l&#8217;association" >Groupes de travail</a></li>
+
+
+</ul>
+
+
+<ul id="sousmenu">
+
+  <li><a href="spip.php?article16" title="Devenir membre de l&#8217;Autre Net&nbsp;: l&#8217;inscription" >Adhésion</a></li>
+
+  <li><a href="spip.php?article17" title="Membres&nbsp;:  connectez-vous à votre espace privé d&#8217;hébergement" >Gérer mon compte</a></li>
+
+  <li><a href="spip.php?article29" title="" >FAQ - Aide à la prise en main des outils</a></li>
+
+  <li><a href="spip.php?article30" title="" >Mobilisation contre le rétention de données</a></li>
+
+</ul>
+
+
+<div class="interanim">
+<a href="#inters"><img src="inter.gif" alt="Interventions ..." align="left" style="padding-right: 5px; padding-top: 3px"/></a>
+<a href="#inters"> les derni&egrave;res<br /> interventions</a>
+</div>
+
+</div>
+
+
+<div id="contenu">
+
+<h1>l&#8217;Autre Net, hébergeur associatif autogéré</h1>
+
+
+	<div id="texte">
+		<p>L&#8217;Autre Net est une association qui <strong>héberge vos sites web</strong> depuis 2001, mais aussi vos emails, ou tout autre service web utile à ses membres.</p>
+<p><strong>Tous les acteurs de lautre.net (trésorerie, technique, courrier...) sont bénévoles.</strong></p>
+<p>Basée sur une <strong>gestion solidaire du service</strong>, une mise en commun des moyens menant à la production d&#8217;un service par ceux qui le consomment, et le partage de coûts d&#8217;hébergement, l&#8217;association existe depuis 2000 et compte environ un millier de membres à ce jour.</p>
+<p>L&#8217;Autre Net défend par ailleurs <a href="spip.php?article4" class='spip_in'>une indépendance technique forte</a>, la <a href="spip.php?article5" class='spip_in'>liberté d&#8217;expression de ses membres</a>, et <a href="spip.php?article19" class='spip_in'>l&#8217;aide à la prise en main des outils liés aux TIC (Technologies de l&#8217;Information et de la Communication)</a>.</p>
+<p>&nbsp;</p>
+<h2 class="spip"> En savoir plus sur l&#8217;association </h2>
+<p><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article5" class='spip_in'>L&#8217;histoire de l&#8217;Autre Net</a>
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article15" class='spip_in'>Comment fonctionne l&#8217;Autre Net&nbsp;?</a>
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article16" class='spip_in'>Devenir membre de l&#8217;association&nbsp;: le formulaire d&#8217;inscription</a>
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article11" class='spip_in'>Les statuts et autres documents de l&#8217;association</a></p>
+<h2 class="spip"> En savoir plus sur la technique </h2>
+<p>Nous avons aussi mis quelques pages décrivant la technique à l&#8217;Autre Net, pour ceux qui voudraient nous copier (avec joie) ou nous aider (de même)&nbsp;:</p>
+<p><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article7" class='spip_in'>Les logiciels libres utilisés par l&#8217;association</a>
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article8" class='spip_in'>L&#8217;indépendance du réseau de l&#8217;Autre Net</a>
+<br /><span class="spip-puce ltr"><b>–</b></span>&nbsp;<a href="spip.php?article19" class='spip_in'>L&#8217;aide et l&#8217;entraide dans l&#8217;Autre Net</a></p>
+	</div>
+
+
+<p>&nbsp;</p>
+<a name="inters"></a><hr />
+<p>&nbsp;</p>
+<img src="intervention.jpg" style="float: left" />
+<h2 style="margin: 40px 0px 0px 0px;">Les derni&egrave;res interventions sur la plateforme technique <a
+href="http://blog.lautre.net/?feed=rss2" style="border: 0"><img src="/dist/feed.png" alt="Le flux RSS des derni&egrave;res interventions" title="Le flux RSS des derni&egrave;res interventions" /></a> </h2>
+<p style="margin:0px 0px 40px 0px;">Plus d'informations sur le <a href="http://blog.lautre.net/">blog
+d'informations techniques</a> des administrateurs de lautre.net.</p>
+
+  <h4>Panne du filer (coupure web générale)<br /><span class="dateb">le 11 décembre 2021</span></h4>
+  <p>
+<p>Entre le 7 et le 11 décembre 2021, suite à une panne, puis une réparation, puis divers souci de reconfiguration du filer (machine de stockage principale) de Lautre Net, l&rsquo;ensemble des sites web a subi des interruptions de plusieurs heures.</p>
+
+
+
+<p>Le filer a été reinstallé et une copie en temps réel est en cours d&rsquo;installation, qui devrait permettre de rétablir la situation plus rapidement en cas de problème.</p>
+
+
+
+<p>Nous sommes désolé de la gêne occasionée, les roots se sont relayés pour réparer ce filer, tout semble OK à ce jour.</p>
+
+
+
+<p></p>
+</p>
+
+  <h4>Panne du panel &#038; accélération<br /><span class="dateb">le 25 juin 2020</span></h4>
+  <p>
+<p>Bonjour à toutes et à tous,</p>
+
+
+
+<p>Suite à un problème de processus de renouvellement pour le certificat wildcar « *.lautre.net », une panne des mails pop/imap ainsi que du panel a eu lieu ce 25 juin 2020 de 8h à 11h. </p>
+
+
+
+<p>Après renouvellement du certificat, les services de mail et du panel sont revenus à la normale. Aucun mail n&rsquo;a du être perdu pendant cette opération</p>
+
+
+
+<p>Dans ce contexte, nous avons trouvé un bug dans le code spécifique de Lautre Net dans AlternC, qui provoquait 10 à 12 secondes d&rsquo;attente à chaque page du panel ! C&rsquo;est désormais corrigé, et le panel decrait être beaucoup plus rapide ! </p>
+
+
+
+<p></p>
+</p>
+
+  <h4>HTTPS &#038; PHP7 pour tous&nbsp;!<br /><span class="dateb">le 14 février 2020</span></h4>
+  <p>
+<p>Bonjour à tous,<br />pour information, des mises à jour importantes ont eu lieu ces derniers jours, et la principale à l&rsquo;instant <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <br /></p>
+
+
+
+<p><strong>Nginx 1.14</strong> est désormais utilisé pour servir les pages web depuis l&rsquo;Internet, en HTTP et HTTPS (depuis une semaine)on a activé le support de HTTPS pous tous, (sauf les sous-sous-domaines de lautre net comme « <a rel="noreferrer noopener" target="_blank" href="http://www.moncompte.lautre.net/">www.moncompte.lautre.net</a>« , notez que « moncompte.lautre.net » marche bien )ainsi que <strong>HTTPS/</strong>2.0 et TLS1.2 &amp; 1.3. Cela ne doit avoir aucun impact visible sur vos sites, si ce n&rsquo;est un service plus rapide et plus sécurisé. Si vous souhaitez forcer HTTPS sur votre site web, assurez-vous d&rsquo;avoir bien tous vos liens interne (images, css, js) en HTTPS et ajoutez les lignes suivantes dans un fichier nommé « .htaccess » à la racine de votre site : </p>
+
+
+
+<pre class="wp-block-preformatted">RewriteEngine On<br />RewriteCond %{HTTP:X-Forwarded-Proto} !https<br />RewriteRule ^ <a target="_blank" href="https://%25/" rel="noreferrer noopener">https://%</a>{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]<br />Header set "Content-Security-Policy" "upgrade-insecure-requests"</pre>
+
+
+
+<p><strong>PHP7.0 à 7.4 sont désormais disponible à tout le monde sur le panel ! </strong>dans votre panel, si vous choisissez « ajouter un sous-domaine » ou « modifier » en face d&rsquo;un sous-domaine existant, vous pouvez désormais choisir entreHebergement local PHP5.6 (la valeur par défaut) PHP7.0 ou 7.2 – 7.3 – 7.4 et dans les options avancées : PHP5.3 (uniquement pour les anciens sites, merci de ne plus l&rsquo;utiliser, il sera enlevé avant la fin d&rsquo;année !!) ainsi, vous pouvez, en 5 minutes, basculer votre site sur une nouvelle version de PHP, et vérifier si tout marche bien. Les Spip ou WordPress récent (&lt; 3 ans) doivent passer sans aucun problème à PHP7.2. Pour les versions plus récentes de PHP ou plus anciennes de vos logiciels, à vous de tester <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+</p>
+
+<p style="text-align: right"><a href="http://blog.lautre.net/">Voir les derni&egrave;res interventions ...</a></p>
+
+
+</div>
+
+<div id="footer">
+
+[<a href="/">Accueil</a>]
+
+ - [<a href="spip.php?article23">Contacts / Mentions légales</a>]
+
+ - [<a href="spip.php?article24">Signaler un contenu illicite</a>]
+
+
+ - [<a href="spip.php?article19">Aide &amp; Entraide</a>]
+
+</div>
+
+</div>
+</body>
+</html>
+

@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="de-DE" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://resthub.org/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="https://resthub.org/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>admin &#8211; Finanzen im Blick  &#8211; resthub.org</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Finanzen im Blick  - resthub.org &raquo; Feed" href="https://resthub.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Finanzen im Blick  - resthub.org &raquo; Kommentar-Feed" href="https://resthub.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Finanzen im Blick  - resthub.org &raquo; Beiträge nach admin Feed" href="https://resthub.org/author/admin/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/resthub.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.23"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://resthub.org/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='https://resthub.org/wp-content/themes/twentyfifteen/style.css?ver=4.7.23' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='https://resthub.org/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='https://resthub.org/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://resthub.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://resthub.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://resthub.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://resthub.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://resthub.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.23" />
+</head>
+
+<body class="archive author author-admin author-1">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Springe zum Inhalt</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+										<p class="site-title"><a href="https://resthub.org/" rel="home">Finanzen im Blick  &#8211; resthub.org</a></p>
+									<button class="secondary-toggle">Menü und Widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="pages-2" class="widget widget_pages"><h2 class="widget-title">Seiten</h2>		<ul>
+			<li class="page_item page-item-19"><a href="https://resthub.org/datenschutz/">Datenschutz</a></li>
+<li class="page_item page-item-21"><a href="https://resthub.org/impressum/">Impressum</a></li>
+		</ul>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Neueste Beiträge</h2>		<ul>
+					<li>
+				<a href="https://resthub.org/derivate-bereich-von-bitcoin-circuit/">Derivate Bereich von Bitcoin Circuit</a>
+						</li>
+					<li>
+				<a href="https://resthub.org/skyrim-special-edition-laesst-sich-nicht-ueber-steam-starten/">SKYRIM SPECIAL EDITION LÄSST SICH NICHT ÜBER STEAM STARTEN?</a>
+						</li>
+					<li>
+				<a href="https://resthub.org/die-besten-schwerter-in-the-witcher-3-die-besten-waffen-fuer-das-fruehe-und-spaete-spiel/">Die besten Schwerter in The Witcher 3: Die besten Waffen für das frühe und späte Spiel</a>
+						</li>
+					<li>
+				<a href="https://resthub.org/crypto-custodian-bitgo-receives-banking-licence/">Crypto custodian BitGo receives &#8222;banking licence&#8220;</a>
+						</li>
+					<li>
+				<a href="https://resthub.org/cointelegraph-lanza-la-plataforma-de-criptointeligencia-markets-pro-impulsada-por-the-tie/">Cointelegraph lanza la plataforma de criptointeligencia Markets Pro, impulsada por The TIE</a>
+						</li>
+				</ul>
+		</aside>					</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">Autor: <span class="vcard">admin</span></h1>			</header><!-- .page-header -->
+
+			
+<article id="post-179" class="post-179 post type-post status-publish format-standard hentry category-erfolg">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/derivate-bereich-von-bitcoin-circuit/" rel="bookmark">Derivate Bereich von Bitcoin Circuit</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Wenn Sie die Identitätsüberprüfung nicht abgeschlossen haben, dann haben Sie ein Abhebungslimit von 2 Bitcoin (BTC) alle 24 Stunden (Äquivalent in jeder Kryptowährung). Solange Sie sich nicht verifiziert haben, können Sie auch nicht viel von der Regierung ausgegebene Währungen einzahlen oder abheben.</p>
+<p>Sobald Sie Ihre Identität verifiziert haben, können Sie den Gegenwert von 100 Bitcoin (BTC) alle 24 Stunden abheben. Sie können auch viel höhere GBP-Einzahlungs- und Abhebungslimits freischalten.</p>
+<h2>Bitcoin Circuit-Futures</h2>
+<p>Es ist auch möglich, Optionen mit einem Hebel von bis zu 125x zu handeln, indem Sie den Derivate-Bereich von Bitcoin Circuit nutzen.</p>
+<p>Beim Handel mit Futures kaufen Sie nicht den zugrunde liegenden Vermögenswert. Stattdessen spekulieren Sie auf den zukünftigen Preis einer Kryptowährung. Weitere Informationen über Futures-Kontrakte finden Sie unter https://www.indexuniverse.eu/de/bitcoin-circuit-erfahrungen-new/.</p>
+<p>Es gibt eine ganze Reihe von Kryptowährungs-Futures, darunter Bitcoin (BTC), Ethereum (ETH), Ripple (XRP) und eine Reihe von DeFi-Projekten. Zum Zeitpunkt der Erstellung dieses Artikels sind mehr als 80 verschiedene Tether (USDT)-Futures verfügbar.</p>
+<p>Während man für Bitcoin (BTC)-Futures eine Hebelwirkung von bis zu 125x erzielen kann, ist diese Hebelwirkung für andere Kryptowährungen NICHT verfügbar. Zum Beispiel:</p>
+<h2>Ethereum (ETH): Maximale Hebelwirkung von 100x.</h2>
+<p>Ripple (XRP): Maximale Hebelwirkung von 75x.<br />
+Terra (LUNA): Maximale Hebelwirkung von 50x.<br />
+Wenn Sie auf Bitcoin Circuit mit Futures handeln, fallen unterschiedliche Gebühren an. Die Gebühren beginnen bei 0,02 % für Maker und 0,04 % für Taker, aber Sie erhalten niedrigere Gebühren, wenn Sie mehr handeln und Bitcoin Circuit Coin (BNB) auf Ihrem Konto halten.</p>
+<p>Sie müssen auch eine Finanzierungsrate zahlen. Sie können mehr darüber hier erfahren und die Echtzeit-Finanzierungsrate hier sehen.</p>
+<p>Bitcoin Circuit verdienen<br />
+Bitcoin Circuit Earn entspricht dem Angebot von BlockFi und Crypto.com Earn.</p>
+<p>Kurz gesagt, es ermöglicht Ihnen, Zinsen auf Ihre Kryptowährungsbestände zu verdienen. Als ich es überprüfte, konnten Sie einfach und schnell Zinsen auf mehr als 55 Kryptowährungen verdienen.</p>
+<p>Die Höhe der Zinsen, die Sie verdienen, hängt von der Kryptowährung ab, die Sie einzahlen. Als ich es überprüfte, war der höchste Zinssatz, den Sie verdienen konnten, 9,99% APY, wenn Sie BakeryToken (BAKE) einzahlten. Die verfügbaren Zinssätze ändern sich jedoch regelmäßig.</p>
+<p>Bei Crypto Earn haben Sie zwei Optionen:</p>
+<p>Locked Savings: Sperren Sie Ihre Kryptowährung für bis zu 90 Tage, um bessere Zinssätze freizuschalten.<br />
+Flexibles Sparen: Ermöglicht es Ihnen, Zinsen auf Ihre Kryptowährung zu erhalten, ohne dass Sie sie für eine bestimmte Dauer fest anlegen müssen. Sie können sie jederzeit abheben.<br />
+Nur Tether (USDT), Bitcoin Circuit USD (BUSD) und USD Coin (USDC) können zu &#8222;Locked Savings&#8220; hinzugefügt werden. Der Vorteil davon ist allerdings ziemlich gering &#8211; Sie erhalten nur einen um 1 % niedrigeren Zinssatz, wenn Sie flexiblen Zugang zu diesen Geldern behalten.</p>
+<p>Für einige Kryptowährungen müssen Sie auch keine Zinsen zahlen. Zum Zeitpunkt des Schreibens würden Sie nur 1,2% APY auf Ihre Bitcoin (BTC) Einlagen und 0,39% APY auf Ihre Cardano (ADA) Einlagen verdienen.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/derivate-bereich-von-bitcoin-circuit/" rel="bookmark"><time class="entry-date published" datetime="2021-08-16T10:06:09+00:00">16. August 2021</time><time class="updated" datetime="2021-08-16T10:06:28+00:00">16. August 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/erfolg/" rel="category tag">Erfolg</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-177" class="post-177 post type-post status-publish format-standard hentry category-spielen">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/skyrim-special-edition-laesst-sich-nicht-ueber-steam-starten/" rel="bookmark">SKYRIM SPECIAL EDITION LÄSST SICH NICHT ÜBER STEAM STARTEN?</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Wenn Ihr PC (Steam) Exemplar von The Elder Scrolls V: Skyrim Special Edition nach dem Drücken von Play nicht startet, im Textfeld &#8222;Preparing to Launch&#8220; hängen bleibt oder im Hintergrund läuft, aber nicht startet, können Sie die folgenden Schritte zur Fehlerbehebung versuchen:</p>
+<h2>AKTUALISIEREN SIE IHRE GRAFIKKARTENTREIBER</h2>
+<p>Sie können die neuesten Treiber (je nach Hersteller) hier herunterladen und installieren:</p>
+<p>NVIDIA<br />
+AMD</p>
+<h2>FÜHREN SIE DAS SPIEL UND STEAM ALS ADMINISTRATOR AUS</h2>
+<p>Um das Spiel als Administrator auszuführen:</p>
+<p>Klicken Sie mit der rechten Maustaste auf The Elder Scrolls V: Skyrim Special Edition in Ihrer Steam-Bibliothek.<br />
+Wählen Sie Eigenschaften und dann die Registerkarte Lokale Dateien.<br />
+Klicken Sie auf Lokale Dateien durchsuchen.<br />
+Suchen Sie die ausführbare Datei des Spiels (die Anwendung).<br />
+Klicken Sie mit der rechten Maustaste darauf und gehen Sie zu Eigenschaften.<br />
+Klicken Sie auf die Registerkarte Kompatibilität.<br />
+Aktivieren Sie das Kontrollkästchen Dieses Programm als Administrator ausführen und klicken Sie auf Übernehmen.<br />
+Starten Sie anschließend Steam neu und versuchen Sie erneut, das Spiel zu starten.</p>
+<p>Um Steam als Administrator auszuführen, suchen Sie stattdessen die ausführbare Datei von Steam (standardmäßig hier: C:\Programme (x86)\Steam) und befolgen Sie den gleichen Prozess wie oben.</p>
+<h2>SICHERSTELLEN, DASS IHRE WINDOWS-VERSION AKTUALISIERT IST</h2>
+<p>Um sicherzustellen, dass Ihre Windows-Version über alle aktuellen Updates verfügt, sollten Sie Windows Update ausführen. Sie finden es, indem Sie zum Startmenü navigieren, alle Programme und dann Windows Update auswählen. Bitte beachten Sie, dass die Position des Programms je nach Windows-Version unterschiedlich sein kann. Wenn Sie Probleme haben, das Programm zu finden, verwenden Sie die Funktion Programme und Dateien suchen im Startmenü, um es zu finden.</p>
+<p>Wenn Sie das Programm gestartet haben, warten Sie, bis es alle erforderlichen Updates identifiziert, heruntergeladen und installiert hat, und versuchen Sie dann erneut, das Spiel zu starten.</p>
+<h2>ÜBERPRÜFEN DER INTEGRITÄT DES SPIELE-CACHES</h2>
+<p>Um sicherzustellen, dass die Spieldateien korrekt installiert wurden, sollten Sie die Dateien in Steam überprüfen. Tun Sie dies:</p>
+<p>Öffnen Sie Steam und navigieren Sie zu Ihrer Bibliothek.<br />
+Klicken Sie mit der rechten Maustaste auf The Elder Scrolls V: Skyrim Special Edition und wählen Sie Eigenschaften.<br />
+Wählen Sie die Registerkarte Lokale Dateien und klicken Sie auf Integrität der Spieldateien überprüfen&#8230;</p>
+<p>Steam wird die Dateien des Spiels überprüfen. Dieser Vorgang kann einige Minuten dauern.<br />
+Sobald der Vorgang abgeschlossen ist, wird das Prüffenster automatisch geschlossen.<br />
+Hinweis: Es kann sein, dass eine oder mehrere Dateien nicht verifiziert werden, was in den meisten Fällen normal ist. Es handelt sich dabei um lokale Konfigurationsdateien, die bei diesem Vorgang nicht verändert werden sollten.</p>
+<h2>DEAKTIVIEREN VON HINTERGRUNDANWENDUNGEN</h2>
+<p>Programme, die im Hintergrund laufen, können in manchen Fällen Probleme beim Starten neuer Spiele verursachen. Deaktivieren Sie alle unnötigen Programme und versuchen Sie erneut, das Spiel zu starten.</p>
+<h2>PRÜFEN SIE AUF ZUSÄTZLICHE INSTALLATIONSPROGRAMME</h2>
+<p>Wenn der Start eines Spiels abgebrochen oder unterbrochen wird, kann es sein, dass Ihrem Computer Programme oder Dienste fehlen, die das Spiel zum Ausführen benötigt. Dazu könnten DirectX, PhysX, C++-Komponenten oder Windows-Updates gehören.</p>
+<p>Die Steam-Plattform sollte alle erforderlichen Installationsprogramme ausführen, wenn das Spiel zum ersten Mal gestartet wird. Wenn dies nicht der Fall ist, müssen Sie sie möglicherweise manuell starten.</p>
+<p>Die Installationsprogramme befinden sich normalerweise im Installationsordner von Skyrim Special Edition, der standardmäßig hier zu finden ist: C:\Program Files (x86)\Steam\SteamApps\common\Skyrim Special Edition.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/skyrim-special-edition-laesst-sich-nicht-ueber-steam-starten/" rel="bookmark"><time class="entry-date published updated" datetime="2021-08-10T14:57:35+00:00">10. August 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/spielen/" rel="category tag">Spielen</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-175" class="post-175 post type-post status-publish format-standard hentry category-spielen">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/die-besten-schwerter-in-the-witcher-3-die-besten-waffen-fuer-das-fruehe-und-spaete-spiel/" rel="bookmark">Die besten Schwerter in The Witcher 3: Die besten Waffen für das frühe und späte Spiel</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Unser Guide zu den besten Schwertern in Witcher 3 wird dir helfen, die himmlischen, euphorischen Höhen der Zerstörung zu erreichen, die dem Schlächter von Blaviken selbst gebühren. Mit unserer ausgewählten Liste der besten Stahl- und Silberschwerter im Angebot weißt du genau, wo du hingehen und was du tun musst, um die besten Schwerter des Kontinents in die Finger zu bekommen.</p>
+<h2>Die besten Schwerter in The Witcher 3</h2>
+<p>Ein kurzes Wort, bevor wir uns an die Liste der besten Schwerter in The Witcher 3 machen: Aufgrund der Funktionsweise von Waffen und Ausrüstungsgegenständen in The Witcher 3 kannst du dir nicht von Anfang an das beste Schwert im Spiel holen. Selbst wenn du es findest oder herstellst, bist du noch lange nicht so weit, dass du es führen kannst. Deshalb habe ich nicht nur die mächtigsten Klingen aufgelistet, die Geralt auf seiner Odyssee ausrüsten kann, sondern auch ein oder zwei Optionen für das frühe Spiel für diejenigen, die sich fragen, wie sie ihre Schwertkunst am besten verbessern können.</p>
+<p>Vipernschwerter (Stahl &amp; Silber)<br />
+Katzenschwerter (Stahl &amp; Silber)<br />
+Mantikor-Schwerter (Stahl &amp; Silber)<br />
+Schwert der Iris/Olgierd (Stahl)<br />
+Toussaint-Schwert (Stahl)<br />
+Belhavener Klinge (Stahl)<br />
+Aerondight (Silber)<br />
+Blutschwert (Silber)<br />
+Gesheft (Silber)</p>
+<h2>Viper-Schwerter (Stahl &amp; Silber)</h2>
+<p>Die Viper-Schwerter sind die besten Einstiegsschwerter im Angebot und die erste Ausrüstung, die ihr freischalten könnt. Sie können sehr schnell gefunden und hergestellt werden, ohne den Weißen Obstgarten zu verlassen. Begebt euch einfach zum Friedhof nördlich der Mühle, um die silberne Blaupause zu erhalten, und zu den Burgruinen westlich des Wegweisers für das geplünderte Dorf, um die stählerne Blaupause zu erhalten.</p>
+<p>Diese beiden Schwerter haben durchweg höhere Werte als die meisten Waffen, die ihr zu diesem frühen Zeitpunkt finden könnt, und beide bieten außerdem eine gute Chance, Gegner mit jedem Treffer zu vergiften. Ihr werdet nichts Besseres finden, bis ihr euch nach Velen und Novigrad begebt.</p>
+<h2>Katzenschwerter (Stahl &amp; Silber)</h2>
+<p>Ein äußerst solides Ausrüstungsset (wie ihr wisst, wenn ihr meinen The Witcher 3-Rüstungs- und Ausrüstungsführer gelesen habt), die Feline Hexer-Ausrüstung bietet eine Reihe von extrem mächtigen Schwertern mit Schwerpunkt auf hohem Schaden, kritischer Trefferchance und Blutungswahrscheinlichkeit. Es schadet auch nicht, dass du, wenn du die gesamte Feline-Ausrüstung anlegst, auch von einigen sehr starken Schadenserhöhungen profitierst.</p>
+<p>Die Teufelsschwerter sind sowohl im frühen als auch im späten Spiel eine hervorragende Empfehlung. Sobald ihr Stufe 17 erreicht habt, sind die Basis-Felinenschwerter mit ziemlicher Sicherheit die beste Wahl für euch &#8211; und selbst mit den anderen legendären Klingen in dieser Liste sind die Meister- und Großmeister-Felinenschwerter starke Anwärter auf die insgesamt tödlichsten Waffen, die es gibt.</p>
+<h2>Manticore-Schwerter (Stahl &amp; Silber)</h2>
+<p>Ähnlich wie die Teufelsschwerter sind auch die Klingen des Hexer-Ausrüstungs-Sets Manticore (nur mit dem DLC &#8222;Blut und Wein&#8220; erhältlich) starke Anwärter auf die tödlichsten Waffen, die es gibt &#8211; aber im Gegensatz zu ihren Teufelsgefährten sind die Manticore-Schwerter nur in ihrer Großmeisterform erhältlich &#8211; was bedeutet, dass sie sicherlich keine Option für das frühe Spiel sind.</p>
+<p>Aber sobald du Level 40 erreicht hast, wirst du kaum noch etwas Besseres finden als diese beiden fantastischen, panzerbrechenden Klingen, die &#8211; zusammen mit einer enormen Erhöhung des Schadens bei kritischen Treffern &#8211; einige der härtesten Schläge im ganzen Spiel austeilen können.</p>
+<h2>Schwert von Iris/Olgierd (Stahl)</h2>
+<p>Als Relikt-Schwert, das nur mit dem Hearts of Stone-DLC erhältlich ist, steht Iris bei den meisten Witcher 3-Spielern ganz oben auf der Liste der besten Stahlschwerter. Iris ist nicht nur eine sehr, sehr mächtige Waffe, sondern hat auch den einzigartigen Effekt, dass sie eine Ladung aufbaut, die, wenn sie verbraucht wird, einen gewaltigen Schlag mit einem noch stärkeren Knockdown-Effekt als Aard auslöst &#8211; allerdings auf Kosten eines Teils der Gesundheit des Spielers.</p>
+<p>Um dieses legendäre Schwert in Geralts Hände zu bekommen, müsst ihr euch durch das Abenteuer &#8222;Was immer ein Mensch sät&#8230;&#8220; arbeiten und am Ende (SPOILER ALERT) Olgierd von Everecs Seele retten. Als Belohnung erhaltet ihr dieses Schwert &#8211; und was für eine Belohnung es ist.</p>
+<h2>Toussaint-Schwert (Stahl)</h2>
+<p>Das Toussaint-Schwert ist eine weitere unglaublich starke Stahlklinge, die nur mit dem DLC &#8222;Blut und Wein&#8220; erhältlich ist. Es kombiniert den Blutungseffekt der Feline-Schwerter mit der panzerbrechenden Wirkung der Manticore-Schwerter. Dabei ist zu beachten, dass ihr die Relikt-Variante dieses Schwerts herstellen müsst, um sein volles Potenzial zu entfalten, da die Magie-Variante mit geringerer Seltenheit nicht ganz so mächtig ist.</p>
+<p>Die Blaupause für die herstellbare Relikt-Variante des Toussaint-Schwerts findet ihr, wenn ihr die Quest &#8222;Die letzten Heldentaten von Selinas Bande&#8220; in Toussaint verfolgt und abschließt.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/die-besten-schwerter-in-the-witcher-3-die-besten-waffen-fuer-das-fruehe-und-spaete-spiel/" rel="bookmark"><time class="entry-date published updated" datetime="2021-08-10T14:53:02+00:00">10. August 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/spielen/" rel="category tag">Spielen</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-163" class="post-163 post type-post status-publish format-standard hentry category-bitcoin">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/crypto-custodian-bitgo-receives-banking-licence/" rel="bookmark">Crypto custodian BitGo receives &#8222;banking licence&#8220;</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<h2>Crypto custodian BitGo receives &#8222;banking licence&#8220; for financial mecca New York</h2>
+<p>The Goldman Sachs-backed crypto custodian is now allowed to operate in the strategically important US state of New York.</p>
+<p>Major US crypto custodian BitGo has received a &#8222;banking licence&#8220; from New York&#8217;s financial regulator NYDFS.</p>
+<p>According to a related announcement, the licence will allow BitGo to offer crypto custody Bitcoin System services to institutional clients in New York who want to make large investments in cryptocurrencies.</p>
+<p>Under the licence, BitGo will provide proper information collection (KYC) and anti-money laundering (AML) compliance. The cryptographic private keys for the associated wallets or funds will also be held &#8222;offline&#8220; in bank vaults.</p>
+<p>In this context, BitGo CEO Mike Belshe emphasises that the approval by the &#8222;New York State Department of Financial Service&#8220; is an important step for his company to cooperate with leading financial institutions worldwide that are located in the state of New York.</p>
+<h3>California, the company offers professional custody</h3>
+<p>The CEO discloses that his firm is seeing increasing interest from institutional investors:</p>
+<blockquote><p>&#8222;The past year has been incredibly strong for BitGo and the crypto market as a whole, due in large part to the entry of large financial institutions that bring a new level of trustworthiness, liquidity and stability to the crypto ecosystem.&#8220;</p></blockquote>
+<p>BitGo had already applied for the New York banking licence in August 2020 to be allowed to operate as a crypto custodian in the strategically important state.</p>
+<p>Founded in 2013 in Palo Alto, California, the company offers professional custody services for cryptocurrencies such as Bitcoin (BTC). The company is supported by renowned backers such as Goldman Sachs and the crypto investment companies Digital Currency Group and Galaxy Digital Ventures.</p>
+<p>Last year, BitGo set up two subsidiaries in Germany and Switzerland, each of which is regulated by the relevant supervisory authorities.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/crypto-custodian-bitgo-receives-banking-licence/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-06T09:45:36+00:00">6. März 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/bitcoin/" rel="category tag">Bitcoin</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-160" class="post-160 post type-post status-publish format-standard hentry category-bitcoin">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/cointelegraph-lanza-la-plataforma-de-criptointeligencia-markets-pro-impulsada-por-the-tie/" rel="bookmark">Cointelegraph lanza la plataforma de criptointeligencia Markets Pro, impulsada por The TIE</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>La prueba beta en vivo sugiere que el análisis histórico de los mercados criptográficos, combinado con las condiciones en tiempo real y el sentimiento de los inversores, puede ser extremadamente informativo.</p>
+<p>Cointelegraph Markets Pro , una plataforma de datos diseñada para nivelar el campo de juego para los participantes del mercado de criptomonedas, ahora está disponible para el público luego de un exitoso período de prueba en vivo.</p>
+<p>La plataforma, que ha estado en desarrollo durante un año, es el resultado de un análisis exhaustivo de los mercados de cifrado y los impulsores clave de los movimientos de precios de los activos. Fue desarrollado conjuntamente por Cointelegraph y The TIE, un proveedor líder de datos criptográficos, análisis y software que cuenta con los principales fondos de cobertura, creadores de mercado y escritorios de venta libre entre sus clientes.</p>
+<h2>Prueba de la puntuación VORTECS</h2>
+<p>En el corazón de la plataforma se encuentra el puntaje VORTECS, que compara las condiciones actuales del mercado para más de 130 criptoactivos con escenarios de mercado históricamente similares. Un algoritmo patentado analiza esas condiciones históricas, buscando patrones consistentes en el comportamiento del mercado en los días siguientes.</p>
+<p>&#8222;Incluso si los mercados de cifrado pueden parecer volátiles, la volatilidad a menudo demuestra una consistencia notable&#8220;, dijo el CEO de Cointelegraph, Jay Cassano. &#8222;Si bien todos somos conscientes de que el desempeño pasado no es indicativo de resultados futuros, la plataforma Markets Pro combina el análisis de sentimientos y la actividad de las redes sociales con las condiciones del mercado en tiempo real de una manera que nos permite crear modelos muy específicos&#8220;.</p>
+<h2>&#8222;La historia no predice, pero puede ser profundamente informativa&#8220;</h2>
+<p>Las pruebas beta de VORTECS arrojaron resultados convincentes, según Joshua Frank, director ejecutivo de The TIE.</p>
+<p>“Probamos cada puntaje que cruzó un cierto umbral en nuestra fase beta en vivo”, explicó Frank. &#8222;Cuando la puntuación VORTECS para un criptoactivo en particular cruzó 70, vimos un aumento de precio promedio del 7,61% durante las próximas 24 horas y del 25,9% durante los próximos siete días&#8220;.</p>
+<p>Frank señaló que cuando las puntuaciones que cruzaban el umbral de 80, las ganancias de activos eran del 8,58% durante las siguientes 24 horas y del 28,2% durante la semana siguiente.</p>
+<p>“Por supuesto, dado que la mayoría de los comerciantes de criptomonedas están cambiando hacia otros activos como Bitcoin, la verdadera medida del éxito durante un mercado alcista es si los activos que cruzaron estos umbrales generaron ganancias frente a todo el mercado de criptomonedas”, continuó Frank.</p>
+<blockquote><p>&#8222;Y, de hecho, eso es exactamente lo que sucedió: en el transcurso de una semana, los activos con 70 puntajes ganaron un promedio del 21,3% en comparación con el universo de monedas, aumentando al 23,8% para los activos que obtuvieron más de 80&#8220;.</p></blockquote>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/cointelegraph-lanza-la-plataforma-de-criptointeligencia-markets-pro-impulsada-por-the-tie/" rel="bookmark"><time class="entry-date published updated" datetime="2021-02-23T18:09:23+00:00">23. Februar 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/bitcoin/" rel="category tag">Bitcoin</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-157" class="post-157 post type-post status-publish format-standard hentry category-bitcoin">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/bitstamp-impoe-a-kyc-para-comerciantes-holandeses-que-se-retiram-para-carteiras-externas/" rel="bookmark">Bitstamp impõe a KYC para comerciantes holandeses que se retiram para carteiras externas</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><strong>Para cumprir os regulamentos holandeses, os usuários de Bitstamp com sede na Holanda não podem mais fazer retiradas sem primeiro fornecer provas fotográficas de que são donos da carteira do destinatário.</strong></p>
+<h2>O Bitstamp de troca de ativos digitais proibiu</h2>
+<p>O Bitstamp de troca de ativos digitais proibiu os usuários sediados na Holanda de retirar o criptograma para carteiras externas sem primeiro verificar se são donos do endereço de recebimento.</p>
+<p>De acordo com uma carta de autoria da Bitstamp que foi compartilhada no Twitter pelo usuário &#8222;Bitcoin Marcus&#8220;, os usuários da Bitstamp na Holanda devem agora enviar endereços de terceiros junto com provas fotográficas de que são donos da carteira para lista branca antes que as retiradas sejam processadas.</p>
+<blockquote><p>&#8222;Whitelisting é um recurso de segurança que já estava disponível na Bitstamp, mas agora se tornou obrigatório para todos os clientes afetados pela nova regulamentação na Holanda&#8220;, declarou a carta.</p></blockquote>
+<p>As novas regras de retirada da Bitstamp são uma resposta às regulamentações contra a lavagem de dinheiro que foram elaboradas pelos reguladores holandeses em novembro de 2019 e aprovadas por lei 12 meses depois.</p>
+<p>Estas regras estipulam que &#8222;os prestadores de serviços criptográficos devem verificar se seus clientes e quaisquer proprietários beneficiários finais estão em uma lista de sanções holandesa ou européia&#8220; antes de fornecerem serviços, e monitorar todas as &#8222;transferências de pagamento de entrada e saída&#8220;.</p>
+<h2>A Bitcoin Exchange Bitconic, sediada na Holanda</h2>
+<p>Em novembro, a Bitcoin Bank Exchange Bitconic, sediada na Holanda, informou a seus usuários que eles precisavam cumprir com as novas medidas de verificação para saques. Na ocasião, a troca chamou a aplicação da política do banco central de &#8222;um incômodo&#8220;.</p>
+<p>Os usuários de Bitstamp foram mais longe em suas críticas aos regulamentos, com o usuário do Twitter &#8222;xcsler&#8220; zombando dos esforços da bolsa para cumprir a lei holandesa:</p>
+<blockquote><p>&#8222;Claramente, o próximo passo será tornar as pessoas responsáveis por todas as transações subseqüentes daquele endereço da lista branca&#8220;.</p></blockquote>
+<p>Em novembro, o analista quantitativo PlanB comparou os regulamentos holandeses às políticas recomendadas recentemente pelo Secretário do Tesouro dos Estados Unidos, Steve Mnuchin. O CEO da Coinbase, Brian Armstrong, fez ondas online na época, expressando grandes preocupações com a regulamentação proposta por Mnuchin sobre carteiras criptográficas auto-hospedadas.</p>
+<blockquote><p>A Holanda implementou estas leis há 2 semanas. Agora você tem que tirar um screenshot de sua carteira ao retirar o bitcoin das bolsas holandesas, fácil mas irritante. Certifique-se de votar nas pessoas no poder que protegem os direitos de propriedade e o bitcoin, e remova as pessoas que não protegem a liberdade.</p></blockquote>
+<p>Ainda não está claro como a administração do Presidente dos EUA Joe Biden irá lidar com a aplicação da KYC/AML no espaço criptográfico. O advogado Jake Chervinsky argumentou que a política de Mnuchin tem &#8222;exatamente nenhuma chance&#8220; de se tornar uma lei executável sob a escolha de Biden para a Secretária do Tesouro, Janet Yellen.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/bitstamp-impoe-a-kyc-para-comerciantes-holandeses-que-se-retiram-para-carteiras-externas/" rel="bookmark"><time class="entry-date published updated" datetime="2021-01-19T12:39:10+00:00">19. Januar 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/bitcoin/" rel="category tag">Bitcoin</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-152" class="post-152 post type-post status-publish format-standard hentry category-bitcoin">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/bitcoin-overtakes-facebook-and-comes-close-to-tesla-market-value-of-nearly-770-billion-dollars/" rel="bookmark">Bitcoin overtakes Facebook and comes close to Tesla, market value of nearly 770 billion dollars</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Bitcoin is in the middle of an impressive run, and you can see that in the total market value. That&#8217;s the number of coins multiplied by the price per coin. Bitcoin has now overtaken Facebook, and is on its way to overtake Tesla. This is shown by the AssetDash website, which tracks the market value of the world&#8217;s largest assets.</p>
+<h2>Facebook caught up</h2>
+<p>Above you can see the top 10 largest assets in the world. As a result of today&#8217;s price movements, bitcoin has overtaken the social media giant Facebook. All shares of Mark Zuckerberg&#8217;s company have a combined value of nearly $755 billion.</p>
+<p>The market value of car manufacturer Tesla is 804 billion dollars, so the market value of bitcoin still needs to increase by about 36 billion dollars to catch up with Tesla.</p>
+<p>This is difficult, because Tesla&#8217;s share price profit secret is also going great at the moment. As with bitcoin, Tesla is in a strong upward trend.</p>
+<h2>Tesla is going faster than bitcoin</h2>
+<p>In fact, in percentage terms, Tesla (orange) increases in value more than bitcoin (black). Since the beginning of 2020, Tesla&#8217;s shares have grown in value by almost 1,200%. Over the same period, bitcoin has increased by more than 400%.</p>
+<p>However, the sentiment around bitcoin is now very positive, which could ensure that bitcoin will soon overtake Tesla in terms of market value. According to fund manager Grayscale, more and more institutional parties are investing in bitcoin. The crypto currency has recently also become remarkably popular among pension funds.</p>
+<p>Above Tesla are the giants with a total market value of more than 1 trillion dollars: Alphabet A (Google), Amazon, Microsoft, Saudi Aramco and Apple. If bitcoin also wants to cross this magical border, the exchange rate must be above the limit of 53,780 dollars. That comes down to 43,954 euros per bitcoin.</p>
+<p>Since this week, the entire crypto market together is worth 1 trillion dollars. Currently, more than 70 percent of the cryptocurrency market consists of bitcoin.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/bitcoin-overtakes-facebook-and-comes-close-to-tesla-market-value-of-nearly-770-billion-dollars/" rel="bookmark"><time class="entry-date published" datetime="2021-01-13T08:00:07+00:00">13. Januar 2021</time><time class="updated" datetime="2021-06-02T15:03:43+00:00">2. Juni 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/bitcoin/" rel="category tag">Bitcoin</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-154" class="post-154 post type-post status-publish format-standard hentry category-bitcoin">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/morgan-stanley-holds-over-300-million-in-btc/" rel="bookmark">Morgan Stanley holds over $ 300 million in BTC</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Morgan Stanley bought an additional stake in Microstrategy.</p>
+<h2>Morgan Stanley now owns 10.9% of Microstrategy</h2>
+<p>Morgan Stanley&#8217;s 10.9% stake in Microstrategy is equivalent to over $ 300 million worth of Bitcoin.</p>
+<p>It looks like another financial entity got on the Bitcoin Revolution platform train, but through an indirect purchase of BTC.</p>
+<p>Morgan Stanley, one of the world&#8217;s largest financial institutions, recently announced the additional acquisition of Microstrategy shares. The purchase brings his stake in the company to 10.9%.</p>
+<p>This stake also means Morgan Stanley owns 10.9% of Microstrategy&#8217;s Bitcoin treasury. This allows it to indirectly hold nearly $ 300 million in Bitcoin at its current price.</p>
+<h2>Do banks want bitcoin?</h2>
+<p>Morgan Stanley already has a stake in Microstrategy. However, this addition increases it significantly. As a multinational investment bank, this purchase is an important sign of Morgan Stanley&#8217;s outlook on Bitcoin as it represents a very large portion of Microstrategy&#8217;s current reserve cash. This purchase shows that even banks like Morgan Stanley are increasing their exposure to Bitcoin. This idea might have sounded like a fairy tale last year.</p>
+<p>Is Microstrategy Setting a New Standard in Bitcoin?</p>
+<blockquote><p>Microstrategy was the first major publicly traded company to actively convert part of its reserve cash into Bitcoin. Many mainstream observers sharply criticized this decision at first. Citigroup, another investment bank, initially downgraded its outlook for Microstrategy&#8217;s share price. They believed the move would seriously damage investor confidence in the company.</p></blockquote>
+<p>Citigroup was wrong in its forecast. Bitcoin&#8217;s price continued to rise along with Microstategy&#8217;s holdings of BTC and its overall market performance. Over the past year, MSTR stock has risen by over 350%.</p>
+<p>Microstrategy CEO and Bitcoin Bull Michael Saylor led the company to BTC. Saylor was initially skeptical of Bitcoin, but the mix of Bitcoin&#8217;s fundamentals and the global economic and social conflicts caused by covid caused him to change his mind.</p>
+<p>One of the main factors for Saylor is the increase in the rate of inflation observed by fiat currencies around the world. He sees Bitcoin as a store of value and a better hedge against inflation than gold. As such, he decided that it would be best for Microstrategy to convert part of its cash reserve of US dollars into Bitcoin.</p>
+<p>After an initial Bitcoin purchase of several hundred million dollars, Saylor decided that Microstrategy needed even more Bitcoin. The company then raised $ 650 million through a debt offer. This catapulted Microstrategy&#8217;s Bitcoin purchases to over $ 1 billion in total . Currently, the stake is valued at around $ 3 billion. Many other companies have since followed suit. Companies like Mass Mutual, Skybridge Capital, and Ruffer invest hundreds of millions or more in Bitcoin.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/morgan-stanley-holds-over-300-million-in-btc/" rel="bookmark"><time class="entry-date published updated" datetime="2021-01-12T00:37:44+00:00">12. Januar 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/bitcoin/" rel="category tag">Bitcoin</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-150" class="post-150 post type-post status-publish format-standard hentry category-bitcoin">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/bank-giant-jpmorgan-bitcoin-price-rises-to-146000-us-dollars/" rel="bookmark">Bank giant JPMorgan: Bitcoin price rises to 146,000 US dollars</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Every Bitcoin rally inspires price fantasies. But while representatives from the crypto space are used to dizzying forecasts, expectations in the traditional financial world are rather sober. JPMorgan stands out there.</p>
+<h2>Anyone who has spent the last few weeks in hibernation should rub their eyes at the latest chart images</h2>
+<p>Bitcoin is in the fast lane and has gained nearly $ 15,000 since December alone. If Nikolaos Panigirtzoglou, Managing Director at the banking giant JPMorgan, has his way, the end of the flagpole is not likely to be reached yet.</p>
+<p>The financial expert predictsa Crypto Trader exchange rate (BTC) of around $ 146,000. The somewhat arbitrary number is made up of a simple calculation example and relates to the potential to overtake gold as a popular asset class among small investors in the long term. The calculation: If the spending of private investors in Bitcoin with investments in gold, including bars, coins or even exchange-traded financial products such as gold ETFs and ETCs, equates, the current Bitcoin market capitalization would increase from around 590 billion US dollars 4.6 times.</p>
+<h2>If you break this value down to the Bitcoin Supply, the exchange rate is 146,000 US dollars</h2>
+<blockquote><p>The value is by no means set in stone and rather underlines the still immense growth potential of Bitcoin. Panigirtzoglou, who has already predicted a switch of capital inflows from gold to BTC in the past , is setting the timeframe wide and emphasizes that low volatility is a prerequisite for the transfer of assets. It may therefore be a few years before Bitcoin catches up with gold. But even if it is a gradual process, the ball is already rolling.</p></blockquote>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/bank-giant-jpmorgan-bitcoin-price-rises-to-146000-us-dollars/" rel="bookmark"><time class="entry-date published updated" datetime="2021-01-06T10:50:16+00:00">6. Januar 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/bitcoin/" rel="category tag">Bitcoin</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+<article id="post-146" class="post-146 post type-post status-publish format-standard hentry category-preis">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://resthub.org/146-2/" rel="bookmark">ANALYSTKRAV BITCOIN ÄR FÖR EN PLUNG TILL 20 000 USD SOM RALLY LÅNGAR</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Bitcoin såg en massiv rally igår kväll som gjorde det möjligt för den att sätta nya heltidshöjder över $ 29.000<br />
+Kryptovalutan <strong>mötte viss allvarlig försäljningstryck här som saktade uppstigningen och fick den att sjunka ner mot 28 000 dollar</strong><br />
+<strong>Det verkar som om det finns något stöd här, men de</strong>t är fortfarande oklart hur länge det kommer att pågå<br />
+En analytiker talade om detta i en nyligen tweet och noterade att han förbereder sig för en total trendförskjutning som får BTC att gå tillbaka ner mot $ 20.000<br />
+Han noterar att tiden och avståndet för varje ben högre blir mindre när BTC avancerar högre, vilket är ett tecken på utmattning i hans ögon<br />
+Bitcoin glider för närvarande lägre efter ett avbrott över sina högsta tider som ägde rum igår kväll.</p>
+<p>Styrkan som kryptovalutan har sett för sent kan inte underskattas, eftersom den varje vecka har lagt flera tusen dollar till sitt pris.</p>
+<blockquote><p>Reloads och gratissnurr tillgängliga varje dag, för varje spelare, i mBitcasino Crypto Autumn Bonanza! Spela nu!<br />
+En näringsidkare tror att det finns en stark möjlighet att denna uppåtgående trend kommer att stoppa på kort sikt och följas av en nedgång mot 20 000 USD.</p></blockquote>
+<p>Han pekar på några tecken på utmattning för att motivera denna uppfattning.</p>
+<p>BITCOIN-STRIDAR FÖR ATT FÅ ETT FOTHÅLL ÖVER 29 000 USD SOM SÄLJARE Kämpar TILLBAKA<br />
+Bitcoin såg en vild rally igår eftermiddag som gjorde det möjligt för priset att raketera över 29 000 dollar och sätta upp nya heltidshöjder igen.</p>
+<p>Försäljningstrycket här var betydande och bromsade uppgången kraftigt. Sedan dess har det drivit lägre.</p>
+<p>Var kryptotrenderna nästa kommer sannolikt att bero på om tjurar kan hålla sitt pris över $ 28 000 under de kommande dagarna och vända den här tidigare motståndszonen till stöd.</p>
+<h2>HANDLINGSKRAV FLYTTER TILL 20 000 USD ÄR ÖVERVAKNING</h2>
+<p>En näringsidkare förklarade i en nyligen tweet att han tror att en nedgång mot $ 20 000 är nära förestående på kort sikt.</p>
+<p>Han konstaterar att Bitcoins sammankomster har blivit svagare och kortare när det närmar sig $ 30 000, vilket är ett tecken på utmattning bland tjurar.</p>
+<blockquote><p>”Tid och avstånd för varje $ BTC-rörelse blir mindre. Mindre konsolidering och mindre rörelse uppåt. Marknader kan vara som en pendel och det kommer att svänga åt andra hållet. Teorin förblir oförändrad. Vi kommer att se låga 20-tal, sade han.</p></blockquote>
+<p>Bitcoin</p>
+<p>Bild med tillstånd av Pentoshi. Källa: BTCUSD på TradingView.<br />
+De närmaste dagarna borde ge några allvarliga insikter om var hela marknaden kommer att utvecklas på medellång sikt.</p>
+<p>En fortsättning av denna pågående nedåtgående trend kan markera Bitcoins 24-timmarshöjder som en lokal topp och vara ett tecken på att nackdelen är nära förestående på kort sikt.</p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Veröffentlicht am </span><a href="https://resthub.org/146-2/" rel="bookmark"><time class="entry-date published" datetime="2021-01-01T13:17:56+00:00">1. Januar 2021</time><time class="updated" datetime="2021-01-01T13:19:17+00:00">1. Januar 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Kategorien </span><a href="https://resthub.org/category/preis/" rel="category tag">Preis</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Beitrags-Navigation</h2>
+		<div class="nav-links"><span class='page-numbers current'><span class="meta-nav screen-reader-text">Seite </span>1</span>
+<a class='page-numbers' href='https://resthub.org/author/admin/page/2/'><span class="meta-nav screen-reader-text">Seite </span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://resthub.org/author/admin/page/5/'><span class="meta-nav screen-reader-text">Seite </span>5</a>
+<a class="next page-numbers" href="https://resthub.org/author/admin/page/2/">Nächste Seite</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</section><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/">Stolz präsentiert von WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<script type='text/javascript' src='https://resthub.org/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">Untermen\u00fc anzeigen<\/span>","collapse":"<span class=\"screen-reader-text\">Untermen\u00fc verbergen<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://resthub.org/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='https://resthub.org/wp-includes/js/wp-embed.min.js?ver=4.7.23'></script>
+
+</body>
+</html>
