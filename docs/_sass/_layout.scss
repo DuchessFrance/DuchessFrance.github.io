@@ -13,6 +13,10 @@ $brand-font-secondary: "Courbd";
   src: url("/assets/fonts/ReneBiederGalanoGrotesque-SemiBold.otf");
   font-weight: bold;
 }
+@font-face {
+  font-family: $brand-font-secondary;
+  src: url("/assets/fonts/courbd.ttf");
+}
 
 // Define defaults for each variable.
 
