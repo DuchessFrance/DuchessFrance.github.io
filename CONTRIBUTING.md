@@ -1,6 +1,6 @@
 # Contribuer au blog Duchess
 
-## Trying the blog
+## Contribuer au blog sans rien installer (gitpod)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DuchessFrance/DuchessFrance.github.io.git)
 
