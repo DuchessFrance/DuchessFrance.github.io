@@ -2,7 +2,7 @@
 
 ## Trying the blog
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DuchessFrance/DuchessFrance.github.io/tree/gitpod-integration)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DuchessFrance/DuchessFrance.github.io.git)
 
 Open in GitPod and then, on the terminal, follow the link by doing `ctrl + click` on `http://localhost:4000`
 
