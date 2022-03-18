@@ -4,7 +4,7 @@
 
 [![Ouvrir dans Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DuchessFrance/DuchessFrance.github.io.git)
 
-Ouvrir GitPod, dans le terminal, suivre le lien avec un `ctrl + click` sur `http://localhost:4000`
+Ouvrir GitPod, dans le terminal, suivre le lien avec un `ctrl + click` (ou `command + click`) sur `http://localhost:4000`
 
 ## Ecrire un post dans le blog
 
