@@ -1,0 +1,10 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+  - port: 4000
+    onOpen: open-browser
+    
+tasks:
+  - init: cd docs; bundle update && bundle install
+    command: jekyll serve
