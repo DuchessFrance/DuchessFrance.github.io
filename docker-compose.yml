@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  web:
+    image: jekyll/jekyll
+    container_name: duchess_web
+    environment:
+      - JEKYLL_ENV=development
+    command: jekyll serve --livereload
+    ports:
+      - 4000:4000
+      - 35729:35729
+    volumes:
+      - "$PWD/docs:/srv/jekyll"
+      - "$PWD/docs/vendor/bundle:/usr/local/bundle"
