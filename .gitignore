@@ -1,0 +1,41 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.bundle
+
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IDEA
+.idea
+*.ipr
+*.iml
+*.iws
+
+# IDEA lsp plugin
+lsp/
+
+# NetBeans
+nb-configuration.xml
+
+# KDE
+.directory
+
+# OSX
+.DS_Store
+
+# VS CODE
+.vscode
+*.code-workspace
+.factorypath
+
+# Vi/Vim
+*.swp
+
+
