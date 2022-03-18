@@ -31,7 +31,7 @@ github_username: duchessFrance
 show_excerpts: true
 
 #Nombre de posts par page
-paginate: 2
+paginate: 10
 
 # Basé sur minima, cf https://github.com/jekyll/minima
 theme: minima
@@ -48,10 +48,9 @@ header_pages:
   - core-team.md
   - sponsors.md
   - contact.md
-  
+
 minima:
   date_format: "%d/%m/%Y"
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
