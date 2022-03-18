@@ -1,8 +1,8 @@
 # Contribuer au blog Duchess
 
-## Contribuer au blog sans rien installer (gitpod)
+## Contribuer au blog sans rien installer (GitPod)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DuchessFrance/DuchessFrance.github.io.git)
+[![Ouvrir dans Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DuchessFrance/DuchessFrance.github.io.git)
 
 Ouvrir GitPod, dans le terminal, suivre le lien avec un `ctrl + click` sur `http://localhost:4000`
 
