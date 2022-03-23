@@ -131,4 +131,4 @@ Il y a un Jira qui répertorie les features et les bugs à traiter sur le projet
 
 Le cadre était intentionnellement simple et flexible. Nous avons commencé par une réunion de lancement en ligne pour décrire un peu le contexte et plus précisément l’univers de Jenkins dont [voici l’enregistrement](https://youtu.be/Cwlv2J9U-qs):
 
-{% include youtube/2021-11-09-duchess-hacktoberfest-2021.html id="" %}
+{% include youtube.html src="https://www.youtube.com/embed/Cwlv2J9U-qs" %}
