@@ -60,7 +60,7 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "_authors"
       type: authors
     values:
       layout: author

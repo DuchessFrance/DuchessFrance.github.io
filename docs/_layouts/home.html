@@ -20,7 +20,7 @@ layout: default
         {% for author in site.authors %}
           {% if post.author contains author.username or author.username == post.author %}
             {% capture data %}
-             <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
+             <a href="/author/{{ author.username }}">{{ author.name }}</a>
             {% endcapture %}
             {% assign authordata = authordata | push: data %}
           {% endif %}
