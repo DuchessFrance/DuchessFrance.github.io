@@ -4,7 +4,7 @@ title: Elles font Duchess
 permalink: /core-team/
 ---
 
-## La team
+## La Core Team
 La team Duchess France compte 13 membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
 
 Petite présentation de celles qui font vivre Duchess France !
