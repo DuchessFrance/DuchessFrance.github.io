@@ -6,4 +6,4 @@ Le blog Duchess est un site
 
 Si vous souhaitez contribuer au developpement du site:
 - [Contribuer](CONTRIBUTING.md)
-- [Le site en preview][https://duchessfrance.github.io/]
+- [Le site en preview](https://duchessfrance.github.io/)
