@@ -1,0 +1,5 @@
+{% for post in site.categories[include.category] %}
+<li>
+  <a href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+</li>
+{% endfor %}
