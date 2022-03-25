@@ -18,14 +18,16 @@ Pour y remédier, nous avons lancé plusieurs actions ces dernières années :
 
 Ci-dessous, une liste des femmes speakers, qui pour certaines se sont lancées via la communauté Duchess France.
 
-**Cette liste ne demande qu'à être mise à jour...Alors n'hésitez pas à nous contacter ou laisser un commentaire pour que nous vous rajoutions !**
+**Cette liste ne demande qu'à être mise à jour...Alors n'hésitez pas à nous contacter pour que nous vous rajoutions !**
 
 Quelques femmes speakers :
 
+- [Magali Milbergue(DaisyMoon)](http://twitter.com/MagaliMilbergue) : retour d'expérience, reconversion, culture de l'industrie, féminisme, inclusivité/diversité.
+- [Jessica Martel](http://twitter.com/jess_m_martel) : UX, gestion de projets collaboratifs, ateliers créatifs et surtout la collaboration entre les équipes tech et fonctionnelles.
+- [Marine Gandy](http://twitter.com/mupsigraphy) : PHP / Drupal / et je ne sais pas trop définir un thème général pour des confs sur le syndrome de l'imposteur ou le manque de femmes dev, monde du travail
 - [Agnès Crepet](http://twitter.com/agnes_crepet) : Tests, Java, Agilité
 - [Aline Figoureux](http://twitter.com/afigoureux) : Java, J2EE, RIA, webmethods
 - [Amira Lakhal](http://twitter.com/MiraLak) : Big Data , Cassandra, NoSQL, scalability, Java, software crafsmanship
-- [Angélique Henry](http://www.mix-it.fr/profile/Angelique) : les outils JDK (jstat, jstack et jmap)
 - [Aurélie Vaché](https://twitter.com/aurelievache) : Google BigQuery, Big Data, Java
 - [Cécilia Bossard](https://twitter.com/CeciliaBossard) : agilité et software crafsmanship, diversité, GreenIT et éco-conception
 - [Corinne Krych](https://twitter.com/corinnekrych) : IOS, Swift, Apache Cordova
@@ -45,4 +47,8 @@ Quelques femmes speakers :
 - [Zhe LI](http://cfp.devoxx.fr/2015/speaker/zhe_li) : WebGL, Three.js
 - [Alice Barralon](http://twitter.com/@a_barralon) : Agilité, Scrum, Kanban, LeanStartup
 
-Les sites référençant des femmes speakers à l'étranger : [http://www.devchix.com/devchix-speakers/](http://www.devchix.com/devchix-speakers/) [http://www.girldevelopit.com/](http://www.girldevelopit.com/) [http://highvisibilityproject.org/](http://highvisibilityproject.org/) [http://articulate-network.lanyrd.com/speakers/technology/](http://articulate-network.lanyrd.com/speakers/technology/ "Women Speakers")
+Les sites référençant des femmes speakers à l'étranger : 
+- [http://www.devchix.com/devchix-speakers/](http://www.devchix.com/devchix-speakers/)
+- [http://www.girldevelopit.com/](http://www.girldevelopit.com/)
+- [http://highvisibilityproject.org/](http://highvisibilityproject.org/)
+- [http://articulate-network.lanyrd.com/speakers/technology/](http://articulate-network.lanyrd.com/speakers/technology/ "Women Speakers")

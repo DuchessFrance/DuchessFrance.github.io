@@ -31,9 +31,8 @@ C’est une forme de coaching/mentoring très concrète dont le but est :
 ## Comment ça marche ?
 
 Pour permettre à notre communauté d'échanger, nous avons créé un espace communautaire sur slack : Duchess France; que vous pouvez rejoindre, indépendamment de votre volonté d'être marraine/filleule.  
-Pour rejoindre ce Slack, inscrivez-vous ici : [](https://join.slack.com/t/duchess-france/shared_invite/zt-o1xcfgle-HFB76vYB9iwRfxRLfq2zIg)[https://join.slack.com/t/duchess-france/shared_invite/zt-o1xcfgle-HFB76vYB9iwRfxRLfq2zIg](https://join.slack.com/t/duchess-france/shared_invite/zt-o1xcfgle-HFB76vYB9iwRfxRLfq2zIg)
+Pour rejoindre ce Slack, envoyez nous un MAIL à duchessfr [at] gmail.com en précisant votre poste actuel (le Slack étant réservé aux femmes de l'IT).
 
-Une fois inscrite sur le Slack, vous pourrez alors vous rendre sur le channel [#adoptaduchess](https://duchess-france.slack.com/app_redirect?channel=adoptaduchess)  
 Les filleules y expriment leur demande de marraines. Les marraines intéressées contactent la filleule directement. Si une filleule est contactée par plusieurs marraines, elle pourra retenir celle qui l’inspire le plus.
 
 Le format est libre ensuite : la filleule et la marraine décident ensemble des modalités et de la fréquence de leurs échanges selon leurs besoins et disponibilités. Visioconférence, déjeuners, mails… RDV planifié ou sur demande de la filleule : à chaque couple de trouver son modèle.
