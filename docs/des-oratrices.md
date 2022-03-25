@@ -27,7 +27,7 @@ Quelques femmes speakers :
 - [Amira Lakhal](http://twitter.com/MiraLak) : Big Data , Cassandra, NoSQL, scalability, Java, software crafsmanship
 - [Angélique Henry](http://www.mix-it.fr/profile/Angelique) : les outils JDK (jstat, jstack et jmap)
 - [Aurélie Vaché](https://twitter.com/aurelievache) : Google BigQuery, Big Data, Java
-- [Cécilia Bossard](https://twitter.com/CeciliaBossard) : agilité (introduction, agile games), diversité (homme / femme), wearables electronics
+- [Cécilia Bossard](https://twitter.com/CeciliaBossard) : agilité et software crafsmanship, diversité, GreenIT et éco-conception
 - [Corinne Krych](https://twitter.com/corinnekrych) : IOS, Swift, Apache Cordova
 - [Ellène Siber Dijoux](http://uneviededev.com/) : Agilité, Fier d'être développeur
 - [Florence Herrou](http://blog.ippon.fr/author/Florence_HERROU/) : Expérience utilisateur
