@@ -31,6 +31,7 @@ git checkout -b mabranche
 Les répertoires interessants dans l'arborescence sont:
 ```
 - docs: base du site
+--_authors: répertoire contenant les bios des autrices
 --_post: répertoire contenant le texte des posts
 --assets: répertoire contenant les images
 ```
@@ -41,22 +42,44 @@ Les répertoires interessants dans l'arborescence sont:
 
 ```
 ---
-layout: post
+layout: "post"
 title:  "Féminiser son équipe de développement"
-date:   2021-05-12
-categories: feminisme
-author: Angélique Jard
+date:   "2021-05-12"
+categories: f
+    - "feminisme"
+author: 
+    - "angelique"
 ---
 ```
 - layout: ne peut être que "post"
 - title: Votre titre de post
 - date: la même que celle dans le nom de fichier
 - categories: (facultatif) vous pouvez en utiliser une existante ou en créer une nouvelle
-- author: votre nom et prénom
+- author: votre pseudo
 
-3. Rédigez votre contenu au format markdown. Il est conseillé pour faciliter la revue de passer à la ligne en fin de phrase (ça ne change pas le rendu et ça permet d'avoir des suggestions sur un texte plus court).
+3. Si vous écrivez un post pour la première fois, il faut aussi créer votre bio dans `/docs/_authors/`. 
 
-4. Si vous avez des images à ajouter, créer un répertoire du même nom que le fichier markdown dans `/docs/assets/`, vous pouvez ensuite les utiliser avec
+Le nom du fichier est `speudo.md`. 
+
+```---
+username: angelique
+name: Angélique Jard
+twitter: ahenryjard
+image: /assets/core-team/angie-e1617697051713.jpg
+---
+
+Bio au format markdown.
+```
+
+- username: identique au speudo
+- name: Prénom Nom
+- twitter: (facultatif) compte twitter (actuellement pas utilisé)
+- image: (facultatif) 
+- n'oubliez pas d'ajouter votre bio.
+
+5. Rédigez votre contenu au format markdown. Il est conseillé pour faciliter la revue de passer à la ligne en fin de phrase (ça ne change pas le rendu et ça permet d'avoir des suggestions sur un texte plus court).
+
+6. Si vous avez des images à ajouter, créer un répertoire du même nom que le fichier markdown dans `/docs/assets/`, vous pouvez ensuite les utiliser avec
 
 ```
 ![Texte descriptif](/assets/YYYY-MM-dd-titre-du-post/image.jpg)
