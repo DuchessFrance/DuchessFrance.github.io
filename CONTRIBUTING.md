@@ -57,7 +57,7 @@ author:
 - categories: (facultatif) vous pouvez en utiliser une existante ou en créer une nouvelle
 - author: votre pseudo
 
-3. Si vous écrivez un post pour la première fois, il faut aussi créer votre bio dans `/docs/_authors/`. 
+3. Si vous écrivez un post pour la première fois, il faut aussi créer votre biographie dans `/docs/_authors/`. 
 
 Le nom du fichier est `<pseudo>.md`, de préférence en utilisant prenom.nom, par exemple `estelle.landry.md`. 
 
