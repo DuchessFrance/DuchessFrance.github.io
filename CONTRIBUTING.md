@@ -59,7 +59,7 @@ author:
 
 3. Si vous écrivez un post pour la première fois, il faut aussi créer votre bio dans `/docs/_authors/`. 
 
-Le nom du fichier est `speudo.md`. 
+Le nom du fichier est `<pseudo>.md`, de préférence en utilisant prenom.nom, par exemple `estelle.landry.md`. 
 
 ```---
 username: angelique
