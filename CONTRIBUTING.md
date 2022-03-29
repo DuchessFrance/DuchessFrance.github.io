@@ -68,7 +68,7 @@ twitter: ahenryjard
 image: /assets/core-team/angie-e1617697051713.jpg
 ---
 
-Bio au format markdown.
+Biograhie au format markdown.
 ```
 
 - username: identique au speudo
