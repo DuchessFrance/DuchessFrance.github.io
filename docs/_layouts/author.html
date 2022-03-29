@@ -11,7 +11,17 @@ layout: default
 
     {% assign number_of_posts = 0 %}
     {% for post in site.posts %}
-        {% if post.author contains page.username or page.username == post.author %}
+        {% assign isAuthor=false %}
+        {% if post.author.first %}
+            {% if post.author contains page.username %}
+                {% assign isAuthor=true %}
+            {% endif %}
+        {% else %}
+            {% if page.username == post.author %}
+                {% assign isAuthor=true %}
+            {% endif %}
+        {% endif %}
+        {% if isAuthor %}
             {% assign number_of_posts = number_of_posts | plus: 1 %}
         {% endif %}
     {% endfor %}
@@ -22,7 +32,17 @@ layout: default
     {% endif %}
 
     {% for post in site.posts %}
-        {% if post.author contains page.username or page.username == post.author %}
+        {% assign isAuthor=false %}
+        {% if post.author.first %}
+            {% if post.author contains page.username %}
+                {% assign isAuthor=true %}
+            {% endif %}
+        {% else %}
+            {% if page.username == post.author %}
+              {% assign isAuthor=true %}
+            {% endif %}
+        {% endif %}
+        {% if isAuthor %}
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br/>
         {% endif %}
     {% endfor %}
