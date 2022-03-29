@@ -55,7 +55,7 @@ author:
 - title: Votre titre de post
 - date: la même que celle dans le nom de fichier
 - categories: (facultatif) vous pouvez en utiliser une existante ou en créer une nouvelle
-- author: votre pseudo
+- author: votre pseudo (le nom du fichier contenant votre biographie dans `/docs/_authors/` mais sans l'extension `.md`)
 
 3. Si vous écrivez un post pour la première fois, il faut aussi créer votre biographie dans `/docs/_authors/`. 
 
