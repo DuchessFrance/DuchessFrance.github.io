@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "Rejoignez nous à l&#8217;Avant Jug de Mai !"
+title: "Rejoignez nous à l’Avant Jug de Mai !"
 date: "2011-05-05"
 categories: 
   - "avant-jug"

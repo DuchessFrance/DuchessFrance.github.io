@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "Retour sur La Marmite &#8211; Soirée Crumble"
+title: "Retour sur La Marmite – Soirée Crumble"
 date: "2011-06-20"
 categories: 
   - "autour-de-la-marmite"

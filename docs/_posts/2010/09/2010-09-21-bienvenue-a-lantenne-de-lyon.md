@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "cfalguiere"
-title: "Bienvenue à l&#8217;antenne de Lyon"
+title: "Bienvenue à l’antenne de Lyon"
 date: "2010-09-21"
 categories: 
   - "duchess-agit"

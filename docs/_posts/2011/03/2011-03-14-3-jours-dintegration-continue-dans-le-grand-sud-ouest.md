@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Isabelle"
-title: "3 jours d&#8217;intégration continue dans le grand Sud-Ouest"
+title: "3 jours d’intégration continue dans le grand Sud-Ouest"
 date: "2011-03-14"
 categories: 
   - "les-conferences"

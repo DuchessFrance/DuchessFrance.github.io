@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Mathilde"
-title: "What&#8217;s next ?"
+title: "What’s next ?"
 date: "2011-05-13"
 categories: 
   - "les-conferences"

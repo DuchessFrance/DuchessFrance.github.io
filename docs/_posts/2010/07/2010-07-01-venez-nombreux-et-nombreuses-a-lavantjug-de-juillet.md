@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Venez nombreux et nombreuses à l&#8217;AvantJUG de Juillet !"
+title: "Venez nombreux et nombreuses à l’AvantJUG de Juillet !"
 date: "2010-07-01"
 categories: 
   - "avant-jug"

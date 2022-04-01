@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Katia"
-title: "Prochain Paris JUG : Soirée moteurs de règles &#8211; 9 Novembre"
+title: "Prochain Paris JUG : Soirée moteurs de règles – 9 Novembre"
 date: "2010-11-03"
 categories: 
   - "les-conferences"

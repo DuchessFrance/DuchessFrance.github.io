@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Les femmes et l&#8217;informatique : Rencontre avec Delphine et Clarista de WoMoz (Women &amp; Mozilla)"
+title: "Les femmes et l’informatique : Rencontre avec Delphine et Clarista de WoMoz (Women & Mozilla)"
 date: "2012-03-19"
 categories: 
   - "coup-de-coeur"

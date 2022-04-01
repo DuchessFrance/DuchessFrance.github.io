@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Soirée Messaging au Lyon JUG &#8211; Rencontre avec Jeff Mesnil sur HornetQ"
+title: "Soirée Messaging au Lyon JUG – Rencontre avec Jeff Mesnil sur HornetQ"
 date: "2011-01-13"
 categories: 
   - "les-conferences"

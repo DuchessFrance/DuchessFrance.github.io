@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "JUG Summer Camp &#8211; Maven 3 au coeur de la Forge Logicielle"
+title: "JUG Summer Camp – Maven 3 au coeur de la Forge Logicielle"
 date: "2010-09-15"
 categories: 
   - "les-conferences"

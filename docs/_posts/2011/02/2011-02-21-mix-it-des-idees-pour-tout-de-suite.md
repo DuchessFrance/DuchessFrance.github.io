@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Mix-it&#8230; Des idées pour tout de suite!"
+title: "Mix-it… Des idées pour tout de suite!"
 date: "2011-02-21"
 categories: 
   - "les-conferences"

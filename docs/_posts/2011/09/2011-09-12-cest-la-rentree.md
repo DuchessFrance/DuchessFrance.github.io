@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "cfalguiere"
-title: "C&#8217;est la rentrée !"
+title: "C’est la rentrée !"
 date: "2011-09-12"
 categories: 
   - "autour-de-la-marmite"

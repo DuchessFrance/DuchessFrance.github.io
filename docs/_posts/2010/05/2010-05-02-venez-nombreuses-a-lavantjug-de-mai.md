@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Venez nombreuses à l&#8217;AvantJUG de Mai !"
+title: "Venez nombreuses à l’AvantJUG de Mai !"
 date: "2010-05-02"
 categories: 
   - "duchess-agit"

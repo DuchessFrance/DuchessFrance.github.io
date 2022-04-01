@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Rejoignez-nous à l&#8217;AvantJUG de Novembre !"
+title: "Rejoignez-nous à l’AvantJUG de Novembre !"
 date: "2010-11-05"
 categories: 
   - "avant-jug"

@@ -430,7 +430,7 @@ To prevent automatic upgrades to new major versions that may contain breaking
 changes, it is recommended to add version = "..." constraints to the
 corresponding provider blocks in configuration, with the constraint strings
 suggested below.
-* provider.aws: version = "~&gt; 1.3"</pre></td></tr></tbody></table>
+* provider.aws: version = "~> 1.3"</pre></td></tr></tbody></table>
 
 ## 5/ Plan
 

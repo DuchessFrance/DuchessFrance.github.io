@@ -36,7 +36,7 @@ C’est cette association qui prend la plus grande place en ce moment. On n'a pa
 
 Les enfants sont étonnants aussi. Sous couvert de jeux, ils fournissent finalement beaucoup d’effort pour construire une animation, un jeu, un robot et acceptent sans rechigner d’apprendre comment utiliser les outils de programmation pour réaliser leur projet. On a souvent du mal à les décrocher de l’ordinateur à la fin de l’atelier.
 
-<blockquote class="twitter-tweet" lang="fr">Merci à <a href="https://twitter.com/fleurpellerin">@fleurpellerin</a> pour la visite surprise à <a href="https://twitter.com/search?q=%23Devoxx4Kids&amp;src=hash">#Devoxx4Kids</a> ! <a href="http://t.co/4wFOYOLVnj">pic.twitter.com/4wFOYOLVnj</a><div></div>— Devoxx4KidsFR (@Devoxx4KidsFR) <a href="https://twitter.com/Devoxx4KidsFR/statuses/452390865848512512">5 Avril 2014</a></blockquote> 
+<blockquote class="twitter-tweet" lang="fr">Merci à <a href="https://twitter.com/fleurpellerin">@fleurpellerin</a> pour la visite surprise à <a href="https://twitter.com/search?q=%23Devoxx4Kids&src=hash">#Devoxx4Kids</a> ! <a href="http://t.co/4wFOYOLVnj">pic.twitter.com/4wFOYOLVnj</a><div></div>— Devoxx4KidsFR (@Devoxx4KidsFR) <a href="https://twitter.com/Devoxx4KidsFR/statuses/452390865848512512">5 Avril 2014</a></blockquote> 
 
 **Blandine : Mais tu es aussi dans Devoxx France. Comment ça s’est passé ?**
 

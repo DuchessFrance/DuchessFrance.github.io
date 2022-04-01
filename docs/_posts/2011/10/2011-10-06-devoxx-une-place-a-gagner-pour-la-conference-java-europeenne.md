@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Mathilde"
-title: "Devoxx &#8211; Une place à gagner pour LA conférence Java européenne !"
+title: "Devoxx – Une place à gagner pour LA conférence Java européenne !"
 date: "2011-10-06"
 categories: 
   - "les-conferences"

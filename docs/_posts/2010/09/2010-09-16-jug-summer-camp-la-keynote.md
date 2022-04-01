@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Jug Summer Camp &#8211; La keynote"
+title: "Jug Summer Camp – La keynote"
 date: "2010-09-16"
 categories: 
   - "les-conferences"

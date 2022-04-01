@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "cfalguiere"
-title: "En attendant l&#8217;anniversaire des 2 ans"
+title: "En attendant l’anniversaire des 2 ans"
 date: "2011-04-18"
 categories: 
   - "duchess-agit"
@@ -45,7 +45,7 @@ Au programme **une nouvelle activité récurrente** que l’on a appelé La Marm
 
 Pour celles et ceux qui n’étaient pas là, la [présentation d’intro](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkdWNoZXNzZnJ8Z3g6M2Y5MzY1NGZmOWE1YWUwMw&pli=1) est en ligne. Les questions du jeu seront mises en ligne d’ici quelques jours.
 
-<table style="width: auto" border="0"><tbody><tr><td><a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxkdWNoZXNzZnJ8Z3g6M2Y5MzY1NGZmOWE1YWUwMw&amp;pli=1"><img src="/assets/2011/04/2011-04-18-en-attendant-lanniversaire-des-2-ans/anniversaire_Duchess.jpg" alt="" width="288" height="216"></a></td></tr></tbody></table>
+<table style="width: auto" border="0"><tbody><tr><td><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkdWNoZXNzZnJ8Z3g6M2Y5MzY1NGZmOWE1YWUwMw&pli=1"><img src="/assets/2011/04/2011-04-18-en-attendant-lanniversaire-des-2-ans/anniversaire_Duchess.jpg" alt="" width="288" height="216"></a></td></tr></tbody></table>
 
 Pas mal de **[tweets](http://twitter.com/#!/search/%23duchessfr)** sur la soirée . On vous en a sélectionné quelques uns :
 

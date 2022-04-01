@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "JugSummerCamp &#8211; eXo Social, an OpenSocial implementation"
+title: "JugSummerCamp – eXo Social, an OpenSocial implementation"
 date: "2010-09-20"
 categories: 
   - "les-conferences"

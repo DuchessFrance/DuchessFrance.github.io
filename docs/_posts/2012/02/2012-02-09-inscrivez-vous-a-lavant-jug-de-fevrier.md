@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Blandine"
-title: "Inscrivez-vous à l&#8217;avant Jug de Février"
+title: "Inscrivez-vous à l’avant Jug de Février"
 date: "2012-02-09"
 categories: 
   - "avant-jug"

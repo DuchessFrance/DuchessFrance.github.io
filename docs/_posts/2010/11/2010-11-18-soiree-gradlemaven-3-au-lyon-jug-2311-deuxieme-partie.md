@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Soirée Gradle/Maven 3 au Lyon Jug (23/11)&#8230; deuxième partie!"
+title: "Soirée Gradle/Maven 3 au Lyon Jug (23/11)… deuxième partie!"
 date: "2010-11-18"
 categories: 
   - "les-conferences"

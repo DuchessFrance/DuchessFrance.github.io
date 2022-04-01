@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Entrevue avec Sébastien Douche : vous reprendrez bien encore un peu de Git et d&#8217;Agilité?"
+title: "Entrevue avec Sébastien Douche : vous reprendrez bien encore un peu de Git et d’Agilité?"
 date: "2011-09-14"
 categories: 
   - "les-conferences"

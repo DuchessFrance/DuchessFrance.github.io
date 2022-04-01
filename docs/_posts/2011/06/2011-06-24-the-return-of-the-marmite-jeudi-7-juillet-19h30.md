@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Mathilde"
-title: "The return of the marmite &#8211; Jeudi 7 juillet 19h30"
+title: "The return of the marmite – Jeudi 7 juillet 19h30"
 date: "2011-06-24"
 categories: 
   - "autour-de-la-marmite"

@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "JUG Summer Camp &#8211; JSF 2 par la pratique"
+title: "JUG Summer Camp – JSF 2 par la pratique"
 date: "2010-09-20"
 categories: 
   - "les-conferences"
@@ -29,7 +29,7 @@ L’annotation @ManagedBean permet d’identifier la classe qui réalise le trai
 
 **La navigation**
 
-Aves JSF 2, il n’est plus nécessaire de définir et maintenir le verbeux faces-config.xml. Le ManagedBean peut maintenant retourner une valeur qui sera considérée comme étant le nom de la page sans l’extension. S’il ne trouve pas de fichier par défaut, il se conforme aux règles de navigation définies. Un autre souci auquel nous pouvons être confrontés avec JSF est la double validation de formulaire, le problème peut être résolu en passant par la méthode GET. Les URLs peuvent être bookmarkables grâce à trois composants : `&lt;h:link /&gt;`, `&lt;h:button /&gt;`, `&lt;h:viewParam/&gt;`.
+Aves JSF 2, il n’est plus nécessaire de définir et maintenir le verbeux faces-config.xml. Le ManagedBean peut maintenant retourner une valeur qui sera considérée comme étant le nom de la page sans l’extension. S’il ne trouve pas de fichier par défaut, il se conforme aux règles de navigation définies. Un autre souci auquel nous pouvons être confrontés avec JSF est la double validation de formulaire, le problème peut être résolu en passant par la méthode GET. Les URLs peuvent être bookmarkables grâce à trois composants : `<h:link />`, `<h:button />`, `<h:viewParam/>`.
 
 **Validation**
 
@@ -37,14 +37,14 @@ Grâce à Hibernate Validator, la définition des contraintes sur les champs ne 
 
 **Requête Ajax**
 
-La balise `&lt;f:ajax /&gt;` permet de définir une requête Ajax avec les attributs :
+La balise `<f:ajax />` permet de définir une requête Ajax avec les attributs :
 
 - **execute** qui a plusieurs valeurs possibles : @all, @none, @form, @this ;
 - **render** qui indique les composants à soumettre côté serveur.
 
 **Composant composite**
 
-Le composant composite permet de créer ses propres composants réutilisables. Pour son projet de blog, Damien a créé un composant Twitter. Pour ce faire, il définit des ressources statiques tel qu’un twitter.xhtml où le code du composant est défini avec sa CSS et ses images. On utilise ensuite les balises  `&lt;cc:interface /&gt;` et `&lt;cc:attribute /&gt;` pour définir les paramètres d’entrée à fournir au composite que l’on pourra utiliser lors de l’appel au composant. On peut ensuite associer du code métier à notre composant. Le principe est simple : créer une classe java respectant la même hiérarchie que le composant XHTML. Par exemple pour un composant mycomponents/Twitlistjava, on crée une classe mycomponents. Twitlistjava qui implémente l’interface NamingContainer.
+Le composant composite permet de créer ses propres composants réutilisables. Pour son projet de blog, Damien a créé un composant Twitter. Pour ce faire, il définit des ressources statiques tel qu’un twitter.xhtml où le code du composant est défini avec sa CSS et ses images. On utilise ensuite les balises  `<cc:interface />` et `<cc:attribute />` pour définir les paramètres d’entrée à fournir au composite que l’on pourra utiliser lors de l’appel au composant. On peut ensuite associer du code métier à notre composant. Le principe est simple : créer une classe java respectant la même hiérarchie que le composant XHTML. Par exemple pour un composant mycomponents/Twitlistjava, on crée une classe mycomponents. Twitlistjava qui implémente l’interface NamingContainer.
 
 **Outils**
 
