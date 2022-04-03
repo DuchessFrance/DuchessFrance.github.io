@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Hands-On : Streaming Data le 2 Novembre"
 date: "2017-10-31"
 categories: 

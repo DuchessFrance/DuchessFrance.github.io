@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Portrait : Claude Falguière"
 date: "2010-08-28"
 categories: 

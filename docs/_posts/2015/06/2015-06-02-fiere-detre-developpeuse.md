@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Fière d'être développeuse !"
 date: "2015-06-02"
 categories: 

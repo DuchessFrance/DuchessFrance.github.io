@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "La roadmap"
 date: "2010-09-03"
 categories: 

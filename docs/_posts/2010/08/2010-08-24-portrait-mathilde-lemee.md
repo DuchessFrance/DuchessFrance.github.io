@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Portrait : Mathilde Lemée"
 date: "2010-08-24"
 categories: 

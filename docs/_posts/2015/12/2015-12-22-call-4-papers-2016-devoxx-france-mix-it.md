@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Call 4 Papers : 2016 c'est mon année, j'envoie ma proposition !"
 date: "2015-12-22"
 categories: 

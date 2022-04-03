@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "C'est décidé : je passe indep' à la rentrée !"
 date: "2017-06-21"
 categories: 

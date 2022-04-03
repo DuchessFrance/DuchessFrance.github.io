@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Portrait : Katia Aresti"
 date: "2010-09-04"
 categories: 

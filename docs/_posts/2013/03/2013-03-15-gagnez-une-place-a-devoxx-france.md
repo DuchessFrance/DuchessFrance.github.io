@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Gagnez une place à Devoxx France !"
 date: "2013-03-15"
 categories: 

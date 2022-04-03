@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "J'ai testé pour vous : être tech et influenceur"
 date: "2018-03-20"
 categories: 

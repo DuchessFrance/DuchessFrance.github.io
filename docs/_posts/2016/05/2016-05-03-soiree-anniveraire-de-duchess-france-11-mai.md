@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Soirée anniversaire de Duchess France le 11 Mai"
 date: "2016-05-03"
 categories: 

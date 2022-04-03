@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Portrait : Ellène Dijoux"
 date: "2010-08-26"
 categories: 

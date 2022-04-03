@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Duchess France fête ses 5 ans le 19 Mai !!!"
 date: "2015-04-29"
 categories: 

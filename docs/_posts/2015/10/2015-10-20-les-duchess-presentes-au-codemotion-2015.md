@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Les Duchess présentes à Codemotion Madrid 2015 !"
 date: "2015-10-20"
 categories: 

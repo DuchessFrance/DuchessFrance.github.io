@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author: 
-  - "Duchess France"
+  - "Duchess-France"
 title: "Portrait : Audrey Neveu"
 date: "2010-09-02"
 categories: 
