@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "cfalguiere"
-title: "Paris JUG de mai : Build, Share &amp; Deploy jusqu’au bout de la nuit (2)"
+title: "Paris JUG de mai : Build, Share & Deploy jusqu’au bout de la nuit (2)"
 date: "2010-05-14"
 categories: 
   - "les-conferences"

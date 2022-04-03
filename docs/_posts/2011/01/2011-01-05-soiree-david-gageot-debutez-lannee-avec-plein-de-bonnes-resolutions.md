@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Soirée David Gageot &#8211; Débutez l&#8217;année avec plein de bonnes résolutions"
+title: "Soirée David Gageot – Débutez l’année avec plein de bonnes résolutions"
 date: "2011-01-05"
 categories: 
   - "les-conferences"

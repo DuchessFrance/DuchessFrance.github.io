@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "L&#8217;anniversaire du Lyon JUG : présentation de RESThub"
+title: "L’anniversaire du Lyon JUG : présentation de RESThub"
 date: "2011-04-14"
 categories: 
   - "les-conferences"

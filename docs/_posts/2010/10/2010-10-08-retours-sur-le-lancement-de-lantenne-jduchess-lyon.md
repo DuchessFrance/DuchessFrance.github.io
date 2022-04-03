@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Retours sur le lancement de l&#8217;antenne JDuchess Lyon"
+title: "Retours sur le lancement de l’antenne JDuchess Lyon"
 date: "2010-10-08"
 categories: 
   - "duchess-agit"

@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Isabelle"
-title: "Code Retreat : Mode d&#8217;emploi (retour sur le Global Day of Code Retreat 2011)"
+title: "Code Retreat : Mode d’emploi (retour sur le Global Day of Code Retreat 2011)"
 date: "2012-01-13"
 categories: 
   - "les-conferences"

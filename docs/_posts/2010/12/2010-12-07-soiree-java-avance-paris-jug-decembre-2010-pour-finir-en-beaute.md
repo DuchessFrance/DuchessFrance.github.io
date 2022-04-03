@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Katia"
-title: "Soirée Java Avancé &#8211; Paris JUG Décembre 2010 pour finir en beauté"
+title: "Soirée Java Avancé – Paris JUG Décembre 2010 pour finir en beauté"
 date: "2010-12-07"
 categories: 
   - "les-conferences"

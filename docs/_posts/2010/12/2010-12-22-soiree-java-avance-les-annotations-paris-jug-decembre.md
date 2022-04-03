@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Blandine"
-title: "Soirée Java Avancé : Les annotations &#8211; Paris JUG Décembre"
+title: "Soirée Java Avancé : Les annotations – Paris JUG Décembre"
 date: "2010-12-22"
 categories: 
   - "les-conferences"
@@ -177,7 +177,7 @@ Les deux méthodes à implémenter sont `init()` qui permet d’initialiser le p
 
 La méthode `process()` est la méthode principale qui contient les traitements à exécuter par le processeur. Elle a deux paramètres :
 
-- `Set&lt;? extends TypeElement&gt; annotations` : Un ensemble des annotations qui seront traitées par le processeur,
+- `Set<? extends TypeElement> annotations` : Un ensemble des annotations qui seront traitées par le processeur,
 - `RoundEnvironment roundEnv` : Un objet qui encapsule l’étape courante des traitements.
 
 Cette méthode renvoie un booléen indiquant si le Set annotations a été « consommé » (traité) ou pas.

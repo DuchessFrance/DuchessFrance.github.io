@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Bienvenue dans le monde d&#8217;Amazon Web Services!"
+title: "Bienvenue dans le monde d’Amazon Web Services!"
 date: "2011-05-12"
 categories: 
   - "les-conferences"

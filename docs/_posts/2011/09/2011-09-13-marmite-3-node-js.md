@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Mathilde"
-title: "Marmite #3 &#8211; Node.js"
+title: "Marmite #3 – Node.js"
 date: "2011-09-13"
 categories: 
   - "les-mains-dans-le-code"

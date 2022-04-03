@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "Paris Jug Octobre (II) &#8211; Play!"
+title: "Paris Jug Octobre (II) – Play!"
 date: "2010-10-20"
 categories: 
   - "les-conferences"

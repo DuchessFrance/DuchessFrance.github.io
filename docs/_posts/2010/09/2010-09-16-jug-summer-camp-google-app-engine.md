@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "JUG Summer Camp &#8211; Google App Engine"
+title: "JUG Summer Camp – Google App Engine"
 date: "2010-09-16"
 categories: 
   - "les-conferences"

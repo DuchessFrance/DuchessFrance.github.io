@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Rejoignez nous à l&#8217;AvantJUG de Mars !"
+title: "Rejoignez nous à l’AvantJUG de Mars !"
 date: "2011-03-06"
 categories: 
   - "avant-jug"

@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Paris JUG Octobre (I) &#8211; Ruby On Rails et HTML 5"
+title: "Paris JUG Octobre (I) – Ruby On Rails et HTML 5"
 date: "2010-10-20"
 categories: 
   - "les-conferences"
@@ -74,9 +74,9 @@ C’est la fin de la présentation nous passons immédiatement à celle de Cédr
 [![HTML5Speaker](/assets/2010/10/2010-10-20-paris-jug-octobre-i-ruby-on-rails-et-html-5/5097655022_f30b3b330f.jpg)](http://www.flickr.com/photos/jduchess/5097655022/ "HTML5Speaker by jDuchess, on Flickr")  
 La partie HTML 5 a été présenté par Alain Duval et Cédric Beurtheret respectivement directeur technique et expert chez OBJECTIF. Annoncé depuis 1998, HTML 5 est issu d’une longue attente, et bien que relancée en 2004 par 2 organismes, la spécification n’est jusqu’à présent toujours pas finalisée.
 
-Aujourd’hui, de plus en plus de navigateurs supportent le HTML 5. Parmi les nouveautés que l’on peut découvrir, on peut constater l’apparition de nouvelles balises et la dépréciation d’autres comme `&lt;frame&gt;`, <`u&gt;` ou encore <`font&gt;`. Le DOCTYPE et le CHARSET sont simplifiés.
+Aujourd’hui, de plus en plus de navigateurs supportent le HTML 5. Parmi les nouveautés que l’on peut découvrir, on peut constater l’apparition de nouvelles balises et la dépréciation d’autres comme `<frame>`, <`u>` ou encore <`font>`. Le DOCTYPE et le CHARSET sont simplifiés.
 
-Les formulaires ont été améliorés avec de nouveaux type de champs de saisie par exemple comme les balises <`slider`\>, <`tab`\>, <`email&gt;` ou encore `&lt;search&gt;`. De nouveaux attributs font également leur apparition : autocomplete et autofocus par exemple pour mettre le focus sur un champ particulier lors du chargement de la page. La validation des champs est maintenant possible et elle est réalisée en fonction du type défini par le champs input (email, url, …).
+Les formulaires ont été améliorés avec de nouveaux type de champs de saisie par exemple comme les balises <`slider`\>, <`tab`\>, <`email>` ou encore `<search>`. De nouveaux attributs font également leur apparition : autocomplete et autofocus par exemple pour mettre le focus sur un champ particulier lors du chargement de la page. La validation des champs est maintenant possible et elle est réalisée en fonction du type défini par le champs input (email, url, …).
 
 Un réel effort de compatibilité entre les navigateurs a été réalisé. En ce qui concerne le multimédia, de nouvelles balises apparaissent comme <canvas> et d’autres pour l’audio et la video. Des codecs audio et vidéo ont ainsi été standardisés et SVG est dorénavant supporté nativement.
 

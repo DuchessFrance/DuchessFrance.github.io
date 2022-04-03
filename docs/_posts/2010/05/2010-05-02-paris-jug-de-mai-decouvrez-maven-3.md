@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "Paris JUG de Mai &#8211; Découvrez Maven 3"
+title: "Paris JUG de Mai – Découvrez Maven 3"
 date: "2010-05-02"
 categories: 
   - "les-conferences"

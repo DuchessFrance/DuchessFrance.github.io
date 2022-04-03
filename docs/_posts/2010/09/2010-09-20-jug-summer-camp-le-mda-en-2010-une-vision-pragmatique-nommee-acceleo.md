@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "Jug Summer Camp &#8211; Le MDA en 2010 &#8211; Une vision pragmatique nommée Acceleo"
+title: "Jug Summer Camp – Le MDA en 2010 – Une vision pragmatique nommée Acceleo"
 date: "2010-09-20"
 categories: 
   - "les-conferences"

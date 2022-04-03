@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "L&#8217;anniversaire de Lyon JUG : à la découverte de Izpack avec Julien Ponge"
+title: "L’anniversaire de Lyon JUG : à la découverte de Izpack avec Julien Ponge"
 date: "2011-04-13"
 categories: 
   - "les-conferences"

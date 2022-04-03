@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "JUG Summer Camp &#8211; GWT, le web 2.0 à portée de main"
+title: "JUG Summer Camp – GWT, le web 2.0 à portée de main"
 date: "2010-09-15"
 categories: 
   - "les-conferences"

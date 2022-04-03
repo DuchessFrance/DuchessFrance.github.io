@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "edijoux"
-title: "AvantJUG d&#8217;Avril"
+title: "AvantJUG d’Avril"
 date: "2010-04-07"
 categories: 
   - "avant-jug"

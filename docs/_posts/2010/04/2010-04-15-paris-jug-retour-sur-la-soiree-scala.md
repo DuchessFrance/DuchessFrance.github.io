@@ -23,7 +23,7 @@ Antonio poursuit en remerciant les [sponsors du ParisJUG](http://parisjug.org/xw
 
 [![20100413_scala_IMG_0185_session1](/assets/2010/04/2010-04-15-paris-jug-retour-sur-la-soiree-scala/20100413_scala_IMG_0185_session1-300x225.jpg "20100413_scala_IMG_0185_session1")Sadek Drobi](http://sadekdrobi.com/), le premier speaker de la soirée, nous présente les concepts. Le but de sa présentation est de présenter les bases de la programmation fonctionnelle pas à pas. Moins formelle que les présentations habituelles, Sadek a pris le parti de présenter des exemples au fil de l’eau dans son IDE préféré.  Il commence par les types en présentant le typage des données dans Scala et notamment le principe du [Duck Typing](http://fr.wikipedia.org/wiki/Duck_typing).  Il explique comment marchent les fonctions qui sont finalement toutes simples : une fonction prend n’importe quoi et renvoie n’importe quoi.  N’importe quoi signifie un type (int, string …) ou une même une fonction.  Un exemple amusant est l’utilisation d’une fonction permettant d’itérer sur chaque élément d’une liste par exemple :  
 `def map[A,B](list:List[A], f:Function[A,B]):List[B] {  
-for (element &lt;- list) yield f(A) } def main(args:Array[String]) { println(map(List(1,2,3), (i:Int)=&gt;i+1))  
+for (element <- list) yield f(A) } def main(args:Array[String]) { println(map(List(1,2,3), (i:Int)=>i+1))  
 }`  
 La fonction `[map](http://www.scala-lang.org/docu/files/api/scala/Iterable.html#map%28%28A%29%3D%3EB%29)` prend une liste et une fonction en paramètre, et applique la fonction sur chaque élément de la liste. Bien pratique, pour réaliser des traitements sur les listes.
 
@@ -33,8 +33,8 @@ Sadek nous présente un exemple permettant d’éviter les problèmes de nullit�
 `abstract class Maybe[A] (a:A) {  
 def map[A,B](f:Function[A,B]) : Maybe[B] = {  
 this match {  
-case Nothing() =&gt; Nothing()  
-case Just(a) =&gt; Just( f(a) )  
+case Nothing() => Nothing()  
+case Just(a) => Just( f(a) )  
 }  
 }  
 }  

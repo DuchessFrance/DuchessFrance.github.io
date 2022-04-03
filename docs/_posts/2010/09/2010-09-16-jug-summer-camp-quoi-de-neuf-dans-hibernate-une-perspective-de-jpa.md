@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "JUG Summer Camp &#8211; Quoi de neuf dans Hibernate : une perspective de JPA"
+title: "JUG Summer Camp – Quoi de neuf dans Hibernate : une perspective de JPA"
 date: "2010-09-16"
 categories: 
   - "les-conferences"

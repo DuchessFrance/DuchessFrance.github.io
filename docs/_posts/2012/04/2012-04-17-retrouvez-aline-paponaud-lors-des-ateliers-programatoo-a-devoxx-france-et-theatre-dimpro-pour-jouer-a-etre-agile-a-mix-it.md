@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Blandine"
-title: "Retrouvez Aline Paponaud lors des ateliers Programatoo à Devoxx France et Théâtre d&#8217;Impro pour jouer à être Agile à Mix-IT"
+title: "Retrouvez Aline Paponaud lors des ateliers Programatoo à Devoxx France et Théâtre d’Impro pour jouer à être Agile à Mix-IT"
 date: "2012-04-17"
 categories: 
   - "les-conferences"

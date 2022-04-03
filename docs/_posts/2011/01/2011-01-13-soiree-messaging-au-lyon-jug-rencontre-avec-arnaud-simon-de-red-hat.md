@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "acrepet"
-title: "Soirée Messaging au Lyon JUG &#8211; Rencontre avec Arnaud Simon de Red Hat"
+title: "Soirée Messaging au Lyon JUG – Rencontre avec Arnaud Simon de Red Hat"
 date: "2011-01-13"
 categories: 
   - "les-conferences"

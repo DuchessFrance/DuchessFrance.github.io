@@ -125,7 +125,7 @@ via un fichier de propriétés `build.properties` qui spécifie entre autre les 
 `import sbt._  
 class Project(info: ProjectInfo) extends DefaultProject(info) {  
 <div style="padding: 0px 20px 0px 20px">val scalatools = "scala-tools" at "http://scala-tools.org/repo-snapshots"  
-val scalatest = "org.scalatest" % "scalatest" % "1.0.1-for-scala-2.8.0.Beta1-with-test-interfaces-0.3-SNAPSHOT" % "test-&gt;default"
+val scalatest = "org.scalatest" % "scalatest" % "1.0.1-for-scala-2.8.0.Beta1-with-test-interfaces-0.3-SNAPSHOT" % "test->default"
 
 `
 
@@ -190,13 +190,13 @@ Un trait très simple qui défini un repository générique et indique qu’il d
 Un exemple un peu plus compliqué, le DVCSManager générique. L’implémentation réelle devra  fourir les 4 opérations listées en def.  `def` et `val` introduisent des membres du trait. La différence est que `def` permet la redéfinition alors que `val` ne le permet pas.
 
 `trait DVCSManager {  
-<div style="padding: 0px 10px 0px 10px">type T &lt;: Repository  
+<div style="padding: 0px 10px 0px 10px">type T <: Repository  
 def getAllRepositories():List[T]  
 def save(repo:T):Unit  
 def get(reponame:String):T  
 def apply(reponame:String):T</div>``}`
 
-Humm, un premier exemple de syntaxe bizarre Scala. `type T &lt;: Repository` défini que le  `T` qui apparait dans les signatures des opérations qui suivent. `T` doit être une instance d’un type `T` dérivé de `Repository` mais son type réel sera défini plus tard. Cela ressemble vaguement à un générique pour le moment, mais il y a une différence subtile. Le type `T` ici est une classe bien particulière dont le choix est reporté et non pas quelque chose qui implémente `T` qui pourrait être différent d’une opération à l’autre.
+Humm, un premier exemple de syntaxe bizarre Scala. `type T <: Repository` défini que le  `T` qui apparait dans les signatures des opérations qui suivent. `T` doit être une instance d’un type `T` dérivé de `Repository` mais son type réel sera défini plus tard. Cela ressemble vaguement à un générique pour le moment, mais il y a une différence subtile. Le type `T` ici est une classe bien particulière dont le choix est reporté et non pas quelque chose qui implémente `T` qui pourrait être différent d’une opération à l’autre.
 
 Un _function object_ est un objet que l’on peut utiliser comme une fonction.  
 [Pour en savoir plus sur les function objects](http://creativekarma.com/ee.php/weblog/comments/scala_function_objects_from_a_java_perspective/)
@@ -206,15 +206,15 @@ La méthode `apply` a une signification un peu particulière. Elle donne à DVCS
 Le trait `HgManager` implémente le `DVCSManager` pour Mercurial.
 
 `trait HgManager extends DVCSManager {  
-<div style="padding: 0px 10px 0px 10px">self: LDAPEnv with ApacheEnv with HgEnv =&gt;  
+<div style="padding: 0px 10px 0px 10px">self: LDAPEnv with ApacheEnv with HgEnv =>  
 type T = HgRepository  
 val repos = scala.collection.mutable.Map[String, HgRepository]()  
 def getAllRepositories():List[HgRepository] = repos.valuesIterator.toList  
-def save(repo:HgRepository):Unit = { repos += (repo.reponame -&gt; repo) }  
+def save(repo:HgRepository):Unit = { repos += (repo.reponame -> repo) }  
 def get(reponame:String):HgRepository = repos(reponame)  
 def apply(reponame:String):HgRepository = new HgRepository(reponame, this)</div>``}`
 
-C’est ici que l’on va définir le type de `T` en écrivant `type T = HgRepositor`. La ligne `self: LDAPEnv with ApacheEnv with HgEnv =&gt;` pose comme pré-condition à la création de l’instance qu’il existe dans l’environnement de la classe des instances de `LDAPEnv`, `ApacheEnv`,`HgEnv`. On ne pourra pas créer d’instance utilisant ce trait si ça n’est pas le cas.
+C’est ici que l’on va définir le type de `T` en écrivant `type T = HgRepositor`. La ligne `self: LDAPEnv with ApacheEnv with HgEnv =>` pose comme pré-condition à la création de l’instance qu’il existe dans l’environnement de la classe des instances de `LDAPEnv`, `ApacheEnv`,`HgEnv`. On ne pourra pas créer d’instance utilisant ce trait si ça n’est pas le cas.
 
 Vous noterez le `this` dans `new HgRepository(reponame, this)`. C’est la dépendance dont Alexandre voudrait bien se débarrasser en utilisant l’injection de dépendances.  
 Le `self` permet une forme d’injection de dépendances avec en plus un contrôle plus fort sur le typage.
@@ -307,7 +307,7 @@ Le code qui illustre l’utilisation de Guice est dans `Guice.scala`
 Le code a été modifié pour s’intégrer à Guice et fini par ressembler beaucoup à un java.
 
 `class HgManager @Inject() () extends DVCSManager {  
-<div style="padding: 0px 10px 0px 10px">self: MixedEnv =&gt;  
+<div style="padding: 0px 10px 0px 10px">self: MixedEnv =>  
 ...  
 @Inject val hgRepoFactory:HgRepositoryFactory = null  
 def apply(reponame:String):HgRepository = hgRepoFactory.create(reponame)</div>``}`
@@ -319,7 +319,7 @@ Guice est parfois un peu perdu car une classe Scala peut générer beaucoup de c
 L’exemple utilisant le [structural typing](http://scala.sygneca.com/patterns/duck-typing-done-right) est dans `StructuralTyping.scala`
 
 `<div style="margin: 0px 10px 0px 10px;padding: 5px 10px 5px 10px;border:solid thin;border-color: grey">abstract class ToBeTested extends FunSuite {  
-<div style="padding: 0px 10px 0px 10px">self: { val DVCSManager:DVCSManager } =&gt;`
+<div style="padding: 0px 10px 0px 10px">self: { val DVCSManager:DVCSManager } =>`
 
 `test("") {  
 <div style="padding: 0px 10px 0px 10px">val repo = DVCSManager("test")  
@@ -329,7 +329,7 @@ assert(repo === persistedRepo)</div>
 }</div>  
 }  
 class Test extends ToBeTested with Env</div>`  
-Le structural typing est `{ val DVCSManager:DVCSManager } =&gt;`. C’est une sorte de duck typing.  
+Le structural typing est `{ val DVCSManager:DVCSManager } =>`. C’est une sorte de duck typing.  
 C’est un moyen d’éviter de créer un trait juste pour positionner cette valeur. Mais cette technique a pour inconvénient de reposer totalement sur la Reflection Java et pose des problèmes de performance.
 
 ## Conclusion

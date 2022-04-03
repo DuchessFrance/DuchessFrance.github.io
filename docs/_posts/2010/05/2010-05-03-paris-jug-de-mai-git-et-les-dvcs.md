@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Laure"
-title: "Paris JUG de mai &#8211; Git et les DVCS"
+title: "Paris JUG de mai – Git et les DVCS"
 date: "2010-05-03"
 categories: 
   - "les-conferences"

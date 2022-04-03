@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "cfalguiere"
-title: "Agile France 2010 &#8211; Jour #2"
+title: "Agile France 2010 – Jour #2"
 date: "2010-06-13"
 categories: 
   - "les-conferences"

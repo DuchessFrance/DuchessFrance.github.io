@@ -2,7 +2,7 @@
 layout: "post"
 author: 
   - "Audrey"
-title: "La Marmite #4 &#8211; Flex Inside"
+title: "La Marmite #4 – Flex Inside"
 date: "2011-10-19"
 categories: 
   - "les-mains-dans-le-code"
@@ -11,7 +11,7 @@ tags:
   - "la-marmite"
 ---
 
-| <table style="border-style: none"><tbody><tr><td><img class="alignleft" src="/assets/2011/10/2011-10-19-la-marmite-4-flex-inside/logo-marmite.png" alt="La marmite" width="150" height="150"></td><td>Comme Blandine vous l’a annoncé dans son article sur les <a title="évènements d'octobre" href="http://jduchess.org/duchess-france/blog/paris-jduchess-2011-10/">évènements d’octobre</a>, à partir de maintenant les sessions Hands-On et les Open Space Technologies n’auront plus lieu le même soir, ce qui vous permettra de participer aux deux <img src="http://jduchess.org/duchess-france/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley"> &nbsp;<p></p><p>Pour des questions d’organisation la soirée débat, initialement prévue le 25 octobre, sur les femmes dans le développement logiciel avec Guillaume Duquesnay est repoussée au mois de novembre. Mais comme prévu, nous vous proposons de nous rejoindre le 26 pour un hands-on Flex animé par <a title="Portrait Ellène" href="http://jduchess.org/duchess-france/blog/portrait-ellene-dijoux/">Ellène Dijoux</a> !</p></td></tr></tbody></table> |
+| <table style="border-style: none"><tbody><tr><td><img class="alignleft" src="/assets/2011/10/2011-10-19-la-marmite-4-flex-inside/logo-marmite.png" alt="La marmite" width="150" height="150"></td><td>Comme Blandine vous l’a annoncé dans son article sur les <a title="évènements d'octobre" href="http://jduchess.org/duchess-france/blog/paris-jduchess-2011-10/">évènements d’octobre</a>, à partir de maintenant les sessions Hands-On et les Open Space Technologies n’auront plus lieu le même soir, ce qui vous permettra de participer aux deux <img src="http://jduchess.org/duchess-france/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley">  <p></p><p>Pour des questions d’organisation la soirée débat, initialement prévue le 25 octobre, sur les femmes dans le développement logiciel avec Guillaume Duquesnay est repoussée au mois de novembre. Mais comme prévu, nous vous proposons de nous rejoindre le 26 pour un hands-on Flex animé par <a title="Portrait Ellène" href="http://jduchess.org/duchess-france/blog/portrait-ellene-dijoux/">Ellène Dijoux</a> !</p></td></tr></tbody></table> |
 
 ![Flex](/assets/2011/10/2011-10-19-la-marmite-4-flex-inside/Adobe_Flex_Logo.png)
 
