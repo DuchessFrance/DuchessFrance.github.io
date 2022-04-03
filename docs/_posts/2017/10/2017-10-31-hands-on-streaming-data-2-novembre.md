@@ -1,10 +1,10 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Hands-On : Streaming Data le 2 Novembre"
 date: "2017-10-31"
-categories:
+categories: 
   - "developper"
   - "duchess-agit"
   - "les-communautes"
@@ -54,7 +54,7 @@ Infinispan est un système de stockage distribué de données en mémoire, princ
 - S'intègre avec JPA, JCache, Spring et Spark entre autres
 - Peut être déployé en production sur Openshift, AWS, Azure et Google Cloud
 
-
+ 
 
 [![](/assets/2017/10/2017-10-31-hands-on-streaming-data-2-novembre/infinispan9_pixelsizes_600-300x73.gif)](http://infinispan.org/)
 
@@ -62,7 +62,7 @@ Infinispan est un système de stockage distribué de données en mémoire, princ
 
 Openshift est la plateforme d'orchestration des conteneurs qui est développée par RedHat. Elle est basée sur [Kubernetes](https://kubernetes.io/) et peut être utilisée dans son format "on-line" avec des serveurs dédiés et en l'installant la plateforme sur vos serveurs privés. Dans le workshop, on utilisera la plateforme en local, ce qui vous donnera un aperçu de son utilisation en production.
 
-
+ 
 
 [![](/assets/2017/10/2017-10-31-hands-on-streaming-data-2-novembre/openshift-300x77.png)](https://www.openshift.com/)
 

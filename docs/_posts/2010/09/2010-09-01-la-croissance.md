@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "La croissance"
 date: "2010-09-01"
-categories:
+categories: 
   - "les-portraits"
-tags:
+tags: 
   - "genese"
 ---
 

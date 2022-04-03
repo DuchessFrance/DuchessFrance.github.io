@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Portrait : Katia Aresti"
 date: "2010-09-04"
-categories:
+categories: 
   - "les-portraits"
-tags:
+tags: 
   - "genese"
 ---
 

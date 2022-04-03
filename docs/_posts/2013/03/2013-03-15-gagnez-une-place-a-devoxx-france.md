@@ -1,13 +1,13 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Gagnez une place à Devoxx France !"
 date: "2013-03-15"
-categories:
+categories: 
   - "duchess-agit"
   - "les-conferences"
-tags:
+tags: 
   - "devoxx-france"
 ---
 

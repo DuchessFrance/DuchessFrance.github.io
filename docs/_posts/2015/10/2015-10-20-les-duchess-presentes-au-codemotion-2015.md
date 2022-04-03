@@ -1,15 +1,15 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Les Duchess présentes à Codemotion Madrid 2015 !"
 date: "2015-10-20"
-categories:
+categories: 
   - "coup-de-coeur"
   - "developper"
   - "les-communautes"
   - "les-conferences"
-tags:
+tags: 
   - "codemotion"
   - "conferences"
   - "docker"
@@ -22,11 +22,11 @@ coverImage: "Codemotion.png"
 
 | Une grosse conférence Java arrive dans le nord de l'Europe au mois de Novembre: la bien connue [Devoxx 2015 - Anvers](http://www.devoxx.be/) ! Mais fin novembre, une autre arrive aussi dans le sud : [Le Codemotion 2015 à Madrid](http://2015.codemotion.es/) ! Et bien ... cette année nous y serons présentes ! |
 
-
+ 
 
 [![logo_black](/assets/2015/10/2015-10-20-les-duchess-presentes-au-codemotion-2015/logo_black.png)](http://2015.codemotion.es/)
 
-
+ 
 
 Codemotion est une conférence multi-technologique. Plus de 1.700 participants l'année dernière ont pu découvrir et approfondir sur le clean code et les frameworks Java, Scala, PHP, Python ou Ruby, en passant par le mobile, l'architecture et le cloud. Sans oublier des tracks moins techniques axés sur des retours d'expérience au sein des projets agiles et le lean management.
 
@@ -46,7 +46,7 @@ Suivez-là sur [@karesti](https://twitter.com/karesti)
 
 ## Samedi 28 Novembre
 
-
+ 
 
 ### [Testing Your Spring Boot Application With Selenium](http://2015.codemotion.es/agenda.html#5699289732874240/49524010) par [Mathilde Rigabert Lemée](https://www.linkedin.com/in/mathildelemee)
 
@@ -78,7 +78,7 @@ In this hands on, you will learn about some of the key features of docker and me
 
 Suivez-là sur [@juliamateodc](https://twitter.com/juliamateodc)[](https://mesosphere.github.io/marathon/docs/native-docker.html)
 
-
+ 
 
 Le samedi aura lieu un talk appelé [Help! I need more women!](http://2015.codemotion.es/agenda.html#5699289732874240/47474010) drivé par [Agile Girls](http://www.agile-girls.com/) et [Tech & Ladies](http://techandladies.com/) parmi autres. Nous avons senti cet appel avant même de voir le programme ! La bien connue ... intuition féminine ? Dans tous les cas, nous sommes ravies d'y assister et nous avons hâte de retrouver toutes les communautés espagnoles, en particulier celles qui font cet appel à l'aide !!
 

@@ -1,15 +1,15 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Call 4 Papers : 2016 c'est mon année, j'envoie ma proposition !"
 date: "2015-12-22"
-categories:
+categories: 
   - "coup-de-coeur"
   - "duchess-agit"
   - "les-conferences"
   - "speakeuses"
-tags:
+tags: 
   - "conferences"
   - "devoxx-france"
   - "mix-it"

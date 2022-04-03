@@ -19,7 +19,7 @@ layout: default
 
         {% assign authordata = '' | split:'' %}
         {% for author in site.authors %}
-        {% if author.username == post.author or post.author.first and post.author contains author.username %}
+          {% if author.username == post.author or post.author.first and post.author contains author.username %}
             {% capture data %}
              <a href="{{ author.url | relative_url }}">{{ author.name }}</a>
             {% endcapture %}

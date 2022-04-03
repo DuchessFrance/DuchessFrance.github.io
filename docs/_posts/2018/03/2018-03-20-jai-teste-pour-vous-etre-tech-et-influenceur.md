@@ -1,13 +1,13 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "J'ai testé pour vous : être tech et influenceur"
 date: "2018-03-20"
-categories:
+categories: 
   - "coup-de-coeur"
   - "jai-teste-pour-vous"
-tags:
+tags: 
   - "influencer"
   - "instagram"
 coverImage: "Influencer-1.jpg"
@@ -17,7 +17,7 @@ coverImage: "Influencer-1.jpg"
 
 Je suis une sérieuse data scientist le jour,  je fais du hacking et je suis experte en sécurité la nuit. J'ai des idées et je suis CTO, et aussi une étudiante en histoire de l'art reconvertie qui code en Ruby. Cela m'arrive de coder des applications mobiles, mais je peux aussi m'occuper de tout ce que l'on ne voit pas lorsque tout fonctionne en tant qu'Ops.  Je déploie des conteneurs Docker dans le Cloud pour le petit déjeuner, je fais mumuse avec du Terraform et je configure votre serveur d'intégration et de déploiement continue. Bref.
 
-
+ 
 
 > #### Et maintenant je suis aussi influenceur.
 
@@ -27,17 +27,17 @@ Cela faisait un moment que j'écrivais des articles de blog : [techniques](http:
 
 Mon objectif a toujours été d'inspirer et de connecter les femmes techniques. Celles qui paraissent invisibles ou limite innexistentes, et parfois se retrouvent seules parmi beaucoup d'hommes dans un open-space. Tout cela avec le soutien de mon allié Duke, car Duke m'aide à retrouver ces femmes qui se demandent "Ehh ohhhh, il y a quelqu'un ?".
 
+ 
 
-
-
+ 
 
 <iframe class="giphy-embed" src="https://giphy.com/embed/IBKg9SZ0xurG8" width="480" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 [via GIPHY](https://giphy.com/gifs/car-infomercial-guess-IBKg9SZ0xurG8)
 
+ 
 
-
-
+ 
 
 En plus de connecter les professionnelles, je veux aussi inspirer les nouvelles générations. Je veux que les filles d'aujourd'hui se disent que l'IT et le travail technique est un travail qui fait rêver ! Leur faire connaitre et choisir ce métier incroyable qui permet, sans avoir reçu de lettre de Poudlard comme Harry Potter, faire de la magie et créer tout un monde qui ne peut pas être touché et pourtant presque indispensable aujourd'hui.
 
@@ -45,19 +45,19 @@ Afin de toucher une large audience, je me suis mise aux réseaux sociaux tels qu
 
 #### **Les jeunes sont sur Instagram et Snapchat!**
 
-
+ 
 
 Elles sont là bas, sur des mises en scène, sur les photos. Elles nagent dans le monde des influenceurs et des clichés postés à l'aide des hashtags. Je n'ai pas hésité : j'ai créé un profile sur Instagram, j'ai commencé avec quelques clichés et je n'ai pas arrêté depuis. Je suis devenue Influenceur !
 
+ 
 
-
-
+ 
 
 [![](/assets/2018/03/2018-03-20-jai-teste-pour-vous-etre-tech-et-influenceur/instagram-1024x341.png)](https://www.instagram.com/duchessfr/)
 
+ 
 
-
-
+ 
 
 ### La technique
 
@@ -73,13 +73,13 @@ J'ai décidé de poster 1 cliché mettant en valeur des situations de femmes dan
 
 Étudiantes, juniors, seniors, front, back, ops, architectes, CTO... bref. Tout profil technique est le bienvenue ! Pour y parvenir, je ne peux pas le faire toute seule !!!
 
+ 
 
+\[caption id="attachment\_10223" align="aligncenter" width="500"\]![](/assets/2018/03/2018-03-20-jai-teste-pour-vous-etre-tech-et-influenceur/Influencer.jpg) Quelques photos déjà postées\[/caption\]
 
-\[caption id="attachment_10223" align="aligncenter" width="500"\]![](/assets/2018/03/2018-03-20-jai-teste-pour-vous-etre-tech-et-influenceur/Influencer.jpg) Quelques photos déjà postées\[/caption\]
+ 
 
-
-
-
+ 
 
 ### La pyramide d'influence
 
@@ -87,12 +87,12 @@ Comme dans les arnaques pyramidales, mais ici pour une bonne cause, je me dis qu
 
 C'est énormément de travail pour moi, c'est dur, mais je suis convaincue que cela vaut le coup d'essayer à fond !
 
-
+ 
 
 > #### Cela vous tente ?
->
+> 
 > #### [Contactez-moi](http://www.duchess-france.org/contact/)
->
+> 
 > #### [Suivez-moi](https://www.instagram.com/duchessfr/)
->
+> 
 > #### A vous de jouer ! C'est pour une bonne cause !

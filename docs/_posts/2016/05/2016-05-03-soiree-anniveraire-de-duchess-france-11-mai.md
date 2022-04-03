@@ -1,10 +1,10 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Soirée anniversaire de Duchess France le 11 Mai"
 date: "2016-05-03"
-categories:
+categories: 
   - "coup-de-coeur"
 coverImage: "anniv.png"
 ---
@@ -33,7 +33,7 @@ Voici le programme que nous avons organisé pour vous :
 
 Merci de vous inscrire sur notre page [Meetup](http://www.meetup.com/fr-FR/Duchess-France-Meetup/events/230834846/).
 
-
+ 
 
 **Nous remercions nos sponsors [ Criteo](http://labs.criteo.com/), [Valtech](https://www.valtech.fr/) et [Viseo](http://www.viseo.com/fr)** **et nous vous attendons Mercredi 11 Mai ! :-)**
 

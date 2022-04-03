@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Portrait : Laure Nemée"
 date: "2010-08-31"
-categories:
+categories: 
   - "les-portraits"
-tags:
+tags: 
   - "genese"
 ---
 

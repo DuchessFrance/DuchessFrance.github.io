@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author:
+author: 
   - "Duchess France"
 title: "Portrait : Claude Falguière"
 date: "2010-08-28"
-categories:
+categories: 
   - "les-portraits"
-tags:
+tags: 
   - "genese"
 ---
 
