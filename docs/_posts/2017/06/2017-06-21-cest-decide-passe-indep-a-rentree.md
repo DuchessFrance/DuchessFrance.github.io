@@ -1,14 +1,14 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "C'est décidé : je passe indep' à la rentrée !"
 date: "2017-06-21"
-categories: 
+categories:
   - "coup-de-coeur"
   - "duchess-agit"
   - "les-communautes"
-tags: 
+tags:
   - "freelance"
   - "hopwork"
 coverImage: "DuchessIndep.png"
@@ -16,7 +16,7 @@ coverImage: "DuchessIndep.png"
 
 | Depuis un petit moment, nous croisons lors des événements pas mal de personnes qui souhaitent se lancer en freelance mais qui ont beaucoup ( trop ) de doutes. A peine remises de la soirée avec [Jessie Frazelle](https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/240606070/) et le [Paris Container Day](http://paris-container-day.fr), nous organisons mardi 27 Juin, en partenariat avec [Hopwork](https://www.hopwork.fr), une soirée consacrée à ce statut synonyme de liberté pour beaucoup, mais qui peut aussi faire peur. |
 
- 
+
 
 > ### [Inscription ici](https://www.eventbrite.fr/e/billets-cest-decide-je-passe-indep-a-la-rentree-35240015836)
 
@@ -26,13 +26,13 @@ coverImage: "DuchessIndep.png"
 
 ### 19:00-19:10  Arrivée et accueil par Duchess France
 
- 
+
 
 ### 19:15-19:30  Le freelancing, par Jean-Baptiste Lemée
 
 [Jean-Baptiste](https://twitter.com/jblemee), CTO et co-fondateur de Hopwork et ancien freelance (pendant plusieurs années), nous parlera de ce que signifie être freelance, les avantages, les freins et plus encore !
 
- 
+
 
 ### 19:30-20:00 Toolbox : Quels choix pour ma structure juridique ? par Clémence Schulthess
 
@@ -40,7 +40,7 @@ coverImage: "DuchessIndep.png"
 
 Pendant 30 minutes, Clémence nous fera un tour détaillé sur les structures et les pièges à éviter. Cette partie obscure pour les personnes venant du monde des salariés sera enfin éclairée !
 
- 
+
 
 ### 20:00-20:50 Table ronde des freelances, animé par Katia Aresti
 
@@ -54,7 +54,7 @@ Pendant 45 minutes, [Katia](https://twitter.com/karesti) (salarié en SSII, puis
 
 [Eléonore Sabaté](http://www.eleonoresabate.com/), Directrice Artistique
 
- 
+
 
 ### 20:50 - Fermeture : Apéro et Networking
 

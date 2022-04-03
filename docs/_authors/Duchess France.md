@@ -1,5 +1,5 @@
 ---
-username: Duchess-France
+username: Duchess France
 name: Duchess France
 twitter: duchessfr
 image: /assets/DUCHESS_logo.png

@@ -1,13 +1,13 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "Fière d'être développeuse !"
 date: "2015-06-02"
-categories: 
+categories:
   - "coup-de-coeur"
   - "coup-de-gueule"
-tags: 
+tags:
   - "code"
   - "developpeuse"
   - "excellencia"
@@ -21,7 +21,7 @@ tags:
 
 **Seul 10% de femmes sont représentées dans les métiers techniques de l'informatique. Aussi l'association Duchess France oeuvre sur le terrain pour rendre ces femmes plus visibles et casser les préjugés.**
 
- 
+
 
 # Duchess France mise en lumière via Ludwine Probst, lauréate du Trophée excellencia 2014
 
@@ -31,7 +31,7 @@ _"Cette récompense a été un véritable tremplin pour nous :  le trophée nou
 
 _Avec l'aide du mécénat financier de l’entreprise_ [_Econocom_](https://www.econocom.com/fr)_, nous avons décidé de réaliser une vidéo pour mettre à l'honneur notre métier de développeur/se_" raconte Ludwine.
 
- 
+
 
 # Trois portraits de femmes qui ont une passion pour le code !
 
@@ -41,11 +41,11 @@ Lors de nos différentes participations à des forums et rencontres avec des col
 
 Il nous a donc semblé pertinent de mettre en avant trois femmes, d'horizon et d'âge différents, qui ont comme point commun une **passion pour le code**.
 
- 
+
 
 \[embed\]https://youtu.be/NErN6H4d7Fw\[/embed\]
 
- 
+
 
 **A partager sans modération!**
 

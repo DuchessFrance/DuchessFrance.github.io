@@ -1,13 +1,13 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "Rencontre à Devoxx"
 date: "2010-08-23"
-categories: 
+categories:
   - "les-communautes"
   - "les-portraits"
-tags: 
+tags:
   - "genese"
 ---
 
@@ -27,7 +27,7 @@ Après avoir parlé de JDuchess, elle leur a demandé : pourquoi ne pas créer q
 
 Mais après une longue conversation avec Antonio Goncalves du [Paris JUG](http://parisjug.org/xwiki/bin/view/Main/WebHome) et Christophe Jollivet du [ToursJUG](http://www.toursjug.org/xwiki/bin/view/Main/), ils sont arrivés à la conclusion que ce n’était pas le bon moment.
 
-Alors pourquoi Duchess France existe ? Ah Ah, ça vous intrigue … mais il faudra attendre un peu ![;-)](/assets/2010/08/2010-08-23-rencontre-a-devoxx/icon_wink.gif) 
+Alors pourquoi Duchess France existe ? Ah Ah, ça vous intrigue … mais il faudra attendre un peu ![;-)](/assets/2010/08/2010-08-23-rencontre-a-devoxx/icon_wink.gif)
 
 <table border="0" width="100%"><tbody><tr><td style="font-size: 110%; font-style: italic; text-align: left;"></td><td style="font-size: 110%; font-style: italic; text-align: right;"><a href="http://www.duchess-france.org/portrait-mathilde-lemee/">Suivant: 2 – Le portrait de Mathilde</a></td></tr></tbody></table>
 

@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "Portrait : Mathilde Lemée"
 date: "2010-08-24"
-categories: 
+categories:
   - "les-portraits"
-tags: 
+tags:
   - "genese"
 ---
 

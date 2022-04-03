@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "Le plongeon"
 date: "2010-08-27"
-categories: 
+categories:
   - "les-portraits"
-tags: 
+tags:
   - "genese"
 ---
 

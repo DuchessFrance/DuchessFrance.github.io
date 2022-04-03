@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "Portrait : Audrey Neveu"
 date: "2010-09-02"
-categories: 
+categories:
   - "les-portraits"
-tags: 
+tags:
   - "genese"
 ---
 

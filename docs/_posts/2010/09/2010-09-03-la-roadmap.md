@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "La roadmap"
 date: "2010-09-03"
-categories: 
+categories:
   - "les-portraits"
-tags: 
+tags:
   - "genese"
 ---
 

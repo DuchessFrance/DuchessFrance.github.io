@@ -1,7 +1,7 @@
 ---
 layout: "post"
 author:
-  - "Duchess-France"
+  - "Duchess France"
 title: "Au revoir Slack public, Bonjour non-mixité"
 date: "2022-04-02"
 categories:
@@ -10,7 +10,6 @@ categories:
 ---
 
 | ![Logo de Duchess](/assets/DUCHESS_logo.png){: width="150"} | C’est avec grand regret que nous avons décidé de fermer le Slack public Duchess France. Le constat est sans appel: les modératrices passaient plus de temps à s’occuper des hommes que des femmes sur une communauté dédiée aux femmes. Un comble 🙃 ! |
-
 
 ![Femme guerrière sur un fond de ville en flammes](/assets/2022/04/2022-04-03-aurevoir-slack-public/femme-gueriere.jpg)
 Crédit [Pixabay](https://pixabay.com/illustrations/fantasy-sci-fi-scifi-futuristic-2515940/)
@@ -36,4 +35,4 @@ L’association va continuer à organiser des évènements à audience mixte, me
 
 Voilà, vous savez tout. On va repartir sur les bases de l’association: faire des meetup, avoir des femmes speaker, avoir des femmes CTO, se soutenir, s’encourager et s’entraider. Parce que “Oui nous sommes développeuses et c’est une histoire vraie !”
 
-*Update: comme ce post a mis un peu de temps à sortir, nous avons pu voir les effets du Slack privé, et quelle renaissance ! Les discussions sont nombreuses, intéressantes et pleines de vie ! C’était visiblement la bonne décision.*
+_Update: comme ce post a mis un peu de temps à sortir, nous avons pu voir les effets du Slack privé, et quelle renaissance ! Les discussions sont nombreuses, intéressantes et pleines de vie ! C’était visiblement la bonne décision._

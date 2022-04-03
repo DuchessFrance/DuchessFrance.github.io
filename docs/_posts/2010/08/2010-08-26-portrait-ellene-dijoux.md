@@ -1,12 +1,12 @@
 ---
 layout: "post"
-author: 
-  - "Duchess-France"
+author:
+  - "Duchess France"
 title: "Portrait : Ellène Dijoux"
 date: "2010-08-26"
-categories: 
+categories:
   - "les-portraits"
-tags: 
+tags:
   - "genese"
 ---
 
