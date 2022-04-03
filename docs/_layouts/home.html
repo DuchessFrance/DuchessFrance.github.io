@@ -12,13 +12,14 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in paginator.posts -%}
+
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }} </span>
 
-        {% assign authordata = '' | split:'@' %}
+        {% assign authordata = '' | split:'' %}
         {% for author in site.authors %}
-          {% if post.author contains author.username or author.username == post.author %}
+          {% if author.username == post.author or post.author.first and post.author contains author.username %}
             {% capture data %}
              <a href="/author/{{ author.username }}">{{ author.name }}</a>
             {% endcapture %}

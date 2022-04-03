@@ -9,21 +9,21 @@ layout: default
 
     {{ content }}
 
-    {% assign number_of_posts = 0 %}
+    {% assign author_posts = "" | split: "" %}
     {% for post in site.posts %}
-        {% if post.author contains page.username or page.username == post.author %}
-            {% assign number_of_posts = number_of_posts | plus: 1 %}
-        {% endif %}
+      {% if page.username == post.author or post.author.first and post.author contains page.username %}
+        {% assign author_posts = author_posts | push: post %}
+      {% endif %}
     {% endfor %}
+
+    {% assign number_of_posts = author_posts.size %}
     {% if number_of_posts == 1 %}
-        <h2>1 article</h2>
+        <h2>{{number_of_posts}} article</h2>
     {% elsif number_of_posts > 1 %}
-        <h2>{{ number_of_posts }} articles</h2>
+        <h2>{{number_of_posts}} articles</h2>
     {% endif %}
 
-    {% for post in site.posts %}
-        {% if post.author contains page.username or page.username == post.author %}
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br/>
-        {% endif %}
+    {% for post in author_posts %}
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br/>
     {% endfor %}
 </div>
