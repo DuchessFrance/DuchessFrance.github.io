@@ -1,6 +1,6 @@
 // Charte duchess
-$brand-primary: #e6223d;
-$brand-secondary: #1d1d1b;
+$brand-color-primary: #e6223d;
+$brand-color-secondary: #1d1d1b;
 $brand-font-primary: "Rene Bieder";
 $brand-font-secondary: "Courbd";
 
@@ -34,7 +34,7 @@ $spacing-unit: 30px !default;
 
 $text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color: $brand-primary !default;
+$brand-color: $brand-color-primary !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;

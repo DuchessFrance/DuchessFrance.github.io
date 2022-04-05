@@ -1,3 +1,23 @@
 .pagination {
   text-align: center;
+
+  .previous {
+    margin-right: $spacing-unit / 3;
+  }
+}
+
+.search {
+  display: flex;
+  justify-content: space-between;
+}
+
+@include media-query($on-palm) {
+  .search {
+    display: block;
+    margin-bottom: $spacing-unit / 3;
+  }
+
+  .post-list-heading {
+    margin-bottom: 0;
+  }
 }

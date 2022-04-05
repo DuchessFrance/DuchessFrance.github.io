@@ -1,0 +1,14 @@
+---
+layout: none
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.categories | join: ', '}}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date | date: site.minima.date_format }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

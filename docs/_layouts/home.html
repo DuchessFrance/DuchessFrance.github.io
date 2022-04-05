@@ -5,14 +5,15 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
   {{ content }}
 
   {%- if paginator.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <section class="search">
+      <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+        {% include search_bar.html class="search-bar--above search-bar--align-right" %}
+    </section>
     <ul class="post-list">
       {%- for post in paginator.posts -%}
-
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }} </span>
@@ -48,11 +49,11 @@ layout: default
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
-      Posts précédents
+      <&nbsp;&nbsp;Posts précédents
     </a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Post Suivants</a>
+    <a href="{{ paginator.next_page_path }}" class="next">Posts Suivants&nbsp;&nbsp;></a>
   {% endif %}
 </div>
 
