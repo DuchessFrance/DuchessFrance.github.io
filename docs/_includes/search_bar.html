@@ -1,0 +1,26 @@
+<!-- Based on plugin https://github.com/christian-fei/Simple-Jekyll-Search -->
+<!-- This includes a search bar that will filter according to what you put in the search.json -->
+<!-- @param {string} class - you can add 2 class -->
+<!-- search-bar--above - the content of autocomplete will go above -->
+<!-- search-bar--align-right - the content of autocomplete will be display at the right -->
+<!-- HTML elements for search -->
+<div class="search-bar {{include.class}}">
+  <input
+    type="text"
+    id="search-input"
+    class="search-input"
+    placeholder="Rechercher dans le blog.."
+  />
+  <ul id="results-container" class="results-container"></ul>
+</div>
+
+<!-- or without installing anything -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("search-input"),
+    resultsContainer: document.getElementById("results-container"),
+    json: "/search.json",
+  });
+</script>
