@@ -69,6 +69,7 @@ Il reste ensuite à créer un job de type pipeline et indiquer le SCM dans leque
 
 Voici un Jenkinsfile basique en syntaxe « Declarative » :
 
+```
 pipeline { (1)
 agent any  (2)
 stages {
@@ -88,6 +89,7 @@ stages {
        }
      }
 }
+```
 
 **(1)** agent any: peut s’exécuter sur n’importe quel worker Jenkins, ici il n’y en a qu’un.
 
@@ -96,17 +98,19 @@ stages {
 **(3)** step : le détail des actions à effectuer, la plupart du temps des scripts shell dans mon cas
 
 Petit détail que je n’avais pas remarqué au début : il y a deux façons d’écrire les scripts shell, ligne par ligne :
-
+```
 sh ' echo "mon script shell sur une seule ligne" '
 sh ' echo "si j’ai une seconde ligne elle vient ici" '
 sh ' echo "quand j’en ai une troisième ça commence a faire beaucoup" '
+```
 
 ou alors par bloc entier, ce qui est nettement plus lisible quand on commence à écrire beaucoup de shell:
-
+```
 sh '''
 echo "ici j’écris directement"
 echo "les instructions les unes après les autres"
  '''
+```
 
 ## Etape 1 : les sources fraîches
 
@@ -116,6 +120,7 @@ J’ai un crédo : **sans notifications les automatisations sont inutiles**. Ell
 
 Comme la plateforme a pour objectif à la fois de valider la non régression de performance, mais aussi de permettre une recette interne à l’équipe, le pipeline utilise un channel dédié mattermost (une alternative opensource a slack) pour informer l’équipe des redémarrages en cours. Le script de notification est un simple curl qui poste le message en paramètre sur le mattermost de l’équipe.
 
+```
 #!/bin/bash
 # Post mattermost notification on ci channel
 # param: message to post
@@ -133,6 +138,7 @@ MATTERMOST\_HOOK=https://mattermost.tateam.com/hooks/xxxxxxxxxxxx
 FULL\_MESSAGE="\[${JOB\_NAME}\] ${MESSAGE}"
 
 curl -m ${TIMEOUT\_CURL} -s -i -k -XPOST --data 'payload={"username":"Jenkins","text":"'"${FULL\_MESSAGE}"'"}' ${MATTERMOST\_HOOK}
+```
 
 A noter que la variable JOB\_NAME est directement celle mise à disposition par Jenkins. Elle permet de savoir d’où viennent les notifications.
 
@@ -146,6 +152,7 @@ Il y a un docker-compose pour le développement en local, donc le plus simple es
 
 Les images docker sont construites en local de la VM via le **plugin docker-maven-plugin** :
 
+```
 stage ("Build"){
 
        steps {
@@ -158,9 +165,11 @@ stage ("Build"){
          '''
        }
      }
+```
 
 Un second objectif de la plateforme de déploiement continue est d’avoir la dernière version de l’application disponible pour le suivi de l’avancement par le chef de projet ou la réalisation d’une recette interne. Les services sont donc arrêtés le moins possible, juste avant le redémarrage pour prendre en compte la nouvelle version :
 
+```
  stage("Stop previous env"){
 
        steps{
@@ -179,9 +188,11 @@ Un second objectif de la plateforme de déploiement continue est d’avoir la de
          '''
         }
     }
+```
 
 A tiens, premier mur : **comment savoir si mes services sont prêt pour pouvoir lancer mes tests Gatling ?** Un sleep suffisamment long devrait faire l’affaire, mais bon ce n’est pas sûr non plus. Et puis ça peut être intéressant de savoir quel service exactement n’a pas pu se lancer en cas d’échec. Allez un petit script, y a que ça de vrai :
 
+```
 #!/bin/bash
 # Check if micro service in param is up
 # i.e. the HTTP result code is 200 for URL in param ()
@@ -221,6 +232,7 @@ steps{
      }
    }
  }
+```
 
 Avez-vous vu apparaître **le bloc «  retry  »** ? C’est très pratique, le script va essayer jusqu’à 10 fois de voir si tous les services sont disponibles. Donc au mieux si tout démarre en moins d’une minute l’étape est passée rapidement, sinon j’ai jusque 10 minutes de délai pour des lenteurs réseau, du vol de CPU par une VM voisine ou autres joies des environnements mutualisés.
 
@@ -228,6 +240,7 @@ Avez-vous vu apparaître **le bloc «  retry  »** ? C’est très pratique, l
 
 Enfin, tout est prêt pour pouvoir valider les performances de l’application.
 
+```
 stage("Gatling"){
 
      steps{
@@ -243,6 +256,7 @@ stage("Gatling"){
 
         }
    }
+```
 
 Les tests Gatling sont lancés avec maven, en version micro bench : avec peu d’utilisateurs (je rappelle que ce n’est pas une plateforme dédiée aux tests de performances). Le but étant de pouvoir constater si le développement d’une fonctionnalité apporte une soudaine lenteur.
 
@@ -260,6 +274,7 @@ Le plugin Gatling permet en plus de l’archivage des résultats classiques de G
 
 **Et non ! Et si tout ça plante en plein milieu, qu’est-ce qu’il se passe ?** Pas grand-chose pour l’instant. Et là en cherchant un peu j’ai trouvé qu’on pouvait déclarer des post actions après la liste de stages{} :
 
+```
 pipeline {
 
   stages{
@@ -278,6 +293,7 @@ pipeline {
      }
    }
 }
+```
 
 Maintenant l’équipe est prévenue si quelque chose se passe mal sur la plateforme de déploiement continu.
 
