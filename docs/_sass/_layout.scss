@@ -18,6 +18,11 @@ $brand-font-secondary: "Courbd";
   src: url("/assets/fonts/courbd.ttf");
 }
 
+// put nav menu on top of autocomplete on mobile
+.site-nav {
+  z-index: 1;
+}
+
 // Override minima theme
 // https://github.com/jekyll/minima/blob/2.5-stable/_sass/minima.scss
 // Define defaults for each variable.
