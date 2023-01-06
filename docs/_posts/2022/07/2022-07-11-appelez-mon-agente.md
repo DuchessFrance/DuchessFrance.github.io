@@ -5,6 +5,7 @@ author:
 title: "Appelez mon agent•e !"
 date: "2022-06-20"
 categories:
+  - "carriere"
 ---
 
 | ![Appelez mon agent•e !](assets/2022/07/2022-07-11-appelez-mon-agente/postit.jpg){: width="300"} | Appelez mon agent•e ! |

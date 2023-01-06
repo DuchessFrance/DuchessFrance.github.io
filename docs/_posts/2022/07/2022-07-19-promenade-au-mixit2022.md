@@ -5,6 +5,9 @@ author:
 title: "Promenade au MiXiT 2022 dans les souliers d’Angélique"
 date: "2022-07-19"
 categories:
+  - "les-conferences"
+  - "tech"
+  - "mixit"
 ---
 
 | ![Promenade au MiXiT 2022 dans les souliers d’Angélique](/assets/2022/07/2022-07-19-promenade-au-mixit2022/orga.jpg){: width="300"} | Ma première conférence en personne depuis l’arrivée du méchant Covid 😷 C’était génial, je me suis régalée ! |
