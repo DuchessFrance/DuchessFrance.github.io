@@ -17,7 +17,7 @@ Comment sera le monde demain ? Ludovic présente 3 scénarios pour l’avenir et
 
 Les multinationales dominent le monde. Nous sommes captifs, nous restons dans leur écosystème et nous utilisons leurs services du soir au matin.
 
-Vous connaissez déjà leur nom : Amazone, Google, Microsoft …
+Vous connaissez déjà leur nom : Amazon, Google, Microsoft …
 
 Cela est arrivé car elles ont collecté nos données et elles ont maintenant le même poids que les états.
 ### Digital cold war
