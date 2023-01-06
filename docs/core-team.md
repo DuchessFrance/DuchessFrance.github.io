@@ -30,7 +30,7 @@ Suivez-là sur [Twitter](https://twitter.com/MiraLak).
 # Angélique JARD (HENRY)
 ![Photo d'Angélique JARD HENRY](/assets/core-team/angie-e1617697051713.jpg){: width="150"}
 
-Angélique JARD (HENRY) est développeuse depuis 2006, actuellement [CloudBees](https://www.cloudbees.com/) en full remote international et contributrice Jenkins occasionnelle.
+Angélique JARD (HENRY) est développeuse depuis 2006, actuellement Senior software engineer chez [Talend](https://www.talend.com/) en full remote.
 Elle a à coeur de changer le monde octet par octet pour un monde meilleur, plus inclusif et accueillant.
 Le marrainage n’est pas sa tasse de thé, mais elle répond présente pour le soutien technique, technologique et moral sur le Slack Duchess avec grand plaisir.
 Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de pop/rock à ses heures libres restantes.
