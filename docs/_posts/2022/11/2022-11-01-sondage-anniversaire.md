@@ -26,7 +26,7 @@ On note pour la prochaine fois de proposer « chocolat chaud » et « les deu
 Bon y a quand même une bonne moitié de la communauté qui s’en fiche completement des tab et space 😘
 
 ![](/assets/2022/11/2022-11-01-sondage-anniversaire/6-combien-de-deve.png)
-Là ça devient intéressant… Il y a quand même un bon gros tier des dévelopeuses, qui sont la seule développeuse de l’équipe. Et très probablement en totale non mixité de genre au quotidien niveau dév donc (la définition du seuil pour la mixité de genre est au delà de 40%).
+Là ça devient intéressant… Il y a quand même un bon gros tiers des développeuses, qui sont la seule développeuse de l’équipe. Et très probablement en totale non mixité de genre au quotidien niveau dév donc (la définition du seuil pour la mixité de genre est au delà de 40%).
 
 ![](/assets/2022/11/2022-11-01-sondage-anniversaire/7-bureau-ou-remote.png)
 Le taux de 100% présentiel est vraiment très faible 3.8%), Est ce que manquer de flexibilité dans le télétravail serait un frein au recrutement des femmes ?
@@ -38,7 +38,7 @@ Si on prends le « Si je peux je change » (7.7%) + « je suis en train de ch
 Alors là c’est vraiment étonnant qu’on ai eu des réponses, et du coup c’est le melon qui gagne ! Bravo ! 🥳
 
 ![](/assets/2022/11/2022-11-01-sondage-anniversaire/10-parcours-it.png)
-Pas loin de la moitié des répondantes sont passées par une reconversion, se passer des profils atypiques qui n’ont pas fait la voie royale des études post-bac, serais-ce se passer de la moitié des profils féminins sur le marché de l’emploi ? A méditer avec un bon café, ou un thé, ou un chocolat enfin votre boissons préférée.
+Pas loin de la moitié des répondantes sont passées par une reconversion, se passer des profils atypiques qui n’ont pas fait la voie royale des études post-bac, serait-se se passer de la moitié des profils féminins sur le marché de l’emploi ? A méditer avec un bon café, ou un thé, ou un chocolat enfin votre boisson préférée.
 
 ![](/assets/2022/11/2022-11-01-sondage-anniversaire/11-lieu-habitation.png)
 
