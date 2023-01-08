@@ -14,6 +14,8 @@ categories:
 
 Les femmes sont fortement incitées à faire un choix entre l’ambition (business and successful woman) et l’altruisme (femme qui colle aux codes et fait correctement son travail, loin de l’argent). Ce choix injuste et superflu résulte des stéréotypes que nous allons parcourir à travers cet article. |
 
+[TOC]
+
 ## Ambition et altruisme
 
 Si vous êtes en couple hétérosexuel, vous avez dû remarquer que les comptes joints bancaires affichent par défaut :
