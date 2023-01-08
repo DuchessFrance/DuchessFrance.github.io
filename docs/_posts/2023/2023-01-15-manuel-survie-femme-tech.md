@@ -3,10 +3,11 @@ layout: "post"
 author:
   - "florence"
 title: "Manuel de survie de la femme dans la tech"
-date: "2022-01-25"
+date: "2023-01-15"
 categories:
   - "dossier"
   - "women in tech"
+  - "alliés"
 ---
 
 | ![Crédit photo : Sara Richter / sarahrichterart sur pixabay.com](/assets/2023/01/2023-01-15-manuel-survie-femme-tech/femme-seule-devant-montagne-sara-richter-art){: width="300"} | Je vois de plus en plus de femmes de femmes rejoindre l'informatique, et c'est une très bonne chose. Je vois aussi trop de femmes souffrir en silence, se remettre en question... et quitter le milieu au bout de quelques années. J'ai mis du temps à apprendre certaines choses. Je voudrais vous faire gagner ces dix ans, pour qu'on arrive à une parité réelle dans le secteur numérique. Je m'adresse également aux autres personnes qui souhaitent voir plus de femmes et non binaire dans leurs équipes.
