@@ -30,7 +30,7 @@ Sans mon identité clairement identifiée sur le RIB, une autre banque a refusé
 
 D’après vous, qui décide de la taille d’un champ dans un logiciel, sans penser au fait qu’il y a deux personnes dans un compte joint ? 
 
-La personne qui développe. Peut être le·la product owner, le·la chef de projet.
+La personne qui développe. Peut être le·la product owner, le·la chef·fe de projet.
 
 Ce qui est certain, c’est que les femmes sont souvent oubliées. 
 
