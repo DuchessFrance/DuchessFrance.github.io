@@ -32,7 +32,7 @@ Là ça devient intéressant… Il y a quand même un bon gros tiers des dévelo
 Le taux de 100% présentiel est vraiment très faible 3.8%), Est ce que manquer de flexibilité dans le télétravail serait un frein au recrutement des femmes ?
 
 ![](/assets/2022/11/2022-11-01-sondage-anniversaire/8-travail-satifaisant.png)
-Si on prends le « Si je peux je change » (7.7%) + « je suis en train de changer » on est pas loin d’un tier de la communauté qui est sur le départ, ça commence à faire quand même.
+Si on prends le « Si je peux je change » (7.7%) + « je suis en train de changer » on est pas loin d’un tiers de la communauté qui est sur le départ, ça commence à faire quand même.
 
 ![](/assets/2022/11/2022-11-01-sondage-anniversaire/9-melon-ou-pasteque.png)
 Alors là c’est vraiment étonnant qu’on ai eu des réponses, et du coup c’est le melon qui gagne ! Bravo ! 🥳
