@@ -10,7 +10,7 @@ categories:
   - "alliés"
 ---
 
-| ![Crédit photo : Sara Richter / sarahrichterart sur pixabay.com](/assets/2023/01/2023-01-15-manuel-survie-femme-tech/femme-seule-devant-montagne-sara-richter-art){: width="300"} | Je vois de plus en plus de femmes de femmes rejoindre l'informatique, et c'est une très bonne chose. Je vois aussi trop de femmes souffrir en silence, se remettre en question... et quitter le milieu au bout de quelques années. J'ai mis du temps à apprendre certaines choses. Je voudrais vous faire gagner ces dix ans, pour qu'on arrive à une parité réelle dans le secteur numérique. Je m'adresse également aux autres personnes qui souhaitent voir plus de femmes et non binaire dans leurs équipes.
+| ![Crédit photo : Sara Richter / sarahrichterart sur pixabay.com](/assets/2023/01/2023-01-15-manuel-survie-femme-tech/femme-seule-devant-montagne-sara-richter-art.jpg){: width="300"} | Je vois de plus en plus de femmes de femmes rejoindre l'informatique, et c'est une très bonne chose. Je vois aussi trop de femmes souffrir en silence, se remettre en question... et quitter le milieu au bout de quelques années. J'ai mis du temps à apprendre certaines choses. Je voudrais vous faire gagner ces dix ans, pour qu'on arrive à une parité réelle dans le secteur numérique. Je m'adresse également aux autres personnes qui souhaitent voir plus de femmes et non binaire dans leurs équipes.
 
 Les femmes sont fortement incitées à faire un choix entre l’ambition (business and successful woman) et l’altruisme (femme qui colle aux codes et fait correctement son travail, loin de l’argent). Ce choix injuste et superflu résulte des stéréotypes que nous allons parcourir à travers cet article. |
 
