@@ -16,12 +16,12 @@ jobs:
         with:
           build_only: true
           jekyll_build_options: --future --verbose
-          build_dir: _site
+          build_dir: ${{ github.workspace }}/_site/
 
       - name: verify stuff with bash for debug
         run: |
           pwd
-          ls -lart
+          ls -lart ${{ github.workspace }}/_site
       
       - name: Archive generate site
         uses: actions/upload-artifact@v3
