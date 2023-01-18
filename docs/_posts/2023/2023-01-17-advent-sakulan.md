@@ -29,7 +29,8 @@ J’ai 34 ans, une petite fille de 6 ans. A la base je voulais faire du front, j
 
 ### Qu’est ce qui t’a donné envie de participer cette année ?
 J’avais une semaine de vacances début décembre ce qui m’a permis de pouvoir le faire sans la fatigue du travail ou contrainte (ma fille était à l’école)
-Sans l'événement Duchess y aurais-tu participé ?
+
+### Sans l'événement Duchess y aurais-tu participé ?
 Non car j’en avais entendu parler via l’afup mais alors je n’avais pas du tout prévu de le faire. Je pense que le fait d’avoir un channel dédié sur le slack des duchess, les encouragements, savoir que je n’étais pas seule, a contribué à ce que je le fasse. 
 
 ### Comment s’est passé pour toi cet advent of code 2022 ?
