@@ -14,4 +14,4 @@ jobs:
       #see https://github.com/helaili/jekyll-action#build_only
       - uses:  helaili/jekyll-action@v2
         with:
-          build-only: true
+          build_only: true
