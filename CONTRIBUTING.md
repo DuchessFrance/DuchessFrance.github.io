@@ -117,8 +117,9 @@ Server address: http://0.0.0.0:4000/
 - Et lancer le site en utilisant les commandes suivantes :
 ```
 cd docs
-bundle exec jekyll serve
+bundle exec jekyll serve --future
 ```
+Le `--future` est utile pour voir les posts a une date ultérieure.
 
 ### Pour proposer un changement
 - Faire un fork du repo (via le bouton "fork" en haut à droite)
