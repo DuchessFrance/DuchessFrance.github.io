@@ -15,3 +15,15 @@ jobs:
       - uses:  helaili/jekyll-action@v2
         with:
           build_only: true
+          jekyll_build_options: --future --verbose
+
+      - name: verify stuff with bash for debug
+        run: |
+          pwd
+          ls -lart docs/_site
+      
+      - name: Archive generate site
+        uses: actions/upload-artifact@v3
+        with:
+          name: jekyll-generated-site
+          path: docs/_site
