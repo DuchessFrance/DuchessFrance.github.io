@@ -12,7 +12,7 @@ categories:
 | ![Leaderboard Duchess pour Advent of Code](/assets/2023/01/2023-01-17-advent-of-code/board.png){: width="300"} | Interview de Solène Garda-Krebs qui a participé à Advent Of Code 2022. |
 
 L’advent of code est un évènement qui revient tous les ans en décembre et qui permet de se challenger à résoudre des énigmes avec le code en attendant Noël.
-Cette année plusieurs membres de Duchess étaient motivée et la motivation de l’une entraînant la motivation l’autre on s’est retrouvée avec une super ambiance de codeuses avant Noël et un board dédié (en fin de post)!
+Cette année plusieurs membres de Duchess étaient motivée et la motivation de l’une entraînant la motivation de l’autre on s’est retrouvées avec une super ambiance de codeuses avant Noël et un board dédié (en fin de post)!
 
 Voici une interview dans la série des "Interview Advent Of Code 2022".
 
