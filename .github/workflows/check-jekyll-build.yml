@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: jekyll-generated-site
-          path: _site
+          path: ${{ github.workspace }}/_site/
