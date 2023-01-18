@@ -18,13 +18,11 @@ jobs:
           jekyll_build_options: --future --verbose
           build_dir: ${{ github.workspace }}/_site/
 
-      - name: verify stuff with bash for debug
-        run: |
-          pwd
-          ls -lart ${{ github.workspace }}/_site
-      
-      - name: Archive generate site
-        uses: actions/upload-artifact@v3
-        with:
-          name: jekyll-generated-site
-          path: ${{ github.workspace }}/_site/
+# A decommenter si on veut une archive du site sur les PRs.
+# Mais bon ca fait + de 400Mo et faut quand même un serveur pour vraiment voir le rendu.     
+#
+#      - name: Archive generate site
+#        uses: actions/upload-artifact@v3
+#        with:
+#          name: jekyll-generated-site
+#          path: ${{ github.workspace }}/_site/
