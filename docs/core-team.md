@@ -15,7 +15,7 @@ Petite présentation de celles qui font vivre Duchess France !
 Agnès CREPET est Head of Software Longevity & IT chez [Fairphone](https://www.fairphone.com/en/), entreprise néerlandaise qui propose un smartphone éthique conçu pour durer et construit de manière responsable.
 Elle a également co-fondé en France la société [Ninja Squad](https://ninja-squad.fr/) une équipe de développeurs passionnés et qui met un accent fort sur l’open source et qui fonctionne sur mode coopératif.
 Elle est  co-fondatrice de la conférence [MiXiT](https://mixitconf.org/en/) qui oeuvre pour plus de diversité et de prise de conscience éthique dans le monde de la Tech.
-Suivez-là sur [Twitter](https://twitter.com/agnes_crepet).
+Suivez-la sur [Twitter](https://twitter.com/agnes_crepet).
 
 # Amira LAKHAL
 ![Photo d'Amira LAKHAL](/assets/core-team/amira_lakhal.png){: width="150"}
@@ -25,7 +25,7 @@ Elle est passionnée par l’agilité et les langages fonctionnels.
 Elle s’intéresse aussi aux problématiques de Big Data et diverses solutions de stockage des données volumineuses.
 Elle a animé des conférences sur la base NoSql Cassandra.
 Elle aide aussi à la mise en avant des femmes dans l’IT.
-Suivez-là sur [Twitter](https://twitter.com/MiraLak).
+Suivez-la sur [Twitter](https://twitter.com/MiraLak).
 
 # Angélique JARD (HENRY)
 ![Photo d'Angélique JARD HENRY](/assets/core-team/angie-e1617697051713.jpg){: width="150"}
@@ -44,8 +44,8 @@ Aurélie VACHE est DevRel chez [OVHcloud](https://www.ovhcloud.com/fr/) à Toulo
 Elle est GDE (Google Developer Expert) Cloud, Docker captain & CNCF Ambassador.
 Dans le Développement et l'Ops depuis plus de 15 ans.
 Elle est organisatrice de conférences et de meetups (Toulouse Data Science, [Le Camping des Speakers](https://camping-speakers.fr/)).
-Elle est également speakeuse, sketchnoteuse, rédactrice d’articles & relectrice de livres techniques
-Suivez-là sur [Twitter](https://twitter.com/aurelievache).
+Elle est également speakeuse, sketchnoteuse, rédactrice d’articles & relectrice de livres techniques.
+Suivez-la sur [Twitter](https://twitter.com/aurelievache).
 
 # Ellène DIJOUX SIBER
 ![Photo d'Ellène DIJOUX](/assets/core-team/ellene_dijoux.png){: width="150"}
@@ -53,10 +53,10 @@ Suivez-là sur [Twitter](https://twitter.com/aurelievache).
 Ellène Dijoux Siber est lead dev chez Quicksign.
 Elle est une membre active de Duchess France et a fait partie de l’équipe d’organisation de la conférence [Agile France](https://conference-agile.fr/) en 2013.
 Passionnée par le dessin, elle tient également un [blog](https://uneviededev.wordpress.com/) où elle dessine le quotidien des développeurs.
-Suivez-là sur [Twitter](https://twitter.com/ElleneSiber).
+Suivez-la sur [Twitter](https://twitter.com/ElleneSiber).
 
 # Florence CHABANOIS
-![Photo de Florence CHABANOIS](/assets/core-team/fchabanois-corpo-xs.jpg){: width="150"}
+![Photo de Florence CHABANOIS](/assets/core-team/fchabanois.jpg){: width="150"}
 
 Florence Chabanois est Deputy CTO et Data Protection Officer chez Groupe La Centrale.
 Elle s’intéresse au management, à l’agilité et à la tech.
@@ -68,7 +68,7 @@ Suivez-la sur [Twitter](https://twitter.com/fchabanois) ou [LinkedIn](https://ww
 ![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}
 
 Joanna Lacante est intégratrice web et TV chez [norsys](https://www.norsys.fr/), 9 ans à Lille et depuis 2017 à Lyon.
-Au quotidien, elle est très attachée au bien être de l’équipe.
+Au quotidien, elle est très attachée au bien-être de l’équipe.
 Ceinture noire de judo, elle aime tout ce qui est en rapport avec les arts martiaux.
 Vous pouvez la croiser en tant que bénévole au [blendwebmix](https://www.blendwebmix.com/en/).
 Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
@@ -76,11 +76,11 @@ Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
 # Katia ARESTI
 ![Photo de Katia ARESTI](/assets/core-team/katia_aresti.png){: width="150"}
 
-Katia Aresti est développeur java/scala [open-source](https://github.com/karesti) dans l’équipe [Infinispan](https://infinispan.org/) chez RedHat.
+Katia Aresti est développeur Java/Scala [open-source](https://github.com/karesti) dans l’équipe [Infinispan](https://infinispan.org/) chez RedHat.
 Elle co-organise aussi le [MongoDB User Group](https://www.meetup.com/fr-FR/Paris-MongoDB-User-Group/) à Paris depuis 2012.
 Elle intervient sur les sujets autour de Java et MongoDB sous la forme de présentations formelles, open-spaces ou workshops.
 Elle est passionnée par l’open-source, la contribution communautaire et le théâtre.
-Suivez-là sur [Twitter](https://twitter.com/karesti).
+Suivez-la sur [Twitter](https://twitter.com/karesti).
 
 # Marine GANDY
 ![Photo de Marine GANDY](/assets/core-team/MarineGandy.png){: width="150"}
@@ -94,19 +94,19 @@ Suivez-la sur [Twitter](https://twitter.com/mupsigraphy) ou [LinkedIn](https://w
 # Mathilde LEMEE
 ![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}
 
-Mathilde Lemée est développeur java en freelance.
+Mathilde Lemée est développeur Java en freelance.
 Elle a crée le projet [FluentLenium](https://github.com/FluentLenium/FluentLenium), wrapper autour de Selenium et a fait plusieurs missions autour du bigdata (terracotta, bigmemory …).
 Elle a co-fondé les Duchess France pour connecter et rendre visible les femmes travaillant dans le monde Java.
 Elle a également lancé un studio de jeu mobile ludo-éducatif, [Aetys](http://www.aetys.fr/).
-Suivez-là sur [Twitter](https://twitter.com/MathildeLemee).
+Suivez-la sur [Twitter](https://twitter.com/MathildeLemee).
 
 # Pauline IOGNA
 ![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}
 
-Pauline Iogna est développeur java/scala.
+Pauline Iogna est développeur Java/Ccala.
 Elle est aussi enseignante vacataire à l’Université Paris-Est Marne-la-Vallée.
-Pendent son temps libre, elle participe régulièrement à des conférences ou à organiser des événements autour de la programmation.
-Suivez-là sur [Twitter](https://twitter.com/pauline_io).
+Pendent son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
+Suivez-la sur [Twitter](https://twitter.com/pauline_io).
 
 # Valériane VENANCE
 ![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}
@@ -123,7 +123,7 @@ Suivez-la sur [Twitter](https://twitter.com/valeriane_IT).
 Véronique Bonnefond, située à Lyon, est lead développeuse chez [Altair](https://www.altair.com/), elle gère la partie Front-end d’une application dont l’équipe est distribuée entre la France, les Etats unis et l’Inde.
 Elle se spécialise sur ReactJS.
 Elle est très attachée au travail soigné tant au niveau du code que du rendu visuel.
-Suivez-là sur son [Twitter](https://twitter.com/bonnefondvero).
+Suivez-la sur son [Twitter](https://twitter.com/bonnefondvero).
 
 # Zineb BENDHIBA
 ![Photo de Zineb BENDHIBA](/assets/core-team/zineb-1-300x300.jpg){: width="150"}
