@@ -3,7 +3,7 @@ layout: "post"
 author:
   - "angelique"
 title: "Advent Of Code 2022 - Interview de Sakulan"
-date: "2023-01-17"
+date: "2023-01-23"
 categories:
   - "code"
   - "event"
