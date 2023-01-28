@@ -3,7 +3,7 @@ layout: "post"
 author:
   - "angelique"
 title: "Advent Of Code 2022 - Interview de Gaëlle Fournier"
-date: "2023-01-20"
+date: "2023-01-28"
 categories:
   - "code"
   - "event"
