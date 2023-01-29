@@ -16,7 +16,7 @@ L'édition du Site est assurée par l'association Duchess France, ci-après les 
 
 ### Hébergement
 
-Le site est hébergé est la société OVH, dont le siège social est situé 2 rue Kellermann, 59100 Roubaix, France.
+Le site est hébergé par GitHub Pages.
 
 ### Accès au site
 

@@ -10,21 +10,18 @@ categories:
   - "alliés"
 ---
 
-| ![Crédit photo : Sara Richter / sarahrichterart sur pixabay.com](/assets/2023/01/2023-01-15-manuel-survie-femme-tech/femme-seule-devant-montagne-sara-richter-art){: width="300"} | Je vois de plus en plus de femmes de femmes rejoindre l'informatique, et c'est une très bonne chose. Je vois aussi trop de femmes souffrir en silence, se remettre en question... et quitter le milieu au bout de quelques années. J'ai mis du temps à apprendre certaines choses. Je voudrais vous faire gagner ces dix ans, pour qu'on arrive à une parité réelle dans le secteur numérique. Je m'adresse également aux autres personnes qui souhaitent voir plus de femmes et non binaire dans leurs équipes.
-
-Les femmes sont fortement incitées à faire un choix entre l’ambition (business and successful woman) et l’altruisme (femme qui colle aux codes et fait correctement son travail, loin de l’argent). Ce choix injuste et superflu résulte des stéréotypes que nous allons parcourir à travers cet article. |
-
-[TOC]
+| ![Crédit photo : Sara Richter / sarahrichterart sur pixabay.com](/assets/2023/01/2023-01-15-manuel-survie-femme-tech/femme-seule-devant-montagne-sara-richter-art.jpg){: width="300"} | Je vois de plus en plus de femmes rejoindre l'informatique, et c'est une très bonne chose. Je vois aussi trop de femmes patir de sexisme ordinaire, se remettre en question encore et encore... et quitter le milieu au bout de quelques années. J'ai mis du temps à apprendre certaines choses. Je voudrais vous faire gagner ces dix ans, pour qu'on arrive à une parité réelle dans le secteur numérique. Je m'adresse également à toutes les personnes qui souhaitent voir plus de femmes et personnes non binaires dans leurs équipes. Les femmes sont fortement incitées à faire un choix entre l’ambition (business and successful woman) et l’altruisme (femme qui colle aux codes et fait correctement son travail, loin de l’argent). Ce choix injuste et superflu résulte des stéréotypes que nous allons parcourir à travers cet article.|
 
 ## Ambition et altruisme
 
 Si vous êtes en couple hétérosexuel, vous avez dû remarquer que les comptes joints bancaires affichent par défaut :
 
-“M ou Mme <nom de famille de l’homme> <prénom de l’homme>”. 
+
+*“M ou Mme <nom de famille de l’homme> <prénom de l’homme>”*. 
 
 Je n’apparais pas sur cette ligne autrement que par “Mme”. C’est le nom de famille de mon époux, cette Mme pourrait tout aussi bien désigner ma belle-mère.
 
-J’ai toujours trouvé cette pratique déplacée, en plus d’être ironique dans la mesure où je suis la plus grosse contributrice de ce compte. Lorsque j’ai demandé à notre nouvelle banque d’ajouter mon prénom, elle m’a répondu “qu’il n’y avait pas suffisamment de place dans le logiciel”.
+J’ai toujours trouvé cette pratique déplacée, en plus d’être ironique dans la mesure où je suis la plus grosse contributrice de ce compte. Lorsque j’ai demandé à notre nouvelle banque d’ajouter mon prénom, elle m’a répondu “*qu’il n’y avait pas suffisamment de place dans le logiciel*”.
 
 Ah. 
 
@@ -36,21 +33,23 @@ La personne qui développe. Peut être le·la product owner, le·la chef·fe de 
 
 Ce qui est certain, c’est que les femmes sont souvent oubliées. 
 
-En 2016, dans l’Union Européenne, les femmes ne constituaient que 15% des membres exécutifs des entreprises privées. 6% des PDG sont des femmes[^1]. Autrement dit 94% des entreprises européennes sont dirigées par des hommes. Comment être surpris·e que le standard soit masculin ? Que les effets secondaires des médicaments soient plus importants chez les femmes[^2], que les GPS reconnaissent moins bien les voix féminines[^3] (ce qui nourrit le stéréotype que vous connaissez), que les crash tests soient réalisés sur des morphologies masculines (ce qui rend les accidents plus mortels pour les femmes[^4]), que les masques soient trop grands (donc moins efficaces pour les femmes[^5]) ? 
+En 2016, dans l’Union Européenne, les femmes ne constituaient que 15% des membres exécutifs des entreprises privées. 6% des PDG sont des femmes[^1]. Autrement dit, 94% des entreprises européennes sont dirigées par des hommes. Comment être surpris·e que le standard soit masculin ? Que les effets secondaires des médicaments soient plus importants chez les femmes[^2], que les GPS reconnaissent moins bien les voix féminines[^3] (ce qui nourrit le stéréotype que vous connaissez), que les crash tests soient réalisés sur des morphologies masculines (ce qui rend les accidents plus mortels pour les femmes[^4]), que les masques soient trop grands (donc moins efficaces pour les femmes[^5]) ? 
 
 Aux USA, l’Apple Card attribue moins de crédits lorsqu’il s’agit d’une femme que pour un homme, même quand elle gagne trois fois plus que son conjoint[^6] ou que les deux ont exactement le même compte en banque “à cause de l’algorithme”[^7]. 
 
-Nommée depuis 1860, l’endométriose est une maladie gynécologique qui touche 10 à 20% des femmes. Quand ces dernières voient leur médecins à ce sujet, il leur est rétorqué que *“c’est normal d’avoir mal pendant ses règles”*. Il a fallu attendre 2020 pour que cette maladie soit intégrée dans le programme de médecine ! 
+Nommée depuis 1860, **l’endométriose** est une maladie gynécologique qui touche 10 à 20% des femmes. Quand ces dernières voient leur médecins à ce sujet, il leur est rétorqué que *“c’est normal d’avoir mal pendant ses règles”*. Il a fallu attendre 2020 pour que cette maladie soit intégrée dans le programme de médecine ! 
 
-L’informatique a une portée surpuissante et ce type de biais aura des conséquences de plus en plus massives et impactantes. La présence de femmes dans ce secteur est un enjeu capital, tout comme dans des postes de direction, sans quoi 52% de la population continuera d’être lésée.
+L’informatique a une portée surpuissante et ce type de biais aura des conséquences de plus en plus massives et impactantes. La **présence de femmes dans ce secteur** est un enjeu capital, tout comme dans des **postes de direction, sans quoi 52% de la population continuera d’être lésée**.
 
-De plus, il est prouvé que les entreprises mixtes sont plus performantes. Sur dix ans, les dix entreprises les plus mixtes affichent près de 300% de croissance contre 43% pour la moyenne des entreprises du CAC40[^8].
+De plus, il est prouvé que les **entreprises mixtes sont plus performantes**. Sur dix ans, les dix entreprises les plus mixtes affichent près de 300% de croissance contre 43% pour la moyenne des entreprises du CAC40[^8].
 
-Pour ne rien arranger, parmi le peu de femmes qui choisissent l’informatique, 50% quittent le milieu avant 35 ans (20% dans les autres secteurs d’activité[^9]). La majorité des répondantes évoquent comme motif principal le milieu trop peu inclusif. 
+Pour ne rien arranger, parmi le peu de femmes qui choisissent l’informatique, **50% quittent le milieu avant 35 ans** (20% dans les autres secteurs d’activité[^9]). La majorité des répondantes évoquent comme motif principal le **milieu trop peu inclusif**. 
 
 Je ne peux pas changer ce milieu. Par contre, j’ai commis des erreurs typiquement féminines dans ma carrière. Je voudrais vous éviter ces écueils. Si cet article vous aide, j’espère que vous passerez vous aussi le message, car l’invisibilisation de la femme est un éternel recommencement.
 
-Si vous vous identifiez plutôt comme un homme, cette lecture vous sera aussi utile pour favoriser un cadre de travail équilibré et où tout le monde se sente bien et soit sa meilleure version de lui/elle même. Aussi en ayant conscience des injonctions qui pèsent sur chacun·e (Homme : sois fort, sais tout, et on te pardonnera d’être absent dans ton foyer. Femme : sois serviable, ne fais pas de vague et on pardonnera tes absences au bureau - on s’y attendra même, moins payée, moins d’évolution). 
+Si vous vous identifiez plutôt comme un homme, cette lecture vous sera aussi utile pour favoriser un cadre de travail **équilibré** et où tout le monde se sente bien et soit sa meilleure version de lui/elle même. Aussi en ayant conscience des injonctions qui pèsent sur chacun·e 
+- à l'Homme : *sois fort, sais tout*, et on te pardonnera d’être absent dans ton foyer. 
+- à la Femme : *sois serviable, ne fais pas de vague et on pardonnera tes absences au bureau* - on s’y attendra même, tu seras moins payée, et te verras proposer moins d’évolution). 
 
 
 ## Aux personnes qui entrent dans le milieu IT 
@@ -59,7 +58,7 @@ Lorsqu’il a fallu choisir mon école d’informatique en alternance, le seul c
 
 Je comprends encore cette problématique aujourd’hui, surtout si vous êtes une “minorité” dans le milieu ou issu d’un cursus atypique, comme une reconversion. 
 
-Je vais exposer ce que, personnellement, je recherche quand je recrute quelqu’un·e. Sachez qu’il ne s’agit pas d’une science exacte. Sur le recrutement, il y a autant de bonnes réponses que de personnes qui recrutent.
+Je vais exposer ce que, personnellement, je recherche quand je recrute quelqu’un·e. Sachez qu’il ne s’agit pas d’une science exacte. Sur le recrutement, il y a **autant de bonnes réponses que de personnes qui recrutent**.
 
 C’est justement le premier conseil : restez vous-même et ne reniez pas vos valeurs. 
 
@@ -67,9 +66,9 @@ C’est justement le premier conseil : restez vous-même et ne reniez pas vos va
 
 Il m’arrive de rencontrer des personnes très stressées en entretien (ok surtout des femmes). Je vois aussi des personnes qui ne laissent juste rien transparaître (surtout des hommes). Dans les deux cas, l’entretien ressemble à un interrogatoire.
 
-Un entretien n’est pas un interrogatoire. C’est une rencontre. Un premier rendez-vous, pour voir si les deux parties ont envie de parcourir un bout de chemin ensemble. 
+Un entretien n’est pas un interrogatoire. C’est une **rencontre**. Un premier rendez-vous, pour voir si les deux parties ont envie de parcourir un bout de chemin ensemble. 
 
-Ne faites pas semblant, ne dites pas des choses que vous ne pensez pas. Vos propos vont servir de base pour décider si oui ou non, vous allez partager huit heures avec cette entreprise, chaque jour pendant quelques années. C’est long de faire semblant aussi longtemps.
+Ne faites pas semblant, ne dites pas des choses que vous ne pensez pas. Vos propos vont servir de base pour décider si oui ou non, vous allez partager huit heures avec cette entreprise, chaque jour pendant quelques années. C’est **long de faire semblant aussi longtemps**.
 
 Vous pouvez être sélectionné·e sur une image que vous pensez conforme aux attentes de l’entreprise, et décrocher un poste au mieux dans un poste qui ne vous ressemble pas, au pire dans une entreprise toxique. Un comble.
 
@@ -77,11 +76,11 @@ Vous pouvez aussi vous faire recaler sur une fausse image de vous. Un autre comb
 
 Si vous adorez les projets from scratch et ne souhaitez pas faire de maintenance, soyez honnête. Si vous vous épanouissez dans la R&D et préférez évoluer dans une bulle protégée, dites-le. Si vous adorez aller sur le terrain et avoir des feedbacks fréquents, dites-le. Si vous trouvez de l’énergie plutôt en travaillant en équipe, dites-le. Probablement, vous êtes curieux·se et n’avez pas encore d’à priori, c’est très bien aussi. 
 
-Il vous sera plus aisé d’exprimer ce que vous ne voulez vraiment pas que l’inverse. Cette information est aussi utile pour l’entreprise.
+Il vous sera plus aisé d’exprimer **ce que vous ne voulez vraiment pas** que l’inverse. Cette information est aussi utile pour l’entreprise.
 
-Si vous vous sentez tendu·e, une solution répandue consiste à ralentir son rythme cardiaque, en respirant très lentement. Soufflez le plus lentement possible, puis inspirez lentement, sur quelques cycles. Prenez le temps de prendre le temps, ce n’est pas grave s’il y a des silences. Les sportifs de haut niveau pratique la cohérence cardiaque[^11] régulièrement, ce qui les prépare à mieux gérer la pression pendant les moments critiques. 
+Si vous vous sentez **tendu·e**, une solution répandue consiste à ralentir son rythme cardiaque, en respirant très lentement. Soufflez le plus lentement possible, puis inspirez lentement, sur quelques cycles. Prenez le temps de prendre le temps, ce n’est pas grave s’il y a des silences. Les sportifs de haut niveau pratique la cohérence cardiaque[^11] régulièrement, ce qui les prépare à mieux gérer la pression pendant les moments critiques. 
 
-Gardez en tête que vous êtes vous aussi en train d’évaluer l’entreprise qui vous recrute. N’hésitez pas à poser des questions.
+Gardez en tête que vous êtes vous aussi **en train d’évaluer l’entreprise qui vous recrute**. N’hésitez pas à poser des questions.
 
 Enfin, il n’y a pas réellement de mauvais profil mais des mauvaises correspondances. Selon la mission et la structure de mon équipe à un moment donné, le profil sera pertinent ou non. Chez Groupe La Centrale, nous cherchons des personnes autonomes et proactives, mais des personnes qui exécutent parfaitement uniquement ce qui leur est demandé peuvent être très pertinentes dans des entreprises en cycle en V par exemple. Ne prenez pas un arrêt de processus personnellement et ne vous découragez pas.
 
@@ -96,10 +95,9 @@ Voici quelques initiatives issus de collaborateur·rices du Groupe La Centrale
 - Changer de cuisine et l’équiper d’un lave-vaisselle
 - Fêter Halloween
 
-
 Savez-vous quelle est LA question que je me pose pendant tout l’entretien et qui est déterminant dans le choix ? 
 
-> “Est-ce que je peux compter sur elle/lui ?”
+> “*Est-ce que je peux compter sur elle/lui ?*”
 
 ### 2. Soyez fiable
 
@@ -243,7 +241,7 @@ Pis, les quelques unes qui le font sont rapidement **condamnées socialement**, 
 
 ##### Être altruiste
 
-Une étude de l’Université de New York[^35] montre que les femmes ne sont pas récompensées lorsqu’elles restent tard pour aider leurs collègues, mais qu’elles sont plus pénalisées qu’un homme lorsqu’elles ne le font pas (-12% de points). A côté, les hommes qui aident se voient gratifier de 14% points supplémentaires. Autrement dit, la notion d’aide est forcément pénalisante pour la femme : soit c’est normal soit c’est mal. Alors que pour l’homme c’est neutre ou gagnant. 
+Une étude de l’Université de New York[^35] montre que les femmes ne sont pas récompensées lorsqu’elles restent tard pour aider leurs collègues, mais qu’elles sont plus pénalisées qu’un homme lorsqu’elles ne le font pas (-12% de points). A côté, les hommes qui aident se voient gratifier de 14% points supplémentaires. En d'autres termes, la notion d’aide est forcément pénalisante pour la femme : soit elle aide et c'est normal, soit elle n'aide pas et c’est mal. Alors que pour l’homme, soit il n'aide pas et c'est normal, soit il aide et c'est un héros.
 
 ##### Être désagréable
 

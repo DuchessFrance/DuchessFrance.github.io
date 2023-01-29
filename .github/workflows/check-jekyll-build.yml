@@ -1,0 +1,28 @@
+name: 'Run a Jekyll build on Pull Requests'
+
+on:
+  #Can be run manually if needed, and is triggered on Pull Requests
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  jekyll-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      #see https://github.com/helaili/jekyll-action#build_only
+      - uses:  helaili/jekyll-action@v2
+        with:
+          build_only: true
+          jekyll_build_options: --future --verbose
+          build_dir: ${{ github.workspace }}/_site/
+
+# A decommenter si on veut une archive du site sur les PRs.
+# Mais bon ca fait + de 400Mo et faut quand même un serveur pour vraiment voir le rendu.     
+#
+#      - name: Archive generate site
+#        uses: actions/upload-artifact@v3
+#        with:
+#          name: jekyll-generated-site
+#          path: ${{ github.workspace }}/_site/

@@ -75,3 +75,11 @@ Duke a été [adapté de bien des manières](http://duke.kenai.com/) depuis, ma
 ## Des Duchesses en France
 
 <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z0KkM2GiRROg.kYdjYi4oUNC4" width="640" height="480"></iframe>
+
+### Contributrices
+
+Le blog Duchess France est un blog collaboratif. Il regroupe des articles techniques, interviews, critique de bouquins …  Nous en profitons d’ailleurs pour remercier toutes nos contributrices !!
+
+Si vous souhaitez proposer un post, contactez-nous à duchessfr[at]gmail.com.
+
+Si vous souhaitez proposer un post, vous pouvez créer une PR sur [github](https://github.com/DuchessFrance/DuchessFrance.github.io/blob/main/CONTRIBUTING.md).
