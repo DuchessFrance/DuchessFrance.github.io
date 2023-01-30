@@ -103,7 +103,7 @@ Suivez-la sur [Twitter](https://twitter.com/MathildeLemee).
 # Pauline IOGNA
 ![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}
 
-Pauline Iogna est développeuse Java/Scala.
+Pauline Iogna est "Java/Scala Developer".
 Elle est aussi enseignante vacataire à l’Université Paris-Est Marne-la-Vallée.
 Pendent son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
 Suivez-la sur [Twitter](https://twitter.com/pauline_io).
