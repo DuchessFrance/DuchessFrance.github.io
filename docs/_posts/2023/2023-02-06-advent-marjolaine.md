@@ -3,7 +3,7 @@ layout: "post"
 author:
   - "angelique"
 title: "Advent Of Code 2022 - Interview de Marjolaine Bouquet"
-date: "2023-01-24"
+date: "2023-02-06"
 categories:
   - "code"
   - "event"
