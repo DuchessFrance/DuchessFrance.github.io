@@ -3,7 +3,7 @@ layout: "post"
 author:
   - "angelique"
 title: "Advent Of Code 2022 - Interview de Sarah Trichet-Allaire"
-date: "2023-01-25"
+date: "2023-02-10"
 categories:
   - "code"
   - "event"
@@ -19,7 +19,6 @@ Voici une interview dans la série des "Interview Advent Of Code 2022"
 ## Interview de Sarah Trichet-Allaire
 
 - @Sarah_Trichet_Allaire@mastodon.cloud
-- lien repo public advent of code - TODO
 
 ## Peux tu te présenter ?
 Sarah Trichet-Allaire, 42 ans, je suis aujourd’hui dev et formatrice, après une coupure de la tech de 7 ans pour ouvrir une librairie. J’ai fais du TALN par le passé et maintenant je cherche à ouvrir mon horizon et faire du dev sur d’autres projets. Mon dada : logiciels libres, écologie, féminisme.
