@@ -20,7 +20,7 @@ Suivez-la sur [Twitter](https://twitter.com/agnes_crepet).
 # Amira LAKHAL
 ![Photo d'Amira LAKHAL](/assets/core-team/amira_lakhal.png){: width="150"}
 
-Amira LAKHAL est Java Champion et développeur chez Actyx.
+Amira LAKHAL est Java Champion et développeuse chez Actyx.
 Elle est passionnée par l’agilité et les langages fonctionnels.
 Elle s’intéresse aussi aux problématiques de Big Data et diverses solutions de stockage des données volumineuses.
 Elle a animé des conférences sur la base NoSql Cassandra.
@@ -76,7 +76,7 @@ Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
 # Katia ARESTI
 ![Photo de Katia ARESTI](/assets/core-team/katia_aresti.png){: width="150"}
 
-Katia Aresti est développeur Java/Scala [open-source](https://github.com/karesti) dans l’équipe [Infinispan](https://infinispan.org/) chez RedHat.
+Katia Aresti est développeuse Java/Scala [open-source](https://github.com/karesti) dans l’équipe [Infinispan](https://infinispan.org/) chez RedHat.
 Elle co-organise aussi le [MongoDB User Group](https://www.meetup.com/fr-FR/Paris-MongoDB-User-Group/) à Paris depuis 2012.
 Elle intervient sur les sujets autour de Java et MongoDB sous la forme de présentations formelles, open-spaces ou workshops.
 Elle est passionnée par l’open-source, la contribution communautaire et le théâtre.
@@ -103,7 +103,7 @@ Suivez-la sur [Twitter](https://twitter.com/MathildeLemee).
 # Pauline IOGNA
 ![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}
 
-Pauline Iogna est développeur Java/Ccala.
+Pauline Iogna est "Java/Scala Developer".
 Elle est aussi enseignante vacataire à l’Université Paris-Est Marne-la-Vallée.
 Pendent son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
 Suivez-la sur [Twitter](https://twitter.com/pauline_io).
