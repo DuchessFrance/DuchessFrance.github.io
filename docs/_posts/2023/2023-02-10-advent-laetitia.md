@@ -3,7 +3,7 @@ layout: "post"
 author:
   - "angelique"
 title: "Advent Of Code 2022 - Interview de Lætitia Avrot"
-date: "2023-01-19"
+date: "2023-02-10"
 categories:
   - "code"
   - "event"
