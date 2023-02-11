@@ -151,11 +151,28 @@ Souvent, on souligne ma détermination. Détermination renforcée par mes échan
 
 > Renseignez-vous un maximum. Rencontrez des professionnels, que ce soit dans le cadre de meetups, de conférences ou encore via LinkedIn ou Twitter.
 
-Les meetups qui m’ont beaucoup apporté personnellement : [Mob Programming](https://www.meetup.com/fr-FR/paris-mob-programming/), [Craft your skills](https://www.meetup.com/fr-FR/craft-your-skills/), les [Jams de code](https://www.meetup.com/fr-FR/jams-de-code/), [Global day code retreat](https://www.meetup.com/fr-FR/coderetreat-paris/), [OWASP France Chapter](https://www.meetup.com/fr-FR/owasp-france/), les workshops organisés par les [Ladies of Code](https://www.meetup.com/fr-FR/ladies-of-code-paris/) et les [Duchess](https://www.meetup.com/fr-FR/duchess-france-meetup/).  
-Les conférences auxquelles j’ai eu le plaisir d'assister : [NewCrafts](https://ncrafts.io/), [Dot.js](https://www.dotjs.io/), [We love speed](https://www.welovespeed.com/2020/).  
-Un peu de théorie, segmentez l'apprentissage des concepts de base puis beaucoup de pratique et on avance en répétant ce cycle théorie-pratique. L’un des cours en ligne qui m’a aidée à mieux connaître JavaScript, à l’époque : [the complete Javascript course de Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course).  
+Les meetups qui m’ont beaucoup apporté personnellement : 
+- [Mob Programming](https://www.meetup.com/fr-FR/paris-mob-programming/) 
+- [Craft your skills](https://www.meetup.com/fr-FR/craft-your-skills/) 
+- [Jams de code](https://www.meetup.com/fr-FR/jams-de-code/) 
+- [Global day code retreat](https://www.meetup.com/fr-FR/coderetreat-paris/) 
+- [OWASP France Chapter](https://www.meetup.com/fr-FR/owasp-france/) 
+- les workshops organisés par les [Ladies of Code](https://www.meetup.com/fr-FR/ladies-of-code-paris/) 
+- [Duchess](https://www.meetup.com/fr-FR/duchess-france-meetup/)
+
+Les conférences auxquelles j’ai eu le plaisir d'assister : 
+- [NewCrafts](https://ncrafts.io/) 
+- [Dot.js](https://www.dotjs.io/) 
+- [We love speed](https://www.welovespeed.com/2020/)
+
+> Un peu de théorie, segmentez l'apprentissage des concepts de base puis beaucoup de pratique et on avance en répétant ce cycle théorie-pratique. 
+
+L’un des cours en ligne qui m’a aidée à mieux connaître JavaScript, à l’époque : [the complete Javascript course de Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course).  
 Récemment, pour monter en compétences sur le Node, j’ai commencé “Devenir un(e) développeur(euse) Node.js” de Thomas Gentilhomme.  
-La curiosité est un atout majeur. Gardez toujours un état d'esprit d'étudiant.e. Il y a toujours quelque chose à découvrir / apprendre / approfondir.  
+
+> La curiosité est un atout majeur.
+
+Gardez toujours un état d'esprit d'étudiant.e. Il y a toujours quelque chose à découvrir / apprendre / approfondir.  
 
 
 # 2023
