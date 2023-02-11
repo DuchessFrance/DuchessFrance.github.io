@@ -31,7 +31,7 @@ Je savais que j'avais déjà un attrait pour le code quand je posais des questio
 J'ai toujours aimé concrétiser mes idées via l'outil informatique (Creative Suite, 3ds max…). Pendant longtemps, je refusais de m'orienter vers le code et l’informatique en général. J’ai presque 10 ans d’expérience en tant que Créative dans l’Audiovisuel et la Communication. J’ai été Cheffe de Projet multimédia. Mais ça, ce n’était vraiment pas pour moi.  
 
 **Pauline: Qu’est ce qui t’as donné envie de coder ?**  
-**Romy:** En 2011, j'étais en formation Management de projet et Marketing interactif, j'avais deux profs aux profils complémentaires. Le premier, Vincent Bézard, se définissait comme Creative Technologist. Le second, Arnaud Palin Sainte Agathe, comme Directeur technique et Développeur.  
+**Romy:** En 2011, j'étais en formation Management de projet et Marketing interactif, j'avais deux professeurs aux profils complémentaires. Le premier, Vincent Bézard, se définissait comme Creative Technologist. Le second, Arnaud Palin Sainte Agathe, comme Directeur technique et Développeur.  
 
 Arnaud donnait ses cours avec beaucoup d’enthousiasme. Il nous partageait des applications et projets innovants. La campagne Youtube de Buzzman pour Tippex m’avait particulièrement marquée. Au-delà de son originalité, je me demandais comment l’équipe s’y était prise pour implémenter cette solution qui permettait de diffuser une séquence vidéo en réponse à la saisie des utilisateurs. La saisie était rendue possible parce que l’acteur dans la vidéo s’était emparé d’un tippex dans la colonne des pubs.  
 
