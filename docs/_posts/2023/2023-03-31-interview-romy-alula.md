@@ -45,7 +45,7 @@ Bien que nous ayons travaillé toute l’année sur des projets scolaires sans d
 
 J’ai approfondi mes connaissances des technologies standard du Web grâce aux MOOCs (Massive Open Online Course), notamment sur [OpenClassrooms](https://www.duchess-france.org/marrainage-adoptaduchess/).  
 
-**Pauline: Et ça ne t’as pas fait peur ? Il faut avoir beaucoup de courage pour se lancer comme ça…**
+**Pauline: Et ça ne t’as pas fait peur ? Il faut avoir beaucoup de courage pour se lancer comme ça.**
 **Romy:**  Réellement se lancer dans une reconversion demande beaucoup de courage. D’acceptation de se mettre volontairement dans une position vulnérable. Les difficultés que je vivais en tant que Créative professionnelle ont renforcé ma détermination :
 - peu ou pas d'entretiens d'embauche,
 - quand je trouvais une mission en freelance, il fallait relancer et insister pour être payée,
