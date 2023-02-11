@@ -10,7 +10,8 @@ categories:
 ---
 
 
-![Romy Alula](/assets/2023/02/2023-02-01-romy-alula/Romy_mai_2018.JPG)
+| ![Romy Alula](/assets/2023/02/2023-02-01-romy-alula/Romy_mai_2018.JPG){: width="300"} | Interview de Romy Alula qui partage son retour dans la tech. |
+
 
 J’ai rencontré Romy ALula fin 2018 lors d’un coding dojo. Romy était en train de faire ses débuts en reconversion, elle venait de décrocher son premier emploi en tant que dev. Je lui ai proposé d’être sa marraine et aussi de faire une interview de son parcours.
 Nous avons commencé l’interview, puis mis de côté ce projet pendant un moment, faute de temps.
