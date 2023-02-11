@@ -50,7 +50,9 @@ Vincent, lui, évoquait moins l’aspect technique. Ses cours étaient très per
 
 Mon idée avait été sélectionnée par Vincent. Pendant 5 mois, j’encadrais notre trinôme dans la conception, le cadrage et la planification de Get Your App: rédaction du cahier des charges, maquettage, prototypage. Get Your App était “une plateforme gratuite de production participative d'applications Web et Mobile (jeux, vie pratique, médias, publicité), qui s'adresse aux créateurs de projets et mécènes particuliers ou professionnels” comme je la définissais, alors. Aujourd’hui, je dirai que c’était une plateforme de crowdfunding et de mise en relation dédiée aux applications Web et mobiles.  
 
-Bien que nous ayons travaillé toute l’année sur des projets scolaires sans développer, ces formateurs ont été des modèles techniques. La liberté de créer de toute pièce un projet de l'idée à la livraison a vraiment décuplé mon envie de coder. Merci à mes profs de Sup’Career !  
+Bien que nous ayons travaillé toute l’année sur des projets scolaires sans développer, ces formateurs ont été des modèles techniques. 
+
+> La liberté de créer de toute pièce un projet de l'idée à la livraison a vraiment décuplé mon envie de coder. Merci à mes profs de Sup’Career !  
 
 J’ai approfondi mes connaissances des technologies standard du Web grâce aux MOOCs (Massive Open Online Course), notamment sur [OpenClassrooms](https://www.duchess-france.org/marrainage-adoptaduchess/).  
 
@@ -228,7 +230,7 @@ Ils ont le mérite d'être transparents. Un vrai gain de temps. Là où leur ren
 
 Rejoindre des communautés m’a ouvert les portes de grandes conférences comme Dot.js ou NewCrafts, un vrai bond dans ma veille technologique. Ça m’a aussi permis de prendre du recul et de trouver des personnes de bons conseils.  
 
-> Sur une note positive, je ne m'attendais pas à concrétiser de belles opportunités comme la [rédaction d'articles pour Programmez](https://www.programmez.com/magazine-papier/programmez-250), la conception et la présentation d'un BBL. Un de mes coachs m'a dit : "ça peut aussi bien se passer". C'était en réponse à mon étonnement par rapport à une de mes premières expériences positives.  
+> Sur une note positive, je ne m'attendais pas à concrétiser de belles opportunités comme la [rédaction d'articles pour Programmez](https://www.programmez.com/magazine/article/reconversion-reussie-et-carriere), la conception et la présentation d'un BBL. Un de mes coachs m'a dit : "ça peut aussi bien se passer". C'était en réponse à mon étonnement par rapport à une de mes premières expériences positives.  
 
 **Pauline: Où est-ce que tu te vois dans 5 ans ?**  
 **Romy:** C’est une bonne question ! Là où, en 2018, je t’aurais répondu avec un plan détaillé, aujourd’hui, je n’ai plus ce sentiment d’urgence. Un travail sur moi et mon estime de soi m’a permis de me débarrasser de cette pression de tout planifier, contrôler et maîtriser. Je tiens particulièrement à m’économiser, m’écouter et passer de bons moments avec ceux que j’aime. 
