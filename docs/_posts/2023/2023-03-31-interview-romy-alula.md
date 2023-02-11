@@ -16,7 +16,7 @@ J’ai rencontré Romy ALula fin 2018 lors d’un coding dojo. Romy était en tr
 Nous avons commencé l’interview, puis mis de côté ce projet pendant un moment, faute de temps.
 
 Cinq années sont passées…  
-Après plusieurs changements d’entreprise pour chacune et la crise du COVID, nous avons repris contact pour enfin finaliser ce que nous avions commencé. Nous avons abouti à cette interview incroyable qui part du début de la reconversion de Romy jusqu’aujourd’hui.
+Après plusieurs changements d’entreprise pour nous deux et la crise du COVID, nous avons repris contact pour enfin finaliser ce que nous avions commencé. Nous avons abouti à cette interview incroyable qui part du début de la reconversion de Romy jusqu’aujourd’hui.
 
 # 2018
 
