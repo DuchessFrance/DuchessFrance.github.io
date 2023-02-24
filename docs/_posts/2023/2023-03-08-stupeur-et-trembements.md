@@ -153,7 +153,7 @@ Je suis fatiguée que les entreprises ne fassent pas leur devoir de formation et
 - Demander dix fois plus de compétences et pinailler sur la moindre chose pour éviter de donner une promotion à une femme ?
 ✅ Un grand classique du sexisme ordinaire et du plafond de verre.
 
-- “Ne pas le sentir” mais sans vraiment de raisons factuelle ?
+- “Ne pas le sentir” mais sans vraiment de raisons factuelles ?
 ✅ Un grand classique du sexisme ordinaire.
 
 Je suis fatiguée d’essayer de trouver ma voie dans une industrie qui fait tout pour me mettre des bâtons dans les roues, je suis fatiguée de voir que mes collègues masculins cherchent à tricher pour finir au plus vite les formations “diversité et inclusion”.
