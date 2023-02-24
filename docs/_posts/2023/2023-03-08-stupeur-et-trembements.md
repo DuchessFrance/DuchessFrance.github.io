@@ -150,7 +150,7 @@ Je suis fatiguée que les entreprises ne fassent pas leur devoir de formation et
 - Dire à une femme qu’elle est agressive quand elle est assertive ?
 ✅ Un grand classique du sexisme ordinaire.
 
-- Demander dix fois plus de compétances et pinailler sur la moindre chose pour éviter de donner une promotion à une femme ?
+- Demander dix fois plus de compétences et pinailler sur la moindre chose pour éviter de donner une promotion à une femme ?
 ✅ Un grand classique du sexisme ordinaire et du plafond de verre.
 
 - “Ne pas le sentir” mais sans vraiment de raisons factuelle ?
