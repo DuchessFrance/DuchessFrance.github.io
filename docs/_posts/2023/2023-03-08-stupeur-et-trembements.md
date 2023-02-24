@@ -169,6 +169,6 @@ Pour se rendre compte qu’en fait oui c’est violent ce que vivent les femmes 
 Et pourtant j’adore le code, créer des applications, maintenir des applications.
 Mais à quel prix pour ma santé puis-je faire un métier que j’aime ?
 
-# Trouverais-je un jour ma place dans cette industrie qui, au fond, ne souhaite pas vraiment mon succès ?
+# Trouverai-je un jour ma place dans cette industrie qui, au fond, ne souhaite pas vraiment mon succès ?
 
 ![ Image d'une femme d'affaire immobile face à deux chemins](/assets/2023/03/2023-03-08-stupeur-et-tremblements/croisee-des-chemins.jpeg)
