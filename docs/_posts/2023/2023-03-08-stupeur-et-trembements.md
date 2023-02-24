@@ -11,7 +11,7 @@ categories:
 
 | ![ Image d'une femme coincée sous un plafond de verre](/assets/2023/03/2023-03-08-stupeur-et-tremblements/plafond-de-verre.jpg){: width="300", height="300"} | J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverai-je un jour ma place dans cette industrie ? |
 
-> **Note de la Core Team Duchess**: La personne qui a écrit ce blog a  souhaité le faire de façon anonyme, nous nous sommes attachées à retirer  les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne nous vous serions reconnaissantes de garder cette information pour vous.
+> **Note de la Core Team Duchess**: La personne qui a écrit ce billet a souhaité le faire de façon anonyme, nous nous sommes attachées à retirer les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne, nous vous serions reconnaissantes de garder cette information pour vous.
 
 J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverai-je un jour ma place dans cette industrie ? Je n’arrive pas à y répondre.
 
