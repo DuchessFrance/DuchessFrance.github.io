@@ -9,11 +9,11 @@ categories:
   - "sexisme"
 ---
 
-| ![ Image d'une femme coincée sous un plafond de verre](/assets/2023/03/2023-03-08-stupeur-et-tremblements/plafond-de-verre.jpg){: width="300", height="300"} | J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverais-je un jour ma place dans cette industrie ? |
+| ![ Image d'une femme coincée sous un plafond de verre](/assets/2023/03/2023-03-08-stupeur-et-tremblements/plafond-de-verre.jpg){: width="300", height="300"} | J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverai-je un jour ma place dans cette industrie ? |
 
 > **Note de la Core Team Duchess**: La personne qui a écrit ce blog a  souhaité le faire de façon anonyme, nous nous sommes attachées à retirer  les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne nous vous serions reconnaissantes de garder cette information pour vous.
 
-J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverais-je un jour ma place dans cette industrie ? Je n’arrive pas à y répondre.
+J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverai-je un jour ma place dans cette industrie ? Je n’arrive pas à y répondre.
 
 Et pourtant, je suis développeuse depuis plus de 15 ans maintenant, et j'aime coder. Je suis reconnue par mes pairs, j’ai plutôt des bons retours sur mon travail par mes pairs et mes managers, j’ai même eu des échos d’entreprises précédentes où mon nom est encore cité en exemple de personne "très forte techniquement".
 
@@ -25,17 +25,17 @@ Mais alors, que s’est il passé ? **J’essaye tant bien que mal d’avoir une
 
 Étant bien à l’aise dans mon poste actuel, j’avais commencé à demander à passer à l’échelon technique supérieur 🪜.
 J’en ai discuté avec mon manager, il m’a partagé les critères pour l’étape suivante et j’ai rempli un document qui montre que sur tous les points j’ai le niveau. On en a discuté et il est rapidement arrivé à la conclusion que de toute façon je faisais déjà le travail du poste au dessus, donc il allait soutenir ma promotion à la prochaine fournée.
-**Moi j’étais toute contente: “Youpie, enfin une entreprise dans laquelle j’ai mes chances !”.**
-Les processus de promotion sont souvent annuels, ou bi annuel et je savais bien qu’il me fallait un peu de patience.
+**Moi j’étais toute contente: “Youpi, enfin une entreprise dans laquelle j’ai mes chances !”.**
+Les processus de promotion sont souvent annuels, ou biannuels et je savais bien qu’il me fallait un peu de patience.
 
-Viens un jour de réunion générale ou tout d’un coup surgit un slide pour féliciter les personnes fraîchement promues et là, comme dirait Amélie Nothomb: **stupeur et tremblement** ! Ça me frappe immédiatement: j’aurais dû être sur ce slide ! Que s’est-il passé ?
+Vient un jour de réunion générale ou tout d’un coup surgit un slide pour féliciter les personnes fraîchement promues et là, comme dirait Amélie Nothomb: **stupeur et tremblement** ! Ça me frappe immédiatement: j’aurais dû être sur ce slide ! Que s’est-il passé ?
 
 # Une grande parenthèse dans le passé
 
 Je fais une grande parenthèse.
 J’ai dans mes premières années en tant que développeuse subi une période de harcèlement moral. Par des développeurs misogynes qui se sont ligués contre moi pour pouvoir mieux être promus, et ils ont réussi.
-Ils m’ont dénigrée auprès des managers sans que j’en sache rien, ils s’amusaient à changer des parties de l’application au dernier moment pour que la partie que je développe ne fonctionne plus lors des démonstrations.
-Quand j'entrai dans la pièce où ils étaient pour discuter projet ils se taisaient et m’ignoraient.
+Ils m’ont dénigrée auprès des managers sans que j’en sache rien, ils s’amusaient à changer des parties de l’application au dernier moment pour que la partie que je développais ne fonctionne plus lors des démonstrations.
+Quand j'entrais dans la pièce où ils étaient pour discuter projet, ils se taisaient et m’ignoraient.
 Ils sont allés jusqu’à s’attribuer certaines de mes réalisations.
 Et quand, n’ayant aucune écoute côté management, j’ai osé dire par email à l’équipe tant bien que mal que ça ne pouvait pas continuer…
 On m'a juste reproché d’écrire un email, et ignoré totalement le fond.
@@ -43,14 +43,14 @@ A noter qu'évidemment le plus toxique et misogyne dans l'histoire c'était le d
 Il a continué pendant des années derrière à évincer toute concurrence d'autant plus violemment si cette concurrence était racisée et/ou féminine.
 **Un cas somme toute classique de “oui c’est des gens toxiques mais bon ils sont performants alors on les laisse faire”.**
 
-J’ai mis plus d’un an à comprendre que le problème ce n’était pas moi, grâce à beaucoup de témoignages du genre “oui mais bon avec eux tu avais aucune chances, t’es une femme”.
+J’ai mis plus d’un an à comprendre que le problème ce n’était pas moi, grâce à beaucoup de témoignages du genre “oui mais bon avec eux tu avais aucune chance, t’es une femme”.
 Grâce aussi au fait qu’en changeant de poste, sans vraiment changer ma façon de faire, je suis tout d’un coup passée de “développeuse toute nulle” à “développeuse super forte je te veux dans mon équipe”.
 Et grâce aux histoires misogynes et racistes qui ont continué après moi, au vu et au su de tout le monde, en toute impunité.
 **Il m’a fallu plusieurs années pour mettre les mots harcèlement moral** - plus d’années que la durée de prescription de 5 ans.
 Je me suis informée et formée sur les biais, y compris les biais sexistes, et aussi le conditionnement social.
 J’ai gravi des échelons, choisissant soigneusement les personnes avec qui j’allais travailler, évitant à tout prix des personnes que j’estimais à risque pour moi.
-Ça m'a peut-être fermé des opportunités, peut-être pas je ne saurais jamais.
-Mais ça m’a mise sur le qui vive, un peu permanent.
+Ça m'a peut-être fermé des opportunités, peut-être pas je ne saurai jamais.
+Mais ça m’a mise sur le qui-vive un peu permanent.
 La “safe place” ce n’est pas un concept marketing de recrutement pour moi, mais une nécessité.
 
 Pourquoi cette parenthèse ? Simplement pour expliquer que comme je m’étais déjà confrontée à un mur de sexisme crasse, j’avais depuis beaucoup appris sur les mécanismes de mise à l’écart des femmes et des personnes sous représentées.
@@ -69,8 +69,8 @@ Je reçois en retour la garantie qu’il va y avoir une enquête...
 Puis j'attends, pas forcément les bras croisés.
 
 
-Parmi les personnes promues, il y avait un homme avec qui le courant passait bien: ça tombe bien il venait d’être promu au niveau que je visait !
-Après l’avoir félicité, je lui demande “Dis moi, quelles étapes tu as du faire pour ta promotion ?”.
+Parmi les personnes promues, il y avait un homme avec qui le courant passait bien : ça tombe bien il venait d’être promu au niveau que je visais !
+Après l’avoir félicité, je lui demande “Dis moi, quelles étapes tu as dû suivre pour ta promotion ?”.
 Sa réponse me laisse sans voix: “Basiquement j’ai juste demandé, j’ai expliqué pourquoi et voilà quoi”.
 
 Ah... 🤯
@@ -80,15 +80,15 @@ A un moment dans un point de synchronisation entre développeurs, je m’excuse 
 Le développeur le plus expérimenté de l’équipe me confirme que notre manager lui avait demandé et qu’il avait validé que j’avais le niveau.
 Deux autres développeurs expriment en privé leur indignation et leur désaccord aussi avec la non promotion, et me donnent leur précieux soutien.
 **Je me dis que les RH vont gérer, j’y crois encore.**
-Sur ce, mon manager démissionne, je crois être la goutte qui a fait déborder le vase, mais je ne le saurais jamais.
+Sur ce, mon manager démissionne, je crois être la goutte qui a fait déborder le vase, mais je ne le saurai jamais.
 
 Les jours passent, et je me retrouve dans une réunion “face à face” avec le supérieur de mon manager.
 Situation que je voulais éviter mais bon, je reste professionnelle, je prends mon courage à deux mains et j’y vais quand même, ne sachant pas trop à quoi m’attendre.
 Et là surprise.... Il me sort le texte que j’avais rédigé avec mon manager.
 Moment de gêne, puis il me dit qu’il est désolé que j’ai été impactée.
-Je reste sans voix: “Impactée ??” Il m’explique qu’effectivement mon manager à proposé mon nom en fin de réunion, mais qu’ils n’avaient plus le temps et que de toute façon mon manager s’est braqué.
+Je reste sans voix: “Impactée ??” Il m’explique qu’effectivement mon manager a proposé mon nom en fin de réunion, mais qu’ils n’avaient plus le temps et que de toute façon mon manager s’est braqué.
 Globalement il met tout sur le dos de mon manager, ce dernier n’étant plus dans l’entreprise, c’est un peu l’excuse toute trouvée.
-Il me dit vaguement que je manque de visibilité, ce à quoi je commence à lui exposer toutes les réalisations que j’ai faites, incluant des talk en public et enregistrés donc facilement consultables.
+Il me dit vaguement que je manque de visibilité, ce à quoi je commence à lui exposer toutes les réalisations que j’ai faites, incluant des talks en public et enregistrés donc facilement consultables.
 Il me coupe rapidement, non c’est pas ça.
 Je ne suis pas assez visible de lui.
 Il m’explique aussi que le document que j’ai dûment rempli ne sert à rien, de toute façon c’est lui qui décide.
@@ -99,7 +99,7 @@ Les bras m’en tombent.
 Donc des hommes qui ne méritent pas la promotion l’ont, et moi pour qui on est incapable de me dire ce qu’il manque je l’ai pas ?
 Et ça ne choque que moi dans cette entreprise ?
 
-**Heureusement, j’avais commencé à chercher du soutien auprès de quelques Duchess, elles ont été formidables et m’ont beaucoup aidées, je les remercie vraiment très fort. 💖**
+**Heureusement, j’avais commencé à chercher du soutien auprès de quelques Duchess, elles ont été formidables et m’ont beaucoup aidée, je les remercie vraiment très fort. 💖**
 
 Les RH reviennent, la bouche en coeur “bon c’est bon on a vérifié, c’est pas du sexisme”.
 
@@ -124,7 +124,7 @@ C’est très bien expliqué dans la conférence [Violence hermeneutique](https:
 Un nouveau manager est désigné, à peu près au courant de ma situation.
 Son point de vue: ok on va travailler à ma promotion à partir de maintenant, par contre après avoir échangé avec les RHs il vaut mieux éviter les derniers mois parce que j’ai été un peu agressive.
 Je perds donc un an à un an et demi et je recommence à zéro ?
-Tout ça parce qu’un supérieur “ne le sens pas” ?
+Tout ça parce qu’un supérieur “ne le sent pas” ?
 Je suis victime d’erreurs de management et d’incompétences et c’est moi qui paye les pots cassés ?
 Et je suis agressive quand j’exprime mon vécu de discrimination ?
 Sérieusement ?

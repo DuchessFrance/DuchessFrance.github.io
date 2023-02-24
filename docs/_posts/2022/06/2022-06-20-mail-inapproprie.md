@@ -10,7 +10,7 @@ categories:
 
 | ![Mail inapproprié : partage d’expérience](/assets/2022/06/2022-06-20-mail-inapproprie/balancoire.jpg){: width="300"} | Il était une fois, une péripétie de la vie d’une femme dans l’IT. J’ai reçu il y a quelques mois un « mail inapproprié » d’un collègue. Voici donc un petit retour d’expérience sur ce genre de situation.|
 
-> **Note de la Core Team Duchess**: La personne qui a écrit ce blog a  souhaité le faire de façon anonyme, nous nous sommes attachées à retirer  les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne nous vous serions reconnaissantes de garder cette information pour vous.
+> **Note de la Core Team Duchess**: La personne qui a écrit ce billet a souhaité le faire de façon anonyme, nous nous sommes attachées à retirer les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne, nous vous serions reconnaissantes de garder cette information pour vous.
 
 ## Le contexte
 
