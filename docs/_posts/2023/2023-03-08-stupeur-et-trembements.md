@@ -17,7 +17,7 @@ J’ai heurté un mur il y a quelques mois et depuis cette question revient sans
 
 Et pourtant, je suis développeuse depuis plus de 15 ans maintenant, et j'aime coder. Je suis reconnue par mes pairs, j’ai plutôt des bons retours sur mon travail par mes pairs et mes managers, j’ai même eu des échos d’entreprises précédentes où mon nom est encore cité en exemple de personne "très forte techniquement".
 
-Mais alors, que s’est il passé ? **J’essaye tant bien que mal d’avoir une carrière technique: voilà ce qui s’est passé.**
+Mais alors, que s’est il passé ? **J’essaie tant bien que mal d’avoir une carrière technique: voilà ce qui s’est passé.**
 
 # Comment je ne l’ai pas pu venir, le mur
 
@@ -96,7 +96,7 @@ Il m’explique aussi que le document que j’ai dûment rempli ne sert à rien,
 
 Les bras m’en tombent.
 
-Donc des hommes qui ne méritent pas la promotion l’ont, et moi pour qui on est incapable de me dire ce qu’il manque je l’ai pas ?
+Donc des hommes qui ne méritent pas la promotion l’ont, et moi pour qui on est incapable de me dire ce qu’il manque je ne l’ai pas ?
 Et ça ne choque que moi dans cette entreprise ?
 
 **Heureusement, j’avais commencé à chercher du soutien auprès de quelques Duchess, elles ont été formidables et m’ont beaucoup aidée, je les remercie vraiment très fort. 💖**
@@ -109,7 +109,7 @@ Avoir un refus de promotion sans aucune justification écrite n’a pas l’air 
 Que plusieurs hommes aient obtenu la promotion sans vraiment avoir le niveau ne les fait pas réagir non plus.
 Dans ma tête, un refus de promotion sans justification était limite illégal, et s’il n’est pas possible de justifier le refus c’est donc bien que la promotion est due, non ? Je m’attendais à ce qu’iels reprennent mon dossier, avec la liste des réalisations, des justifications et me fassent au moins un retour de ce qu'il manque à mon travail.
 Non rien.... Rien sur quoi travailler ou se projeter.
-Mission impossible: il ne me manque rien mais j’ai pas ce qu’il faut.
+Mission impossible: il ne me manque rien mais je n’ai pas ce qu’il faut.
 
 Pire encore, quand j’essaye d’évoquer les biais inconscients que nous avons toutes et tous et qui desservent les femmes notamment dans la carrière, parce que je pense alors très fortement que c’est le mécanisme en œuvre, je me heurte à un mur d’incompréhension totale.
 “Mais non, **moi je ne fais aucune différence entre les hommes et les femmes !**”
