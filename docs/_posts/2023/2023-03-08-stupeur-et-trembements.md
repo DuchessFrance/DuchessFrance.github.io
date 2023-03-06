@@ -3,7 +3,7 @@ layout: "post"
 author:
   - "Duchess France"
 title: "Stupeur et tremblements : comment faire fuir les développeuses expérimentées."
-date: "2023-03-08"
+date: "2023-03-07"
 categories:
   - "coup de gueule"
   - "sexisme"
