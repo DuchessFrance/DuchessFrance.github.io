@@ -39,3 +39,4 @@ nb-configuration.xml
 *.swp
 
 
+docs/Gemfile.lock

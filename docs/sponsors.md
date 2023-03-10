@@ -6,6 +6,7 @@ permalink: /sponsors/
 
 # 2023
 
+| ![](/assets/sponsors/devoxxfr2023.jpg){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
 | ![](/assets/sponsors/kcd.svg){: width="150"} | [Kubernetes Community Days](https://kcd-france.webflow.io) | Invitation à l'espace communautaire et entrées offertes pour des Duchess |
 
 # 2022
