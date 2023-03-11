@@ -5,13 +5,13 @@ author:
 title: "Stupeur et tremblements : comment faire fuir les développeuses expérimentées."
 date: "2023-03-06"
 categories:
-  - "coup de gueule"
+  - "coup-de-gueule"
   - "sexisme"
 ---
 
 | ![ Image d'une femme coincée sous un plafond de verre](/assets/2023/03/2023-03-08-stupeur-et-tremblements/plafond-de-verre.jpg){: width="300", height="300"} | J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverai-je un jour ma place dans cette industrie ? |
 
-> **Note de la Core Team Duchess**: La personne qui a écrit ce billet a souhaité le faire de façon anonyme, nous nous sommes attachées à retirer les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne, nous vous serions reconnaissantes de garder cette information pour vous.
+> **Note de la Core Team Duchess**: La personne qui a écrit ce billet a souhaité le faire de façon anonyme, nous nous sommes attachées à retirer les éléments permettant d’identifier d’une façon ou d’une autre la personne. Si vous pensez reconnaître la personne, nous vous serions reconnaissantes de garder cette information pour vous.
 
 J’ai heurté un mur il y a quelques mois et depuis cette question revient sans cesse comme une rengaine: Trouverai-je un jour ma place dans cette industrie ? Je n’arrive pas à y répondre.
 
@@ -67,7 +67,6 @@ Je glisse au passage que toutes les personnes promues ces deux dernières année
 Je partage aussi que je trouve ça d’autant plus injuste que j’arrive au même niveau de compétences alors j’ai eu à travailler tout en gérant les enfants pendant le covid, alors que la plupart des développeurs autour de moi étaient soit sans enfant, soit avec la mère sans emploi, par choix ou cause covid, qui gérait la maison et les enfants.
 Je reçois en retour la garantie qu’il va y avoir une enquête...
 Puis j'attends, pas forcément les bras croisés.
-
 
 Parmi les personnes promues, il y avait un homme avec qui le courant passait bien : ça tombe bien il venait d’être promu au niveau que je visais !
 Après l’avoir félicité, je lui demande “Dis moi, quelles étapes tu as dû suivre pour ta promotion ?”.
@@ -148,13 +147,13 @@ De mes collègues, seuls deux d’entre eux m’ont soutenue, les autres ont jus
 Je suis fatiguée que les entreprises ne fassent pas leur devoir de formation et d’information aux biais sexistes, et ne mettent pas grand chose en place pour se prémunir des différences de traitements.
 
 - Dire à une femme qu’elle est agressive quand elle est assertive ?
-✅ Un grand classique du sexisme ordinaire.
+  ✅ Un grand classique du sexisme ordinaire.
 
 - Demander dix fois plus de compétences et pinailler sur la moindre chose pour éviter de donner une promotion à une femme ?
-✅ Un grand classique du sexisme ordinaire et du plafond de verre.
+  ✅ Un grand classique du sexisme ordinaire et du plafond de verre.
 
 - “Ne pas le sentir” mais sans vraiment de raisons factuelles ?
-✅ Un grand classique du sexisme ordinaire.
+  ✅ Un grand classique du sexisme ordinaire.
 
 Je suis fatiguée d’essayer de trouver ma voie dans une industrie qui fait tout pour me mettre des bâtons dans les roues, je suis fatiguée de voir que mes collègues masculins cherchent à tricher pour finir au plus vite les formations “diversité et inclusion”.
 Je suis fatiguée de ne pas pouvoir avoir de discussion un peu avancée sur le paternalisme, les biais, le sexisme, le féminisme parce que la plupart des personnes, des RH aux développeurs en passant par toutes les strates de management, **refusent massivement d’apprendre le vocabulaire et les concepts.**

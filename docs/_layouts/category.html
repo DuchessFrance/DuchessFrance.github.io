@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="home">
+    <section>
+        <h1 class="page-heading">{{ page.title }}</h1>
+
+        <p>{{ page.description }}</p>
+        {% for post in site.categories[page.category] %}
+            <li>
+                <a href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </li>
+        {% endfor %}
+    </section>
+</div>
