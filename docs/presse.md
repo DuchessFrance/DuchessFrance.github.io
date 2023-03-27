@@ -16,6 +16,10 @@ Cette page référence les articles de presse, vidéos, podcast ou blogs auxquel
 - 25 janvier 2023: [Webinaire CNIL - Recommandation de la CNIL sur les mots de passe, quels sont les principaux changements ? - Amandine Jambert et Rodolphe Bréard](https://www.cnil.fr/fr/revoir-le-webinaire-recommandation-de-la-cnil-sur-les-mots-de-passe-quels-sont-les-principaux)
 - 25 janvier 2023: [Post LinkedIn - citation de l'asso Duchess, Emilie Esposito](https://www.linkedin.com/feed/update/urn:li:activity:7023709480475312128?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7023709480475312128%2C7023722679631327232%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287023722679631327232%2Curn%3Ali%3Aactivity%3A7023709480475312128%29)
 
+- 7 mars 2023: Kubernetes Community Days
+    - [Vidéo Youtube - Table Ronde devOps](https://youtu.be/aHMyT70ykTk)
+    - [Vidéo Youtube - Table ronde Open Source](https://youtu.be/nZtoTYx1sPU)
+
 ## 2022
 
 - 24 jours du web (Articles):
