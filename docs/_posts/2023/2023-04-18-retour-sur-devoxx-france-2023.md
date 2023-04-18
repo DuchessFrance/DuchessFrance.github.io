@@ -55,7 +55,7 @@ Elle donne quelques tips pour capitaliser sur son journal comme :
 - Être le plus spécifique possible dans ses notes ("J'ai amélioré une procédure stockée": trop vague quand on revient dessus 6 mois après!)
 - Relire ses notes pour voir comment les améliorer dans le temps
 
-Ce talk est très complémentaire au voyage au coeur de la veille dont je parle plus bas.
+Ce talk est très complémentaire au "Voyage au coeur de la veille technologique" dont je parle plus bas.
 
 [Les slides sont déjà disponibles.](https://speakerdeck.com/sbanas/devoxx2)
 
@@ -64,7 +64,7 @@ Ce talk est très complémentaire au voyage au coeur de la veille dont je parle 
 
 On est passés de 50 propriétés CSS à l'époque de CSS1 à ... plus de 550 propriétés aujourd'hui. Raphaël Goetter, créateur d'Alsa Créations, revient sur toutes les nouveautés parfois méconnues de CSS et qui évitent pourtant bien des déboires.
 
-Un kuddo particulier pour la mention de `@layer` que je connaissais pas du tout et qui peut éviter bien des utilisations intempestives de `!important`.
+Mention particulière à la propriété `@layer` que je ne connaissais pas du tout et qui peut éviter bien des utilisations intempestives de `!important`.
 
 Sa présentation est un concentré des dernières sorties CSS et [les slides sont déjà en ligne](https://speakerdeck.com/goetter/ah-tu-peux-faire-ca-en-css-maintenant).
 
@@ -110,7 +110,7 @@ Il y avait plusieurs talks sur le *craft* (l'artisanat logiciel en bon français
 
 - **Convaincre les chefs de projets**
 
-Différents arguments ont été présentés: l'importance du pair pour former les nouvelles recrues, favoriser le partage de connaissances et l'amélioation de la qualité qu'apporterait ces pratiques.
+Différents arguments ont été présentés: l'importance du pair pour former les nouvelles recrues, favoriser le partage de connaissances et l'amélioration de la qualité qu'apporterait ces pratiques.
 
 - **Acculturer les clients**
 
@@ -122,14 +122,13 @@ A travers des rituels de partage de connaissance (conférence interne à Sopra),
 
 ## Avoir de l'impact en tant qu'Engineering Manager
 
-L'an dernier, [Dimitri Baeli](https://www.twitter.com/@dbaeli) (Staff BackMarket, cofondateur de TechRocks) avait présenté avec [Hugo Lassiège (CTO Malt)](https://twitter.com/hugolassiege) la Dual Career Ladder en grattant comment évoluer en tant que dev senior, vers le chemin du contributeur individuel
-
+L'an dernier, [Dimitri Baeli](https://www.twitter.com/@dbaeli) (Staff BackMarket, cofondateur de TechRocks) avait présenté avec [Hugo Lassiège (CTO Malt)](https://twitter.com/hugolassiege) les évolutions possibles en tant que dev senior: le contributeur individuel ou l'engineering management. C'est la *Dual Career Ladder* présentée ci-dessous.
 
 ![Dual Career Ladder - Devoxx France](/assets/2023/04/retour-sur-devoxx-france-2023/dual_career_ladder.png)
 
 [Extrait de la présentation disponible ici]( https://www.youtube.com/watch?v=X5MYKj1C2qM).
 
-Cette année, c'est la suite de l'exploration de l'autre branche, l'Engineering Management que [Dimitri Baeli](https://www.twitter.com/@dbaeli) présente avec [Benoît Guillon](https://www.twitter.com/@benoitguillon), VP Engineering chez Malt.
+L'an dernier, Dimitri et Hugo avaient présenté en détail le chemin du contributeur individuel. Cette année, [Dimitri Baeli](https://www.twitter.com/@dbaeli) présente avec [Benoît Guillon](https://www.twitter.com/@benoitguillon), VP Engineering chez Malt,  l'évolution vers la branche *l'Engineering Management*.
 
 J'en retiens surtout la boussole d'un Engineering Manager, les signaux qu'il doit surveiller :
 -  Livraisons en production basses: qu'est-ce qui freine les livraisons ?
@@ -142,11 +141,15 @@ J'en retiens surtout la boussole d'un Engineering Manager, les signaux qu'il doi
 [Stéphane Landelle](https://twitter.com/slandelle), CTO de Gatling, partage des bonnes pratiques sur les tests de montée en charge.
 
 J'en retiens surtout ces erreurs à éviter
-- Avoir un scénario de test pas assez proche de la production
-	- On peut se baser sur des valeurs
-- Tester le cache sans le savoir
-	- Toujours mettre des valeurs aléatoires pour être
-- Ne pas être focus sur les erreurs applicatives: porter une attention à la *big picture*
+
+**Avoir un scénario de test pas assez proche de la production**
+  - On peut se baser sur des valeurs qui viennent de Google Analytics pour les pages les plus visitées par exemple.
+
+**Tester le cache sans le savoir**
+  - Aller plusieurs fois sur la même page va plus tester le cache que la résilience applicative. Mettre des valeurs aléatoires permet de ne pas tester le cache.
+
+**N'être concentré que sur les erreurs applicatives**
+  - Des erreurs peuvent se produire également côté infra (load-balancer en difficulté, nginx...) : il faut porter une attention à la *big picture* de l'application.
 
 
 ## Voyage au coeur de la veille technologique
