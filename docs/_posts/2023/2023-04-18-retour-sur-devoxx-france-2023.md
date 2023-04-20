@@ -100,7 +100,7 @@ Elle partage aussi la méthode des 5 pourquoi pour identifier la cause originell
 ## Clean As You Code
 Nolwenn Cadic et [Marco Comi](https://www.twitter.com/@marcocomi85) de Sonar ont parlé de leur approche par rapport au Clean Code: ils ne réécrivent pas leur code legacy pour éviter de bloquer les releases évolutives mais s'engagent à ce que tout nouveau code doit respecter un certain standard de qualité contrôlé par les outils [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) et [SonarCloud](https://www.sonarsource.com/products/sonarcloud/) (gratuit pour les projets opensource!)
 
-J'ai découvert à travers ce talk l'outil [Git of Theseus](https://github.com/erikbern/git-of-theseus) qui permet de faire un graph de pourcentagnes de lignes de code présentes après n années.
+J'ai découvert à travers ce talk l'outil [Git of Theseus](https://github.com/erikbern/git-of-theseus) qui permet de faire un graph de pourcentages de lignes de code présentes après n années.
 
 ## Le Craft: des concepts au déploiement à l'échelle
 
