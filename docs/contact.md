@@ -6,9 +6,7 @@ permalink: /contact/
 
 ## Vous pouvez nous SUIVRE sur:
 
-- [Instagram](https://www.instagram.com/duchessfr/)
 - [Twitter](http://twitter.com/duchessfr)
-- [Facebook](https://www.facebook.com/duchessfr)
 - [LinkedIn](https://www.linkedin.com/groups/2750811)
 
 ## Pour être au coeur de l’association, échanger, débattre et partager:
@@ -27,3 +25,7 @@ Le blog Duchess France est un blog collaboratif.
 Il regroupe des articles techniques, interviews, critique de bouquins… Nous en profitons d’ailleurs pour remercier toutes nos contributrices !!
 
 Si vous souhaitez proposer un post, vous pouvez créer une PR sur [github](https://github.com/DuchessFrance/DuchessFrance.github.io/blob/main/CONTRIBUTING.md).
+
+## Rejoindre le Slack Duchess
+
+Merci de suivre les consignes détaillées dans le [Code de Conduite](https://github.com/DuchessFrance/duchessfr/blob/master/CODE_OF_CONDUCT.md#invitation-et-acc%C3%A8s-au-slack-priv%C3%A9-en-mixit%C3%A9-choisie)
