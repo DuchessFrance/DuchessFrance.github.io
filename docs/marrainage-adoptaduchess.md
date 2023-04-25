@@ -31,7 +31,7 @@ C’est une forme de coaching/mentoring très concrète dont le but est :
 ## Comment ça marche ?
 
 Pour permettre à notre communauté d'échanger, nous avons créé un espace communautaire sur slack : Duchess France; que vous pouvez rejoindre, indépendamment de votre volonté d'être marraine/filleule.  
-Pour rejoindre ce Slack, envoyez nous un MAIL à duchessfr [at] gmail.com en précisant votre poste actuel (le Slack étant réservé aux femmes de l'IT).
+Pour rejoindre ce Slack, merci de suivre les consignes détaillées dans le [Code de Conduite](https://github.com/DuchessFrance/duchessfr/blob/master/CODE_OF_CONDUCT.md#invitation-et-acc%C3%A8s-au-slack-priv%C3%A9-en-mixit%C3%A9-choisie)
 
 Les filleules y expriment leur demande de marraines. Les marraines intéressées contactent la filleule directement. Si une filleule est contactée par plusieurs marraines, elle pourra retenir celle qui l’inspire le plus.
 
@@ -43,7 +43,7 @@ Nous conseillons néanmoins une récurrence de contact minimale d’une fois tou
 
 - Toute fille/femme qui débute ou souhaite s’orienter vers une carrière technique dans l’informatique
 - Toute femme technique déjà confirmée, qui souhaite échanger avec d’autres femmes qui évoluent dans le même contexte professionnel
-- Pour chercher une marraine, il suffit de poster sur le channel Slack [#adoptaduchess](https://duchess-france.slack.com/app_redirect?channel=adoptaduchess)
+- Pour chercher une marraine, il suffit de poster sur le channel Slack #marrainage
 
 > Je suis à la recherche d’une marraine, voici les informations me concernant :
 >
@@ -58,7 +58,7 @@ Les marraines intéressées contactent la filleule en message privé sur Slack, 
 ## Qui peut devenir marraine ?
 
 - Toute femme exerçant une profession technique en informatique, quelle que soit sa spécialité, son nombre d’années d’expérience et motivée pour aider, épauler et échanger
-- Merci de l’indiquer dans la description de votre profil Slack et d’être présente sur la channel Slack [#adoptaduchess](https://duchess-france.slack.com/app_redirect?channel=adoptaduchess)
+- Merci de l’indiquer dans la description de votre profil Slack et d’être présente sur la channel Slack #marrainage
 
 ## Comment aider ?
 
