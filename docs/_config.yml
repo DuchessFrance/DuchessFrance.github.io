@@ -49,6 +49,7 @@ header_pages:
   - des-oratrices.md
   - marrainage-adoptaduchess.md
   - roles-modeles.md
+  - categories.md
   - presse.md
   - contact.md
 
@@ -59,15 +60,21 @@ collections:
   authors:
     output: true
     permalink: author/:title/
+  category:
+    output: true
+    permalink: category/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "_authors"
       type: authors
     values:
       layout: author
-
+  - scope:
+      path: "_category"
+      type: category
+    values:
+      layout: "category"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -5,18 +5,19 @@ author:
 title: "Mail inapproprié : partage d’expérience"
 date: "2022-06-20"
 categories:
-  - "coup de gueule"
+  - "coup-de-gueule"
 ---
 
 | ![Mail inapproprié : partage d’expérience](/assets/2022/06/2022-06-20-mail-inapproprie/balancoire.jpg){: width="300"} | Il était une fois, une péripétie de la vie d’une femme dans l’IT. J’ai reçu il y a quelques mois un « mail inapproprié » d’un collègue. Voici donc un petit retour d’expérience sur ce genre de situation.|
 
-> **Note de la Core Team Duchess**: La personne qui a écrit ce billet a souhaité le faire de façon anonyme, nous nous sommes attachées à retirer les éléments permettant d’identifier d’une façon ou d’une autre la  personne. Si vous pensez reconnaître la personne, nous vous serions reconnaissantes de garder cette information pour vous.
+> **Note de la Core Team Duchess**: La personne qui a écrit ce billet a souhaité le faire de façon anonyme, nous nous sommes attachées à retirer les éléments permettant d’identifier d’une façon ou d’une autre la personne. Si vous pensez reconnaître la personne, nous vous serions reconnaissantes de garder cette information pour vous.
 
 ## Le contexte
 
 Je travaille dans une petite entreprise (12 personnes) en full remote. Parfois, j’ai des déplacements chez des clients, mais souvent je travaille depuis chez moi. J’ai plus de liens avec mes collègues que je n’en ai jamais eu car nous sommes toujours connectés sur Slack en journée et parfois même en soirée.
 
 Je travaille sur une technologie open source et je suis très impliquée dans cette communauté. La limite entre ma vie professionnelle et ma vie personnelle n’est pas stricte et il m’est arrivé de travailler tard le soir ou le week-end parce que le job me plaisait.
+
 ## L’épisode
 
 Un jour, je reçois un message Slack d’un collègue me demandant s’il pouvait m’envoyer un mail sur mon adresse perso. Je considère cette adresse personnelle comme publique étant donné que je l’utilise pour mes contributions open source. J’accepte, sans savoir vraiment à quoi m’attendre, mais comme j’ai une tendance à l’optimisme, je ne m’en fais pas.
@@ -37,21 +38,24 @@ Je comprends que mon chef n’a pas compris la gravité du truc. Après 2-3 sema
 
 10 jours plus tard (et uniquement parce que j’ai relancé via un autre collègue que j’ai mis au courant entre temps), le deuxième chef me contacte par téléphone. Il m’explique (alors qu’il n’a pas connaissance du contenu du mail):
 
-* que je surréagis
-* qu’il faut comprendre le collègue, il n’a pas les codes de la vie en société
-* que certaines femmes auraient trouvé ça flatteur
-* que c’est de ma faute car je ne mets pas assez de limite avec mes collègues
-* que cette histoire est purement personnelle et que donc la société n’a pas à intervenir
+- que je surréagis
+- qu’il faut comprendre le collègue, il n’a pas les codes de la vie en société
+- que certaines femmes auraient trouvé ça flatteur
+- que c’est de ma faute car je ne mets pas assez de limite avec mes collègues
+- que cette histoire est purement personnelle et que donc la société n’a pas à intervenir
 
 Bref, la réunion de conciliation n’aura pas lieu.
 
 Puis, ce sont les vacances de Noël. Je prends une pause, souffle et décide de quitter l’entreprise. J’ai une certaine estime de moi et il est hors de question que je reste dans une entreprise qui préfère protéger un élément qui a fait une erreur plutôt que la victime.
+
 ## Mes erreurs
+
 ### Le délai de réaction
 
 J’ai fait pas mal d’erreurs dans la gestion de cette affaire et la plus grosse est de n’avoir pas réagi immédiatement. J’ai fait comme si cette histoire ne m’affectait pas (arrivant presque à me convaincre que c’était le cas). Je suis même allée chez un client avec ce collègue comme si de rien n’était.
 
 Aujourd’hui je sais qu’un tel mail nécessite une prise en charge dans les 48h maximum. De cette manière, on ne pourra pas me dire « Mais maintenant, c’est trop tard pour agir ». Oui, la prescription morale pour ce genre de faits est a priori de quelques semaines/mois… :’-(
+
 ### Minimiser les faits/Mal choisir son vocabulaire
 
 Je suis très forte en méthode Coué. En minimisant les faits, j’ai aussi tenté de minimiser leur impact sur moi. Breaking news: on ne peut pas tricher avec soi-même. Le problème c’est qu’en plus de me sentir « sale » à la lecture de ce mail, je me suis sentie ridicule de me sentir « sale ». Il faut aussi savoir accepter ses sentiments et se pardonner de les ressentir. Ça demande de se poser et de réfléchir au problème alors que comme tout problème dérangeant, on ne pense qu’à le remettre au lendemain. Quand je dis qu’il faut une réponse dans les 48 heures, cela signifie qu’il faut réellement prendre le temps de se questionner sur ce qu’on ressent.
@@ -59,11 +63,13 @@ Je suis très forte en méthode Coué. En minimisant les faits, j’ai aussi ten
 Au niveau du vocabulaire, j’ai minimisé les choses en utilisant les mots « déclaration d’amour » au lieu de « mail inapproprié » et ça change tout. La connotation de « déclaration d’amour » est positive, même si ladite déclaration est non sollicitée.
 
 Enfin, dans ce genre d’affaire, je propose de systématiquement transférer le mail au chef, même si on a honte de l’avoir reçu. C’est factuel et ça permet au chef de ne pas minimiser les choses de son côté aussi.
+
 ### Ne rien écrire
 
 Grosse erreur de ma part (trop grande confiance dans le chef): je n’ai rien fait passer par écrit. J’aurais du systématiquement doubler une discussion sur le sujet d’un mail récapitulant ce qui s’est dit et les décisions prises.
 
 Cela permet de faire en sorte que le sujet soit pris au sérieux. C’est humain, tant que ce n’est pas écrit, on n’en tient pas compte.
+
 ### Officialiser la plainte
 
 Ma communauté open source s’est dotée d’un code de conduite. Il faut porter plainte sur ce genre de fait. Systématiquement. Déjà pour qu’en cas de suite, le harcèlement puisse être caractérisé et surtout pour protéger toutes les autres femmes de tels agissements. En effet, ce n’est pas la même chose si des agissements ont lieu une fois ou plusieurs fois.
@@ -71,6 +77,7 @@ Ma communauté open source s’est dotée d’un code de conduite. Il faut porte
 De plus, je pense que le comité utilisera cet incident pour faire de la pédagogie pour mieux expliquer où est la limite.
 
 Il est également possible de déposer une main courante en police ou gendarmerie, pour la même raison. C’est à vous de voir si vous voulez aller sur ce chemin.
+
 ## Conclusion
 
 J’ai fait un certain nombre d’erreurs que je ne suis pas prête de commettre à nouveau (enfin, j’espère que la situation ne se représentera plus). Mes chefs ont également fait plusieurs erreurs qui ont entraîné ma démission. Mon ancien collègue a fait une énorme connerie et en est conscient.
