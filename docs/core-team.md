@@ -5,7 +5,7 @@ permalink: /core-team/
 ---
 
 ## La Core Team
-La team Duchess France compte 13 membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
+La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
 
 Petite présentation de celles qui font vivre Duchess France !
 
@@ -30,7 +30,7 @@ Suivez-la sur [Twitter](https://twitter.com/MiraLak).
 # Angélique JARD (HENRY)
 ![Photo d'Angélique JARD HENRY](/assets/core-team/angie-e1617697051713.jpg){: width="150"}
 
-Angélique JARD (HENRY) est développeuse depuis 2006, actuellement Senior software engineer chez [Talend](https://www.talend.com/) en full remote.
+Angélique JARD (HENRY) est développeuse depuis 2006, actuellement Senior Software Engineer chez [Talend](https://www.talend.com/) en full remote.
 Elle a à coeur de changer le monde octet par octet pour un monde meilleur, plus inclusif et accueillant.
 Le marrainage n’est pas sa tasse de thé, mais elle répond présente pour le soutien technique, technologique et moral sur le Slack Duchess avec grand plaisir.
 Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de pop/rock à ses heures libres restantes.
@@ -72,15 +72,6 @@ Au quotidien, elle est très attachée au bien-être de l’équipe.
 Ceinture noire de judo, elle aime tout ce qui est en rapport avec les arts martiaux.
 Vous pouvez la croiser en tant que bénévole au [blendwebmix](https://www.blendwebmix.com/en/).
 Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
-
-# Katia ARESTI
-![Photo de Katia ARESTI](/assets/core-team/katia_aresti.png){: width="150"}
-
-Katia Aresti est développeuse Java/Scala [open-source](https://github.com/karesti) dans l’équipe [Infinispan](https://infinispan.org/) chez RedHat.
-Elle co-organise aussi le [MongoDB User Group](https://www.meetup.com/fr-FR/Paris-MongoDB-User-Group/) à Paris depuis 2012.
-Elle intervient sur les sujets autour de Java et MongoDB sous la forme de présentations formelles, open-spaces ou workshops.
-Elle est passionnée par l’open-source, la contribution communautaire et le théâtre.
-Suivez-la sur [Twitter](https://twitter.com/karesti).
 
 # Marine GANDY
 ![Photo de Marine GANDY](/assets/core-team/MarineGandy.png){: width="150"}
@@ -133,14 +124,3 @@ Elle travaille actuellement sur les solutions d’intégration chez RedHat.
 Elle est committer dans le projet [Apache Camel](https://camel.apache.org/), auquel elle contribue activement.
 Elle est passionnée par Java, l’open source et la danse.
 Suivez-la sur [Twitter](https://twitter.com/ZinebBendhiba).
-
-# On ne le dira jamais assez, mais si vous avez envie de nous aider…
-Envoyer un petit mail a duchessfr[at]gmail.com !
-
-
-## Contributrices
-
-Le blog Duchess France est un blog collaboratif.
-Il regroupe des articles techniques, interviews, critique de bouquins… Nous en profitons d’ailleurs pour remercier toutes nos contributrices !!
-
-Si vous souhaitez proposer un post, vous pouvez créer une PR sur [github](https://github.com/DuchessFrance/DuchessFrance.github.io/blob/main/CONTRIBUTING.md).

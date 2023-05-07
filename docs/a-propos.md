@@ -4,6 +4,7 @@ author:
   - "Duchess France"
 title: "A propos"
 date: "2012-05-13"
+permalink: /a-propos/
 ---
 
 Créée en 2010, **Duchess France** est une association destinée à valoriser et promouvoir les développeuses et les femmes avec des profils technique, leur donner plus de visibilité, mais aussi à faire connaître ces métiers technique et créer de nouvelles vocations.
