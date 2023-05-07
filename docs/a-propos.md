@@ -8,9 +8,9 @@ date: "2012-05-13"
 
 Créée en 2010, **Duchess France** est une association destinée à valoriser et promouvoir les développeuses et les femmes avec des profils technique, leur donner plus de visibilité, mais aussi à faire connaître ces métiers technique et créer de nouvelles vocations.
 
-Duchess France, avant tout une communauté de technique passionné-e-s,  organise des événements techniques destinés à tous sur diverses technologies pour apprendre et partager des connaissances. Ces événements s'adressent principalement à des développeurs ou profil technique, débutant ou confirmés.
+Duchess France, avant tout une communauté de technique passionnées, organise des événements techniques destinés à toustes sur diverses technologies pour apprendre et partager des connaissances. Ces événements s'adressent principalement à despersonnes au profil technique, débutantes ou confirmées.
 
-D'autre part, l'une des mission de Duchess est de voir **plus de femmes animer des conférences**. Pour cela nous organisons d'une part des ateliers de préparation aux Call For Papers, et d'autre part des sessions de coaching pour répéter les présentations.
+D'autre part, l'une des mission de Duchess est de voir **plus de femmes animer des conférences**. Pour cela nous organisons ateliers de préparation aux Call For Papers, ainsi que des sessions de coaching pour répéter les présentations.
 
 {% include youtube.html src="https://www.youtube.com/embed/NErN6H4d7Fw" %}
 
@@ -38,7 +38,7 @@ D'autre part, l'une des mission de Duchess est de voir **plus de femmes animer d
 
 - via notre action de [marrainage #AdoptADuchess](/marrainage-adoptaduchess/) démarrée [fin 2015](/adoptaduchess-coaching-individuel-collectif-marraines-filleules-tech-it-dev/)
 
-#### Promouvoir les métiers tech et en particulier le métier de développeur/se
+#### Promouvoir les métiers tech et en particulier le métier de développeuse
 
 - participation à des forums pour parler et représenter notre métier
 
@@ -72,14 +72,8 @@ Duke a été [adapté de bien des manières](http://duke.kenai.com/) depuis, ma
 
 [sources](<http://fr.wikipedia.org/wiki/Java_(langage)>)
 
-## Des Duchesses en France
-
-<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z0KkM2GiRROg.kYdjYi4oUNC4" width="640" height="480"></iframe>
-
 ### Contributrices
 
 Le blog Duchess France est un blog collaboratif. Il regroupe des articles techniques, interviews, critique de bouquins …  Nous en profitons d’ailleurs pour remercier toutes nos contributrices !!
-
-Si vous souhaitez proposer un post, contactez-nous à duchessfr[at]gmail.com.
 
 Si vous souhaitez proposer un post, vous pouvez créer une PR sur [github](https://github.com/DuchessFrance/DuchessFrance.github.io/blob/main/CONTRIBUTING.md).
