@@ -1,54 +1,72 @@
 ---
 layout: page
 author:
-  - "Ludwine"
+  - "Duchess France"
 title: "Femmes speaker"
 date: "2014-09-15"
 ---
 
-C'est un sujet qui revient très souvent sur le tapis : aujourd'hui il est compliqué de trouver des **femmes speaker, des femmes expertes sur des sujets technique,** et trop peu de femmes postulent aux conférences ou évènement techniques de la communauté informatique.
+C'est une requête récurrente auprès de Duchess : comment trouver des **femmes speaker, des femmes expertes sur des sujets technique** ?
 
-Pour y remédier, nous avons lancé plusieurs actions ces dernières années :
+Pour y remédier, voici une liste non exhausitive de conférences, podcasts, blogs ou chaînes youtube réalisés par des Duchess, cherchez leurs noms sur votre moteur de recherche (ou bot IA)
+ préféré, vous trouverez sûrement un moyen de les contacter.
 
-\- atelier pour s'aider à rédiger les propositions et soumettre [des présentations](coup-de-coeur/coup-de-gueule/2014/06/30/atelier-de-preparation-pour-les-call-for-papers/ "Ateliers CFP") (Call For Papers)
+L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 
-\- du [coaching](http://www.meetup.com/Duchess-France-Meetup/events/221393983/) pour aider à la prise de parole
+## 2023
 
-\- des scéances de répétitions des présentations sélectionnées (Skype, Hangout)
+- 3 janvier 2023: [Vidéo youtube - Résoudre des problèmes de maths avec du code - Caribbean coder](https://youtu.be/B1MnRdPWt0w)
+- 16 janvier 2023: [Article Improved Impact - Les interviews responsables : Emmanuelle ABOAF](https://improved-impact.com/les-interviews-responsables-emmanuelle-aboaf/)
+- 11 janvier 2023: [Les PME françaises sont-elles condamnées à dépendre de Google et Microsoft ? - Aleth Gueguen](https://alethgueguen.com/les-pme-francaises-sont-elles-condamnees-a-dependre-de-google-et-microsoft)
+- 25 janvier 2023: [Webinaire CNIL - Recommandation de la CNIL sur les mots de passe, quels sont les principaux changements ? - Amandine Jambert et Rodolphe Bréard](https://www.cnil.fr/fr/revoir-le-webinaire-recommandation-de-la-cnil-sur-les-mots-de-passe-quels-sont-les-principaux)
+- 25 janvier 2023: [Post LinkedIn - citation de l'asso Duchess, Emilie Esposito](https://www.linkedin.com/feed/update/urn:li:activity:7023709480475312128?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7023709480475312128%2C7023722679631327232%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287023722679631327232%2Curn%3Ali%3Aactivity%3A7023709480475312128%29)
 
-Ci-dessous, une liste des femmes speakers, qui pour certaines se sont lancées via la communauté Duchess France.
+- Kubernetes Community Days (7 mars 2023)
+    - [Vidéo Youtube - Table Ronde devOps](https://youtu.be/aHMyT70ykTk)
+    - [Vidéo Youtube - Table ronde Open Source](https://youtu.be/nZtoTYx1sPU)
+    - [Vidéo Youtube - OpenTelemetry, JavaScript et tracing distribué - Sonia Seddiki](https://youtu.be/h0_6Q3wCZb8)
 
-**Cette liste ne demande qu'à être mise à jour...Alors n'hésitez pas à nous contacter pour que nous vous rajoutions !**
+- Mars 2023: [Vidéo youtube ParisRB - Des espaces sûrs pour les développeuses - Juliette Audema](https://youtu.be/ZFc4IaGDvsQ)
+- Mars 2023: [Pdf - livre blanc: FEMMES, NUMÉRIQUE & CYBER - Anna Pujol-Mazzini, Florence Chabanois, Isabelle Collet, Souad Boutegrabet, Sophie Viger, Emmanuelle Larroque](https://www.apssis.com/upld/2023/03-MARS/femmes%20et%20numeriques%20A_02%20WEB.pdf)
 
-Quelques femmes speakers :
+- MiXiT (13&14 avril 2023)
+  - [Vidéo - Pourquoi quitter la tech ? - Sonia Prévost](https://mixitconf.org/2023/pourquoi-quitter-la-tech-)
+  - [Vidéo - Conversations avec ChatGPT: illusion ou réalité? - Marie-Alice Blete](https://mixitconf.org/2023/conversations-avec-chatgpt-illusion-ou-realite-)
 
-- [Magali Milbergue(DaisyMoon)](http://twitter.com/MagaliMilbergue) : retour d'expérience, reconversion, culture de l'industrie, féminisme, inclusivité/diversité.
-- [Jessica Martel](http://twitter.com/jess_m_martel) : UX, gestion de projets collaboratifs, ateliers créatifs et surtout la collaboration entre les équipes tech et fonctionnelles.
-- [Marine Gandy](http://twitter.com/mupsigraphy) : PHP / Drupal / syndrome de l'imposteur, diversité de genre, monde du travail.
-- [Agnès Crepet](http://twitter.com/agnes_crepet) : Tests, Java, Agilité
-- [Aline Figoureux](http://twitter.com/afigoureux) : Java, J2EE, RIA, webmethods
-- [Amira Lakhal](http://twitter.com/MiraLak) : Big Data , Cassandra, NoSQL, scalability, Java, software crafsmanship
-- [Aurélie Vaché](https://twitter.com/aurelievache) : Google BigQuery, Big Data, Java
-- [Cécilia Bossard](https://twitter.com/CeciliaBossard) : agilité et software crafsmanship, diversité, GreenIT et éco-conception
-- [Corinne Krych](https://twitter.com/corinnekrych) : IOS, Swift, Apache Cordova
-- [Ellène Siber Dijoux](http://uneviededev.com/) : Agilité, Fier d'être développeur
-- [Florence Herrou](http://blog.ippon.fr/author/Florence_HERROU/) : Expérience utilisateur
-- [Isabelle Blasquez](https://twitter.com/iblasquez) : Agilité, Tests
-- [Katia Aresti](http://twitter.com/karesti) : MongoDB, TDD
-- [Lorie Pisicchio](https://twitter.com/LoriePisicchio) : Optimisation avec Push et JSON Patch, Server-Sent Events, Agilité, Scrum
-- [Ly-Jia Goldstein](https://twitter.com/Ly_Jia) : Software Craftsmanship, Tests
-- [Ludwine Probst](http://twitter.com/nivdul) : Machine Learning, Spark
-- [Mathilde Lemée](http://twitter.com/MathildeLemee) : big data, cache, memoryGrid, Exploratory testing
-- [Pauline Iogna](http://twitter.com/_p_a_u_l_i_n_e_) :  MongoDB Aggregation Pipeline
-- [Sameh Ben Fredj](http://www.mix-it.fr/profile/Sameh) : Internet des objets
-- [Stéphanie Hertrich](https://twitter.com/stepheUp) : Dev client (Windows 8, Windows Phone, Xamarin), Coaching technique pour startups, Initiation au code pour débutants
-- [Stéphanie Moallic](https://plus.google.com/109255135544802513030/posts) : Dev mobile, Ionic Framework
-- [Stéphanie Ouillon](http://twitter.com/steph_ouillon) : la sécurité du code
-- [Zhe LI](http://cfp.devoxx.fr/2015/speaker/zhe_li) : WebGL, Three.js
-- [Alice Barralon](http://twitter.com/@a_barralon) : Agilité, Scrum, Kanban, LeanStartup
+- Tremplin MiXiT
+  - [Vidéo - Comment les reconverties peuvent inspirer et enrichir vos équipes - Léa Coston](https://youtu.be/IkGmrCHquuk)
 
-Les sites référençant des femmes speakers à l'étranger : 
-- [http://www.devchix.com/devchix-speakers/](http://www.devchix.com/devchix-speakers/)
-- [http://www.girldevelopit.com/](http://www.girldevelopit.com/)
-- [http://highvisibilityproject.org/](http://highvisibilityproject.org/)
-- [http://articulate-network.lanyrd.com/speakers/technology/](http://articulate-network.lanyrd.com/speakers/technology/ "Women Speakers")
+- Devoxx (12, 13, 14 avril 2023)
+  - [Vidéo - Ré-architecturer vos traitements batch avec Domain-Driven Design - D. BARTAGUIZ et C MARTRAIRE](https://youtu.be/_x-z2AwkOFI)
+
+- Avril 2023: [Article - Qu'est-ce que le DevOps ? L'article pour tout savoir - Katia HIMEUR](https://blog.cockpitio.com/devops/what-is-devops/)
+
+
+
+## 2022
+
+- 24 jours du web (Articles):
+    - 2 décembre 2022: [Et si la sobriété passait par un retour aux sources ? - Lætitia Avrot](https://www.24joursdeweb.fr/2022/et-si-la-sobriete-passait-par-un-retour-aux-sources/)
+    - 4 décembre 2022: [Comment transformer un composant HTML/JS existant et accessible en version Angular ? - Emmanuelle Aboaf](https://www.24joursdeweb.fr/2022/comment-transformer-composant-accessible/)
+    - 15 décembre 2022: [Le problème avec les bootcamps - Magali Milbergue](https://www.24joursdeweb.fr/2022/le-probleme-avec-les-bootcamps/)
+    - 24 décembre 2022: [Manifeste de l’inclusion des femmes de la tech : l’empouvoirement par toutes et tous - Marcy Charollois](https://www.24joursdeweb.fr/2022/manifeste-de-linclusion-des-femmes-de-la-tech-lempouvoirement-par-toutes-et-tous/)
+    
+- 3 décembre 2022: [Article La Lutine du Web - L’(in)accessibilité est politique ! - Julie Moynat](https://www.lalutineduweb.fr/inaccessibilite-politique/)
+
+- 5 décembre 2022: [Article eiger-x - Mathilde Rigabert, le collectif sinon rien](https://www.eiger-x.com/article/mathilde-rigabert-le-collectif-sinon-rien)
+
+- 22 décembre 2022: [PodCast - IT-Security from a cryptographer's point of view with Cryptie](https://fsfe.org/news/podcast/episode-18.html)
+
+- API Days 2022: [Vidéo - Table ronde “Femmes dans la tech” - Marine Gandy, Marcy Ericka Charollois, Emmanuelle ABOAF, Gaëlle, Magali Milbergue](https://www.youtube.com/watch?v=zDme7YLo9O4)
+
+## 2018
+
+- 21 février 2018: [Article madmoizelle.com - Découvre le métier de Laïla](https://www.madmoizelle.com/job-metier-laila-developpeuse-890027)
+
+## 2017
+
+- 6 septembre 2017: [Article paru sur le site LesJeudis.com - Mathilde Lemée](https://blog.lesjeudis.com/mathilde-lemee-avant-de-creer-les-duchesses-je-navais-rencontre-quune-seule-autre-femme-developpeuse)
+
+
+- 8 mars 2010: [Podcast Les Cast Codeurs - Episode 18 - Invité special Alexis Moussine-Pouchkine de Sun France Oracle](https://lescastcodeurs.com/2010/03/17/les-cast-codeurs-podcast-episode-18-invite-special-alexis-moussine-pouchkine-de-sun-france-oracle/)
+- 3 mars 2010: [Article Création de JDuchess en France](https://blog.engineering.publicissapient.fr/2010/03/03/creation-de-jduchess-en-france/)
