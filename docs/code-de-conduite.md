@@ -14,7 +14,7 @@ La communauté Duchess France est une association destinée à valoriser, promou
 La communauté a aussi vocation à être un lieu d'incubation et de partage d'expérience d'oratrices avec pour objectif d'augmenter progressivement la présence d'oratrices dans les conférences de l'IT. 
 Cette communauté se veut être un lieu de confiance, de discussions libérées et de réseautage réservé aux femmes et personnes non binaires. Sachant que les femmes cisgenres et les femmes transgenres sont des femmes, et que la transphobie n'est pas tolérée.
 
-Certains média ou évènements sont en mixité choisie, à la discrétion de la Core Team.
+Certains médias ou évènements sont en mixité choisie, à la discrétion de la Core Team.
 
 Notre communauté se veut une expérience sans harcèlement,
 quel que soit votre genre, votre identité sexuelle,
@@ -23,7 +23,7 @@ votre handicap, votre apparence physique, votre poids,
 votre ethnie, votre religion, votre système d'exploitation,
 votre langage de programmation ou votre style d'indentation de code.
 
-Les évènements public mixtes (par exemple: meetup) sont soumis à ce code de conduite, en cas de doute sur un comportement intentionnel ou non, la priorité sera donnée au bien être des membres de la communauté.
+Les évènements publics mixtes (par exemple: meetup) sont soumis à ce code de conduite, en cas de doute sur un comportement intentionnel ou non, la priorité sera donnée au bien-être des membres de la communauté.
 Globalement, nous comptons sur la bonne volonté de tout le monde pour que les événements et discussions soient agréables pour toutes les personnes.
 
 Toutes les personnes peuvent être selon les situations un ou une alliée pour des personnes plus marginalisées.
@@ -61,7 +61,7 @@ Les sanctions sont à la discrétion de la Core Team Duchess.
 
 ### Invitation et accès au Slack privé en mixité choisie
 
-Le Slack **privé** est en mixité choisie, réservé au personnes réunissant ces deux critères:
+Le Slack **privé** est en mixité choisie, réservé aux personnes réunissant ces deux critères:
 - femmes ou personne non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
 - travaillant dans la tech, ou bien en cours de formation ou reconversion vers un métier de la tech.
 
@@ -71,9 +71,9 @@ L'invitation se fait en remplissant [ce formulaire](https://docs.google.com/form
 
 **Les discussions publiques et privées doivent permettre à toutes les personnes de se sentir en sécurité et respectées**.
 
-Afin de rester une communauté agréable voici quelques préconisations:
+Afin de rester une communauté agréable, voici quelques préconisations:
 
-Lorsque vous répondez à une personne ou une question, utilisez les thread (fil de discussions) afin de garder le canal dédié lisible.
+Lorsque vous répondez à une personne ou une question, utilisez les threads (fils de discussions) afin de garder le canal dédié lisible.
 
 Dans la mesure du possible, restez dans le sujet du premier post du thread, vous pouvez toujours initier une discussion sur un nouveau sujet dans un autre thread.
 
