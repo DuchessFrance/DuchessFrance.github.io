@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentions légales
+title: "Mentions légales"
 permalink: /mentions-legales/
 ---
 

@@ -43,7 +43,6 @@ sass:
 
 # Entrées du menu en haut à droite
 header_pages:
-  - a-propos.md
   - core-team.md
   - sponsors.md
   - des-oratrices.md
