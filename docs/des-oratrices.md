@@ -6,10 +6,10 @@ title: "Femmes speaker"
 date: "2014-09-15"
 ---
 
-C'est une requête récurrente auprès de Duchess : comment trouver des **femmes speaker, des femmes expertes sur des sujets technique,** ?
+C'est une requête récurrente auprès de Duchess : comment trouver des **femmes speaker, des femmes expertes sur des sujets technique** ?
 
-Pour y remédier, voici une liste non exhausitive de conférences, podcast, blog ou chaine youtube réalisés par des Duchess, cherchez leurs noms sur votre moteur de recherche (ou bot IA)
- préféré, vous trouverez surement un moyen de les contacter.
+Pour y remédier, voici une liste non exhausitive de conférences, podcasts, blogs ou chaînes youtube réalisés par des Duchess, cherchez leurs noms sur votre moteur de recherche (ou bot IA)
+ préféré, vous trouverez sûrement un moyen de les contacter.
 
 L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 
