@@ -47,7 +47,7 @@ D'autre part, l'une des mission de Duchess est de voir **plus de femmes animer d
 
 ## Code de conduite
 
-Ce [code de conduite](https://github.com/DuchessFrance/duchessfr/blob/master/CODE_OF_CONDUCT.md) s'applique à tout ce qui est organisé par Duchess France.
+Ce [code de conduite](https://www.duchess-france.fr/coc/) s'applique à tout ce qui est organisé par Duchess France.
 
 ## L’histoire de la création de Duchess France
 
