@@ -28,4 +28,4 @@ Si vous souhaitez proposer un post, vous pouvez créer une PR sur [github](https
 
 ## Rejoindre le Slack Duchess
 
-Merci de suivre les consignes détaillées dans le [Code de Conduite](https://github.com/DuchessFrance/duchessfr/blob/master/CODE_OF_CONDUCT.md#invitation-et-acc%C3%A8s-au-slack-priv%C3%A9-en-mixit%C3%A9-choisie)
+Merci de suivre les consignes détaillées dans le chapitre "Invitation et accès au Slack privé en mixité choisie" du [Code de Conduite](https://www.duchess-france.fr/coc/)

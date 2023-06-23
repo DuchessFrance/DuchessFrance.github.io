@@ -31,7 +31,7 @@ C’est une forme de coaching/mentoring très concrète dont le but est :
 ## Comment ça marche ?
 
 Pour permettre à notre communauté d'échanger, nous avons créé un espace communautaire sur slack : Duchess France; que vous pouvez rejoindre, indépendamment de votre volonté d'être marraine/filleule.  
-Pour rejoindre ce Slack, merci de suivre les consignes détaillées dans le [Code de Conduite](https://github.com/DuchessFrance/duchessfr/blob/master/CODE_OF_CONDUCT.md#invitation-et-acc%C3%A8s-au-slack-priv%C3%A9-en-mixit%C3%A9-choisie)
+Pour rejoindre ce Slack, merci de suivre les consignes détaillées dans le [Code de Conduite (Invitation et accès au Slack privé en mixité choisie)](https://www.duchess-france.fr/coc/)
 
 Les filleules y expriment leur demande de marraines. Les marraines intéressées contactent la filleule directement. Si une filleule est contactée par plusieurs marraines, elle pourra retenir celle qui l’inspire le plus.
 
