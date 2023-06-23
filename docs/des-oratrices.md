@@ -77,6 +77,42 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 
 - API Days 2022: [Vidéo - Table ronde “Femmes dans la tech” - Marine Gandy, Marcy Ericka Charollois, Emmanuelle ABOAF, Gaëlle, Magali Milbergue](https://www.youtube.com/watch?v=zDme7YLo9O4)
 
+- ### Devoxx France (20 - 22 avril 2022)
+  - [Vidéo - React dans tous ses états - Amélie Benoit ](https://youtu.be/4iyYhLVxruI)
+  - [Vidéo - Templates d'email: l'aventure dont vous êtes le héros - Amélie Benoit](https://youtu.be/pNavFCYWBFA)
+  - [Vidéo - Dekorate: l'outil pour deployer tes microservices sur Kubernetes - Aurea Munoz Hernandez](https://youtu.be/WqCjZIBNYHc)
+  - [Vidéo - En quête du Clean Code avec Sonar, 20 000 lieues sous un océan de code! -N. Peru et C. Villard](https://youtu.be/QwjjPp0TF6U)
+  - [Vidéo - Petit guide pratique pour commencer un design system - Cécile Freyd-Foucault](https://youtu.be/72q4e_IIGN4)
+  - [Vidéo - Rendez l'agilité aux développeur(se)s ! - Fanny KLAUK](https://youtu.be/Vo_YWAE3Pxo)
+  - [Vidéo -   Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! 🙂 -Aurélie Vache et Gaëlle Acas](https://youtu.be/CMEJxGe-VoQ)
+  - [Vidéo - Ranking de joueurs en temps réel d’un jeu multicloud avec Quarkus et Infinispan - Katia Aresti](https://youtu.be/SxaLK0HAGmo)
+  - [Vidéo -  Pourquoi vous n'attirerez et ne retiendrez pas les femmes dans vos équipes tech ! -Marcy Ericka Charollois](https://youtu.be/6g0quTQqpr8)
+  - [Vidéo -  Simplifiez vos revues de code avec le rebase interactif -Sonia Seddiki](https://youtu.be/3Z8O5IjWDEk)
+  - [Vidéo -  Intégration à l'ère du cloud avec Camel Quarkus - Zineb Bendhiba](https://youtu.be/EQH-lNUb2VY)
+  - [Vidéo -  Le (dés)amour des tests web - Florent Le Gall et Paola Ducolin](https://youtu.be/stUvCpRk7vo)
+  - [Vidéo -  Comprendre le comportement des français, c'est possible - S. Baltus-Bergamo et M. Coudert](https://youtu.be/DhsWDibtj1E)
+  - [Vidéo -  D'un hack au datamesh, l'évolution du data engineering chez Leboncoin - Simon Maurin et Stéphanie Baltus-Bergamo](https://youtu.be/ZJCOdBpwjQc)
+
+- ### Open source Experience (novembre 2022)
+  - [Vidéo - Le Libre, catalyseur de projets responsables - Agnès CRÉPET et Isabelle Huynh](https://youtu.be/RkLTSvF0gyo)
+  - [Vidéo - Comment mettre un éléphant sur un porte-conteneur en 3 mouvements ? - Laetitia AVROT](https://youtu.be/KQQArqx5Q6I)
+  - [Vidéo - Open source as-a-service : bénéfices et limites - Laetitia AVROT, Stéphane CHAPEROT, Yann Lechelle, François Goupil, Arnaud MULLER et Pierre Baudracco](https://youtu.be/cgoNS4Qv6fA)
+  - [Vidéo - Du local à l'échelle européenne, comment l'OS contribue à un numérique plus responsable - Agnès CRÉPET, Richard HANNA, Sandrine Elmi Hersi, Jean-Christophe ELINEAU et Mauna TRAIKIA](https://youtu.be/13Fz9GOMVRw)
+
+- Libre à Vous - Juin 2022: [Podcast : La diversité de genre dans les projets libres - Agnès Crepet, Anne-lise Martenot et Zineb Bendhiba](https://www.libreavous.org/146-la-diversite-de-genre-dans-les-projets-libres-soupcons-de-favoritisme-dans)
+
+## 2021
+- ### Devoxx France (29 sept - 1 oct 2021)
+  - [Vidéo - Tips pour combattre le syndrome de l'imposteur - Aurélie Vache](https://youtu.be/MGt-DpYf30g)
+  - [Vidéo - L’intelligence artificielle au secours de l’accessibilité - Aurélie Vache et Guillaume Laforge](https://youtu.be/ZGmNsTK7_k0)
+  - [Vidéo - Design de persuasion : De la séduction à l'engagement - Estelle Landry](https://youtu.be/UXj6m5bjIJk)
+  - [Vidéo - Full-remote : comment réussir à travailler en équipe ? - Lise Quesnel](https://youtu.be/3MjStBC3TU0)
+  - [Vidéo - Hello TensorFlow : 3 ateliers pour débuter avec TensorFlow 2.0 - Alexia Audevart et Philippe Antoine](https://youtu.be/hQ6pmoNZzU8)
+
+- ### Open Source Experience (novembre 2021) 
+  - [Vidéo - L’Open Source, « contributeur » essentiel au GreenIT - Agnès CRÉPET, Richard HANNA, Tristan Nitot, Véronique Torner et Cyrille Chausson](https://youtu.be/opXYMFgbocs)
+  - [Podcast - Diversité & Open Source - Constance DE QUATREBARBES, Sophie GAUTIER et Zineb BENDHIBA](https://youtu.be/xUvJBIBMfbA)
+
 ## 2018
 
 - 21 février 2018: [Article madmoizelle.com - Découvre le métier de Laïla](https://www.madmoizelle.com/job-metier-laila-developpeuse-890027)
