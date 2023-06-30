@@ -65,7 +65,7 @@ Le Slack **privé** est en mixité choisie, réservé aux personnes réunissant 
 - femmes ou personne non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
 - travaillant dans la tech, ou bien en cours de formation ou reconversion vers un métier de la tech.
 
-L'invitation se fait en remplissant [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfOe6dsvfKAxqA_cEGMsCrFpUST00pHU6YJU4utdovNSdOMQg/viewform)
+L'invitation se fait en remplissant le formulaire de la page [contact](https://www.duchess-france.fr/contact/).
 
 ### Aidez nous à garder cet espace safe, en tout temps et pour toutes
 
