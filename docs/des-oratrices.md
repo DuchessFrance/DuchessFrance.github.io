@@ -36,6 +36,10 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 - [Vidéo Youtube - Table ronde Open Source](https://youtu.be/nZtoTYx1sPU)
 - [Vidéo Youtube - OpenTelemetry, JavaScript et tracing distribué - Sonia Seddiki](https://youtu.be/h0_6Q3wCZb8)
 
+### pgDay Paris (23 mars 2023)
+- [Upgrade Postgres! - Lætitia AVROT](https://www.postgresql.eu/events/pgdayparis2023/schedule/session/4346-upgrade-postgres/)
+- [Documentation : Let’s make it better, now, together! - Sarah Haïm-Lubczanski](https://www.postgresql.eu/events/pgdayparis2023/schedule/session/4303-documentation-lets-make-it-better-now-together/)
+
 ### MiXiT (13, 14 avril 2023)
 - [Vidéo - Pourquoi quitter la tech ? - Sonia Prévost](https://mixitconf.org/2023/pourquoi-quitter-la-tech-)
 - [Vidéo - Conversations avec ChatGPT: illusion ou réalité? - Marie-Alice Blete](https://mixitconf.org/2023/conversations-avec-chatgpt-illusion-ou-realite-)
@@ -60,6 +64,9 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 - [Vidéo - Conversations avec ChatGPT : illusion ou réalité ? - Marie-Alice BLETE](https://youtu.be/Ctm7d_zqV7Q)
 - [Vidéo - Éviter les biais dans la conception de logiciels - Mélanie REVERSAT et Clémence BIC](https://youtu.be/XCUDoW9Qt8o)
 
+### PG Day France (19 - 20 juin 2023)
+- [Vidéo - Améliorons ensemble la documentation - Sarah Haïm-Lubczanski](https://www.youtube.com/live/35oUEFtLcxg?feature=share&t=6172)
+
 ## 2022
 
 - 24 jours du web (Articles):
@@ -76,6 +83,10 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 - 22 décembre 2022: [PodCast - IT-Security from a cryptographer's point of view with Cryptie](https://fsfe.org/news/podcast/episode-18.html)
 
 - API Days 2022: [Vidéo - Table ronde “Femmes dans la tech” - Marine Gandy, Marcy Ericka Charollois, Emmanuelle ABOAF, Gaëlle, Magali Milbergue](https://www.youtube.com/watch?v=zDme7YLo9O4)
+
+### PGConf.EU 2022 (25 - 28 octobre 2022)
+- [How do you put an elephant in a container in 3 steps? - Lætitia AVROT](https://www.postgresql.eu/events/pgconfeu2022/schedule/session/3987-how-do-you-put-an-elephant-in-a-container-in-3-steps/)
+- [Documentation : Let’s make it better, now, together! - Sarah Haïm-Lubczanski](https://www.postgresql.eu/events/pgconfeu2022/schedule/session/3881-documentation-lets-make-it-better-now-together/)
 
 ### Devoxx France (20 - 22 avril 2022)
 - [Vidéo - React dans tous ses états - Amélie Benoit ](https://youtu.be/4iyYhLVxruI)
