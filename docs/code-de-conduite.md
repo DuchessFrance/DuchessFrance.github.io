@@ -69,24 +69,27 @@ L'invitation se fait en remplissant le formulaire de la page [contact](https://w
 
 ### Aidez nous à garder cet espace safe, en tout temps et pour toutes
 
-**Les discussions publiques et privées doivent permettre à toutes les personnes de se sentir en sécurité et respectées**.
+L'espace communautaire du slack a été créé en non-mixité choisie afin que chacune puisse s'exprimer dans un environnement aussi sain et bienveillant que possible.  **Les discussions publiques et privées doivent permettre à toutes les personnes de se sentir en sécurité et respectées**. 
+
+C'est pourquoi nous vous demandons de respecter dans vos messages et réponses cet esprit de bienveillance. 
+
+Par ailleurs, ce slack étant un espace privé, **nous vous demandons aussi de respecter l'aspect intime des conversations qui s'y déroulent, et de ne pas les exporter de quelque façon que ce soit à l'extérieur.**
+
+Si malgré tout vous souhaitiez partager le contenu d'une conversation (exemple, pour illustrer un article), merci de demander la permission explicite aux participantes. 
 
 Afin de rester une communauté agréable, voici quelques préconisations:
 
-Lorsque vous répondez à une personne ou une question, utilisez les threads (fils de discussions) afin de garder le canal dédié lisible.
+- Lorsque vous répondez à une personne ou une question, utilisez les threads (fils de discussions) afin de garder le canal dédié lisible.
+- Dans la mesure du possible, restez dans le sujet du premier post du thread, vous pouvez toujours initier une discussion sur un nouveau sujet dans un autre thread.
+- Si une autre membre vous fait remarquer un commentaire déplacé, il est temps de s'arrêter, prendre un peu d'air et s'excuser.
+- Pensez à consulter les entêtes de canal ou descriptions, il peut y avoir des consignes spécifiques.
 
-Dans la mesure du possible, restez dans le sujet du premier post du thread, vous pouvez toujours initier une discussion sur un nouveau sujet dans un autre thread.
-
-Si une autre membre vous fait remarquer un commentaire déplacé, il est temps de s'arrêter, prendre un peu d'air et s'excuser.
-
-Pensez à consulter les entêtes de canal ou descriptions, il peut y avoir des consignes spécifiques.
-
-Particulièrement pour les offres d’emploi sur les channel **#emploi**, pensez bien:
+Particulièrement pour les offres d’emploi sur les channel **#emploi**, pensez bien à:
 - indiquer le **lieu** de l’offre
 - indiquer la possibilité de **télétravail**
 - utiliser une formulation **au minimum neutre en genre**, ou inclusive (développeur ou développeuse) ou encore entièrement au féminin.
 
-En cas de doutes, vous pouvez toujours poser vos questions sur le **canal #ask-the-core-team** ou en message direct avec une des personnes de la Core Team.
+En cas de doute, vous pouvez toujours poser vos questions sur le **canal #ask-the-core-team** ou en message direct avec une des personnes de la Core Team.
 
 ## Références
 
