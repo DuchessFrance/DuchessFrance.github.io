@@ -6,8 +6,7 @@ title: "Communiqué de la Core Team"
 date: "2023-07-24"
 ---
 
-Des informations partielles sont exposées sur l’espace public vis à vis de l’association Duchess
-Ce billet de blog vise à expliciter l’avis et le positionnement de la core team Duchess.
+| ![Logo Duchess](/assets/DUCHESS_logo.png){: width="300"} | Des informations partielles sont exposées sur l’espace public vis à vis de l’association Duchess Ce billet de blog vise à expliciter l’avis et le positionnement de la core team Duchess. |
 
 ## Qu’est ce que la core team ?
 
