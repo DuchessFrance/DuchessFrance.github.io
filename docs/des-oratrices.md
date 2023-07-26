@@ -30,6 +30,7 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 - Mai 2023: [Vidéo - Le handicap au travail - Emmanuelle ABOAF](https://www.linkedin.com/posts/shirley-almosni-chiche_face-%C3%A0-face-entretien-avec-emmanuelle-aboaf-activity-7062816103269310464-dDGL?utm_source=share&utm_medium=member_ios)
 - Juin 2023: [Article Challenge - Syndrome de l’imposteur, blagues sexistes : la tech encore hostile aux codeuses - Avec des Duchess mais on dira pas qui 😁](https://www.challenges.fr/femmes/syndrome-de-l-imposteur-blagues-sexistes-la-tech-encore-hostile-aux-codeuses_857642)
 - Juin 2023: [Podcast Punkin Dev - S03E12 : Dev? Lead? Architecte? Non! ARCHIDEV - Céline Louvet](https://smartlink.ausha.co/punkindev/s03e12-dev-lead-architecte-non-archidev-avec-celine-louvet)
+- Juin 2023: [Webinar Promyze - Crafter de meilleures UI en pensant le DOM comme un API - HTML et CSS sont-ils de vrais langages de programmation - Manon Carbonnel, Cédric Teyton](https://youtu.be/_0-ZyuY0xdA)
 
 ### Kubernetes Community Days (7 mars 2023)
 - [Vidéo Youtube - Table Ronde devOps](https://youtu.be/aHMyT70ykTk)
