@@ -85,6 +85,14 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 
 - API Days 2022: [Vidéo - Table ronde “Femmes dans la tech” - Marine Gandy, Marcy Ericka Charollois, Emmanuelle ABOAF, Gaëlle, Magali Milbergue](https://www.youtube.com/watch?v=zDme7YLo9O4)
 
+### BDX I/O (décembre 2022)
+- [Vidéo - Pourquoi vous n'attirerez et ne retiendrez pas les femmes dans vos équipes tech ! - Marcy Ericka Charollois](https://www.youtube.com/watch?v=0BsP06iB45Y&list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&index=1)
+- [Vidéo - Comment inclure l’inclusivité dès les premières étapes de conception - Noémie M. Rivière](https://www.youtube.com/watch?v=KNlVkRs9a94&list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&index=14)
+- [Vidéo - Contribuer à l'Open Source ? Yes, you can! - Anne-Laure Gaillard](https://www.youtube.com/watch?v=gyhR5m4RgyE&list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&index=21)
+- [Vidéo - Le numérique c’est pour tout le monde… ou pas ! - Iris Naudin et Cécile Freyd-Foucault](https://www.youtube.com/watch?v=frGCk8krkbo&list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&index=39)
+- [Vidéo - Comment débuter dans l'accessibilité numérique ? - Emmanuelle Aboaf](https://www.youtube.com/watch?v=pFSPucIDmRM&list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&index=41)
+- [Vidéo - Keynote de fermeture - La pensée visuelle a changé ma vie - Ane Diaz de Tuesta, Aurélie Vache, Horacio Gonzalez & Pierre Tibulle](https://www.youtube.com/watch?v=ifXy9jRLWl8&list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&index=42)
+
 ### PGConf.EU 2022 (25 - 28 octobre 2022)
 - [How do you put an elephant in a container in 3 steps? - Lætitia AVROT](https://www.postgresql.eu/events/pgconfeu2022/schedule/session/3987-how-do-you-put-an-elephant-in-a-container-in-3-steps/)
 - [Documentation : Let’s make it better, now, together! - Sarah Haïm-Lubczanski](https://www.postgresql.eu/events/pgconfeu2022/schedule/session/3881-documentation-lets-make-it-better-now-together/)
