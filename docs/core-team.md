@@ -17,16 +17,6 @@ Elle a également co-fondé en France la société [Ninja Squad](https://ninja-s
 Elle est  co-fondatrice de la conférence [MiXiT](https://mixitconf.org/en/) qui oeuvre pour plus de diversité et de prise de conscience éthique dans le monde de la Tech.
 Suivez-la sur [Twitter](https://twitter.com/agnes_crepet).
 
-# Amira LAKHAL
-![Photo d'Amira LAKHAL](/assets/core-team/amira_lakhal.png){: width="150"}
-
-Amira LAKHAL est Java Champion et développeuse chez Actyx.
-Elle est passionnée par l’agilité et les langages fonctionnels.
-Elle s’intéresse aussi aux problématiques de Big Data et diverses solutions de stockage des données volumineuses.
-Elle a animé des conférences sur la base NoSql Cassandra.
-Elle aide aussi à la mise en avant des femmes dans l’IT.
-Suivez-la sur [Twitter](https://twitter.com/MiraLak).
-
 # Angélique JARD (HENRY)
 ![Photo d'Angélique JARD HENRY](/assets/core-team/angie-e1617697051713.jpg){: width="150"}
 
@@ -36,24 +26,6 @@ Le marrainage n’est pas sa tasse de thé, mais elle répond présente pour le 
 Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de pop/rock à ses heures libres restantes.
 Suivez-la sur [Twitter](https://twitter.com/aHenryJard).
 Suivez-la sur [Github](https://github.com/aHenryJard).
-
-# Aurélie VACHE
-![Photo d'Aurélie VACHE](/assets/core-team/aurelie_vache_400x400.jpg){: width="150"}
-
-Aurélie VACHE est DevRel chez [OVHcloud](https://www.ovhcloud.com/fr/) à Toulouse.
-Elle est GDE (Google Developer Expert) Cloud, Docker captain & CNCF Ambassador.
-Dans le Développement et l'Ops depuis plus de 15 ans.
-Elle est organisatrice de conférences et de meetups (Toulouse Data Science, [Le Camping des Speakers](https://camping-speakers.fr/)).
-Elle est également speakeuse, sketchnoteuse, rédactrice d’articles & relectrice de livres techniques.
-Suivez-la sur [Twitter](https://twitter.com/aurelievache).
-
-# Ellène DIJOUX SIBER
-![Photo d'Ellène DIJOUX](/assets/core-team/ellene_dijoux.png){: width="150"}
-
-Ellène Dijoux Siber est lead dev chez Quicksign.
-Elle est une membre active de Duchess France et a fait partie de l’équipe d’organisation de la conférence [Agile France](https://conference-agile.fr/) en 2013.
-Passionnée par le dessin, elle tient également un [blog](https://uneviededev.wordpress.com/) où elle dessine le quotidien des développeurs.
-Suivez-la sur [Twitter](https://twitter.com/ElleneSiber).
 
 # Florence CHABANOIS
 ![Photo de Florence CHABANOIS](/assets/core-team/fchabanois.jpg){: width="150"}
@@ -67,25 +39,15 @@ Suivez-la sur [Twitter](https://twitter.com/fchabanois) ou [LinkedIn](https://ww
 # Joanna LACANTE
 ![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}
 
-Joanna Lacante est intégratrice web et TV chez [norsys](https://www.norsys.fr/), 9 ans à Lille et depuis 2017 à Lyon.
+Joanna Lacante est intégratrice web chez [Shipfix](https://www.shipfix.com) en full remote.
 Au quotidien, elle est très attachée au bien-être de l’équipe.
-Ceinture noire de judo, elle aime tout ce qui est en rapport avec les arts martiaux.
-Vous pouvez la croiser en tant que bénévole au [blendwebmix](https://www.blendwebmix.com/en/).
+Vous pouvez la croiser en tant que bénévole dans divers évènements tech sur Lyon.
 Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
-
-# Marine GANDY
-![Photo de Marine GANDY](/assets/core-team/MarineGandy.png){: width="150"}
-
-Marine Gandy est DevRel Engineer chez [Platform.sh](https://platform.sh). Issue d'une reconversion après sa licence
-d'anglais, elle découvre Drupal dès son alternance et s'investit depuis dans la communauté francophone. Elle est
-actuellement présidente de l'Assocation Drupal France et Francophonie. Entre les répètes de son groupe et les parties de
-JDR, le temps libre se fait rare et est dédié à ses proches et son chat.
-Suivez-la sur [Twitter](https://twitter.com/mupsigraphy) ou [LinkedIn](https://www.linkedin.com/in/marinegandy/).
 
 # Mathilde LEMEE
 ![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}
 
-Mathilde Lemée est développeur Java en freelance.
+Mathilde Lemée est développeuse Java en freelance.
 Elle a crée le projet [FluentLenium](https://github.com/FluentLenium/FluentLenium), wrapper autour de Selenium et a fait plusieurs missions autour du bigdata (terracotta, bigmemory …).
 Elle a co-fondé les Duchess France pour connecter et rendre visible les femmes travaillant dans le monde Java.
 Elle a également lancé un studio de jeu mobile ludo-éducatif, [Aetys](http://www.aetys.fr/).
@@ -96,7 +58,7 @@ Suivez-la sur [Twitter](https://twitter.com/MathildeLemee).
 
 Pauline Iogna est "Java/Scala Developer".
 Elle est aussi enseignante vacataire à l’Université Paris-Est Marne-la-Vallée.
-Pendent son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
+Pendant son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
 Suivez-la sur [Twitter](https://twitter.com/pauline_io).
 
 # Valériane VENANCE
@@ -115,12 +77,3 @@ Véronique Bonnefond, située à Lyon, est lead développeuse chez [Altair](http
 Elle se spécialise sur ReactJS.
 Elle est très attachée au travail soigné tant au niveau du code que du rendu visuel.
 Suivez-la sur son [Twitter](https://twitter.com/bonnefondvero).
-
-# Zineb BENDHIBA
-![Photo de Zineb BENDHIBA](/assets/core-team/zineb-1-300x300.jpg){: width="150"}
-
-Zineb BENDHIBA est développeuse depuis 2008, principalement sur la technologie Java.
-Elle travaille actuellement sur les solutions d’intégration chez RedHat.
-Elle est committer dans le projet [Apache Camel](https://camel.apache.org/), auquel elle contribue activement.
-Elle est passionnée par Java, l’open source et la danse.
-Suivez-la sur [Twitter](https://twitter.com/ZinebBendhiba).
