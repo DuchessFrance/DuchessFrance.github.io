@@ -24,7 +24,7 @@ Angélique JARD (HENRY) est développeuse depuis 2006, actuellement Senior Softw
 Elle a à coeur de changer le monde octet par octet pour un monde meilleur, plus inclusif et accueillant.
 Le marrainage n’est pas sa tasse de thé, mais elle répond présente pour le soutien technique, technologique et moral sur le Slack Duchess avec grand plaisir.
 Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de pop/rock à ses heures libres restantes.
-Suivez-la sur [Twitter](https://twitter.com/aHenryJard).
+Suivez-la sur [LinkedIn](https://www.linkedin.com/in/angelique-henry/).
 Suivez-la sur [Github](https://github.com/aHenryJard).
 
 # Florence CHABANOIS
