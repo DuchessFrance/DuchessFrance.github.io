@@ -11,7 +11,7 @@ permalink: /contact/
 
 ## Pour être au coeur de l’association, échanger, débattre et partager:
 
-Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Meetup Duchess France](http://www.meetup.com/Duchess-France-Meetup/about/).
+Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Meetup Duchess France](https://www.meetup.com/fr-FR/duchess-france-meetup/).
 
 Les offres d’emploi qui sont régulièrement proposées à notre communauté sont regroupées dans le channel slack #emploi
 
