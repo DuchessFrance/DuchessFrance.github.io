@@ -36,7 +36,7 @@ Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de 
 
 Cécilia Bossard est développeuse depuis près de 20 ans. Elle occupe actuellement le poste de consultante senior chez Shodo Nantes. Après un passage dans le monde de l’agilité, elle est revenue au développement en s’intéressant au mouvement Craft. Elle est d’ailleurs co-organisatrice du meetup Software Crafters nantais. Elle aime partager et échanger aves les communautés et a été pendant longtemps investie dans les coding goûters et les Devoxx4Kids. Vous pouvez la croiser en conférences ou en meetups en tant qu’oratrice ou participante.
 
-- Suivez-la sur [Mastodon](http://%40cbossard@piaille.fr/)
+- Suivez-la sur [Mastodon](https://cbossard@piaille.fr/@cbossard)
 
 ### Fanelli OTTO
 ![Photo de Fanelli Otto](/assets/core-team/fanelli.jpg){: width="150"}
