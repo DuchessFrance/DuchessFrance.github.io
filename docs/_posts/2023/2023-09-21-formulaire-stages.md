@@ -16,9 +16,13 @@ Vous pouvez le retrouver dès à présent sur la page de [contact](https://www.d
 
 # Pourquoi uniquement des offres juniors et formation ? Et les seniors alors ?
 
-**50% des femmes quittent la tech avant leurs 35 ans** ([référence 1](https://www.developpez.com/actu/309332/La-moitie-des-femmes-dans-l-IT-quittent-leur-emploi-avant-35-ans-selon-une-enquete-dont-la-majorite-des-repondantes-designent-la-culture-d-entreprise-non-inclusive-comme-la-cause/), [référence 2](https://welovedevs.com/fr/articles/la-moitie-des-femmes-dans-lit-quittent-leur-emploi-apres-35-ans/)). Donc les seniors ne sont pas nombreuses, et lorsqu'on me pose la question en général je répond qu'il faut les "piquer" aux autres entreprises, et travailler activement à garder celles que vous avez déjà. Mon ressenti c'est que les seniors fonctionnent principalement avec leur réseaux, pour s'assurer entre autres que la future entreprise est très probablement une vrai safe place. Donc ça nous demanderai beaucoup de travail de relecture, pour une efficacité très faible de toute façon.
+**50% des femmes quittent la tech avant leurs 35 ans** ([référence 1](https://www.developpez.com/actu/309332/La-moitie-des-femmes-dans-l-IT-quittent-leur-emploi-avant-35-ans-selon-une-enquete-dont-la-majorite-des-repondantes-designent-la-culture-d-entreprise-non-inclusive-comme-la-cause/), [référence 2](https://welovedevs.com/fr/articles/la-moitie-des-femmes-dans-lit-quittent-leur-emploi-apres-35-ans/)). Donc les seniors ne sont pas nombreuses, et lorsqu'on me pose la question en général je répond qu'il faut les "piquer" aux autres entreprises, et travailler activement à garder celles que vous avez déjà.
+Mon ressenti c'est que les seniors fonctionnent principalement avec leur réseaux, pour s'assurer entre autres que la future entreprise est très probablement une vrai safe place.
+Donc ça nous demanderai beaucoup de travail de relecture, pour une efficacité très faible de toute façon.
 
-Ce que je constate de façon très empirique c'est qu'aujourd'hui les femmes arrivent principalement par la reconversion, et souvent même en suivant plusieurs cursus de reconversion. Or le plus gros frein pour ces personnes ultra motivée c'est de trouver des entreprises qui proposent des stages, des contrat d'alternance ou des premiers emploi. Je pense qu'il y a une expérience de moyen et long terme à tenter: prenez des juniors, et quand elle se sentiront bien il y a des chances qu'elles ramènent des seniors par leurs réseaux.
+Ce que je constate de façon très empirique c'est qu'aujourd'hui les femmes arrivent principalement par la reconversion, et souvent même en suivant plusieurs cursus de reconversion.
+Or le plus gros frein pour ces personnes ultra motivée c'est de trouver des entreprises qui proposent des stages, des contrat d'alternance ou des premiers emploi.
+Je pense qu'il y a une expérience de moyen et long terme à tenter: prenez des juniors, et quand elle se sentiront bien il y a des chances qu'elles ramènent des seniors par leurs réseaux.
 
 # Où puis trouver encore plus d'informations ?
 
