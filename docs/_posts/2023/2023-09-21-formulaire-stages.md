@@ -2,16 +2,15 @@
 layout: "post"
 author:
   - "angelique"
-title: "Où sont les femmes ??"
+title: "Où sont les femmes 🎤🎶 ?"
 date: "2023-09-21"
 ---
 
-# Où sont les femmes 🎤🎶 ?
+| ![Logo Duchess](/assets/2023/09/formulaire-stage-image.jpg){: width="300"} | Ou sont les femmes (sous entendu dans la tech) ?? Comment en recruter ?? Comment peut on aider ??? |
 
-Ou sont les femmes (sous entendu dans la tech) ?? Comment en recruter ?? Comment peut on aider ???
 Combien de fois m'a ton directement ou indirectement posé ces questions ? Des dizaines de fois, tonnerre de Zeus !
 
-Et bien à partir d'aujourd'hui Duchess permet une nouvelle façon de répondre à ces questions de façon pragmatique: en fournissant un moyen de passer les offres de stages, d'alternance et de premier emploi sur le Slack de la communauté Duchess même si vous n'en faites pas partie.
+Et bien à partir d'aujourd'hui Duchess permet une nouvelle façon de répondre à ces questions de façon pragmatique: en fournissant un formulaire pour passer les offres de stages, d'alternance et de premier emploi sur le Slack de la communauté Duchess.
 
 Vous pouvez le retrouver dès à présent sur la page de [contact](https://www.duchess-france.fr/contact/).
 
@@ -34,3 +33,6 @@ Je remet quelques liens vers des ressources permettant d'appréhender le sujet d
 Et les mises en situation: ça peut arriver dans n'importe quelle entreprise, et vous, comment réagiriez vous ?
 - [Mail inapproprié : partage d’expérience](https://www.duchess-france.fr/coup%20de%20gueule/2022/06/20/mail-inapproprie.html)
 - [Stupeur et tremblements : comment faire fuir les développeuses expérimentées.](https://www.duchess-france.fr/coup%20de%20gueule/sexisme/2023/03/06/stupeur-et-trembements.html)
+
+
+*Source de l'image [sur Pixabay](https://pixabay.com/photos/cyber-security-network-internet-2366904/)*
