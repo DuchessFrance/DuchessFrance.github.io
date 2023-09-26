@@ -15,7 +15,7 @@ Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [M
 
 ## Vous souhaitez proposer une offre de stage, d'alternance ou de premier emploi
 
-Merci de remplir [ce formulaire](https://forms.gle/xEoJRhvBogupMabp6), les offres seront partagée sur le Slack de la communauté.
+Merci de remplir [ce formulaire](https://forms.gle/xEoJRhvBogupMabp6), les offres seront partagées sur le Slack de la communauté.
 
 ## Vous souhaitez rejoindre le Slack Duchess
 
