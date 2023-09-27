@@ -13,7 +13,15 @@ permalink: /contact/
 
 Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Meetup Duchess France](https://www.meetup.com/fr-FR/duchess-france-meetup/).
 
-Les offres d’emploi qui sont régulièrement proposées à notre communauté sont regroupées dans le channel slack #emploi
+## Vous souhaitez proposer une offre de stage, d'alternance ou de premier emploi
+
+Merci de remplir [ce formulaire](https://forms.gle/xEoJRhvBogupMabp6), les offres seront partagées sur le Slack de la communauté.
+
+## Vous souhaitez rejoindre le Slack Duchess
+
+Le Slack est en non mixité choisie, les raisons sont [sur ce billet de blog](https://www.duchess-france.fr/communication/women/2022/04/02/aurevoir-slack-public.html)
+
+Après avoir lu le [Code de Conduite](https://www.duchess-france.fr/coc/), si vous pensez correspondre au profil vous pouvez remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfOe6dsvfKAxqA_cEGMsCrFpUST00pHU6YJU4utdovNSdOMQg/viewform)
 
 ## Vous souhaitez contacter la Core Team Duchess:
 
@@ -26,8 +34,4 @@ Il regroupe des articles techniques, interviews, critique de bouquins… Nous en
 
 Si vous souhaitez proposer un post, vous pouvez créer une PR sur [github](https://github.com/DuchessFrance/DuchessFrance.github.io/blob/main/CONTRIBUTING.md).
 
-## Rejoindre le Slack Duchess
 
-Le Slack est en non mixité choisie.
-
-Merci de lire le [Code de Conduite](https://www.duchess-france.fr/coc/), puis de remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfOe6dsvfKAxqA_cEGMsCrFpUST00pHU6YJU4utdovNSdOMQg/viewform)
