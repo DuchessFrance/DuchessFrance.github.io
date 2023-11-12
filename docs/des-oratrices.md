@@ -19,6 +19,7 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 
 ## 2023
 
+- 17 octobre 2023: [Vidéo youtube - Anniversaire 13 ans Duchess France chez leboncoin consacré à l'IA - Ludi Akue, Maud Sonet, Emmanuelle Aboaf et Thanh Lan Doublier](https://www.youtube.com/watch?v=WxAoirvcoKg)
 - 3 janvier 2023: [Vidéo youtube - Résoudre des problèmes de maths avec du code - Caribbean coder](https://youtu.be/B1MnRdPWt0w)
 - 16 janvier 2023: [Article Improved Impact - Les interviews responsables : Emmanuelle ABOAF](https://improved-impact.com/les-interviews-responsables-emmanuelle-aboaf/)
 - 11 janvier 2023: [Les PME françaises sont-elles condamnées à dépendre de Google et Microsoft ? - Aleth Gueguen](https://alethgueguen.com/les-pme-francaises-sont-elles-condamnees-a-dependre-de-google-et-microsoft)

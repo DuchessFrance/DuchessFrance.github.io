@@ -6,6 +6,8 @@ permalink: /sponsors/
 
 # 2023
 
+| ![](/assets/sponsors/logo-microsoft.png){: width="150"} | [Microsoft](https://www.microsoft.com/fr-fr/) | Formation IA offerte: session d'une demi-journée dans les locaux de Microsoft pour 25 personnes de la communauté |
+| ![](/assets/sponsors/logo-leboncoin.jpeg){: width="150"} | [Leboncoin](https://www.leboncoin.fr/) | Accueil de la soirée anniversaire des 13 ans de Duchess France, captation vidéo, buffet et gateau offert |
 | ![](/assets/sponsors/nego-training.png){: width="150"} | [Audencia](https://negotraining.org) | 3 sessions de formations de 12 Duchess à la négociation salariale |
 | ![](/assets/sponsors/logo-delicious.png){: width="150"} | [Delicious Insights](https://delicious-insights.com) | 1 places offertes pour 4j de formation Nodejs |
 | ![](/assets/sponsors/logo-delicious.png){: width="150"} | [Delicious Insights](https://delicious-insights.com) | 2 places offertes pour 1 journée de workshop |
