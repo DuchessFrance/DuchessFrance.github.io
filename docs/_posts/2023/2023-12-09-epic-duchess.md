@@ -8,7 +8,7 @@ categories:
   - "fun"
 ---
 
-| ![Quand les gentes dames du code batifollent avec l'IA](/assets/2023/12/epic-duchess.png){: width="300"} | Quand les gentes dames du code batifollent avec l'IAn c'est épique. |
+| ![Quand les gentes dames du code batifollent avec l'IA](/assets/2023/12/epic-duchess.png){: width="300"} | Quand les gentes dames du code batifollent avec l'IA, c'est épique. |
 
 Humblement, mes seigneurs et dames, si votre quête de connaissance et d'alliance vous pousse à approfondir vos liens avec ces illustres duchesses épiques, sachez que même dans le royaume numérique, leurs présences se manifestent.
 En ce lieu virtuel qu'on nomme "LinkedIn", où les esprits éclairés et les stratèges modernes convergent, vous trouverez les profils éminents de ces dames d'une époque révolue.
