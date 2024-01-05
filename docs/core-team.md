@@ -10,8 +10,8 @@ La team Duchess France compte plusieurs membres actives qui gèrent l’associat
 | ---- | ---- | ---- | ---- | --- |
 |![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|
 | [Agnès CREPET](#agnes_crepet) | [Angélique JARD](#angelique_jard) | [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) | [Mathilde LEMEE](#mathilde_lemee) |
-|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}| | |
-| [Pauline IOGNA](#pauline_iogna) | [Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) | | |
+|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}| |
+| [Muriel LUSSEAU](#muriel_lusseau) | [Pauline IOGNA](#pauline_iogna) | [Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) |
 
 ### <a name="agnes_crepet"></a>Agnès CREPET
 ![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}
@@ -54,6 +54,14 @@ Elle a crée le projet [FluentLenium](https://github.com/FluentLenium/FluentLeni
 Elle a co-fondé les Duchess France pour connecter et rendre visible les femmes travaillant dans le monde Java.
 Elle a également lancé un studio de jeu mobile ludo-éducatif, [Aetys](http://www.aetys.fr/).
 - Suivez-la sur [Twitter](https://twitter.com/MathildeLemee).
+
+### <a name="muriel_lusseau"></a>Muriel LUSSEAU
+![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}
+
+Muriel Lusseau est développeuse backend senior, son language de prédilection est le PHP.
+Ancienne membre du bureau de l'[AFUP](https://afup.org/) (Association française des utilisateurs de PHP), vous pouvez la croiser dans divers évènements tech sur Paris.
+
+- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/muriel-l).
 
 ### <a name="pauline_iogna"></a>Pauline IOGNA
 ![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}
