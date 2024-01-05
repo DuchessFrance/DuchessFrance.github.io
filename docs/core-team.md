@@ -8,10 +8,10 @@ permalink: /core-team/
 La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
 
 | ---- | ---- | ---- | ---- | --- |
-|![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Fanelli Otto](/assets/core-team/fanelli.jpg){: width="150"}| ![Photo de Florence CHABANOIS](/assets/core-team/fchabanois.jpg){: width="150"}|
-| Agnès CREPET | Angélique JARD | Cécilia BOSSARD | Fanelli OTTO | Florence CHABANOIS |
-|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}|
-| Joanna LACANTE | Mathilde LEMEE | Pauline IOGNA | Valériane VENANCE | Véronique BONNEFOND |
+|![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|
+| Agnès CREPET | Angélique JARD | Cécilia BOSSARD | Joanna LACANTE | Mathilde LEMEE |
+|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}| | |
+| Pauline IOGNA | Valériane VENANCE | Véronique BONNEFOND | | |
 
 ### Agnès CREPET
 ![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}
@@ -37,23 +37,6 @@ Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de 
 Cécilia Bossard est développeuse depuis près de 20 ans. Elle occupe actuellement le poste de consultante senior chez Shodo Nantes. Après un passage dans le monde de l’agilité, elle est revenue au développement en s’intéressant au mouvement Craft. Elle est d’ailleurs co-organisatrice du meetup Software Crafters nantais. Elle aime partager et échanger aves les communautés et a été pendant longtemps investie dans les coding goûters et les Devoxx4Kids. Vous pouvez la croiser en conférences ou en meetups en tant qu’oratrice ou participante.
 
 - Suivez-la sur [Mastodon](https://cbossard@piaille.fr/@cbossard)
-
-### Fanelli OTTO
-![Photo de Fanelli Otto](/assets/core-team/fanelli.jpg){: width="150"}
-
-Fanelli est développeuse Full stack sénior chez Cylao, elle développe depuis plus de 15 ans et bénéficie d'une expérience en management ainsi que d'une appétence pour la communication interne et externe.
-Dans son temps libre elle apprécie la fabrication de diverses choses avec ses mains.
-- Suivez la sur [LinkedIn](https://www.linkedin.com/in/fanelli-otto-4bb9574/)
-
-### Florence CHABANOIS
-![Photo de Florence CHABANOIS](/assets/core-team/fchabanois.jpg){: width="150"}
-
-Florence Chabanois est Deputy CTO et Data Protection Officer chez Groupe La Centrale.
-Elle s’intéresse au management, à l’agilité et à la tech.
-Membre des Duchess et de Tech Rocks, elle donne parfois des conférences (Mix-IT, Agile France, Blendwebmix).
-Elle dégage du temps pour participer à des podcasts pour qu’on entende aussi des voix de femmes dans le milieu de la tech.
-- Suivez-la sur [Twitter](https://twitter.com/fchabanois)
-- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/florencechabanois/).
 
 ### Joanna LACANTE
 ![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}
