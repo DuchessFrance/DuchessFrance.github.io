@@ -44,12 +44,6 @@ la liste est mise à jour sur [La page Team Duchess](http://www.duchess-france.f
 Certaines membres de la Core Team affichent un bandeau sur leur photo dans Slack pour que vous puissiez les reconnaître,
 et sont présentes sur Slack, canal **#ask-the-core-team**.
 
-En direct:
-- Pour les évènements en personnes, les organisatrices sur place
-- Angélique sur Slack
-- Florence sur [LinkedIn](https://www.linkedin.com/in/florencechabanois/)
-- Zineb sur [twitter](https://twitter.com/ZinebBendhiba)
-
 ## Sanctions possibles
 
 Si vous ne vous sentez pas en sécurité d’une quelconque façon, vous pouvez contacter une personne de la [Core Team Duchess](http://www.duchess-france.fr/core-team/). 
