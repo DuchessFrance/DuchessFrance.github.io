@@ -4,6 +4,11 @@ title: Nos sponsors
 permalink: /sponsors/
 ---
 
+# 2024
+
+| ![](/assets/sponsors/scalaio.webp){: width="150"} | [Scala.IO](https://scala.io/) | 3 places offertes à la communauté |
+| ![](/assets/sponsors/devoxxfr2024.png){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
+
 # 2023
 
 | ![](/assets/sponsors/nego-training.png){: width="150"} | [Audencia](https://negotraining.org) | 3 sessions de formations de 12 Duchess à la négociation salariale |
