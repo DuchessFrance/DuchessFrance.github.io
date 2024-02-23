@@ -12,7 +12,7 @@ permalink: /sponsors/
 # 2023
 
 | ![](/assets/sponsors/nego-training.png){: width="150"} | [Audencia](https://negotraining.org) | 3 sessions de formations de 12 Duchess à la négociation salariale |
-| ![](/assets/sponsors/logo-delicious.png){: width="150"} | [Delicious Insights](https://delicious-insights.com) | 1 places offertes pour 4j de formation Nodejs |
+| ![](/assets/sponsors/logo-delicious.png){: width="150"} | [Delicious Insights](https://delicious-insights.com) | 1 place offerte pour 4j de formation Nodejs |
 | ![](/assets/sponsors/logo-delicious.png){: width="150"} | [Delicious Insights](https://delicious-insights.com) | 2 places offertes pour 1 journée de workshop |
 | ![](/assets/sponsors/logo_newcrafts.png){: width="150"} | [NewCrafts Paris](https://ncrafts.io/) | Entrées offertes pour cinq Duchess |
 | ![](/assets/sponsors/devoxxfr2023.jpg){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
