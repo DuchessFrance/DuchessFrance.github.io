@@ -57,8 +57,6 @@ Go for it! The best way to learn more and progress is to actually find a job.
 
 ## 3) Fake it until you make it
 
-![Image de chat qui se voit lion dans un mirroir](/assets/2022/03/2022-03-12-career-transition-8-tips-tricks-to-land-that-first-tech-job-in-a-start-up/photo3.jpeg)
-
 Transitioning often comes with a nice little package: imposter syndrome. But you need to convince yourself you have enough skills and knowledge for a junior position, because it is very often the case, provided you keep working and progressing steadily.
 
 Women especially tend to judge themselves harshly, aim for “perfect or nothing” (due to the way we were raised, and a lack of female figures in sciences). Relax, it’s ok to “just” be another junior software engineer.
