@@ -36,7 +36,7 @@ Pair programming, mob programming sessions with your team.
 # Focus on Johanna's and Mehdi's talk
 
 Starting with a few dance steps, Johanna and Mehdi presented [Kapoeira](https://github.com/lectra-tech/kapoeira/). 
-Based on cucmber-scala, Kapoeira is an open source library which implements acceptance tests on kafka streams. 
+Based on cucumber-scala, Kapoeira is an open source library which implements acceptance tests on kafka streams. 
 It provides a simple language based on Gherkin standards (Given - When - Then) so an automated test can be written by a QA, a PO, or a developer.
 If you're looking for high level automated test on kafka stream, you should definitely watch this video.   
 Plus you will love many references about La Cité de la Peur, a classic french comedy.
