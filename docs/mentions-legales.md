@@ -29,3 +29,9 @@ Le site est exempté de déclaration à la Commission Nationale Informatique et 
 
 Toute utilisation, reproduction, diffusion, commercialisation, modification de toute ou partie du Site, sans autorisation des Éditrices est prohibée et pourra entraîner des actions et poursuites judiciaires telles que notamment prévues par le Code de la propriété intellectuelle et le Code civil.
 
+### Adresse postale de l'association
+
+Duchess France
+
+40 RUE ALEXANDRE DUMAS, 75011 PARIS
+
