@@ -10,10 +10,10 @@ La team Duchess France compte plusieurs membres actives qui gèrent l’associat
 | ---- | ---- | ---- | ---- |
 |![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|
 | [Agnès CREPET](#agnes_crepet) | [Angélique JARD](#angelique_jard) | [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) |
-|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|
-|[Johana LAVIGNE](#johana_lavigne) |[Mathilde LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Pauline IOGNA](#pauline_iogna) |
-|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}||
-| [Siufong HO](#siufong_ho) |[Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) ||
+|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|
+|[Johana LAVIGNE](#johana_lavigne) |[Mathilde LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Siufong HO](#siufong_ho)|
+|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}||
+| [Pauline IOGNA](#pauline_iogna) |[Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) ||
 
 ### <a name="agnes_crepet"></a>Agnès CREPET
 ![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}
@@ -73,6 +73,13 @@ Ancienne membre du bureau de l'[AFUP](https://afup.org/) (Association française
 
 - Suivez-la sur [LinkedIn](https://www.linkedin.com/in/muriel-l).
 
+### <a name="siufong_ho"></a>Siufong HO
+![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}
+
+Développeuse PHP depuis une dizaine d'années, très investie dans la communauté, Siufong Ho est coordinatrice de l'antenne Lorraine de l'[AFUP](https://afup.org/) et organise des meetups sur Nancy et Metz. Elle est ravie d'intégrer la core team des duchess.
+
+- Suivez-la sur [LinkedIn](https://fr.linkedin.com/in/siufong-ho).
+
 ### <a name="pauline_iogna"></a>Pauline IOGNA
 ![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}
 
@@ -80,13 +87,6 @@ Pauline Iogna est "Java/Scala Developer".
 Elle est aussi enseignante vacataire à l’Université Paris-Est Marne-la-Vallée.
 Pendant son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
 - Suivez-la sur [Twitter](https://twitter.com/pauline_io).
-
-### <a name="siufong_ho"></a>Siufong HO
-![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}
-
-Développeuse PHP depuis une dizaine d'années, très investie dans la communauté, Siufong Ho est coordinatrice de l'antenne Lorraine de l'[AFUP](https://afup.org/) et organise des meetups sur Nancy et Metz. Elle est ravie d'intégrer la core team des duchess.
-
-- Suivez-la sur [LinkedIn](https://fr.linkedin.com/in/siufong-ho).
 
 ### <a name="valeriane_venance"></a>Valériane VENANCE
 ![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}
