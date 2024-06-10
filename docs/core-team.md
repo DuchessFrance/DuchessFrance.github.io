@@ -7,11 +7,13 @@ permalink: /core-team/
 ## La Core Team
 La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
 
-| ---- | ---- | ---- | ---- | --- |
-|![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|
-| [Agnès CREPET](#agnes_crepet) | [Angélique JARD](#angelique_jard) | [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) | [Mathilde LEMEE](#mathilde_lemee) |
-|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}|
-| [Muriel LUSSEAU](#muriel_lusseau) | [Pauline IOGNA](#pauline_iogna) | [Siufong HO](#siufong_ho) | [Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) |
+| ---- | ---- | ---- | ---- |
+|![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|
+| [Agnès CREPET](#agnes_crepet) | [Angélique JARD](#angelique_jard) | [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) |
+|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|
+|[Johana LAVIGNE](#johana_lavigne) |[Mathilde LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Pauline IOGNA](#pauline_iogna) |
+|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}||
+| [Siufong HO](#siufong_ho) |[Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) ||
 
 ### <a name="agnes_crepet"></a>Agnès CREPET
 ![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}
@@ -45,6 +47,14 @@ Joanna Lacante est intégratrice web chez [Shipfix](https://www.shipfix.com) en 
 Au quotidien, elle est très attachée au bien-être de l’équipe.
 Vous pouvez la croiser en tant que bénévole dans divers évènements tech sur Lyon.
 - Suivez-la sur [Twitter](https://twitter.com/joanna_lacante).
+
+### <a name="johana_lavigne"></a>Johana LAVIGNE
+![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}
+
+Johana Lavigne est une développeuse JavaScript junior spécialisée en React et Node avec une double compétence en UX design, basée à Lyon. 
+Avant sa reconversion professionnelle, elle a exercé pendant 4 ans comme juriste fiscaliste en cabinets d'avocats, développant rigueur, précision et capacité d'analyse. 
+Elle souhaite désormais mettre ses compétences au service de sa passion pour la technologie et le design. Elle soutient également les femmes dans le domaine du numérique par sa participation à l'association Duchess France.
+- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/johana-lavigne/).
 
 ### <a name="mathilde_lemee"></a>Mathilde LEMEE
 ![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}
