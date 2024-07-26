@@ -19,11 +19,11 @@ L'ensemble des personnes du contenu sont citées, pas uniquement les Duchess.
 
 ### Devoxx FR (17, 18, 19 avril 2024)
 - [Au-delà des heures : La semaine de 4 jours comme levier d’égalité - Albane Veyron](https://youtu.be/cRycr1e14gw)
-- [L’IA et le handicap : progrès ou exclusion ? - Emmanuelle ABOAF & Thanh Lan  DOUBLIER](https://youtu.be/v5r6KNlToN4)
+- [L’IA et le handicap : progrès ou exclusion ? - Emmanuelle Aboaf & Thanh Lan Doublier](https://youtu.be/v5r6KNlToN4)
 - [Quelle est la place des introverti·e·s dans une équipe agile ? - Anaïs Huet](https://youtu.be/bKGKwimpl8o)
 - [La positive alt-itude ! Un outil d'inclusion pour votre accessibilité. - Angi Guyard](https://youtu.be/X90Z0kVEN6E)
 - [Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ? - Noémie Rivière](https://youtu.be/bAqNNq_mnhY)
-- [📝 ✅ La checklist ultime pour rendre vos applications cloud native ! - Katia HIMEUR](https://youtu.be/3s-gtziZ3UU)
+- [📝 ✅ La checklist ultime pour rendre vos applications cloud native ! - Katia Himeur](https://youtu.be/3s-gtziZ3UU)
 
 ## 2023
 
