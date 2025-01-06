@@ -8,30 +8,10 @@ permalink: /core-team/
 La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
 
 | ---- | ---- | ---- | ---- |
-|![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}|![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|
-| [Agnès CREPET](#agnes_crepet) | [Angélique JARD](#angelique_jard) | [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) |
-|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|
-|[Johana LAVIGNE](#johana_lavigne) |[Mathilde LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Siufong HO](#siufong_ho)|
-|![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}|![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}|![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}||
-| [Pauline IOGNA](#pauline_iogna) |[Valériane VENANCE](#valeriane_venance) | [Véronique BONNEFOND](#veronique_bonnefond) ||
-
-### <a name="agnes_crepet"></a>Agnès CREPET
-![Photo d'Agnès CREPET](/assets/core-team/Agnes-Crepet-300x300.jpg){: width="150"}
-
-Agnès CREPET est Head of Software Longevity & IT chez [Fairphone](https://www.fairphone.com/en/), entreprise néerlandaise qui propose un smartphone éthique conçu pour durer et construit de manière responsable.
-Elle a également co-fondé en France la société [Ninja Squad](https://ninja-squad.fr/) une équipe de développeurs passionnés et qui met un accent fort sur l’open source et qui fonctionne sur mode coopératif.
-Elle est  co-fondatrice de la conférence [MiXiT](https://mixitconf.org/en/) qui oeuvre pour plus de diversité et de prise de conscience éthique dans le monde de la Tech.
-- Suivez-la sur [Twitter](https://twitter.com/agnes_crepet).
-
-### <a name="angelique_jard"></a>Angélique JARD
-![Photo d'Angélique JARD](/assets/core-team/angie-e1617697051713.jpg){: width="150"}
-
-Angélique JARD (HENRY) est développeuse depuis 2006, actuellement Senior Software Engineer chez [Talend](https://www.talend.com/) en full remote.
-Elle a à coeur de changer le monde octet par octet pour un monde meilleur, plus inclusif et accueillant.
-Le marrainage n’est pas sa tasse de thé, mais elle répond présente pour le soutien technique, technologique et moral sur le Slack Duchess avec grand plaisir.
-Maman de deux garçons très énergiques, et bassiste dans un groupe amateur de pop/rock à ses heures libres restantes.
-- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/angelique-henry/).
-- Suivez-la sur [Github](https://github.com/aHenryJard).
+|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|
+| [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) | [Johana LAVIGNE](#johana_lavigne) | [Mathilde LEMEE](#mathilde_lemee) |
+|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|
+| [Muriel LUSSEAU](#muriel_lusseau) | [Siufong HO](#siufong_ho)|
 
 ### <a name="cecilia_bossard"></a>Cécilia BOSSARD
 ![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}
@@ -79,28 +59,3 @@ Ancienne membre du bureau de l'[AFUP](https://afup.org/) (Association française
 Développeuse PHP depuis une dizaine d'années, très investie dans la communauté, Siufong Ho est coordinatrice de l'antenne Lorraine de l'[AFUP](https://afup.org/) et organise des meetups sur Nancy et Metz. Elle est ravie d'intégrer la core team des duchess.
 
 - Suivez-la sur [LinkedIn](https://fr.linkedin.com/in/siufong-ho).
-
-### <a name="pauline_iogna"></a>Pauline IOGNA
-![Photo de Pauline IOGNA](/assets/core-team/pauline-iogna.jpg){: width="150"}
-
-Pauline Iogna est "Java/Scala Developer".
-Elle est aussi enseignante vacataire à l’Université Paris-Est Marne-la-Vallée.
-Pendant son temps libre, elle participe régulièrement à des conférences ou aide à organiser des événements autour de la programmation.
-- Suivez-la sur [Twitter](https://twitter.com/pauline_io).
-
-### <a name="valeriane_venance"></a>Valériane VENANCE
-![Photo de Valériane VENANCE](/assets/core-team/valeriane.jpeg){: width="150"}
-
-Valériane VENANCE est Developer Evangelist chez Twilio.
-Reconvertie grâce à l’école 42, elle s’est lancée en freelance en 2017 en tant que développeuse web puis Deputy CTO.
-Passionnée de Ruby On Rails depuis son passage au Wagon, elle concilie son amour du code et de la communauté à des postes de Developer Relations.
-Vous pouvez la croiser en conférence ou en meetup en tant qu’intervenante ou participante.
-- Suivez-la sur [Twitter](https://twitter.com/valeriane_IT).
-
-### <a name="veronique_bonnefond"></a>Véronique BONNEFOND
-![Photo de Véronique BONNEFOND](/assets/core-team/vero-1600.jpg){: width="150"}
-
-Véronique Bonnefond, située à Lyon, est lead développeuse chez [Altair](https://www.altair.com/), elle gère la partie Front-end d’une application dont l’équipe est distribuée entre la France, les Etats unis et l’Inde.
-Elle se spécialise sur ReactJS.
-Elle est très attachée au travail soigné tant au niveau du code que du rendu visuel.
-- Suivez-la sur [Twitter](https://twitter.com/bonnefondvero).
