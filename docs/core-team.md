@@ -8,10 +8,19 @@ permalink: /core-team/
 La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
 
 | ---- | ---- | ---- | ---- |
-|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|
-| [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) | [Johana LAVIGNE](#johana_lavigne) | [Mathilde LEMEE](#mathilde_lemee) |
-|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|
-| [Muriel LUSSEAU](#muriel_lusseau) | [Siufong HO](#siufong_ho)|
+|![Photo de Anne-Flore](/assets/core-team/anne-flore.png){: width="150"}|![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}|![Photo de Joanna LACANTE](/assets/core-team/jla-profil-300x300.jpg){: width="150"}|![Photo de Johana_LAVIGNE](/assets/core-team/johana_lavigne.jpg){: width="150"}|
+| [Anne-Flore BERNARD](#anne_flore_bernard) | [Cécilia BOSSARD](#cecilia_bossard) | [Joanna LACANTE](#joanna_lacante) | [Johana LAVIGNE](#johana_lavigne) |
+![Photo de Mathilde LEMEE](/assets/core-team/mathilde_lemee.png){: width="150"}|![Photo de Muriel LUSSEAU](/assets/core-team/muriel.jpg){: width="150"}|![Photo de Siufong_HO](/assets/core-team/siufong.jpg){: width="150"}|
+| [Mathilde LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Siufong HO](#siufong_ho)|
+
+### <a name="anne_flore_bernard"></a>Anne-Flore BERNARD
+![Photo de Cécilia](/assets/core-team/anne-flore.png){: width="150"}
+
+Anne-Flore Bernard est une développeuse web junior spécialisée en React, Next.js et Ruby on Rails. Basée à Paris, elle allie tech et créativité grâce à son parcours atypique.
+Avant sa reconversion professionnelle, Anne-Flore a évolué dans le monde de la musique en tant qu’altiste (violon-alto) au sein d'orchestres nationaux. Cette expérience lui a permis de développer rigueur, un sens du détail poussé et une excellente capacité d’adaptation. Aujourd’hui, elle met ces compétences au service du développement web, jonglant avec les langages de programmation comme elle le faisait avec le langage musical.
+Passionnée par la veille technologique et le partage de connaissances, elle publie régulièrement des articles sur LinkedIn et Medium, et s’intéresse particulièrement aux sujets liés à l’accessibilité, l’optimisation des performances et les bonnes pratiques de code. Elle est également engagée dans la promotion des femmes dans la tech et souhaite contribuer à rendre le domaine plus inclusif.
+
+- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/anne-flore-bernard-84b060291/).
 
 ### <a name="cecilia_bossard"></a>Cécilia BOSSARD
 ![Photo de Cécilia](/assets/core-team/cecilia.jpg){: width="150"}
