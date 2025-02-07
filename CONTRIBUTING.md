@@ -101,8 +101,8 @@ Biograhie au format markdown.
 ### Lancer le site en local
 
 #### Via docker-compose
-- Installer `docker` et `docker-compose`
-- Lancer le site en utilisant la commande `docker-compose up`
+- Installer `docker`
+- Lancer le site en utilisant la commande `docker compose up`
 - Attendre jusqu'à voir dans la console: 
 
 ```bash
