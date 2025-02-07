@@ -3,9 +3,14 @@ layout: page
 title: Nos sponsors
 permalink: /sponsors/
 ---
+# 2025
+
+| ![](/assets/sponsors/devoxx2025.png){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
+| ![](/assets/sponsors/jetbrains.png){: width="150"} | [Jetbrains](https://www.jetbrains.com/fr-fr/) | Licences offertes à la communauté |
 
 # 2024
 
+| ![](/assets/sponsors/deezer-meetup.jpeg){: width="150"} | [Deezer](https://www.deezer.com/fr/) | Accueil de la soirée meetup, captation vidéo, buffet |
 | ![](/assets/sponsors/scalaio.webp){: width="150"} | [Scala.IO](https://scala.io/) | 5 places offertes à la communauté |
 | ![](/assets/sponsors/devoxxfr2024.png){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
 
