@@ -6,12 +6,11 @@ permalink: /contact/
 
 ## Vous pouvez nous SUIVRE sur:
 
-- [Twitter](http://twitter.com/duchessfr)
 - [LinkedIn](https://www.linkedin.com/groups/2750811)
 
 ## Pour être au coeur de l’association, échanger, débattre et partager:
 
-Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Meetup Duchess France](https://www.meetup.com/fr-FR/duchess-france-meetup/).
+Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Mobilizon Duchess France](https://mobilizon.fr/@duchess_france).
 
 ## Vous souhaitez proposer une offre de stage, d'alternance ou de premier emploi
 
