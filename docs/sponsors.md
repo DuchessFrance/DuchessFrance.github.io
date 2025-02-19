@@ -5,6 +5,7 @@ permalink: /sponsors/
 ---
 # 2025
 
+| ![](/assets/sponsors/ts_conf.jpg){: width="150"} | [Paris TypeScript la Conf’](https://la-conf.typescript.paris/) | Réduction de 20% sur les inscriptions |
 | ![](/assets/sponsors/devoxx2025.png){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
 | ![](/assets/sponsors/jetbrains.png){: width="150"} | [Jetbrains](https://www.jetbrains.com/fr-fr/) | Licences offertes à la communauté |
 
