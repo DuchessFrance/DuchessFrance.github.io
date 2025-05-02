@@ -24,6 +24,8 @@ Le programme talks de la soirée :<br/>
 
 Inscrivez-vous dans notre event sur [Mobilizon](https://mobilizon.fr/events/8b250d63-71bf-47d9-9f7b-e4610fd37bc1). 
 
-Encore merci à [BlablaCar](https://www.blablacar.fr/) pour leur accueil et soutien ! Merci également à [Turtle Beach](https://fr.turtlebeach.com/) et [Cockpit io](https://www.cockpitio.com/) qui nous permettent de fêter cet anniversaire avec de nombreux cadeaux !!
+Encore merci à [BlablaCar](https://www.blablacar.fr/) pour leur accueil et soutien ! 
+
+Merci également à [Turtle Beach](https://fr.turtlebeach.com/) pour les casques offerts à [Cockpit io](https://www.cockpitio.com/) pour les livres offerts et aux organisateur·ices de Tech f’est pour les deux places offertes pour l’édition 2025 à Nancy 
 
 **L’équipe Core Team**
