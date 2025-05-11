@@ -65,7 +65,7 @@ Le nom du fichier est `<pseudo>.md`, de préférence en utilisant prenom.nom, pa
 username: angelique
 name: Angélique Jard
 twitter: ahenryjard
-image: /assets/core-team/angie-e1617697051713.jpg
+image: /assets/core-team/angelique-jard.jpg
 ---
 
 Biograhie au format markdown.

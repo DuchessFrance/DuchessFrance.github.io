@@ -2,7 +2,7 @@
 username: angelique
 name: Angélique Jard
 twitter: ahenryjard
-image: /assets/core-team/angie-e1617697051713.jpg
+image: /assets/core-team/angelique-jard.jpg
 ---
 
 Angélique JARD (HENRY) est développeuse depuis 2006, actuellement Senior Software Engineer chez [Filigran](https://filigran.io/) en full remote.
