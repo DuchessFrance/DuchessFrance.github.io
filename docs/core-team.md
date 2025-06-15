@@ -5,13 +5,15 @@ permalink: /core-team/
 ---
 
 ## La Core Team
-La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne et Amsterdam.
+La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne, les Pyrénees et Amsterdam.
 
 | ---- | ---- | ---- | ---- |
 | ![Photo de Anne-Flore BERNARD](/assets/core-team/anne-flore-bernard.png){: width="150"} | ![Photo de Cécilia BOSSARD](/assets/core-team/cecilia-bossard.jpg){: width="150"} | ![Photo de Siufong HO](/assets/core-team/siufong-ho.jpg){: width="150"} | ![Photo de Joanna LACANTE](/assets/core-team/joanna-lacante.jpg){: width="150"} |
 | [Anne-Flore BERNARD](#anne_flore_bernard) | [Cécilia BOSSARD](#cecilia_bossard) | [Siufong HO](#siufong_ho) | [Joanna LACANTE](#joanna_lacante) |
 | ![Photo de Johana LAVIGNE](/assets/core-team/johana-lavigne.jpg){: width="150"} | ![Photo de Mathidle LEMEE](/assets/core-team/mathilde-lemee.png){: width="150"} | ![Photo de Muriel LUSSEAU](/assets/core-team/muriel-lusseau.jpg){: width="150"} | ![Photo de Jill POUCHAIN](/assets/core-team/jill-pouchain.jpg){: width="150"} |
 | [Johana LAVIGNE](#johana_lavigne) | [Mathidle LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Jill POUCHAIN](#jill_pouchain) |
+| [![tatoberres](/assets/core-team/bertha-torres.png){: width="150"}](#tatoberres) | 
+| [Bertha TORRES](#tatoberres) |
 
 ### <a name="anne_flore_bernard"></a>Anne-Flore BERNARD
 ![Photo de Anne-Flore BERNARD](/assets/core-team/anne-flore-bernard.png){: width="150"}
@@ -77,3 +79,10 @@ Ancienne membre du bureau de l'[AFUP](https://afup.org/) (Association française
 Dévelopeuse front depuis une dizaine d'année, Jill Pouchain aime aussi la domotique et les gadgets inutiles (et donc indispensables). Aujourd'hui elle souhaite mettre en avant les femmes dans la tech et faire connaître son métier auprès de jeunes filles.
 
 - Suivez-la sur [LinkedIn](https://www.linkedin.com/in/jill-pouchain/).
+
+### <a name="tatoberres"></a>Bertha TORRES
+![tatoberres](/assets/core-team/bertha-torres.png){: width="150"}
+
+Développeuse fullstack chez [Synako](https://www.synako.fr), elle est issue d'une reconversion en 2021. Découvrant le code pendant son adolescence, aujourd'hui est heureuse d'en faire sa profession. En plus de ça : féministe, aimeraient que les dimanches soient plus longs pour finir le Monde Diplomatique, convaincue de l'utilité des mobilités douces et vit actuellement dans une zone rurale d'haute montagne.
+
+- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/berthatorres/)
