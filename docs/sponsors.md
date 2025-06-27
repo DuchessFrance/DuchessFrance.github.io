@@ -5,6 +5,7 @@ permalink: /sponsors/
 ---
 # 2025
 
+| ![](/assets/sponsors/blablaCar.png){: width="150"} | [BlaBlaCar](https://www.blablacar.fr/) | Accueil de la soirée d'anniversaire |
 | ![](/assets/sponsors/AMxDC25-logo.svg){: width="150"} | [Android Makers](https://androidmakers.droidcon.com/) | 2 inscriptions gratuites et 10 réductions de 50% |
 | ![](/assets/sponsors/ts_conf.jpg){: width="150"} | [Paris TypeScript la Conf’](https://la-conf.typescript.paris/) | Réduction de 20% sur les inscriptions |
 | ![](/assets/sponsors/devoxx2025.png){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
