@@ -5,6 +5,7 @@ permalink: /sponsors/
 ---
 # 2025
 
+| ![](/assets/sponsors/altair.webp){: width="150"} | [Altair](https://altairengineering.fr//) | Accueil de la soirée de juin |
 | ![](/assets/sponsors/blablaCar.png){: width="150"} | [BlaBlaCar](https://www.blablacar.fr/) | Accueil de la soirée d'anniversaire |
 | ![](/assets/sponsors/AMxDC25-logo.svg){: width="150"} | [Android Makers](https://androidmakers.droidcon.com/) | 2 inscriptions gratuites et 10 réductions de 50% |
 | ![](/assets/sponsors/ts_conf.jpg){: width="150"} | [Paris TypeScript la Conf’](https://la-conf.typescript.paris/) | Réduction de 20% sur les inscriptions |
