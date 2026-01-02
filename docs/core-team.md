@@ -7,13 +7,13 @@ permalink: /core-team/
 ## La Core Team
 La team Duchess France compte plusieurs membres actives qui gèrent l’association (évènements, communication, partenariats…) de Paris à Marseille en passant par Lyon, Limoges, Brest, Strasbourg, Toulouse, Lausanne, les Pyrénees et Amsterdam.
 
-| ---- | ---- | ---- | 
-| ![Photo de Anne-Flore BERNARD](/assets/core-team/anne-flore-bernard.png){: width="150"} | ![Photo de Cécilia BOSSARD](/assets/core-team/cecilia-bossard.jpg){: width="150"} | ![Photo de Siufong HO](/assets/core-team/siufong-ho.jpg){: width="150"} |
-| [Anne-Flore BERNARD](#anne_flore_bernard) | [Cécilia BOSSARD](#cecilia_bossard) | [Siufong HO](#siufong_ho) |
-| ![Photo de Joanna LACANTE](/assets/core-team/joanna-lacante.jpg){: width="150"} | ![Photo de Johana LAVIGNE](/assets/core-team/johana-lavigne.jpg){: width="150"} | ![Photo de Mathidle LEMEE](/assets/core-team/mathilde-lemee.png){: width="150"} |
-| [Joanna LACANTE](#joanna_lacante) | [Johana LAVIGNE](#johana_lavigne) | [Mathidle LEMEE](#mathilde_lemee) |
-|![Photo de Muriel LUSSEAU](/assets/core-team/muriel-lusseau.jpg){: width="150"} | ![Photo de Jill POUCHAIN](/assets/core-team/jill-pouchain.jpg){: width="150"} | [![tatoberres](/assets/core-team/bertha-torres.png){: width="150"}](#tatoberres) | 
-|[Muriel LUSSEAU](#muriel_lusseau) | [Jill POUCHAIN](#jill_pouchain) | [Bertha TORRES](#tatoberres) |
+| ---- | ---- | ---- | ---- | ---- | 
+| ![Photo de Anne-Flore BERNARD](/assets/core-team/anne-flore-bernard.png){: width="150"} | ![Photo de Cécilia BOSSARD](/assets/core-team/cecilia-bossard.jpg){: width="150"} | ![Photo de Siufong HO](/assets/core-team/siufong-ho.jpg){: width="150"} | ![Photo de Joanna LACANTE](/assets/core-team/joanna-lacante.jpg){: width="150"} | ![Photo de Johana LAVIGNE](/assets/core-team/johana-lavigne.jpg){: width="150"} |
+| [Anne-Flore BERNARD](#anne_flore_bernard) | [Cécilia BOSSARD](#cecilia_bossard) | [Siufong HO](#siufong_ho) | [Joanna LACANTE](#joanna_lacante) | [Johana LAVIGNE](#johana_lavigne) |
+
+| ![Photo de Mathidle LEMEE](/assets/core-team/mathilde-lemee.png){: width="150"} | ![Photo de Muriel LUSSEAU](/assets/core-team/muriel-lusseau.jpg){: width="150"} | ![Photo de Jill POUCHAIN](/assets/core-team/jill-pouchain.jpg){: width="150"} | [![tatoberres](/assets/core-team/bertha-torres.png){: width="150"}](#tatoberres) | [![Photo de Katia HIMEUR TALHI](/assets/core-team/katia-himeur-talhi.jpg){: width="150"}](#katia_himeur_talhi) |
+| [Mathidle LEMEE](#mathilde_lemee) | [Muriel LUSSEAU](#muriel_lusseau) | [Jill POUCHAIN](#jill_pouchain) | [Bertha TORRES](#tatoberres) | [Katia HIMEUR TALHI](#katia_himeur_talhi) |
+
 
 ### <a name="anne_flore_bernard"></a>Anne-Flore BERNARD
 ![Photo de Anne-Flore BERNARD](/assets/core-team/anne-flore-bernard.png){: width="150"}
@@ -86,3 +86,10 @@ Dévelopeuse front depuis une dizaine d'année, Jill Pouchain aime aussi la domo
 Développeuse fullstack chez [Synako](https://www.synako.fr), elle est issue d'une reconversion en 2021. Découvrant le code pendant son adolescence, aujourd'hui est heureuse d'en faire sa profession. En plus de ça : féministe, aimeraient que les dimanches soient plus longs pour finir le Monde Diplomatique, convaincue de l'utilité des mobilités douces et vit actuellement dans une zone rurale d'haute montagne.
 
 - Suivez-la sur [LinkedIn](https://www.linkedin.com/in/berthatorres/)
+
+### <a name="katia_himeur_talhi"></a>Katia HIMEUR TALHI
+![Photo de Katia HIMEUR TALHI](/assets/core-team/katia-himeur-talhi.jpg){: width="150"}
+
+CTO et cofondatrice de Cockpit io, Katia est une experte dans l'écosystème Cloud & DevOps. Avec une expérience significative dans la transformation numérique, le cloud et le DevOps, elle a accompagné des dizaines d'entreprises dans leur transformation numérique, de la conception à la sécurisation d'architectures cloud complexes et d'usines logicielles modernes. Passionnée par le partage de connaissances, elle intervient régulièrement comme conférencière sur des sujets techniques de pointe et conseille stratégiquement les DSI et CTO d’entreprises publiques ou privées dans l'optimisation de leurs infrastructures et leurs pratiques. Son approche alliant expertise technique et vision business lui permet de délivrer des solutions sur-mesure à fort impact.
+
+- Suivez-la sur [LinkedIn](https://www.linkedin.com/in/katiahimeur/)
