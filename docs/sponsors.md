@@ -3,6 +3,13 @@ layout: page
 title: Nos sponsors
 permalink: /sponsors/
 ---
+# 2026
+
+| ![](/assets/sponsors/Devoxx_FR_2026.webp){: width="150"} | [Devoxx France](https://www.devoxx.fr/) | Entrée offerte pour une Duchess |
+| ![](/assets/sponsors/AMxDC25-logo.svg){: width="150"} | [Android Makers](https://androidmakers.droidcon.com/) | 10 inscriptions offertes |
+| ![](/assets/sponsors/LOGO_CNDFrance_2026.png){: width="150"} | [Cloud Native Days France](https://www.cloudnativedays.fr/) | Invitation à l'espace communautaire et 5 places offertes |
+| ![](/assets/sponsors/jetbrains.png){: width="150"} | [Jetbrains](https://www.jetbrains.com/fr-fr/) | Licences offertes à la communauté |
+
 # 2025
 
 | ![](/assets/sponsors/altair.webp){: width="150"} | [Altair](https://altairengineering.fr//) | Accueil de la soirée de juin |
