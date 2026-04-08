@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Pour être au coeur de l’association, échanger, débattre et partager:
 
-Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Mobilizon Duchess France](https://mobilizon.fr/@duchess_france).
+Pour suivre et PARTICIPER à tous nos événements en France, rejoignez notre [Luma Duchess France](https://luma.com/user/duchessfrance).
 
 ## Vous souhaitez proposer une offre de stage, d'alternance ou de premier emploi
 
