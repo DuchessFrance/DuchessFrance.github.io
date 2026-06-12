@@ -83,7 +83,7 @@ Dévelopeuse front depuis une dizaine d'année, Jill Pouchain aime aussi la domo
 ### <a name="tatoberres"></a>Bertha TORRES
 ![tatoberres](/assets/core-team/bertha-torres.png){: width="150"}
 
-Développeuse fullstack chez [Synako](https://www.synako.fr), elle est issue d'une reconversion en 2021. Découvrant le code pendant son adolescence, aujourd'hui est heureuse d'en faire sa profession. En plus de ça : féministe, aimeraient que les dimanches soient plus longs pour finir le Monde Diplomatique, convaincue de l'utilité des mobilités douces et vit actuellement dans une zone rurale d'haute montagne.
+Développeuse fullstack, elle est issue d'une reconversion en 2021. Découvrant le code pendant son adolescence, aujourd'hui est heureuse d'en faire sa profession. En plus de ça : féministe, aimeraient que les dimanches soient plus longs pour finir le Monde Diplomatique, convaincue de l'utilité des mobilités douces et vit actuellement dans une zone rurale d'haute montagne.
 
 - Suivez-la sur [LinkedIn](https://www.linkedin.com/in/berthatorres/)
 
